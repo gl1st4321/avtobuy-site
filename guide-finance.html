@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Когда занимать выгодно, чем грозит просрочка и что именно заберут коллекторы.">
+  <link rel="icon" type="image/png" href="/favicon.png"/>
+  <title>Банк и кредиты — AvtoBuy</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: #121212;
+      color: #D1D1D6;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 64px; }
+    .topbar {
+      display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+      border-bottom: 1px solid #242426; padding-bottom: 16px; margin-bottom: 26px;
+    }
+    .topbar img { width: 38px; height: 38px; border-radius: 10px; }
+    .topbar .name { font-size: 17px; font-weight: 800; color: #FFFFFF; }
+    .topbar nav { margin-left: auto; display: flex; gap: 14px; flex-wrap: wrap; }
+    .topbar nav a { color: #8E8E93; text-decoration: none; font-size: 14px; }
+    .topbar nav a:hover, .topbar nav a.active { color: #40A7FF; }
+    h1 { color: #FFFFFF; font-size: 27px; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.4px; }
+    h2 { color: #FFFFFF; font-size: 19px; font-weight: 700; margin: 30px 0 10px; letter-spacing: -0.2px; }
+    h3 { color: #FFFFFF; font-size: 16px; font-weight: 700; margin: 20px 0 8px; }
+    p { margin-bottom: 13px; }
+    ul { margin: 0 0 14px 20px; }
+    li { margin-bottom: 6px; }
+    a { color: #40A7FF; }
+    code { background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 5px; padding: 1px 5px; font-size: 13px; }
+    table { width: 100%; border-collapse: collapse; margin: 12px 0 18px; font-size: 14px; }
+    th, td { border: 1px solid #2C2C2E; padding: 8px 10px; text-align: left; vertical-align: top; }
+    th { background: #1C1C1E; color: #FFFFFF; font-weight: 600; }
+    hr { border: none; border-top: 1px solid #242426; margin: 24px 0; }
+    .lead { color: #8E8E93; font-size: 16px; margin-bottom: 8px; }
+    .meta { color: #8E8E93; font-size: 14px; margin-bottom: 20px; }
+    .version { background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; }
+    .version h2 { margin-top: 0; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; margin: 18px 0 8px; }
+    .card {
+      background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 12px;
+      padding: 16px; text-decoration: none; display: block; transition: border-color .15s ease;
+    }
+    .card:hover { border-color: #40A7FF; }
+    .card .t { color: #FFFFFF; font-weight: 700; font-size: 15px; margin-bottom: 5px; }
+    .card .d { color: #8E8E93; font-size: 13.5px; line-height: 1.45; }
+    .rank { color: #8E8E93; width: 48px; }
+    .score { color: #FFFFFF; font-weight: 700; text-align: right; }
+    .back { display: inline-block; margin-top: 26px; color: #40A7FF; text-decoration: none; font-weight: 600; }
+    footer { border-top: 1px solid #242426; margin-top: 32px; padding-top: 18px; color: #636366; font-size: 13px; }
+    footer a { color: #8E8E93; }
+</style>
+
+  <!-- 🔥 Карточка ссылки для Telegram, ВК и поисковиков. Без неё
+       ссылка разворачивается в пустой прямоугольник с именем домена. -->
+  <link rel="canonical" href="https://avtobuy.space/guide-finance.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AvtoBuy">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:title" content="Банк и кредиты — AvtoBuy">
+  <meta property="og:description" content="Когда занимать выгодно, чем грозит просрочка и что именно заберут коллекторы.">
+  <meta property="og:url" content="https://avtobuy.space/guide-finance.html">
+  <meta property="og:image" content="https://avtobuy.space/og-preview.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="AvtoBuy — симулятор перекупа автомобилей">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Банк и кредиты — AvtoBuy">
+  <meta name="twitter:description" content="Когда занимать выгодно, чем грозит просрочка и что именно заберут коллекторы.">
+  <meta name="twitter:image" content="https://avtobuy.space/og-preview.jpg">
+  <meta name="theme-color" content="#121212">
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <img src="/icons/Icon-192.png" alt="AvtoBuy">
+      <span class="name">AvtoBuy</span>
+      <nav>
+        <a href="/">Игра</a>
+        <a href="/guide" class="active">Как играть</a>
+        <a href="/leaderboard">Рекорды</a>
+        <a href="/changelog">Обновления</a>
+        <a href="/privacy">Конфиденциальность</a>
+      </nav>
+    </div>
+    <h1>Банк и кредиты</h1>
+    <p class="lead">Когда занимать выгодно, чем грозит просрочка и что именно заберут коллекторы.</p>
+    <h2>Тарифы</h2>
+    <p>В PlameFinance шесть кредитных линий: от пятидесяти тысяч под тридцать пять процентов до десяти миллионов под десять. Чем крупнее сумма, тем ниже ставка — но крупные тарифы открываются не сразу.</p>
+    <p>Доступ зависит от того, сколько займов вы уже погасили. Первый кредит всегда мелкий и дорогой; репутация заёмщика зарабатывается аккуратными выплатами.</p>
+    <h2>Платежи и просрочка</h2>
+    <p>Деньги списываются еженедельно и автоматически. Если на счету пусто, начисляется штраф — пять процентов от остатка долга, и заём уходит в просрочку.</p>
+    <p>Дальше начинается неприятное: пока есть просрочка, каждый игровой день есть шанс визита коллекторов. Сначала они пытаются списать половину баланса, если денег нет — забирают самую дорогую машину, а в крайнем случае доберутся и до недвижимости.</p>
+    <h2>Недвижимость как залог</h2>
+    <p>Купленное жильё работает на кредитный лимит: каждые десять миллионов стоимости дают плюс один уровень доступа, но не больше двух. Стартовая квартира в зачёт не идёт.</p>
+    <p>Это способ добраться до крупных тарифов быстрее, чем через десяток мелких займов.</p>
+    <h2>Субсидии</h2>
+    <p>На вкладке «Субсидии» партнёры выдают небольшую безвозмездную сумму за просмотр короткого ролика. Это не заработок реальных денег — только внутриигровые рубли, которые нельзя вывести или передать другому игроку.</p>
+    <hr>
+    <p><a href="/guide">← Все разделы гайда</a></p>
+    <a class="back" href="/">← Играть</a>
+    <footer>
+      AvtoBuy — бесплатный симулятор перекупа автомобилей, стадия закрытого бета-теста.<br>
+      Новости и связь с разработчиком: <a href="https://t.me/avtobuy_game" target="_blank" rel="noopener noreferrer">Telegram-канал</a>.
+    </footer>
+  </div>
+</body>
+</html>
