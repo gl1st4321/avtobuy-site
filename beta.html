@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="noindex, nofollow">
+  <link rel="icon" type="image/png" href="/favicon.png"/>
+  <title>Бета-доступ — AvtoBuy</title>
+  <!--
+    🔥 05.10 (владелец): по коду открывается следующая версия игры (бета с
+    админкой). Кода здесь нет: страница считает sha256 от введённого, и по
+    первым 24 знакам получается имя папки со сборкой (/b-<хэш>/). Неверный код —
+    такой папки нет. Сейвы беты отдельные (свой префикс localStorage и своя
+    резервная копия), публичная версия на главной их не видит.
+  -->
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: #121212;
+      color: #D1D1D6;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 24px 16px;
+    }
+    .card {
+      width: 100%;
+      max-width: 380px;
+      background: #1C1C1E;
+      border: 1px solid #2C2C2E;
+      border-radius: 18px;
+      padding: 26px 20px;
+      text-align: center;
+    }
+    .card img { width: 64px; height: 64px; border-radius: 16px; margin-bottom: 12px; }
+    h1 { color: #FFFFFF; font-size: 22px; font-weight: 800; margin-bottom: 6px; }
+    p { color: #8E8E93; font-size: 14px; margin-bottom: 18px; }
+    input {
+      width: 100%;
+      background: #121212;
+      border: 1px solid #3A3A3C;
+      border-radius: 12px;
+      color: #FFFFFF;
+      font-size: 17px;
+      padding: 13px 14px;
+      text-align: center;
+      letter-spacing: 1px;
+      outline: none;
+    }
+    input:focus { border-color: #40A7FF; }
+    button {
+      width: 100%;
+      margin-top: 12px;
+      background: #40A7FF;
+      color: #FFFFFF;
+      border: none;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: 700;
+      padding: 13px;
+      cursor: pointer;
+    }
+    button:disabled { opacity: 0.6; cursor: default; }
+    .error { color: #FF6B6B; font-size: 14px; min-height: 20px; margin-top: 10px; }
+    .back { display: inline-block; margin-top: 16px; color: #8E8E93; font-size: 14px; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <form class="card" id="form" autocomplete="off">
+    <img src="/icons/Icon-192.png" alt="AvtoBuy">
+    <h1>Бета-доступ</h1>
+    <p>Введите код, чтобы открыть тестовую версию игры. Её сохранения отдельные — ваша обычная игра не изменится.</p>
+    <input id="code" type="text" placeholder="Код доступа" autocapitalize="off" spellcheck="false">
+    <button id="go" type="submit">Открыть</button>
+    <div class="error" id="error"></div>
+    <a class="back" href="/">← Обычная версия</a>
+  </form>
+  <script>
+    (function () {
+      var form = document.getElementById('form');
+      var input = document.getElementById('code');
+      var button = document.getElementById('go');
+      var error = document.getElementById('error');
+
+      function hex(buffer) {
+        return Array.prototype.map.call(new Uint8Array(buffer), function (b) {
+          return ('0' + b.toString(16)).slice(-2);
+        }).join('');
+      }
+
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var code = input.value.trim();
+        error.textContent = '';
+        if (!code) { error.textContent = 'Введите код'; return; }
+        if (!window.crypto || !crypto.subtle) {
+          error.textContent = 'Браузер не поддерживает проверку кода';
+          return;
+        }
+        button.disabled = true;
+        crypto.subtle.digest('SHA-256', new TextEncoder().encode('avtobuy-beta|' + code))
+          .then(function (digest) {
+            var path = '/b-' + hex(digest).slice(0, 24) + '/';
+            return fetch(path + 'version.json', { cache: 'no-store' }).then(function (r) {
+              if (!r.ok) throw new Error('bad');
+              location.href = path;
+            });
+          })
+          .catch(function () {
+            error.textContent = 'Неверный код';
+            button.disabled = false;
+          });
+      });
+    })();
+  </script>
+</body>
+</html>
