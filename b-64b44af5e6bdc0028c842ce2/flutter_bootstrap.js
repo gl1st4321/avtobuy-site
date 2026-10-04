@@ -41,11 +41,11 @@ _flutter.buildConfig = {"engineRevision":"a10d8ac38de835021c8d2f920dbf50a920ccc0
 // загрузчик встроен прямо в index.html, поэтому тоже всегда свежий.
 _flutter.buildConfig.builds.forEach(function (build) {
   if (build.mainJsPath) {
-    build.mainJsPath += '?v=' + "2877718299" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+    build.mainJsPath += '?v=' + "189325269" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
   }
 });
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "2877718299" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    serviceWorkerVersion: "189325269" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
 });
