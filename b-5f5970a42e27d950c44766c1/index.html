@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
-  <base href="/b-64b44af5e6bdc0028c842ce2/">
+  <base href="/b-5f5970a42e27d950c44766c1/">
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -563,10 +563,13 @@
           });
         }).catch(function () { return mode === 'readonly' ? '' : false; });
       }
+      // Ключ записи: 'save' — резервная копия; 'slot2', 'slot3' — слоты
+      // сохранения (08.10). keyed: игра проверяет, что хелпер понимает ключ.
       return {
-        write: function (value) { return run('readwrite', function (s) { return s.put(value, 'save'); }); },
-        read: function () { return run('readonly', function (s) { return s.get('save'); }); },
-        clear: function () { return run('readwrite', function (s) { return s.delete('save'); }); }
+        keyed: true,
+        write: function (value, key) { return run('readwrite', function (s) { return s.put(value, key || 'save'); }); },
+        read: function (key) { return run('readonly', function (s) { return s.get(key || 'save'); }); },
+        clear: function (key) { return run('readwrite', function (s) { return s.delete(key || 'save'); }); }
       };
     })();
 
@@ -635,12 +638,12 @@ _flutter.buildConfig = {"engineRevision":"a10d8ac38de835021c8d2f920dbf50a920ccc0
 // загрузчик встроен прямо в index.html, поэтому тоже всегда свежий.
 _flutter.buildConfig.builds.forEach(function (build) {
   if (build.mainJsPath) {
-    build.mainJsPath += '?v=' + "189325269" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+    build.mainJsPath += '?v=' + "3675755809" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
   }
 });
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "189325269" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    serviceWorkerVersion: "3675755809" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
 });
 </script>
