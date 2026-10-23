@@ -541,7 +541,10 @@
       function open() {
         if (!dbPromise) {
           dbPromise = new Promise(function (resolve, reject) {
-            var req = indexedDB.open('avtobuy_backup', 1);
+            // Бета по коду (/b-…/) хранит копию отдельно — сейв публичной
+            // версии на том же адресе она не трогает.
+            var beta = location.pathname.indexOf('/b-') === 0;
+            var req = indexedDB.open(beta ? 'avtobuy_backup_beta' : 'avtobuy_backup', 1);
             req.onupgradeneeded = function () { req.result.createObjectStore('saves'); };
             req.onsuccess = function () { resolve(req.result); };
             req.onerror = function () { dbPromise = null; reject(req.error); };
@@ -560,10 +563,13 @@
           });
         }).catch(function () { return mode === 'readonly' ? '' : false; });
       }
+      // Ключ записи: 'save' — резервная копия; 'slot2', 'slot3' — слоты
+      // сохранения (08.10). keyed: игра проверяет, что хелпер понимает ключ.
       return {
-        write: function (value) { return run('readwrite', function (s) { return s.put(value, 'save'); }); },
-        read: function () { return run('readonly', function (s) { return s.get('save'); }); },
-        clear: function () { return run('readwrite', function (s) { return s.delete('save'); }); }
+        keyed: true,
+        write: function (value, key) { return run('readwrite', function (s) { return s.put(value, key || 'save'); }); },
+        read: function (key) { return run('readonly', function (s) { return s.get(key || 'save'); }); },
+        clear: function (key) { return run('readwrite', function (s) { return s.delete(key || 'save'); }); }
       };
     })();
 
@@ -632,12 +638,12 @@ _flutter.buildConfig = {"engineRevision":"a10d8ac38de835021c8d2f920dbf50a920ccc0
 // загрузчик встроен прямо в index.html, поэтому тоже всегда свежий.
 _flutter.buildConfig.builds.forEach(function (build) {
   if (build.mainJsPath) {
-    build.mainJsPath += '?v=' + "327000210" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
+    build.mainJsPath += '?v=' + "4209569846" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */;
   }
 });
 _flutter.loader.load({
   serviceWorkerSettings: {
-    serviceWorkerVersion: "327000210" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
+    serviceWorkerVersion: "4209569846" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */,
   },
 });
 </script>
