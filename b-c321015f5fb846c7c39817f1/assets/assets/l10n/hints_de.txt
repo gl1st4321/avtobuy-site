@@ -1,0 +1,193 @@
+================================
+WILLKOMMEN BEI AVTOBUY!
+================================
+
+Du bist ein Einsteiger im Autohandel. Finde Wagen unter Marktpreis, feilsche, prüfe,
+repariere und verkaufe teurer weiter. Dein ganzes Geschäft steckt in deinem Handy: Jede
+Mechanik hat ihre eigene App.
+
+Unten findest du einen Wegweiser durch die Apps und die Kniffe, die erfahrene Händler
+kennen.
+
+
+📱 APPS
+-------------------------------
+
+🛒 AvtoBuy — Automarkt
+- Anzeigenfeed fürs ganze Land. Filter: Preis, Baujahr, Stadt, Suchradius.
+- Sortierung „Neueste zuerst“ — die besten Angebote sind schnell weg.
+- Herz — in die Favoriten, damit du das Auto nicht verlierst.
+- Der Knopf in der Mitte — dein eigenes Auto inserieren. In der Anzeige kannst du angeben,
+  ob du einen Tausch in Betracht ziehst.
+- Der Anzeigenpreis liegt bei mindestens 1 000 ₽ und höchstens beim Dreifachen der
+  Schätzung des Autos. Ein zu teures Auto kauft fast niemand, bei einem zu billigen fragt
+  das Spiel nochmal nach.
+
+💬 Chats und Anrufe
+- Das ganze Feilschen läuft in den Chats. Verkäufer antworten nicht sofort: Manche sind
+  online, manche antworten in einer Stunde, manche erst morgens.
+- Du kannst anrufen, um einen Termin zu verschieben oder darum zu bitten, einen Chat zu
+  entsperren.
+
+🚘 Garage
+- Alle deine Autos, ihre Stellplätze, Reparatur, Wäsche und Kennzeichen.
+- Parken: Der Hof in der Heimatstadt ist kostenlos (3 Plätze, plus ein Platz für jede
+  eigene Wohnung), Garage und Grundstück am Haus sind kostenlos und sicher, alles andere
+  ist ein Parkplatz mit Gebühr (jede Stunde wird Geld abgebucht, auch wenn du schläfst!).
+- Im Hof können Vandalen dein Auto zerkratzen. In der Garage und auf dem Grundstück nicht.
+- Wäsche: Ein sauberes Auto lässt sich drei Tage lang etwas teurer verkaufen.
+- „Rucksack“ — Gegenstände, die du bei Tauschgeschäften bekommen hast.
+
+🔧 Reparatur und Werkstatt (Garage → Auto → „Reparatur“)
+- Fahrzeugplan: Defekte Baugruppen blinken, beschädigte Karosserieteile sind schraffiert.
+  Tipp auf eine Baugruppe — wir zeigen, was kaputt ist.
+- Für jeden Defekt brauchst du ein eigenes Ersatzteil aus DetalBuy (für Reinigung und
+  Ausbeulen braucht man kein Teil). Ein Teil passt nur zu seiner Marke und seinem Modell.
+- „In die Werkstatt“ — du zahlst die Arbeit nach den Stundensätzen der Stadt. Die
+  Werkstatt arbeitet von 9:00 bis 20:00, nachts steht das Auto still. Solange das Auto in
+  Reparatur ist, kann man es nicht verkaufen, inserieren oder tauschen.
+- „Selbst in der Garage“ — die Arbeit kostet nichts, dauert aber 1,6-mal länger und geht
+  nur bei einfachen Sachen (Symbol 🔧): Batterie, Zündkerzen, Stoßdämpfer, Stoßstange. Das
+  Auto muss in deiner Garage oder auf deinem Grundstück stehen.
+- Karosserie: Ausbeulen ist günstiger und braucht kein Teil, aber es bleibt Spachtelmasse
+  — der Käufer findet sie mit dem Lackdickenmesser und zahlt weniger. Ein Teiletausch ist
+  teurer, drückt aber kaum den Preis.
+
+📦 DetalBuy — Ersatzteilshop
+- Wähle ein Auto — du siehst, welche Teile es braucht.
+- Für jedes Teil gibt es mehrere Verkäufer: Bewertung, Rezensionen, Lieferzeit.
+  · Original — teuer und zuverlässig.
+  · Nachbau — etwa halb so teuer.
+  · Gebraucht vom Schlachter — noch billiger.
+  Nachbau und Gebrauchtteile können in den
+  ersten zwei Monaten wieder kaputtgehen — dann wird die Reparatur wiederholt. Wenn du
+  schnell weiterverkaufst, spar dir das Geld; wenn du das Auto behältst, nimm das
+  Original.
+- Die Bestellung ist einige Tage unterwegs (Express in einem Tag gibt es auch, der kostet
+  mehr). Was angekommen ist, liegt im „Lager“, bis du es in der Werkstatt einbaust.
+- Dort gibt es auch das Werkzeug des Händlers: Lackdickenmesser und OBD-Scanner.
+
+📍 Transport
+- Karte mit Ländergrenzen und Städten. Tipp auf eine Stadt — du siehst Route, Preis und
+  Dauer: Zug, Flugzeug, Taxi oder eigenes Auto.
+- Die Fahrt läuft echt ab: Eine Stunde Fahrt ist eine Sekunde auf dem Bildschirm. In die
+  Zielstadt kommst du erst bei der Ankunft.
+- Unterwegs kannst du Drive Ace oder PlameBlocks spielen — dann vergeht die Fahrzeit noch
+  schneller (80 Minuten pro Sekunde).
+- Mit dem eigenen Auto gibt es Unfälle: Schaden, Zeit bei der Verkehrspolizei und manchmal
+  ein Bußgeld.
+
+📅 Kalender, ⏰ Uhr, 🌙 Schlaf
+- Kalender — alle Termine. Der Knopf „Auf den Weg machen“ öffnet sofort den Transport mit
+  der passenden Stadt.
+- Wecker findest du in der Uhr. Schlaf spult die Zeit vor: Nachtschlaf bis 9:00 (ab
+  21:00), Tagesschlaf einmal am Tag. Im Schlaf läuft auch die Parkgebühr!
+- In einer fremden Stadt ohne eigene Wohnung musst du im Hotel schlafen.
+
+🏦 P-Bank
+- Karte, Kontostand, Ausgabenverlauf. Eigener Code zum Einloggen.
+- Die kostenpflichtigen schwarzen und goldenen Karten geben Cashback auf Alltagsausgaben
+  (Parken, Fahrt, Reparatur), es kommt einmal pro Woche.
+- Manchmal überweist dir die Familie ein bisschen „fürs Essen“.
+
+💰 PlameFinance
+- Kredite: Je mehr du pünktlich zurückzahlst, desto höher die verfügbaren Summen. Bei
+  Verzug gibt es eine Strafe, später holen sich die Gerichtsvollzieher Geld oder Auto.
+- Kleinkredite — schnell, aber 1 % pro Tag.
+- Subventionen — ein bisschen Geld für Werbung.
+- Beim Termin kannst du ein Auto auf Autokredit kaufen.
+
+🏢 MestoBuy — Immobilien
+- Garagen, Wohnungen und Häuser. Eigener Wohnraum gibt Stellplätze für Autos, kostenlosen
+  Schlaf und Schutz für den Hof. Freien Wohnraum kann man vermieten.
+
+🔢 Kennzeichen
+- Ein schönes Kennzeichen erhöht den Preis des Autos. Das Angebot wird jeden Tag erneuert,
+  und in der „Verkehrspolizei-Roulette“ kannst du dein Glück versuchen. Das eigene
+  Kennzeichen kann man abnehmen, umhängen oder verkaufen.
+
+📄 Dokumente und Verträge
+- Jedes Geschäft ist ein richtiger Vertrag: Lies ihn und unterschreibe in der Zeile
+  „Unterschrift“ deiner Seite. Die Unterschrift wird mit deiner Vorlage verglichen.
+- Fahrzeugpass (PTS) und Kaufvertrag deines Autos findest du in seiner Karte in der
+  Garage.
+
+🌐 Browser
+- AvtoHistory — Fahrzeugprüfung nach ID: Pfandrechte, Verbote, umgeschlagene VIN.
+- GosBuy — Steuern, Bußgelder, Zulassung und deine Dokumente (Pass, Führerschein, PTS).
+  Ein gekauftes Auto muss binnen 10 Tagen angemeldet werden, sonst droht ein Bußgeld.
+- AvtoBuyCase — Casino mit Kisten, Slots, Poker. Denk dran: Das Casino liegt immer vorn,
+  du nicht.
+
+🎮 Minispiele und Nebenjobs
+- Drive Ace — jag über die Strecke: Überholen, „knapp vorbei“, Münzen, Nitro. Links liegen
+  drei Spuren Gegenverkehr: Dort gibt es dreifache Punkte, aber dir kommen Autos entgegen.
+  Die Verkehrspolizei bestraft Raserei und das Fahren auf der Gegenspur. Für die Kilometer
+  gibt es etwas Geld, die Zeit läuft dreimal schneller.
+- PlameBlocks — Knobelspiel, Zeit läuft doppelt so schnell, Online-Rekorde.
+- Baustelle — Nebenjob: 10 ₽ für jede Platte, bis zu 8 Stunden am Tag.
+
+⚙️ Einstellungen, 🎵 Musik, 📝 Notizblock, 🧮 Rechner — wie bei einem normalen Handy.
+In den Einstellungen: Thema, Sicherheit, Dynamic Island, Navigationstasten, Steuerempfindlichkeit
+in den Spielen und Zurücksetzen des Fortschritts.
+
+
+💡 GEHEIMNISSE DER PROFIS
+-----------------------------------------
+
+* DER RUF ENTSCHEIDET ALLES
+Start — 5 Sterne. Geschäfte erhöhen ihn, geplatzte Termine und das Verlassen eines Geschäfts senken ihn. Je höher
+die Bewertung, desto öfter melden sich Käufer.
+
+* FEILSCHEN IM CHAT
+Jeder Verkäufer hat seinen eigenen Charakter — ein Hinweis steckt in seinem ersten Satz: „Preis ist endgültig“,
+„Verhandlungsbasis“, „brauche dringend Geld“, „Preis nach Markt“. Fang nicht mit dem halben Preis an — nach ein
+paar frechen Angeboten sperrt dich der Verkäufer im Chat. Tausch ist mit bis zu vier Autos gleichzeitig möglich,
+aber je mehr Autos, desto seltener stimmt man zu.
+
+* TERMIN UND BESICHTIGUNG
+Mehr als eine Stunde zu spät — der Verkäufer fährt weg. Zwei geplatzte Termine im selben Chat — für immer gesperrt.
+Selbst besichtigen ist kostenlos, aber einen versteckten Haken findest du selten. Der Gutachter kostet 5 % des
+Preises, findet öfter etwas und misst gleich die ganze Karosserie durch.
+
+* LACKDICKENMESSER
+Kauf ihn in DetalBuy — und tippe beim Termin auf die Karosserieteile im
+Plan:
+  bis 175 µm — Werkslack,
+  175–380 — Teil wurde nachlackiert,
+  mehr — Spachtelmasse, das Auto hatte einen Unfall,
+  Stoßstangen sind aus Kunststoff — das Gerät misst sie nicht.
+Der Verkäufer sagt „unfallfrei, nicht lackiert“, und das Gerät zeigt Spachtel? Das ist das
+beste Argument beim Feilschen. Wenn du ein Unfallauto ungeprüft kaufst, finden es die
+Käufer beim Verkauf und zahlen weniger.
+
+* OBD-SCANNER
+Schließ ihn beim Termin an — am häufigsten erwischt er einen zurückgedrehten Tacho.
+
+* FEILSCHEN AM MOTORRAUM
+Bring Argumente: Defekte, einen gefundenen Haken, Messwerte, Lügen des Verkäufers, „Bargeld sofort“. Fordere im
+Rahmen des Vernünftigen — der Verkäufer hat Geduld: Ist sie zu Ende, ist der Preis endgültig. Auf eine Absage
+bietet er oft die Hälfte an — ob du zustimmst, entscheidest du.
+
+* ANZAHLUNG
+Manchmal verlangt der Verkäufer eine Anzahlung — ohne sie lässt sich kein Termin vereinbaren. Bei Verkäufern mit
+einer Bewertung unter 3,7 gibt es oft Betrug: Geld genommen und verschwunden. Wenn du selbst vom Käufer eine
+Anzahlung verlangst, vereinbare den Termin innerhalb von drei Tagen und verkauf das Auto nicht an jemand anderen,
+sonst sperrt die Bank die Karte.
+
+* SCHAFFST DU DEN TERMIN NICHT?
+Schick einen Bevollmächtigten: Er wickelt das Geschäft gegen eine kleine Gebühr ab.
+
+* DIE ZEIT STEHT NICHT STILL
+Solange das Spiel geschlossen ist, läuft die Zeit wie im echten Leben: Termine, Zahlungen und Parkgebühren laufen
+weiter. Aktivierte Benachrichtigungen erinnern dich an Wichtiges.
+
+
+Gute Geschäfte und fetten Gewinn!
+=====================================
+
+WICHTIG!!!
+
+WENN DU EINEN BUG BEMERKT HAST ODER EINE EIGENE IDEE VORSCHLAGEN MÖCHTEST,
+KANNST DU UNS SCHREIBEN:
+TG-BOT - avtobuygame_bot

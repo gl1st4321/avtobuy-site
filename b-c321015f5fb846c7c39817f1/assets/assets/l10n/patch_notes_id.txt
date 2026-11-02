@@ -1,0 +1,899 @@
+Сlose-Beta-Test 0.3.6 (Actual)
+
+
+BARU
+
+- CoinBuy kini jadi bursa: kripto (BTC, ETH, TON, DOGE) dan saham produsen mobil — Tayota, BNW, Mersedes, VAZ Motors, Kyundai, Cherix, Teslor, Fordo. Grafik 30 hari, beli dan jual dengan biaya 0,1 %. Berita AvtoVesti soal merek langsung menggerakkan sahamnya
+- CoinBuy: isi saldo dari kartu P-Bank dan tarik kembali — setelah verifikasi paspor (paspor dibuat di GosBuy). Biaya 1 % saat setor dan 1,5 % saat tarik, sampai 300 000 ₽ per hari. Kasino dan P2P berjalan seperti biasa
+- Pertemuan jadi hidup: penjual datang dan suasana hatinya terlihat — tenang, terburu-buru, gugup, atau marah seiring tawar-menawar. Mobil bisa diperiksa bagian demi bagian — kap mesin, roda, kabin, bodi, kolong (5 menit per zona): di bawah kap bisa ketahuan VIN palsu, di kabin setir aus padahal jarak tempuh «rendah»
+- Uji jalan saat pertemuan: 20 menit di balik setir — suspensi berbunyi, transmisi menyentak, mesin pincang, mobil menarik ke satu sisi, lampu check engine menyala. Kadang penjual tidak mengizinkan
+- Interior dan eksterior di «Tuning»: jok kulit, multimedia, sistem audio, cuci interior, cat ulang dalam salah satu dari 8 warna, poles, coating keramik, chrome delete. Mobil beberapa jam di studio dan nilainya naik
+- DeLorean DMC-12 tahun 2035 dari Doc Brown — cari di daftar iklan. Pemiliknya bisa mencapai 88 mph seminggu sekali: lompatan instan ke kota mana pun bersama mobilnya. Bisa dijual lagi. Dan ada pencapaian rahasia
+- Jika VIN tidak cocok dengan dokumen saat registrasi, kini bisa memesan pemeriksaan di GosBuy: 3–7 hari, dan jika nomornya asli (kesalahan pabrik atau pelat berkarat), mobil didaftarkan. Jika dipalsukan — jual tanpa registrasi atau gugat penjualnya
+- DP lewat tautan: tautan di chat bisa disalin lalu ditempel di jendela transfer
+- Notepad → kredit: ŁíŞ masuk jajaran legenda berkat banyak iklan dan ide
+
+
+DIPERBAIKI
+
+- Jauh lebih sedikit lag: menyimpan game kini puluhan kali lebih cepat (dulu game tersendat di setiap aksi dan sekali per menit karena cadangan), layar utama tidak lagi digambar ulang setiap detik, dan daftar iklan dihitung lebih cepat
+- «Publikasikan» di Garasi: jika mobil tidak bisa diiklankan (jadi taksi, di bengkel, masih dalam perjalanan impor), sekarang alasannya terlihat — dulu tombolnya diam saja
+- Diskon «Mendesak» tidak lagi memenuhi seluruh daftar: hanya sekitar satu dari tiga penjual yang menurunkan harga iklan lama, dan iklan yang muncul kembali dihitung sebagai baru
+- Taksi: mobil lain tidak lagi menembus satu sama lain, bergantian di persimpangan, menjaga jarak, dan tidak muncul bertumpuk
+- Pertemuan penjualan: jika pembeli menemukan odometer yang diputar mundur, keluar lalu masuk lagi tidak lagi membuatnya «lupa»
+- Iklan 8002: deskripsi ditulis ulang
+
+
+Сlose-Beta-Test 0.3.5.2
+
+
+BARU
+
+- CoinBuy — aplikasi baru, dompet kripto. AvtoBuyCase kini punya saldo sendiri: taruhan diambil dari sana (jika kurang, situs mengisi ulang dari kartu Anda) dan kemenangan terkumpul di sana. Kemenangan hanya bisa ditarik ke CoinBuy dalam USDT — mulai 1 000 ₽, biaya situs 2 %, tiba dalam 10–40 menit. USDT juga bisa dikirim kembali ke situs
+- CoinBuy: jual USDT ke rubel lewat P2P — setiap pembeli punya kurs, batas, dan rating sendiri, dan kurs berubah setiap hari. Bank bisa membekukan transfer 300 000 ₽ ke atas selama 3–7 hari dan mengembalikan sebagian ke pengirim, sehingga uang tidak pernah sampai. Dengan pembeli terverifikasi hal ini lebih jarang
+- Uang muka: penjual mengirim tautan pembayaran seperti p-bank.ru/zadatok/…, dan Anda harus mengetiknya ulang di layar transfer. Salah satu karakter saja, uang jatuh ke penipu atau orang yang salah — dan uang muka ke penjual tetap harus dibayar
+- Deposito di P-Bank: rekening tabungan 12 % per tahun (bunga harian, tarik kapan saja) dan deposito berjangka 1, 2, atau 4 minggu dengan bunga 14, 16, dan 18 % — bunga di akhir, tanpa bunga jika ditutup lebih awal. Maksimal 10 juta ₽ untuk semua deposito. Jika kredit menunggak, juru sita juga mengambil dari deposito
+- Pindah ke rumah sendiri: di MestoBuy → «Milikku», apartemen atau rumah di kota asal kini punya «Pindah ke sini» (jasa pindahan 15 000 ₽ untuk apartemen, 25 000 ₽ untuk rumah, 3 jam, seminggu sekali). Rumah tempat tinggal tidak bisa disewakan atau dijual, sedangkan apartemen awal boleh disewakan setelah pindah. Anda bisa kembali ke sana kapan saja
+- Balasan ala Telegram di chat AvtoBuy dan «Pesan»: geser pesan ke kiri, maka kalimat berikutnya terkirim dengan kutipan; ketuk kutipan untuk melompat ke pesan aslinya. Jika Anda menulis beberapa pesan berturut-turut, lawan bicara juga membalas dengan kutipan. Centang dua ✓✓ kini muncul di semua pesan yang sudah dibalas, bukan hanya yang terakhir
+- Pencurian mobil: saat Anda di luar kota, mobil di halaman atau parkir berbayar bisa dicuri — di halaman lebih sering, mobil mahal juga lebih sering. Garasi dan halaman rumah aman. Polisi mencari 3–10 hari dan menemukan sekitar sepertiga, kadang dengan bodi rusak. Perlindungan: alarm GPS di DetalBuy → «Tuning» (dua kali lebih jarang dicuri, hampir selalu ditemukan), asuransi di P-Bank (tidak ditemukan — dibayar 80 % nilai) dan kamera Bengkel garasi
+- Kuzbass: 18 kota baru di wilayah Kemerovo — Prokopyevsk, Mezhdurechensk, Leninsk-Kuznetsky, Kiselyovsk, Belovo, Yurga, Anzhero-Sudzhensk, Beryozovsky, Osinniki, Myski, Tashtagol, Topki, Polysayevo, Guryevsk, Mariinsk, Kaltan, Tayga dan Salair. Pelat nomor di sana berkode wilayah 42
+- Legenda di peti «Oligarki»: peluang satu banding seribu mendapatkan Tesla Roadster terbang dengan Starman di balik kemudi. Tidak bisa dijual, tapi di «Transportasi» ada pilihan baru — terbang dengan Tesla: dua kali lebih cepat dari pesawat dan tanpa bahan bakar. Yang beruntung mendapat pencapaian rahasia
+
+
+DIPERBAIKI
+
+- Jual dan tukar tambah: layar tanda tangan kontrak tidak bisa ditutup saat stempel “DITANDATANGANI”, dan penarikan ganda dari kesepakatan yang sama diblokir
+- “Mines”: tarik saldo kini hanya bisa dengan pengganda minimal 1.0, dan penyelamatan bom tidak aktif pada kotak pertama (mencegah eksploitasi autoclicker)
+- Slot “Safe”: putaran otomatis kini mematuhi batas taruhan level kasino, dan kemenangan garis tidak lagi memaksakan putaran bonus di setiap spin
+- Drive Ace: mobil kini otomatis kembali ke tengah lajur saat kemudi dilepas, dan ketukan cepat pada layar melakukan perpindahan lajur dengan rapi
+- Kereta: memperbaiki biaya hotel yang salah terpotong saat tidur dalam perjalanan kereta antarkota
+- Uang muka: jika negosiasi gagal saat pertemuan, uang muka dikembalikan ke pembeli, mencegah pemblokiran rekening 161-FZ yang keliru
+- PlameFinance: masa jeda untuk pinjaman baru kini hanya berlaku setelah pelunasan awal, bukan pada saat jatuh tempo sesuai jadwal
+- Inspeksi mobil: memperbaiki tombol tawar-menawar yang bertumpuk pada layar berukuran kecil
+
+
+Сlose-Beta-Test 0.3.5.1
+
+
+BARU
+
+- Obrolan dengan keluarga jadi lebih hidup. Topik baru dalam obrolan: “Ada apa yang baru?” — setiap orang punya kehidupan dan ceritanya sendiri; “Beri saran” — saran untuk urusanmu (parkir berbayar, keterlambatan pembayaran pinjaman, mobil tanpa registrasi, kekalahan di kasino); “Pamer” tentang transaksi terakhirmu; dan “Hari yang berat…” — mereka akan mendukungmu, dan Ibu, Nenek, atau Kakek terkadang akan menyelipkan sedikit uang
+- “Mampir bertamu” — di kota asalmu, seminggu sekali untuk setiap kerabat: mengobrol santai beberapa jam ditemani teh, keluargamu makin percaya padamu, dan Nenek bisa menyelipkan sedikit uang saku untuk di jalan
+- Kerabat berulang tahun — pada hari itu ada pengingat dan muncul tombol “Beri selamat”. Beri mereka selamat dan kepercayaan akan tumbuh; jika lupa, mereka akan menyinggungnya keesokan harinya. Kamu juga bisa memberi selamat pada tanggal 8 Maret, 23 Februari, dan Tahun Baru
+- Kerabat juga mengucapkan selamat kepadamu: di hari ulang tahunmu semua orang mengirim pesan (tanggal diambil dari paspormu), dan yang lebih tua mengirim uang. Mereka juga akan mengucapkan selamat Tahun Baru, 8 Maret, atau 23 Februari
+- Kerabat mengetahui urusanmu sendiri dan mengirim pesan lebih dulu: kamu membeli mobil mahal, berpenghasilan besar atau merugi, membeli rumah, menang di kasino, melewatkan pembayaran pinjaman, kartumu terblokir
+- Balasan kerabat menyesuaikan jenis kelamin di paspormu, sehingga bahasanya pas denganmu
+
+
+DIPERBAIKI
+
+- Truk derek: daftar kota sebelumnya muncul sebagai kotak abu-abu — kini daftar sudah kembali normal
+- Pemasangan tuning: saat ada banyak paket, daftar bisa digulir, dan tombol “Di bengkel” / “Sendiri” tidak lagi terpotong di tepi layar
+- Tawar-menawar: kamu menurunkan harga dengan barang (alarm, audio mobil…), transaksi sudah disepakati — namun saat menjadwalkan pertemuan penjual menulis “Tunggu, saya terlalu terburu-buru… itu batas saya” dan tidak membiarkanmu mengaturnya. Sekarang barang sudah diperhitungkan, dan balasan yang sama tidak berulang di setiap ketukan
+- Tidur: jika iklan gagal dimuat, layar tidak lagi macet dalam kondisi gelap dengan waktu membeku. Video hadiah juga tidak lagi tergantung tanpa koneksi
+- Pelat nomor tidak bisa dilepas dari mobil saat masih dalam iklan atau menunggu pertemuan: pembeli sudah memperhitungkannya dalam harga, dan sebelumnya mereka membayar untuk pelat cantik yang sebenarnya tidak terpasang di mobil
+- Mobil dari Impor yang masih dalam perjalanan tidak bisa digunakan untuk perjalanan sendiri. Mobil yang sedang dalam perjalanan, dalam perbaikan, atau di armada taksi juga tidak bisa digunakan untuk itu
+
+DIUBAH
+
+- Pool taksi: sopir yang merusak mobil atau merusak suspensi menanggung setengah biaya perbaikan, dan kecelakaan berkurang sepertiga — sekarang pool taksi mulai menghasilkan untung
+- Pelat nomor: angka yang mudah dikenali kini bernilai lebih tinggi — 911, 228, 112, 102, 314 dan 1-2-3, angka wilayah terbalik (617 di wilayah 716), serta lebih banyak kata dari susunan huruf. Dua angka kembar harganya naik
+
+
+Сlose-Beta-Test 0.3.5
+
+
+BARU
+
+- Ulasan penjual dan pembeli: setelah transaksi atau pertemuan yang terlewat, kamu bisa menilai orang tersebut dengan bintang dan beberapa patah kata (Profil → “Beri nilai transaksi”). Terkadang mereka membalasmu
+- AvtoBuyCase: tombol “Putar” / “Tingkatkan” / “Lepas landas” dan tombol lainnya kini berada tepat di bawah game, di atas pengaturan taruhan — tidak perlu lagi menggulir ke bawah
+- AvtoBuyCase: banner di bagian bawah halaman pada slot, peningkatan, rolet, dan Pesawat Kecil
+- AvtoBuyCase: slot baru “Bambu” — bambu tersembunyi terbuka menjadi simbol yang sama, dan selama putaran gratis setiap pengungkapan meningkatkan pengali
+- AvtoBuyCase: tingkat kesulitan memengaruhi keberuntungan di kasino — pada tingkat “Mudah” kamu menang sedikit lebih sering, pada “Hardcore” lebih jarang
+- “Klasik”: putaran gratis lebih sedikit (10 / 15 / 20 alih-alih 15 / 20 / 25), namun kemenangan reguler lebih besar
+- Rolet: merah dan hitam membayar ×1.85 (sebelumnya ×1.9)
+- Beliung: tambang lebih pelit memberikan kemenangan besar; di balik blok yang hancur kini ada dinding gua, dan di akhir babak kemenangan muncul besar di tengah layar, lengkap dengan koin
+- Pesawat Kecil: beberapa kapal induk di sepanjang rute. Kamu bisa melampaui kapal induk terakhir dan mendarat terlambat — atau jatuh sebelum mencapainya
+- Tampilan antarmuka kasino lebih ringkas: bagian header, feed langsung, dan tab berada lebih tinggi, lebih sedikit menggulir
+- Kontainer: setiap hari enam kontainer dari berbagai kelas — ekonomi, standar, premium, dan elit — tiba dari berbagai negara (mobil Jepang lebih sering datang dari Jepang). Isi di dalam kontainer kini sesuai dengan hasil rampasan yang dijanjikan, bukan hanya beberapa ribu
+- AvtoHistory menemukan lebih banyak: jaminan utang, manipulasi jarak tempuh, dan kecelakaan, bukan hanya larangan registrasi dan VIN. Penjual merespons saat kamu menyebutkan temuannya, dan memberi potongan berbeda — lebih banyak untuk larangan registrasi, lebih sedikit untuk kecelakaan
+- Tuning: sepuluh modifikasi baru — turbocharger, supercharger, nitrous oksida, lampu depan xenon, lampu kolong, spoiler, bemper, side skirt, bodi lapis baja (untuk mobil mewah), dan lampu strobo. Nitrous, lampu kolong, dan strobo menarik perhatian polisi lalu lintas
+- AvtoBuyCase, “Klasik”: setelah menang, simbol yang meledak diisi ulang oleh gulungan yang berputar, bukan oleh simbol yang jatuh dari atas
+- Editor: foto dari galeri (PNG, HEIC, foto ukuran besar) kini dikompresi otomatis dan ditambahkan tanpa kesalahan
+- Penilaian ulasan tidak lagi menampilkan desimal panjang seperti 3.8000000000000003
+- Pemasangan tuning dalam satu kunjungan: semua paket yang tiba dicentang dan dipasang bersamaan, dan layar menampilkan tahapan yang jelas: “pesan → tunggu → pasang”
+- “Musik”: tombol untuk “Acak” dan “Hanya trek saya”
+- MestoBuy: tab “Milik Saya” selalu terlihat dan disorot
+
+- Seluruh peta dunia di “Transportasi” dan “Penerbangan”: semua benua, laut, dan perbatasan; bisa diperkecil hingga ke seluruh planet
+- Di luar negeri, “Transportasi” dan “Penerbangan” menunjukkan keberadaanmu yang sebenarnya — kota kedatangan, bukan kota keberangkatan. Dari luar negeri kamu bisa langsung terbang pulang
+- Impor dalam tema gelap benar-benar gelap
+- Hadiah misi dikurangi sepuluh kali lipat: sebelumnya hadiah terlalu mudah didapatkan
+- Pelat nomor di rolet polisi lalu lintas: semua karakter memiliki bayangan yang sama, termasuk huruf pertama
+- Iklan di slot akan dimuat ulang jika tidak berhasil dimuat pada percobaan pertama
+- Tombol bahasa di layar pemilihan kota; layar beranda, layar kunci, Pengaturan, dan pemilihan tingkat kesulitan telah diterjemahkan ke dalam bahasa Inggris
+- Pemilihan bahasa di Pengaturan. Untuk saat ini bahasa Rusia dan Inggris sudah siap (terjemahan bahasa Inggris masih dalam proses, dan beberapa teks masih berbahasa Rusia); bahasa lain akan segera hadir
+- Penerbangan: pesawat terbang di atas peta nyata — lengkap dengan laut, perbatasan, serta kota keberangkatan dan kedatangan
+- Begitu terbang ke luar negeri, kamu berada di sana: “Transportasi” menunjukkan kamu berada di, misalnya, Warsawa, dan kamu tidak bisa bepergian keliling Rusia sampai kembali lewat “Penerbangan”
+- P-Bank: tombol pengalih baru “Minggu / Bulan” di bagian “Pengeluaran uang”
+- AvtoBuyCase, Beliung: satu beliung terbang dari satu pukulan ke pukulan lain tanpa berteleportasi, dan setelah babak selesai tetap berada di atas tambang. Langit di atas tambang kini sesuai dengan game: matahari, awan, dan perbukitan
+- MestoBuy tanpa header atas tambahan — seperti di P-Bank
+- Editor dipindahkan ke halaman ketiga layar beranda
+- Pelat nomor! Setiap mobil kini memiliki pelat nomor polisi — terlihat pada foto di kartu iklan dan di garasi. Pelat nomor dibagikan di awal game baru, dan beberapa di antaranya cantik: 001, tiga angka tujuh, huruf kembar, nomor kode wilayah, seri seperti “EKX”. Pelat cantik harganya naik dari beberapa ribu hingga satu juta, dan pembeli mobil akan membayar ekstra untuk itu
+- Aplikasi “Pelat Nomor” di halaman kedua layar beranda: etalase pelat cantik diperbarui setiap hari; kamu bisa melepas pelat dari mobil (biaya negara 2 850 ₽) dan memasangnya ke mobil lain atau mendaftarkannya untuk dijual — pembeli akan mengirim tawaran. Di sana kamu juga bisa memeriksa harga pelat mana pun
+- “Kocok” pelat nomor di polisi lalu lintas: setiap percobaan menghasilkan pelat acak untuk wilayahmu — jika suka, ambil; jika tidak, putar lagi. Pelat cantik jarang muncul
+- Pelat nomor bisa dilepas atau dipasang langsung di Garasi, pada kartu mobil. Pelat kini terlihat nyata: pelat putih dengan karakter timbul, baut, dan kilauan
+- Pakar pasar juga paham tentang pelat nomor dan memasukkannya ke dalam harga mobil. Penjual lain tidak menghargai pelat — saatnya berburu harta karun. Kartu iklan dengan pelat cantik menampilkan kelasnya, harganya, dan berapa banyak pembeli bersedia membayar ekstra saat dijual kembali
+- Garasi memiliki tab “Pelat Nomor” baru: semua pelat nomormu tergantung di dinding garasi — geser dan kagumi koleksimu
+- Lebih banyak kombinasi pelat nomor: seri deputi “AAM”, seri “wali kota” dengan dua huruf O (AOO, MOO…), huruf cermin; kode Moskow lama 77 bernilai lebih tinggi daripada yang baru. Semua kode Moskow (799, 997) dan kode Wilayah Moskow (250, 550, 790) telah ditambahkan
+- Rolet polisi lalu lintas bisa berputar lebih cepat — tombol pengalih “Cepat”
+- Perjalanan kini nyata: setelah membeli tiket, layar perjalanan akan terbuka — berapa lama waktu tempuh, sisa perjalanan (satu jam perjalanan = satu detik), jeda, dan “Selesaikan perjalanan”. Dan agar waktu di perjalanan berlalu lebih cepat, kamu bisa memainkan PlameBlocks atau Drive Ace langsung dari sana
+- Aplikasi “Musik”: ganti trek, jeda, tambahkan musikmu sendiri — file dari ponselmu atau tautan ke mp3. Secara default semuanya seperti sebelumnya: trek game dengan jeda di antaranya (jeda bisa dimatikan)
+- Dynamic Island seperti di iPhone: kapsul hitam di bagian atas membesar saat kamu sedang dalam perjalanan, pertemuan akan segera tiba, atau musik sedang diputar. Ketuk untuk membuka aplikasi yang sesuai. Bisa dimatikan di Pengaturan
+- Kredit mobil di PlameFinance: jika kekurangan uang saat pertemuan, bank akan membayar kekurangan dana kepada penjual, tetapi uang mukamu minimal harus 20% dari harga. Bunganya lebih rendah dari pinjaman biasa, dan mobil dijaminkan: kamu hanya bisa menjual atau menukarnya setelah pinjaman lunas
+- Saat menjual mobil, kamu bisa meminta uang muka kepada pembeli — saat pertemuan mereka membayar sisanya. Namun jika kamu mengambil uang muka lalu berbuat curang (tidak datang, menjual ke orang lain, menghapus iklan), bank akan memblokir kartumu berdasarkan UU 161: reputasi turun 3,5 bintang dan tidak bisa membeli mobil sampai kamu membayar denda dan mengembalikan uang muka dua kali lipat. Jika berubah pikiran secara jujur, uang muka bisa dikembalikan
+- Tidak mau bepergian ke pertemuan di kota lain? Kirim perwakilan. Mereka akan mengurus transaksi dengan biaya kecil, tetapi mereka tidak memeriksa mobil, dan terkadang transaksi gagal
+- GosBuy — situs web di Browser bawaan (bookmark di halaman awal): pajak penghasilan 13% atas keuntungan dari penjualan mobil, dan pajak kendaraan sebulan sekali untuk mobil di garasi. Kamu punya waktu dua minggu untuk membayar sebelum denda mulai berjalan
+- Registrasi mobil seperti di dunia nyata: setelah membeli mobil, daftarkan di GosBuy dalam waktu 10 hari (kamu memerlukan paspor, biaya negara 850 ₽, dan pemeriksaan di kantor polisi lalu lintas di kota tempat mobil diparkir). Kamu bisa menjual lebih awal dengan perjanjian jual-beli tanpa registrasi. Jika terlambat, dendanya 1 500 ₽. Pemeriksaan akan mengungkap larangan registrasi dan VIN palsu. Jika kamu mengubah data paspor, mobilmu harus didaftarkan ulang
+- Kota baru — Bakhchisarai di Krimea
+- Putar otomatis di slot bisa dikonfigurasi: taruhan, jumlah putaran (hingga 1 000), dan kapan harus berhenti — saat menang melebihi jumlah tertentu, atau saat kalah melebihi batas. Putaran cepat juga bisa diaktifkan selama putar otomatis
+- Dynamic Island membesar menjadi jendela mini, seperti di iPhone: progres perjalanan, pertemuan, kontrol musik
+- Pengaturan — “Tombol navigasi di layar beranda”. Dinonaktifkan secara default
+- Layar perjalanan tanpa tombol “Jeda” dan “Selesaikan perjalanan”: di pesawat dan kereta api kini kamu memiliki kursi sendiri lengkap dengan denah kabin
+- Mengubah paspor menjadi lebih sulit: tanggal lahir dan jenis kelamin tidak bisa diubah; nama lengkap bisa diubah dengan biaya 3 000 ₽ dan tidak lebih dari sekali setiap 60 hari, serta mobilmu harus didaftarkan ulang
+- Kamu bisa mengambil kredit mobil meski punya cukup uang: kotak centang “Beli dengan kredit mobil” saat pertemuan
+- Kalender → “Berangkat” langsung membuka “Transportasi” dengan rute ke kota tempat mobil berada
+- “Minta uang muka” di obrolan penjualan berupa kartu mencolok, tersedia bahkan sebelum pertemuan. “Kirim perwakilan” muncul di obrolan saat pertemuan masih terjadwal di depan
+- Polisi lalu lintas: dalam mode cepat kamu bisa memilih hingga kelas berapa pelat nomor diputar tanpa henti
+- Peta “Transportasi” tidak lagi tersendat saat diperbesar/diperkecil; tombol “Di mana saya” dan zoom ditambahkan
+- Peta “Transportasi” kini menampilkan batas-batas negara — terlihat lebih menyerupai peta asli
+- Aplikasi yang diminimalkan tidak lagi memperlambat game: saat tidak terlihat di layar, aplikasi tidak digambar ulang
+- Jika kamu menerima uang muka dari pembeli, jadwalkan pertemuan dalam waktu tiga hari, jika tidak akan dihitung sebagai penipuan
+- Perbaikan sungguhan: di bengkel terdapat denah cetak biru mobil, dan komponen yang rusak berkedip. Alih-alih hanya “mesin rusak”, kamu mendapatkan kerusakan spesifik: gasket silinder, rantai timing, ball joint, alternator, dan puluhan kerusakan lainnya. Masing-masing memiliki suku cadang dan jam kerja standarnya sendiri. Bengkel beroperasi dari pukul 9:00 hingga 20:00, dan mobil berada di bengkel sesuai waktu nyata. Pekerjaan sederhana (aki, busi, peredam kejut, bemper) bisa dikerjakan sendiri di garasimu — gratis, tetapi butuh waktu lebih lama
+- Bodi per panel: setiap mobil memiliki 13 elemen, dan banyak di antaranya punya riwayat — panel yang dicat ulang dan dempul bekas kecelakaan. Bagian penyok bisa diratakan (murah, tetapi dempul tetap tersisa) atau panel bisa diganti baru
+- DetalBuy — toko suku cadang di halaman kedua layar beranda: penjual dengan peringkat dan ulasan, suku cadang asli, aftermarket, dan bekas, pengiriman dalam beberapa hari, pesanan, dan gudang. Suku cadang aftermarket dan bekas lebih murah, tetapi dalam dua bulan pertama bisa rusak lagi
+- Pengukur ketebalan cat: beli di DetalBuy, dan saat pertemuan ukur ketebalan cat langsung pada cetak biru mobil. Penjual berkata “bebas tabrakan, cat orisinal”, tetapi alat ukur mendeteksi dempul? Argumen tawar-menawar yang bagus. Inspektur datang dengan alat ukurnya sendiri dan memeriksa seluruh bodi. Dan pemindai OBD bisa mendeteksi manipulasi jarak tempuh
+- Tawar-menawar baru di kap mobil: tunjukkan argumenmu — kerusakan, hasil pengukur ketebalan cat, kebohongan penjual, “uang tunai sekarang juga”. Penjual memiliki kesabaran, dan saat kamu menolak, mereka sering kali menawarkan setengahnya. Karakter penjual dari obrolan juga memengaruhi tawar-menawar ini
+- Pembeli menilai lebih rendah mobil yang rusak atau dicat ulang — mereka juga datang membawa pengukur ketebalan cat. Periksa sebelum membeli
+- Drive Ace: jalur lawan arah di sebelah kiri. Poin bertambah tiga kali lipat di sana, tetapi mobil datang bergelombang ke arahmu dan menyalakan lampu jauh. Polisi lalu lintas juga mendenda jika menyalip di jalur lawan arah. Nitro kini terisi dengan mulus dan menambah kecepatan, serta pada kecepatan tinggi kamera menjauh dan miring di tikungan, seperti di game balap. Misi baru — berkendara di jalur lawan arah
+- Layar perjalanan: penanda bergerak mulus di sepanjang rute, dan hitungan mundur “tersisa” berjalan per menit
+- Game mini di perjalanan mempercepat waktu hingga 80 menit perjalanan per detik — lebih cepat daripada layar perjalanan itu sendiri
+- Trek baru “PowerCar” oleh creeper_xx
+- Tips game di Buku Catatan telah ditulis ulang sesuai kondisi game saat ini
+- Paspor dan SIM: setelah mendaftarkan tanda tangan, kamu menerima paspor dan surat izin mengemudi — nama belakang, nama depan, tanggal lahir, foto. Semua dokumen dan paspor kendaraan (PTS) mobilmu ada di GosBuy, di tab “Dokumen”
+- Poker di AvtoBuyCase: Texas Hold’em di meja enam kursi bersama bot — masing-masing punya karakternya sendiri; ada yang bermain hati-hati, ada yang suka menggertak (bluffing). Tiga meja dari 50/100 hingga 1 000/2 000; kamu bisa membeli chip tambahan, dan bisa berdiri dari meja kapan saja di antara putaran kartu
+- Pekerjaan sampingan “Konstruksi” — aplikasi baru di layar beranda. Derek membawa lempengan beton, dan tugasmu menyusunnya dengan rata: bagian yang menonjol akan terpotong, jika meleset — menara akan runtuh dan dibangun kembali dari awal. Tidak ada petunjuk di mana lempengan akan mendarat. Semakin tinggi bangunan, semakin cepat derek bergerak, dan mulai dari lantai empat angin menggoyangkan lempengan. 10 ₽ per lempengan. Waktu selama shift berjalan dua kali lebih cepat, dan shift berlangsung tidak lebih dari delapan jam waktu game per hari
+- Dalam iklan penjualan, kamu bisa menyatakan apakah menerima tukar-tambah. Jika dinonaktifkan, pembeli hanya akan datang membawa uang tunai
+- Garasi baru: ringkasan armada di bagian atas, kartu-kartu besar dengan foto, pelat nomor, kondisi, dan nilai mobil
+- PlameBlocks dengan tampilan baru: blok 3D, kilatan pada papan, serta tulisan “Bagus!” dan “Kombo” saat baris dibersihkan (rentetan memberikan bonus), dan papan berganti tema dari waktu ke waktu — dari gelap menjadi putih bersih
+- Pengaturan memiliki bagian “Aplikasi” baru: sensitivitas kemudi di Drive Ace dan penarikan bidak di PlameBlocks
+- “Transportasi” telah dirombak: rute digambar di peta melewati kota-kota di sepanjang jalan, harga dan perkiraan waktu untuk semua opsi langsung terlihat, dan kamu bisa memilih tujuan langsung di peta atau melalui pencarian
+- MestoBuy dengan tampilan baru: apartemen, rumah, dan garasi — dalam bagian terpisah lengkap dengan kartu iklan, dan semua yang kamu miliki ada di tab “Milik Saya”. Properti memiliki gambar berbeda — bangunan panel, Khrushchyovka, bangunan baru, Stalinka, pondok, rumah kayu, chalet — dan pencarian di bagian atas berfungsi: berdasarkan nama, harga, tempat parkir, disertai pengurutan
+- Bilah navigasi muncul di layar beranda — aplikasi yang diminimalkan kini bisa dibuka langsung dari layar beranda
+- Kecelakaan bisa terjadi di jalan: jika kamu berkendara ke kota lain dengan mobil sendiri, kamu bisa mengalami kecelakaan di perjalanan. Semakin jauh kamu berkendara, semakin tinggi risikonya. Bodi mobil mengalami kerusakan, dan lebih jarang pada suspensi atau kelistrikan; pengurusan berkas dengan polisi lalu lintas butuh waktu satu atau dua jam, dan jika kamu bersalah — denda juga berlaku
+- Slot di AvtoBuyCase kini bekerja seperti kasino sungguhan: gulungan berputar dan berhenti satu per satu, simbol yang menang meledak dan simbol baru berjatuhan dari atas — begitu seterusnya hingga kemenangan habis (termasuk pada putaran gratis). Taruhan hingga 1 000 000 ₽. Di “Klasik” kemenangan jadi lebih jarang tetapi jumlahnya lebih besar. Dua mesin: “Klasik” — lima gulungan, 20 baris, WILD dan bonus; tiga bonus memberikan putaran gratis dengan kemenangan berlipat ganda. “Banteng Emas” — gulungan 3-4-3, banteng menggantikan simbol apa pun, dan terkadang “Kegilaan Banteng” aktif: satu simbol dan banteng tetap di gulungan, dan berputar terus hingga ada kemenangan. Satu layar penuh terisi banteng membayar ×10
+- Peningkatan dan slot bisa diputar dengan cepat — tombol pengalih “⚡ Cepat”
+- Slot memiliki putar otomatis: tombol “AUTO” — 10, 25, 50, atau 100 putaran berturut-turut pada taruhan yang sama, dengan opsi berhenti pada bonus dan kemenangan besar
+- Suara PlameBlocks: bidak terpasang dengan bunyi ketukan lembut, baris yang bersih berdering, dan kombo memainkan melodi utuh
+- Pengaturan → “Aplikasi” kini menjadi layar terpisah berisi pengaturan game mini, dan pencarian Pengaturan bisa menemukannya. Kemudi Drive Ace bisa disesuaikan dalam rentang yang lebih luas: dari ×0.3 hingga ×4
+- Peta “Transportasi” kini memiliki desain sendiri: daratan, sungai, danau, dan nama-nama kota. Berfungsi tanpa internet dan tanpa VPN
+- Peluang dalam kotak hadiah telah ditingkatkan: kendaraan, barang, dan uang dalam jumlah besar lebih sering didapatkan
+- Kontrak seperti aslinya: saat membeli dan menjual mobil, tukar-tambah, mengambil pinjaman, atau membeli properti, lembar kontrak terbuka — pihak-pihak terkait, VIN, nomor paspor kendaraan (PTS), harga, dan pasal-pasal. Penjual sudah menandatanganinya, dan kamu menandatangani tepat di garis “tanda tangan”; stempel “TERTANDATANGANI” akan muncul pada lembaran
+- Dokumen mobil: pada kartu mobilmu dan di GosBuy — paspor kendaraan (VIN, pemilik, tanggal pembelian, registrasi) dan kontrak jual-beli dengan tanda tangan kedua belah pihak
+- PlameBlocks: setelah pergantian tema, terkadang papan juga ikut berganti, dan semua balok berubah menjadi satu warna
+- Saat pertemuan dan tawar-menawar di kap mobil, kamu bisa melihat foto mobilnya
+- 16 barang baru: dashcam, head unit Android, ban musim panas, aki, alarm dengan remote starter, kompresor, dongkrak, jeriken bensin, sarung jok, subwoofer, lampu xenon, roof box, skuter listrik, jump starter, lampu taksi atap, dan ponsel pintar lama. Kamu bisa mendapatkannya dari pembeli dan dalam kotak hadiah, serta menawarkannya kepada penjual saat tawar-menawar
+- Slot penyimpanan: di Pengaturan terdapat tiga penyimpanan terpisah. Game saat ini (dan penyimpanan dari versi 0.3.4) berada di slot pertama; berganti slot akan memulai ulang game
+- Misi: setiap hari ada tiga misi (beli, jual, berkendara, tawar-menawar…), dan setiap minggu ada misi terpisah yang lebih besar. Masing-masing menghasilkan uang, menyelesaikan semua misi harian memberikan peti hadiah, dan beruntun beberapa hari berturut-turut meningkatkan hadiahnya. Hadiah besar menanti di akhir minggu
+- Promosi iklan, seperti di Avito: “Naikkan”, “Turbo”, dan “Premium” selama 1–7 hari — saat promosi aktif, pembeli mengirim pesan 2–4 kali lebih sering
+- Harga pasar pada kartu mobil kini memperhitungkan biaya perbaikan: kamu bisa melihat harga dengan cacat maupun harga mobil utuh. Pembeli juga memperhatikan cacat dan menawar biaya perbaikan
+- Perjalanan dengan mobil sendiri bisa terganggu: ban kempis, kecelakaan, polisi, kemacetan, atau mesin terlalu panas (overheat). Penanda rute berhenti di tengah jalan dan kamu yang memutuskan tindakan — menunggu truk derek atau mengganti ban sendiri, memanggil polisi lalu lintas atau mengisi laporan damai. Waktu dan biaya — semua pilihanmu
+- Peningkatan garasi — tab “Bengkel” baru: lift mobil, set perkakas, bilik pengecatan, tempat cuci mobil, dan kamera pengawas. Dengannya kamu bisa melakukan lebih banyak perbaikan sendiri, mencuci mobil gratis, dan mengurangi vandalisme di halaman
+- Mobil di Garasi bisa disematkan — tombol pin pada foto; mobil yang disematkan selalu berada di posisi paling atas
+- Filter AvtoBuy dirombak: merek, harga, dan tahun dengan opsi cepat, jarak tempuh, kota dan radius, “tanpa cacat terlihat”, “mendesak”, “baru”, serta peringkat penjual. Tombol menampilkan berapa banyak iklan yang cocok. Filter aktif muncul sebagai chip di bawah bilah pencarian; mengetuk “Iklan” di bagian bawah akan meresetnya
+- Tawar-menawar di kap mobil lebih jelas: tahapan “Pemeriksaan → Harga → Keputusan” serta tiga opsi penawaran siap pakai dengan peluang penerimaan, alih-alih menggunakan slider
+- Musik bisa digeser (scrubbing) — di aplikasi “Musik” dan di Dynamic Island
+- Kota-kota baru: Shchyolkovo, Sergiev Posad, Monino, Kudrinskaya dan Kartyshovo (Wilayah Kaluga), Neftekumsk, Nesterov, Kirovsk (LPR), Nyagan
+- Di peta “Transportasi”, Krimea, DPR, LPR, wilayah Zaporizhzhia dan Kherson berada di dalam batas Rusia
+- Kasino: di “Klasik” putaran gratis jauh lebih jarang muncul (kira-kira sekali setiap 150 putaran), tetapi jumlahnya lebih banyak dan membayar ×5. Game utama membayar lebih besar. “Banteng Emas”: “Kegilaan Banteng” lebih sering muncul dan tidak pernah membayar kurang dari ×3 taruhan
+- Mesin baru “Brankas Koin”: enam koin di layar membuka brankas — koin tetap di tempatnya, kamu mendapat tiga putaran ulang, dan setiap koin baru memulihkan jumlah putaran ulang. Semua 15 kotak terisi koin — GRAND ×100
+- Slot: saat dua bonus sudah berada di layar, gulungan yang tersisa menyala terang dan berputar lebih lama, perlahan berhenti merayap — kita menantikan bonus ketiga!
+- Game menjadi lebih sulit: modal awal lebih sedikit, penjual memberi potongan lebih kecil, serta pembeli lebih jarang mengirim pesan dan menawar sedikit lebih rendah
+- Tingkatan di AvtoBuyCase: batas satu taruhan meningkat seiring total semua taruhanmu di situs — dari 20 000 ₽ untuk pemula. Tingkat VIP tanpa batas: kamu bisa bertaruh dalam jumlah berapa pun pada slot. Kamu bisa memasukkan nominal taruhan secara manual — ketuk jumlahnya. Tingkatanmu dan sisa yang dibutuhkan untuk naik tingkat ditampilkan di profil situs dan di bawah pemilihan taruhan
+- Mobil yang dimenangkan dari kotak hadiah bisa langsung dijual ke situs dari Garasi kapan saja — seharga 70% dari nilai taksirannya. Mobil tersebut diberi label “🎰 DARI KOTAK”
+- Tanggal lahir di paspor dipilih dengan roda putar, seperti di iPhone, dan usia ditampilkan di sebelahnya
+- Panggilan telepon kini menjadi sebuah percakapan: telepon dari obrolan (gagang telepon hijau) dan pilih kalimat pembuka — “Cek obrolan”, “Apakah mobil masih dijual?”, “Bisa tawar-menawar?”, “Kapan waktu yang nyaman untuk bertemu?”. Jika lawan bicaramu offline, “Cek obrolan” sering kali membuat mereka membalas dalam beberapa menit alih-alih beberapa jam. Kamu bisa menelepon orang yang sama sekali sehari
+- Apartemen dan rumah bisa disewakan jangka panjang — selama enam bulan: uang masuk setiap bulan, tarif 10% lebih rendah, dan penyewa merawat properti lebih baik. Kartu properti menampilkan tanggal sewa berakhir, nominalnya, dan kapan uang akan masuk
+- Pada rolet polisi lalu lintas, pelat nomor Kazakhstan, Belarus, dan Kyrgyzstan terkadang muncul — kamu bisa menyimpannya dalam koleksi, tetapi tidak bisa dipasang ke mobil. Iklan hanya menampilkan pelat nomor Rusia
+- Kotak hadiah baru di AvtoBuyCase: “Receh” seharga 200 ₽, “Tuning” berisi barang-barang mobil, dan “Oligarki” seharga satu juta — berisi mobil-mobil paling mahal
+- Di situs web, musik selalu dimulai dengan trek “nightmare chase”
+- Properti menjadi lebih mahal dan lebih realistis: apartemen 2.5–8 juta, rumah 6–30 juta, dan di Moskow serta St. Petersburg 1.5–2.2 kali lipat lebih mahal
+- PlameBlocks: tema papan berganti secara acak, dan papan terang kini selalu muncul di setiap permainan
+- Di bengkel, denah cetak biru mobil menampilkan bagian-bagian yang punya riwayat dengan warna berbeda — pengecatan ulang, dempul, penggantian suku cadang — seperti pada pengukur ketebalan cat
+- Kamu bisa berpindah tempat tinggal: MestoBuy → “Milik Saya”. Pindah rumah memerlukan biaya mulai dari 70 000 ₽, semakin jauh semakin mahal, dan tidak lebih dari sebulan sekali. Halaman parkir gratis untuk 3 mobil, tidur di rumah, dan apartemen pemula ikut berpindah bersamamu
+- Mobil yang kamu jual bisa kembali ke pasar: sebulan kemudian pemilik baru terkadang memasangnya kembali di iklan — dengan harga mereka sendiri dan dalam kondisi saat kamu menjualnya. Diperbaiki — nilainya lebih tinggi; dijual dalam kondisi rusak — lebih murah
+- P-Bank: kamu bisa langsung mentransfer uang ke Ibu, Ayah, Nenek, atau teman — dan pesan hangat akan dibalas sebagai gantinya
+- P-Bank: pengeluaran ditampilkan dalam bentuk grafik animasi besar dan diagram batang, untuk jangka waktu seminggu atau sebulan
+- “Mendesak” yang sesungguhnya: iklan yang sudah tayang lebih dari tiga bulan harganya akan turun setiap minggu (hingga −20%) — pada feed terlihat harga lama yang dicoret
+- Cuci mobil “Mandiri”: cuci mobilmu sendiri seharga 200 ₽ — butuh waktu lebih lama (satu setengah jam), tetapi hemat biaya
+- Mode awal game (beta): “Mudah” — modal awal tiga kali lipat; “Normal” dan “Hardcore” — kurang dari setengahnya
+- Drive Ace: di Pengaturan → “Aplikasi” kamu bisa memilih kontrol kemudi (sentuhan jari dan tepi layar, hanya jari, hanya tepi layar) dan posisi tombol nitro — tengah, kiri, atau kanan
+- “Editor” di halaman kedua: setelah menyelesaikan semua pencapaian, kamu bisa memposting iklanmu sendiri di AvtoBuy — merek, harga, kota, kerusakan, jebakan tersembunyi, dan foto
+- Pembeli menawarkan tukar-tambah, tetapi kamu butuh uang? Tombol “Hanya tunai, tanpa tukar-tambah” — sekitar separuh pembeli akan setuju membayar sedikit lebih rendah dari nilai tukar-tambah
+- Gugatan hukum terhadap penjual: saat pemeriksaan “semuanya baik-baik saja”, tetapi di rumah muncul kerusakan atau bekas cat tersembunyi — dalam waktu 10 hari setelah pembelian kamu bisa menyewa pengacara dari kartu mobil. Sidang pengadilan butuh waktu 3–7 hari, dan kamu menang sekitar 6 dari 10 kali
+- (Beta) Sangat jarang pembeli menawarkan barter mobilmu dengan piring terbang Rick dari “Rick and Morty”. Kendaraan ini tidak bisa dijual maupun dinilai. Konon memberikan pencapaian rahasia
+- Garasi 20% lebih murah, dan harga sekarang bergantung pada kota: lebih mahal di Moskow dan St. Petersburg, lebih murah di kota-kota kecil
+- Di kota asalmu pada awal game terdapat iklan dua kali lebih banyak — 40 iklan (di game baru atau setelah reset)
+- Aplikasi pengumuman baru: “Penerbangan” (visa dan mobil dari Eropa), “Kontainer”, dan “Impor”
+- Kopek! Saldo di P-Bank dan di AvtoBuyCase kini memiliki pecahan kopek, serta kemenangan kasino dan cashback dibayarkan hingga ke pecahan kopek tepat
+- Kasino: taruhan mulai dari 5 ₽ di semua mode
+- Dua mesin baru di AvtoBuyCase. “Emas Texas”: lencana sherif adalah WILD, dan di atas gulungan terdapat garis pengali ×1…×15 — seluruh kemenangan dikalikan dengan angka yang mendarat di atasnya; pada putaran gratis pengali minimal ×2. “Kitab Anubis”: kitab berfungsi sebagai WILD sekaligus bonus; tiga kitab memberikan 10 putaran gratis dengan simbol khusus yang membuka ke seluruh gulungan dan membayar di semua baris
+- “Banteng Emas” seperti aslinya: seekor banteng duduk di bawah gulungan — sebelum “Kegilaan Banteng” ia berubah menjadi emas, dan terkadang hanya menggoda dengan menyala sekejap
+- “Klasik” menjadi sedikit lebih royal, “Banteng Emas” sedikit lebih pelit
+- Tombol “AUTO” pada slot kini terlihat jelas
+- Panggilan telepon: lebih banyak variasi kalimat — tentang kondisi mobil, surat-surat, jarak tempuh, tukar-tambah, dan lokasi untuk melihat mobil. Penjual bisa keceplosan tentang jebakan pada mobil. Di malam hari hampir tidak ada yang mengangkat telepon; pagi-pagi sekali dan larut malam — sekitar separuh waktu terjawab
+- Rolet polisi lalu lintas: putar otomatis — 10, 25, atau 50 percobaan hingga kelas pelat yang diinginkan, dalam mode cepat atau lambat
+- Manipulasi jarak tempuh: DetalBuy menjual “Korektor Jarak Tempuh”. Mobil yang dimanipulasi kilometernya berharga lebih mahal, tetapi sekitar setiap pembeli keempat datang membawa pemindai — mereka akan memergokinya dan meminta diskon 30%
+- Saat pertemuan: mobil yang ditawarkan pembeli untuk tukar-tambah kini bisa diperiksa — secara kasat mata, dengan alat ukur cat, dan pemindai OBD. Jika menemukan jebakan, tolak tukar-tambah tanpa penalti reputasi
+- Alarm kini berdering di dalam game juga: pada waktu yang diatur — muncul layar alarm dengan opsi “Tunda 10 menit” dan “Matikan”
+- “Konstruksi”: pemasangan “sempurna” membayar ganda, rentetan “sempurna” melebarkan kembali lempengan, dan setiap 10 lantai tanpa runtuh — ada bonus untuk setiap lempengan
+- Drive Ace: mobil yang searah muncul jauh di depan dan memudar dari kabut, alih-alih mendadak muncul tepat di depanmu
+- Mobil Rick kini memiliki gambar
+- Pesan di bagian bawah layar tidak lagi menumpuk dalam antrean: pesan baru langsung menggantikan pesan lama dan menghilang setelah beberapa detik; bisa juga disingkirkan dengan digeser
+- Pool taksi telah beroperasi! Kemudikan mobilmu sendiri: tampilan dari atas pada peta distrik (setiap kota memiliki peta uniknya sendiri), jemput penumpang dan antar mereka ke alamat tujuan — perjalanan mulus tanpa benturan menghasilkan tip, dan setiap benturan dengan rumah atau mobil memotong bayaran. Hingga 8 jam waktu game di balik kemudi per hari, bensin dipotong dari pendapatan. Atau pekerjakan sopir: setiap hari ada kandidat baru dengan keahlian, kehati-hatian, dan bagi hasil yang berbeda. Serahkan mobilmu kepada sopir — dan sekali sehari mereka menyetorkan hasilnya. Sopir yang ceroboh bisa merusak mobil, dan beberapa bahkan tidak menyetorkan pendapatan sama sekali
+- Taksi adalah game mini yang lengkap: distrik tiga kali lebih besar, dengan nama-nama jalan dan bangunan penting (stasiun, pusat perbelanjaan, rumah sakit…). Pesanan masuk sebagai tawaran — terima atau lewati. Navigator menggambar rute dan memberi petunjuk belokan, dengan peta mini di sebelah kanan. Jenis pesanan: “Buru-buru” (tiba tepat waktu), “Nyaman” (tip berlimpah, tetapi tidak menoleransi benturan), “Rombongan”. Benturan kini terasa nyata — percikan api, guncangan, penyok: pada ketahanan nol shift berakhir dan mobil harus diperbaiki. Penumpang memberikan bintang, kamu memiliki peringkat, dan lima bintang beruntun memberikan bonus streak. Mobil mahal mendatangkan tarif lebih tinggi. Di malam hari — lampu depan dan lampu jalanan menyala, dan di akhir shift ada ringkasan hasil
+- Taksi tidak lagi tersendat-sendat, dan jam di bagian atas terlihat kembali
+- “Pesan” menggantikan ikon “Obrolan” biru di dock: dalam satu aplikasi terdapat obrolan dengan kerabat sekaligus obrolan iklan AvtoBuy
+- Kerabat tidak selalu membalas seketika: mereka bisa membalas dalam beberapa menit atau jam, di malam hari baru dibalas pagi harinya, atau membaca pesan dan tetap diam. Pinjaman uang tiba bersama balasan pesan
+- Aplikasi “Pesan”: obrolan dengan kerabat — Ibu, Ayah, Nenek, Kakek, Sanya, saudari perempuan, dan Bibi Lyuba. Kamu bisa mengobrol santai, atau meminjam uang tanpa bunga selama 14 hari. Lunasi tepat waktu dan lain kali mereka akan meminjamkan lebih banyak; terlambat — lebih sedikit; dan siapa pun yang menunggak utang selama seminggu tidak akan bisa meminjam lagi. Transfer uang dari kerabat kepadamu dan darimu juga ditampilkan di obrolan
+- Perbaikan sebelum menjual kini menguntungkan: penjual memperhitungkan cacat dalam harga iklan, pembeli memotong harga lebih besar untuk cacat yang belum diperbaiki daripada biaya perbaikannya, dan bagian yang dicat ulang setelah perbaikan tidak menurunkan harga terlalu drastis
+- Lelang telah beroperasi: setiap hari lima lot yang tidak ada di iklan — mobil pengembalian leasing, mobil sitaan, kendaraan langka, dan mobil afkir dari asuransi. Penawaran langsung: penghitung waktu mereset setiap kali ada tawaran baru, dealer saingan menawar hingga batas mereka, dan beberapa menawar di detik terakhir. Mengikuti lelang memerlukan uang jaminan (dikembalikan jika kalah), dan pemenang membayar komisi 5%
+- Kontainer: penawaran lelang buta untuk kontainer tersegel dari bea cukai dan gudang pelabuhan. Kamu tidak bisa melihat ke dalam — hanya petunjuk samar (“roda terlihat”, “ban bekas”), dan salah satu petunjuk bisa menipu. Di dalamnya — mobil, suku cadang (bisa langsung dijual ke DetalBuy), barang inventaris, atau barang rongsokan. Jika menang, kamu membukanya sendiri
+- Penerbangan: terbang berburu mobil ke Jerman, Polandia, Lituania, atau Republik Ceko. Pertama urus visa (ada biaya, tunggu 4–9 hari, dan bisa ditolak — lebih jarang ditolak jika reputasimu bagus). Di lokasi kamu memeriksa mobil secara langsung dan melihat hal-hal yang tidak ditulis oleh penjual. Pulang — dikemudikan sendiri (cepat, tetapi berisiko kecelakaan) atau menggunakan truk pengangkut mobil. Saat impor — ada bea cukai dan biaya daur ulang: mobil berusia 3–5 tahun adalah yang paling menguntungkan
+- Impor: pesanan mobil dari lelang Jepang, Korea, Tiongkok, dan UEA. Kamu bisa melihat lembar lelang dengan nilainya — dari 5 (seperti baru) hingga R (rusak), dan lembar lelang terkadang melebih-lebihkan kondisi mobil. Pengiriman memakan waktu berminggu-minggu, dengan kemungkinan keterlambatan di bea cukai dan kerusakan di perjalanan. Bea masuk, sertifikat SBKTS, dan dokumen EPTS dibayar saat pemesanan
+- Tuning: velg, remap chip, knalpot, stiker bodi, kaca film, lowering kit, peredam suara. Tuning yang tepat meningkatkan nilai mobil lebih besar dari biayanya; pengerjaan asal-asalan menaikkan nilainya lebih sedikit; pada mobil murah orang menghargai hal tertentu, pada mobil mahal hal lainnya. Kaca film terlalu gelap, knalpot bising, dan mobil terlalu ceper terkadang ditilang oleh polisi lalu lintas
+- Gaya antarmuka di Pengaturan: Android atau iOS. Pada gaya iOS, alih-alih tiga tombol terdapat home bar (ketuk atau geser ke atas — ke layar beranda, tahan — beralih tab), kembali dengan menggeser dari tepi kiri, serta transisi dan pengguliran persis seperti di iPhone
+- Cuci mobil manual sungguhan: semprotkan busa, gosok dengan spons, bilas dengan air, dan keringkan — semuanya dengan jarimu di atas mobil. Dicuci bersih — mengilap selama 3 hari, seperti setelah salon mobil; dicuci sembarangan — hanya bertahan satu atau dua hari
+- “Kitab Anubis” menjadi spesial: terkadang mumi berjalan terbangun — ia melangkah ke seluruh gulungan sebagai WILD dan memberikan putaran gratis berulang, berjalan ke kiri hingga keluar dari arena
+- Avatar untuk penjual dan pembeli: setiap orang memiliki wajahnya sendiri — di iklan, di obrolan, di daftar obrolan, dan saat panggilan telepon
+- Feed AvtoBuy dengan tampilan baru: kartu bersudut bulat, penghitung foto, spesifikasi berbentuk chip, serta penjual dengan foto wajah dan peringkat
+- Paspor diterbitkan bertahap: foto, nama lengkap, jenis kelamin dan tanggal lahir, lalu pemeriksaan. Di bagian atas — buku paspor terbuka yang terisi seiring langkahmu
+- Di Editor kamu bisa menambahkan fotomu sendiri dari galeri ponsel (tekan lama untuk menghapus)
+- Kota baru — Berdyansk
+- Pengaturan memiliki menu baru “Gaya antarmuka” — segera kamu bisa membuat tampilan ponselmu seperti iPhone atau Android
+- Tampilan baru untuk aplikasi bisnis — Lelang, Kontainer, Penerbangan, Impor, dan Tuning: gaya gelap yang elegan, angka nominal besar, ikon jelas tanpa emoji, tanpa bingkai atau gradien mencolok. Tombol, jendela, lembaran formulir, kolom input, dan pesan kini konsisten dan rapi di seluruh game. Ini tahap pertama desain baru — layar utama berikutnya
+- Penerbangan sungguhan: kamu memilih jadwal penerbangan (pagi lebih murah, sore lebih mahal; masing-masing memiliki maskapai, nomor penerbangan, waktu tempuh, dan sisa kursi) serta kelas tarif — “Ekonomi” non-refundable, atau “Fleksibel”: jika pulang tanpa membawa mobil, 60% biaya dikembalikan. Kemudian pas naik (boarding pass) dengan nama, kursi, dan gerbang keberangkatanmu, penerbangan di atas peta, dan pemeriksaan mobil di tempat penjual. Waktu game berjalan jujur: hingga keberangkatan, penerbangan itu sendiri, dan perjalanan menuju mobil
+- Visa kini diurus di GosBuy: tab “Visa” baru — formulir pengajuan, biaya konsuler, waktu pemrosesan, dan peluang penolakan. Kamu membutuhkan paspor. Ada tombol di “Penerbangan” yang mengarah ke sana
+- Kontainer: sebuah pilihan — tawar-menawar lelang (lebih murah, tetapi tawaranmu bisa dilampaui) atau beli langsung (lebih mahal, tetapi pasti dapat). Tampilan khas terminal pelabuhan: kontainer digambar dengan nomor di sisinya, petunjuk berupa manifes pemeriksaan, pintu berayun terbuka saat dibuka, dan di akhir kamu melihat apakah kamu untung atau rugi
+- Impor dengan tampilan baru, menyerupai lembar lelang asli: nomor lot, lokasi lelang, nilai kondisi dalam bingkai, huruf kondisi bodi dan interior, kalkulasi siap pakai, dan penghematan dibanding harga pasar. Pelacakan pesanan dalam perjalanan berdasarkan tahapan: dibeli, di pelabuhan, di laut, di bea cukai, menuju rumah
+- Tuning layaknya perbaikan: paket dibeli di DetalBuy (bagian “Tuning” baru — asli dan aftermarket, pengiriman beberapa hari), dan dipasang di bengkel dengan biaya atau sendiri di garasi — gratis, tetapi lebih lambat. Velg, kaca film, dan peredam suara bisa dipasang sendiri; knalpot dan ceper suspensi — membutuhkan lift mobil; remap chip dan stiker wrap — hanya di bengkel. Mobil berada di bengkel selama waktu pengerjaan. Pembeli menilai suku cadang aftermarket lebih rendah daripada yang orisinal
+- Lelang: bagasi mobil yang dimenangkan terkadang masih menyimpan barang-barang pemilik sebelumnya — amplop berisi uang, barang inventaris, atau pelat nomor. Paling sering ditemukan pada mobil sitaan
+- Sewa bulanan — uang masuk setiap bulan, bukan di akhir masa sewa. Masa sewa bisa diperpanjang tidak lebih dari tiga bulan ke depan. Sewa jangka panjang yang sudah berjalan juga beralih ke pembayaran bulanan, dan bulan-bulan yang sudah lewat langsung dibayarkan sekaligus
+- Editor: hingga 10 foto per iklan, bisa memilih beberapa sekaligus dari galeri. Ukuran foto lebih ringan, lebih banyak yang muat, dan bagian atas menampilkan ruang penyimpanan yang digunakan oleh fotomu
+- Editor: iklanmu bisa disimpan ke dalam file (tombol “Bagikan” di atas) dan dikirim ke teman — mereka bisa memuatnya ke Editor mereka sendiri. Fotomu ikut tersimpan di dalam file tersebut
+- Kota-kota baru: Almetyevsk (Tatarstan), Voskresensk (Wilayah Moskow), dan Kashin (Wilayah Tver)
+- Desain tahap kedua: pesan di bagian bawah layar kini berupa strip gelap rapi dengan ikon yang sesuai maknanya (sukses, eror, perhatian), bukan lagi strip warna-warni mencolok dan emoji. Garasi dibuka dengan ringkasan mirip portofolio: total nilai armada dalam huruf besar dan perkiraan keuntungan di atas harga beli, serta untuk setiap mobil ditampilkan proyeksi untung jika dijual sesuai taksiran. Tombol tawar-menawar di obrolan — tiga gaya tenang alih-alih warna pelangi; kalimat tambahan tentang obrolan AI dihapus. P-Bank menghilangkan pendar oranye, sedangkan PlameFinance, “Misi”, “Pool taksi”, dan “Musik” menghilangkan gradien dan judul ber-emoji. Kerabat di “Pesan” memiliki ilustrasi wajah, seperti halnya penjual
+- Desain tahap ketiga: emoji dihapus dari tombol, judul, dan petunjuk di seluruh game — pertemuan, tawar-menawar, MestoBuy, bengkel, pelat nomor, uang muka, Konstruksi, taksi (suasana hati penumpang kini berupa ikon). Header MestoBuy dan AvtoHistory kini bergaya datar, begitu juga tombol promosi iklan, layar masuk P-Bank, layar perjalanan, panggilan telepon, dan jendela peringkat pelat nomor
+- Taksi: jalanan terasa lebih lega — mobil tampak lebih kecil relatif terhadap jalan, dan jumlah mobil lain berkurang setengahnya. Kemudi berbelok mulus dan cepat kembali ke tengah; pada kecepatan tinggi mobil berbelok lebih halus dan tidak menabrak rumah. Mobil tidak lagi otomatis tertarik ke tengah jalan. Gesekan ringan hanya menimbulkan goresan, bukan kecelakaan
+- Mod pack di Editor: iklanmu bisa disimpan sebagai mod pack — lengkap dengan nama, pembuat, dan deskripsi — lalu dikirim sebagai file. Sebelum memasang, teman bisa melihat isinya, dan versi baru dari paket yang sama akan menimpa versi lama. Paket terpasang ditampilkan terpisah dari iklan buatanmu sendiri, dan masing-masing bisa dihapus seluruhnya. Hingga 60 iklan dalam feed
+- Buku Catatan: sekarang kamu bisa menulis catatanmu sendiri di dalamnya — harga, janji orang, mobil yang kamu incar. Baris pertama menjadi judul, dan semuanya tersimpan otomatis. Catatan pembaruan, tips, dan kredit pembuat tetap ada di tempatnya. Catatan adalah bagian dari ponsel: tidak akan hilang saat berganti slot penyimpanan atau mereset progres
+- Kerabat meminta pinjaman uang sendiri: sekali setiap satu atau dua minggu seseorang akan mengirim pesan meminjam sedikit uang. Bantu mereka dan mereka akan mengembalikannya tepat waktu; lain kali kamu meminjam, mereka akan meminjamkan lebih banyak dan jarang menolak dengan alasan “kami sendiri sedang pas-pasan”. Kamu bisa menolak tanpa membuat mereka sakit hati. Kamu bisa membalas langsung di obrolan atau lewat transfer di P-Bank — transfer yang tidak lebih kecil dari permintaan dihitung sebagai pinjaman
+- Kota-kota baru: Mendeleevsk (Tatarstan) dan Belebey (Bashkortostan)
+- Rolet polisi lalu lintas: opsi “Cepat” tidak lagi mengeluarkan pelat secara instan — simbol berputar seperti sebelumnya, hanya saja berlangsung cepat. Seri “hingga kelas tertentu” juga berputar di depan matamu. Teks ringkasan di bagian bawah layar (“N percobaan, dihabiskan…”) telah dihapus
+- Apartemen atau rumah bisa dijual: MestoBuy → “Milik Saya” → “Jual”. Kamu menentukan harga — pembeli akan mengirim pesan tawaran sendiri (semakin murah iklan, semakin cepat tawaran masuk), dan kamu bisa tawar-menawar dengan masing-masing pembeli: hingga batas mereka pembeli akan setuju, di atas itu mereka menyebutkan harga terakhir, dan jika kamu menekan lebih jauh mereka akan pergi. Mendesak — agensi properti langsung membelinya seharga 75–80% dari nilai taksiran. Properti yang sedang disewakan harus dikosongkan terlebih dahulu; apartemen pemula tidak bisa dijual
+- Lelang berlangsung interaktif: sebelum penawaran dimulai ada waktu 15 detik untuk memeriksa lot — kamu bisa melihat dua dari empat area (bodi, mesin, interior, dokumen) dan menemukan hal-hal yang tidak tercantum dalam penilaian taksiran. Selama penawaran, juru lelang berseru “Satu… dua… Terjual!”, dan para saingan menunjukkan karakter mereka (bersemangat, penembak jitu, berhati-hati, dealer): saat mencapai batasnya mereka ragu-ragu, lalu menyatakan “lewat”. Kamu bisa menawar bukan hanya satu langkah kelipatan tetapi lompat +3 dan +5 kelipatan — lompatan tawaran menakut-nakuti peserta yang berhati-hati, sementara yang bersemangat ikut melompat. Hal yang sama berlaku untuk Kontainer, ditambah sekali per lelang kamu bisa mengintip celah kontainer
+- 193 iklan baru dengan foto dari komunitas — pelat nomor di bawah emblem AvtoBuy, emblem merek disembunyikan. Foto dikompresi; ukuran game bertambah kurang dari 30 MB
+- Garasi: pengurutan (berdasarkan tanggal pembelian, nilai taksiran, keuntungan, tahun, kota, merek), filter “Dijual”, “Perlu perbaikan”, “Di kota ini”, “Di bengkel / dalam perjalanan”, dan pencarian. Mobil yang disematkan tetap berada di paling atas
+- Crash di AvtoBuyCase: pengali terus naik, dan sewaktu-waktu grafik bisa terbang lenyap — cairkan tepat waktu sebelum terlambat. Tersedia pencairan otomatis pada ×1.5…×10. Situs memiliki keunggulan bandar, seperti pada game lain: terkadang grafik terbang lenyap tepat di ×1.00, tetapi lonjakan hingga ×50 juga bisa terjadi
+- Tab AvtoBuyCase tidak lagi berdesakan dalam satu baris: kini jumlahnya banyak, dan bilah tab bisa digeser ke samping
+- “Pesawat Kecil” di AvtoBuyCase: pesawat lepas landas dari kapal induk dengan penghitung di angka ×1, mengambil bonus dan pengali hingga ×5 di sepanjang rute, sementara rudal berusaha menembak jatuh dan memotong penghitung menjadi dua. Di akhir, pesawat bersiap mendarat: mendarat di kapal induk — kemenangan berupa angka pengali × taruhan; meleset — taruhan hangus. Berhasil mendarat di sekitar setengah dari seluruh penerbangan. Pemandangan langit indah dengan matahari terbenam, awan, pulau-pulau, kepulan jejak di belakang pesawat, kapal induk mendetail, dan rudal dengan semburan api
+- “Penambang” di AvtoBuyCase: tambang 10 baris. Di setiap baris kamu memukul satu blok dengan beliung — blok utuh mengungkap bijih tambang, kamu turun lebih dalam dan pengali meningkat; jika terkena reruntuhan batu taruhan hangus. Kamu bisa mencairkan hasil rampasan setelah baris mana pun. Empat jenis batuan — dari mudah (satu dari empat reruntuhan) hingga ekstrem (dua dari tiga reruntuhan)
+- “Beliung” di AvtoBuyCase: arena blok seperti di Minecraft — tanah, batu, batu bara, besi, emas, berlian, dan dinamit; semakin dalam semakin kaya. Satu beliung: 14 kali jatuh ke dalam kolom dan menghancurkan blok dengan sendirinya. Dimulai dari beliung kayu, dan setelah memecahkan batu, besi, atau berlian ia berubah menjadi beliung batu, besi, dan berlian — memukul semakin kuat. Bijih yang hancur dihitung sebagai kemenangan, dan dinamit meledakkan semua blok di sekitarnya
+- Folder di layar beranda, seperti di iPhone: tahan satu ikon di atas ikon lain untuk membuat folder, seret ikon ke folder — ikon akan masuk ke dalam. Folder terbuka menampilkan latar layar beranda yang buram, nama besar (ketuk untuk mengganti nama), dan panel kaca berisi aplikasi. Tahan aplikasi di dalam folder — tanda “−” muncul untuk mengeluarkannya kembali. Folder dengan satu aplikasi akan menghilang dengan sendirinya
+- Ikon baru untuk aplikasi di halaman kedua: Kalkulator, Pelat Nomor, Musik, DetalBuy, Lelang, Tuning, Penerbangan, Kontainer, Impor, Pool taksi, ditambah Konstruksi, Misi, dan “Dukungan” — gambar ilustrasi menggantikan ikon sederhana
+- Tingkat kesulitan — layar terpisah di awal game, setelah paspor dan sebelum kata sandi: “Mudah”, “Normal”, atau “Hardcore”. Dipilih untuk seluruh sesi permainan dan tidak hanya mengubah modal awal tetapi juga seberapa sering pembeli mengirim pesan
+- Berita bisa dibuka: ketuk cuplikan berita dan artikel lengkap akan terbuka. Di berita pasar — mengapa peristiwa itu terjadi, merek apa saja yang terpengaruh, dan sampai tanggal berapa
+- Berita di Browser — situs web “AvtoVesti”: apa yang sedang terjadi di kota dan di pasar mobil. Setiap tiga hari sebuah berita pasar dirilis — permintaan untuk mobil Jepang, Jerman, Korea, Tiongkok, Amerika, atau domestik naik atau turun, dan selama tiga hari berikutnya pembeli benar-benar lebih sering atau lebih jarang mengirim pesan mengenai iklan tersebut
+- Membuka kontainer dalam dua tahap: kamu membuka pintu lebar-lebar — ban-ban bekas berada di dekat pintu masuk, sorotkan senter ke bagian dalam — dan dari kegelapan tampak siluet hitam mobil dengan lampu belakang menyala, peti-peti suku cadang, kotak-kotak, atau tumpukan rongsokan lainnya. Kontainer kini memenuhi seluruh lebar layar dan digambar persis seperti aslinya: pintu dengan engsel, palang pengunci dan segel, lantai kayu, serta berkas cahaya senter berdebu. Kontainer di terminal juga semakin mendetail — fitting sudut, rusuk dinding, dan bekas karat
+- Game menjadi lebih menantang: pembeli lebih jarang mengirim pesan, jauh lebih sedikit untuk mobil mahal (pembeli untuk mobil berharga puluhan juta sangat langka), dan ketika ada banyak iklan, pembeli yang sama terbagi di antara iklan-iklan tersebut. Pembeli kini membayar lebih tidak lebih dari 8% dari nilai taksiran
+- Taksi: banner iklan muncul di bagian atas, dan kartu pesanan baru berukuran kecil di bagian atas, di bawah bilah status, serta tidak lagi menghalangi pandangan jalan
+- Subsidi tanpa internet: video pengganti berjalan selama 15–30 detik, persis seperti iklan sungguhan
+- Iklan Rolls-Royce Boat Tail mendapatkan deskripsi yang layak
+
+
+DRIVE ACE
+
+- Jalur lawan arah kini selebar tiga jalur, persis seperti jalur yang searah: kamu bisa bermanuver jauh ke kiri, tetapi mobil lawan arah melintas di ketiga jalur tersebut
+- Game berjalan lebih cepat: angka di spidometer tetap sama, tetapi segala sesuatu di sekitarmu melintas jauh lebih cepat — kini terasa lebih menantang
+- Petunjuk tentang jalur lawan arah (tanda jari di bagian bawah dan atas) hanya ditampilkan pada balapan pertama. Setelah itu, tepi layar yang memerah akan memperingatkanmu tentang kendaraan lawan arah di jalurmu
+- Kemudi bebas: seret jarimu — mobil akan mengikutinya, alih-alih melompat kaku di antara tiga jalur. Kamu juga bisa cukup menahan jari di sisi kiri atau kanan. Di komputer — gunakan tombol panah atau tombol A dan D
+- “Nyaris serempet” kini hanya dihitung untuk aksi menyalip yang benar-benar rapat, tidak lagi di hampir setiap kali menyalip. Beberapa kali berturut-turut menghasilkan streak: ×2, ×3, hingga ×5 poin
+- Polisi lalu lintas tidak lagi menilangmu karena menyalip biasa di jalur sebelah — sebelumnya mobil di jalur tengah tidak bisa menghindari tilang. Denda hanya berlaku jika kamu menyalip terlalu rapat atau melesat kencang menggunakan nitro
+- Menyalip rapat truk atau bus kini juga dihitung sebagai “nyaris serempet” — sebelumnya kendaraan panjang menghilang sebelum kamu sempat menyalipnya
+- Bagian samping truk dan bus di kejauhan tidak lagi menghilang — garis bodi, jendela, dan roda langsung terlihat jelas
+
+
+DIPERBAIKI
+
+- Saat pertemuan setelah membayar uang muka, kamu bisa melihat berapa banyak yang telah dibayar dan berapa sisa yang harus dilunasi: tombol “Bayar sisa” menggantikan harga penuh
+- Kerabat: status “online” tidak lagi meloncat-loncat tidak menentu — kamu bisa melihat kapan orang tersebut terakhir kali online
+- Kerabat tidak lagi meminjamkan uang kepada semua orang secara serentak di awal: kamu hanya bisa meminjam dari maksimal dua orang, dan totalnya tidak lebih dari 40 000 ₽
+- GosBuy: bagian footer situs web kini dipasang permanen di bagian bawah halaman
+- Peta “Transportasi” tidak lagi terputus ke lautan di bagian tepi saat diperkecil maksimal
+
+- Rolet polisi lalu lintas: huruf pertama pada pelat nomor tidak lagi memiliki “bayangan”. Karakter pelat tetap di tempatnya dan tidak bergetar saat karakter di sebelahnya berkedip
+- Beliung: setelah berhenti, serpihan dari pukulan terakhir tidak lagi melayang di atas arena
+- Manipulasi jarak tempuh: pembeli yang membawa pemindai tidak lagi menuntut diskon 30% untuk pemunduran spidometer beberapa kilometer saja. Pemunduran kecil tidak terdeteksi oleh pemindai, dan diskon diminta berdasarkan seberapa banyak pemunduran tersebut menaikkan harga
+- Tawar-menawar di kap mobil: setelah penjual membalas, harga tidak lagi membeku dalam warna merah atau hijau selamanya, dan kerusakan yang sama tidak lagi muncul sebagai dua argumen terpisah
+- Tawar-menawar: penjual tidak lagi menerima tawaran harga di bawah batas minimumnya. Sebelumnya, dalam tukar-tambah, setelah penjual meminta “tambah 500 000 lagi” kamu bisa menawar 500 000 untuk mobil seharga 4.8 juta — dan dia membalas “Setuju!”
+- Foto buatanmu sendiri di Editor tidak lagi merusak penyimpanan di situs web: sebelumnya, saat memori browser penuh, proses penulisan terputus dan sebagian progres hilang
+- Jika kamu menutup game di tengah-tengah lelang, uang jaminan akan dikembalikan saat peluncuran berikutnya. Sebelumnya uang jaminan tersebut hilang
+- Mobil dari Impor tidak lagi bisa dipasang untuk dijual saat masih dalam perjalanan: sebelumnya mobil bisa dijual sebelum tiba, menghindari risiko kerusakan dalam pengiriman
+- Gugatan hukum terhadap penjual: putusan pengadilan keluar pada hari sidang, tepat pukul 12:00 (tanggal dan waktu tertera pada kartu mobil). Sebelumnya putusan baru keluar keesokan harinya, sehingga tampak seolah tidak terjadi apa-apa
+- Iklan, mod pack, dan foto Editor milikmu tidak lagi menghilang saat berganti slot penyimpanan — semuanya ikut berpindah bersamamu, dan Editor tetap terbuka di slot baru
+- Iklan tidak lagi membuat layar bergetar: area ruang iklan selalu memiliki tinggi yang sama (sebelumnya strip melompat saat memuat dan runtuh saat eror), dan banner baru dibuat setelah layar selesai terbuka, bukan di tengah animasi
+- Penurunan lag: di bawah HUD Drive Ace tidak ada lagi efek blur yang dihitung ulang di setiap frame, mobil yang memudar dari kabut lebih ringan dirender, equalizer musik di Dynamic Island tidak lagi menggambar ulang layar 60 kali per detik, serta jam, layar, dan bilah navigasi digambar ulang secara terpisah satu sama lain
+- Pembeli tidak lagi menghilang dari mobil yang sudah lama dipajang di iklan: sebelumnya, setelah pesan obrolan dihapus, pembeli baru sama sekali tidak mengirim pesan untuk mobil tersebut
+- Penjual menyebutkan “batas”-nya dalam angka bulat, dan jika kamu menawar lebih rendah lagi, dia akan memperingatkanmu terlebih dahulu sebelum memblokir obrolan
+- “Banteng Emas” menggoda separuh lebih jarang, dan putar otomatis pelat nomor kini memiliki jeda — kamu punya waktu untuk melihat setiap pelat
+- Saat iklan diputar sebelum tidur malam, waktu dalam game berhenti: sebelumnya pemain yang memiliki jadwal pertemuan pukul 9:00 terbangun pada pukul 10:00
+- Subsidi PlameFinance tidak lagi bisa diklaim berkali-kali dengan menekan tombol “Tonton video” secara berturut-turut
+- Penjual di obrolan tidak lagi meminta harga mobil lebih mahal daripada yang tercantum di iklan
+- Kotak hadiah terbuka lebih mulus: gulungan tidak lagi tersendat-sendat
+- Permintaan penjual “tambah lagi …” tidak lagi dianggap sebagai harga mobil: sebelumnya, setelah beberapa waktu berlalu, mobil bisa dibeli hanya dengan nominal tambahan tersebut
+- Pembeli tidak lagi menawarkan tukar-tambah dengan tambahan jutaan rubel: tambahan pembayaran maksimal 500 000 ₽
+- Di “Ranjau”, arena tidak lagi melorot ke bawah atau memotong baris paling bawah
+- Jendela pertama (tentang usia dan aturan) bisa digulir pada layar berukuran kecil — tombol tidak lagi terpotong di tepi
+- Jendela kebijakan privasi tidak lagi menghilangkan tanda centang dengan sendirinya setelah pembaruan: sebelumnya jendela menghilang setelah satu detik, dan hampir mustahil untuk melanjutkan game
+- Strip oranye dengan teks seperti “RSYa: loading…” tidak lagi muncul di atas layar — teks tersebut merupakan pesan teknis tentang pemuatan iklan
+- Pencarian kota pada layanan truk derek tidak lagi mereset sendiri setelah satu detik
+- Obrolan: jika kamu keluar dari obrolan saat lawan bicara sedang mengetik balasan, balasan tersebut tidak lagi hilang. Sebelumnya tombol tawar-menawar muncul kembali, dan bot menganggap tawaran berulang sebagai kelancangan lalu memblokir obrolan
+- Pelat nomor: hanya pelat nomor cantik yang bisa dilepas. Sebelumnya, melepas pelat nomor biasa tanpa henti menciptakan pelat nomor baru di tempat penyimpanan
+- Karakter pada pelat nomor tidak lagi “meloncat” tinggi dan ketebalannya: pelat kini memiliki font tersendiri yang sama di semua ponsel
+- PlameBlocks: tulisan “Super!” dan lainnya tidak lagi muncul dua kali
+- Situs avtobuy.space dapat diakses kembali di Rusia tanpa VPN
+- Subsidi PlameFinance tidak lagi bisa “dikeruk” secara offline: sebelumnya tanpa koneksi muncul gambar pengganti alih-alih video, dan uang diberikan pada setiap ketukan. Sekarang tanpa iklan subsidi hanya bisa diambil sekali sehari
+
+- Dynamic Island tidak lagi menghilang saat kamu menjeda musik: pemutar musik tetap ada, dan bisa dinyalakan kembali
+- Layar perjalanan: penanda rute tidak lagi tertinggal di belakang — perjalanan tidak selesai sebelum penanda mencapai kota tujuan
+- “Musik” dan “Dokumen” mobil: bagian header kini sama seperti pada aplikasi lainnya
+- Drive Ace: di jalur lawan arah tidak ada lagi layar biru (di malam hari — hitam) dan lag saat mobil lawan arah melintas di dekatmu
+- Tawar-menawar di obrolan: jika kamu keluar dari obrolan lalu kembali lagi, penjual tidak lagi “lupa” bahwa kamu menawar dengan jujur — hanya tawaran lancang yang menghabiskan kesabarannya. Sebelumnya setelah beberapa langkah penawaran wajar dan masuk kembali, tawaran rendah pertama langsung memblokir obrolan
+- Tawar-menawar di obrolan: barang yang sudah disepakati oleh penjual (barter) tidak lagi hilang saat kamu masuk kembali ke obrolan. Sebelumnya diskon tetap ada, tetapi barang tidak dipotong saat transaksi berlangsung
+- Diskon yang disepakati dengan pembeli saat pertemuan tidak lagi menjadi harga patokan mobil tersebut di obrolan
+- Pembeli yang sudah membayar uang muka dan tidak hadir saat pertemuan — uang muka tetap menjadi milikmu. Sebelumnya setelah tiga hari kartu diblokir karena hal tersebut, dianggap sebagai penipuan. Dan dengan uang muka, pembeli kini hampir selalu hadir
+- Penjual memintamu untuk “menambah” uang dan kamu menekan tombol “Beli” — pembelian berjalan sesuai harga terakhirnya, bukan lebih murah
+- Menggeser kembali dari kartu mobil tidak lagi memunculkan keyboard pencarian secara tiba-tiba
+- Setelah mereset progres, “Konstruksi” tidak lagi menghilang dari layar beranda
+- Dynamic Island ukurannya lebih kecil dan tidak lagi menutupi ikon Wi‑Fi serta jam
+- Tombol “+” di AvtoBuy tidak lagi menutupi atau melorot dari tombol panel
+- Jika kamu mengetuk nama kota beberapa kali dengan cepat di awal game, kamu tidak lagi mendapatkan beberapa mobil awal dan modal ganda
+- Rolet polisi lalu lintas dalam mode cepat “hingga kelas tertentu” tidak lagi menghabiskan uang secara membabi buta: sebelum rangkaian putaran dimulai kamu bisa melihat biaya per percobaan dan batas maksimalnya (tidak lebih dari 50 percobaan); sebelumnya rangkaian putaran bisa berjalan hingga 300 percobaan
+- Waktu di dalam game mini, pada perjalanan, dan di “Konstruksi” berjalan mulus, tidak lagi meloncat sekali setiap detik
+- Pembeli saat pertemuan tidak lagi meminta puluhan ribu “untuk bensin”: sekarang hanya 2–5 ribu ₽, setara dengan satu tangki penuh
+- Tanggal lahir di paspor tidak lagi tereset saat kamu memilihnya, dan kamu tidak bisa memilih usia di bawah 18 tahun
+- Font sistem yang besar pada ponsel tidak lagi merusak tata letak game
+- File mp3 milikmu sendiri ditambahkan ke “Musik” dengan lebih stabil: file apa pun bisa dipilih, dan file yang tidak sesuai akan dilewati disertai petunjuk
+- Progres tidak lagi hilang setelah instal ulang karena musik milikmu sendiri: file trek tidak lagi dimasukkan ke dalam cadangan Google, karena file tersebut membebani kapasitas cadangan sehingga cadangan tidak tersimpan penuh
+- Feed AvtoBuy setelah pemfilteran merek tidak lagi berubah menjadi persegi panjang abu-abu setelah mobil pertama
+- Tombol cuci mobil pada kartu mobil tidak lagi rusak: teks tidak lagi bertumpuk vertikal, dan tombol “Cuci” serta “Mandiri” berada di tempatnya
+- Setelah mereset progres, “Konstruksi” dan “Misi” tetap berada di tempatnya pada layar beranda
+- Bagian filter, Editor, pindah rumah, slot penyimpanan, dan pengaturan aplikasi kini memiliki header tipis, persis seperti aplikasi lainnya
+- Tombol kalimat cepat dalam panggilan telepon kini terlihat jelas juga pada tema terang
+- Tukar-tambah saat pembelian: ketika penjual meminta tambahan pembayaran, tombol “Setujui tukar-tambah” muncul disertai nominal tambahannya. Sebelumnya tombol “Beli” malah membeli mobil dengan uang tunai alih-alih tukar-tambah
+- Tawar-menawar: jika penjual menyetujui penukaran barang dan menurunkan harga, tetapi balasannya belum terkirim, setelah masuk kembali ke obrolan tawar-menawar tidak lagi dimulai dari harga awal iklan
+- Label kolom input (paspor, Editor, nama di awal game) tidak lagi menonjol keluar dari kolom — label melayang rapi di dalam kolom
+- Jendela putar otomatis pada slot: label kolom tidak lagi melorot ke bingkai; jumlah putaran dan batas berhenti kini bergaya sama dengan situs web
+- SIM di GosBuy: kategori “B, B1, M” tidak lagi menutupi tepi di bawah foto
+- “Penggantian paspor”: bagian header tidak lagi melorot ke bawah setinggi bilah status
+- Pengurangan lag dari iklan: layar yang tertutup oleh layar lain tidak lagi mempertahankan bannernya (sebelumnya bisa ada tiga banner sekaligus yang semuanya dirender setiap frame), banner feed tidak lagi dibuat ulang saat memuat, dan tidak ada lagi banner atas pada cuci mobil manual
+- Di AvtoBuyCase tombol pengalih “Cepat” menggunakan ikon alih-alih emoji kilat
+- Pada situs web dari komputer, feed bisa digulir menggunakan mouse: tab kasino, filter, dan peserta lelang saingan
+- Penawaran Lelang dan Kontainer: teks lebih ringkas — feed hanya menampilkan tawaran dan kata “lewat”, tanpa komentar obrolan, dan para peserta saingan ditampilkan sebagai tag ringkas. Di Kontainer bagian header dengan manifes dibuat kecil dan tidak lagi menutupi tawaran di bawahnya
+- Garasi: header yang berisi nilai total armada kini berupa satu baris, serta bilah pencarian dan filter ikut tergulung ke atas bersama daftar mobil — memberikan lebih banyak ruang untuk mobil-mobilmu
+- “Pesan”: header berukuran tipis, seperti pada aplikasi lainnya, termasuk pada obrolan dengan kerabat
+- Drive Ace: marka jalan putus-putus terlihat jauh ke depan, alih-alih baru muncul tepat di depan mobil
+- Situs web di iPhone (Safari): pada tema gelap jam dan ikon di bagian atas tidak lagi menghilang — sebelumnya ikon berwarna hitam di atas latar belakang gelap
+- Pelat nomor: seluruh pelat digambar dalam satu baris dengan bayangan bersama — huruf pertama tidak lagi tampak berbeda dari huruf lainnya
+- Pelat nomor: huruf pertama tidak lagi tampak seperti glif yang salah. Dengan pengaturan font besar di ponsel karakter sebelumnya tidak pas: huruf pertama menumpuk baut pelat, dan tanda silang baut melintang di atas huruf kedua. Sekarang tampilan pelat tidak bergantung pada ukuran font, dan tulisan “RUS” di bawah kode wilayah tidak lagi terpotong
+- Nomor kontainer di jendela penawaran lelang tidak lagi menonjol melewati tepi gambar
+- Tawar-menawar: penjual tidak lagi setuju memberikan mobil seharga nominal yang ia minta sebagai “tambahan pembayaran” dalam tukar-tambah (misalnya, 10 000 ₽ untuk mobil bernilai satu juta). Sekalipun di obrolan “disepakati” harga tersebut, penjual tidak akan menjadwalkan pertemuan atau menyelesaikan transaksi
+- Subsidi PlameFinance tidak lagi bisa “dikeruk” dengan mengetuk iklan berkali-kali lalu mematikan internet: sebuah video memberikan bayaran tidak lebih dari sekali setiap 20 detik
+
+
+Сlose-Beta-Test 0.3.4
+
+
+PONSEL
+
+- Game terbuka dari layar kunci, seperti ponsel sungguhan: tanggal, waktu, dan notifikasi. Untuk membukanya, geser ke atas
+- Layar bisa diamankan dengan kode empat angka, pola, atau kata sandi. Pengaturan ini ditawarkan tepat setelah kamu membuat tanda tangan, dan bisa diubah di Pengaturan, pada menu “Keamanan”. Lupa kata sandi — pengamanan bisa dilepas, dan progres tidak akan terpengaruh
+- Layar kunci memiliki senter dan kamera. Membuka kunci disertai suara dan getaran lembut; kode yang salah membuat ponsel bergetar keras
+- Notifikasi layar kunci bekerja seperti di iPhone: nama kontak, pesan mereka, dan waktu. Notifikasi dari satu aplikasi menumpuk menjadi satu; ketuk tumpukan untuk membukanya. Ketuk notifikasi dan obrolan yang sesuai akan terbuka
+- Aplikasi terbuka dari ikonnya masing-masing, dan tombol “Beranda” meminimalkannya kembali ke dalam ikon. Aplikasi yang diminimalkan menunggu di posisi terakhir kamu meninggalkannya: obrolan terbuka, feed yang digulir, teks yang sedang diketik
+- Tombol ketiga di bagian bawah adalah tab: aplikasi yang terbuka ditampilkan sebagai kartu. Ketuk kartu — kamu kembali ke sana; geser ke atas — kamu menutupnya; “Tutup semua” — menutup semuanya sekaligus. Hingga delapan aplikasi tetap aktif di latar belakang
+- Tombol “Kembali” di layar pertama aplikasi akan meminimalkannya ke layar beranda. Tombol “Kembali” bisa diletakkan di sebelah kiri — di Pengaturan, “Tombol kembali”
+- Pesan dari notifikasi terbuka di “Obrolan”, dan setelah transaksi selesai saat pertemuan, “Garasi” langsung terbuka secara otomatis
+- Aplikasi yang diminimalkan tidak bermain untukmu: obrolan di latar belakang tidak menandai pesan sebagai terbaca, dan game mini dijeda. Pertemuan juga tidak bisa “berlangsung” di latar belakang — jika diminimalkan, penjual akan kembali menunggumu sesuai jam
+
+
+WAKTU DAN NOTIFIKASI
+
+- Waktu di dalam game terus berjalan meskipun game ditutup: tutup selama enam jam — enam jam berlalu di dalam game juga. Segala sesuatu yang terjadi selama waktu tersebut menunggu di layar kunci
+- Pertemuan yang kamu lewatkan saat game ditutup akan batal seperti biasa. Jika kamu tidak menyukai mode ini, fitur bisa dimatikan di Pengaturan: “Waktu berjalan saat game ditutup”
+- Kamu tidak bisa mempercepat waktu dengan memajukan jam di ponselmu: waktu dicocokkan dengan internet. Tanpa internet, maksimal hanya dua belas jam yang dihitung
+- Game yang diminimalkan tidak lagi “mempercepat” waktu: sebelumnya di latar belakang waktu berjalan dengan kecepatan game, sehingga sepuluh menit di aplikasi lain berubah menjadi sepuluh jam game. Sekarang waktu di latar belakang berjalan seperti di dunia nyata, dan jika kamu pergi lebih dari lima menit, ponsel menyambutmu dengan layar kunci
+- Notifikasi ponsel nyata saat game ditutup: balasan dari penjual dan pembeli, pengingat pertemuan satu jam dan 15 menit sebelumnya, pembayaran pinjaman dan pinjaman mikro, masa pesanan kedaluwarsa, penyewa pindah masuk dan keluar. Notifikasi tiba persis saat peristiwa terjadi di game, dan hanya menampilkan apa yang benar-benar akan terjadi di dalamnya. Notifikasi dari satu obrolan dikelompokkan bersama
+- Notifikasi tersebut hanya berfungsi jika “Waktu berjalan saat game ditutup” aktif. Tombol pengalih terpisah — “Notifikasi saat game ditutup” — ada di Pengaturan. Game meminta izin notifikasi sekali, saat pembukaan kunci pertama
+- Notifikasi di dalam game terlihat seperti di ponsel sungguhan: ikon dan nama aplikasi, nama kontak, dan teks. Notifikasi bisa digeser ke atas atau ke samping
+
+
+P-BANK
+
+- P-Bank dirombak total: kartu dengan saldo di bagian atas (nominal bisa disembunyikan dengan ikon mata), rincian uang masuk dan keluar selama seminggu, ke mana uang dibelanjakan, dan riwayat transaksi hari demi hari
+- Pencarian transaksi: temukan pembayaran, pembelian, atau transfer apa pun
+- Pinjaman PlameFinance terbuka langsung dari bank, dan di “Uang Muka” kamu bisa melihat mobil mana saja yang uang mukanya sudah dibayar
+- Masuk ke bank menggunakan kode empat angka buatanmu sendiri, yang kamu buat saat pertama kali membukanya. Bank meminta kode saat dibuka dari layar beranda, setelah ponsel terkunci, dan jika berada di latar belakang selama lebih dari satu menit. Lupa kodenya — kamu bisa membuat kode baru; uangmu tetap aman
+- Kamu bisa melewati permintaan kode: ketuk avatar di header bank — di sana ada pengaturan dan tombol pengalih “Minta kode saat masuk”
+- Warna kartu bisa diganti: ketuk kartu. Enam warna gratis, serta kartu hitam dan emas diterbitkan seharga 50 000 dan 250 000 ₽ dengan memberikan cashback 1% dan 2% untuk jalan tol, bensin, parkir, bengkel, cuci mobil, truk derek, dan jasa inspeksi. Cashback masuk seminggu sekali sebagai satu jumlah total
+- Kerabat dan teman terkadang membantu: sekali setiap dua minggu Ibu, Nenek, Ayah, atau teman mengirim seribu atau dua ribu rubel “untuk makan” atau “untuk jajan”. Dua notifikasi masuk — kredit di bank dan pesan dari pengirim
+
+
+IKLAN DAN KOTA
+
+- Basis data iklan telah diperbarui: 250 mobil alih-alih dua ratusan mobil sebelumnya — mobil-mobil baru, foto dan deskripsi baru, nama yang diperbaiki, harga, tahun pembuatan, jumlah tayangan, dan ulasan penjual
+- Mobil bisa dipasang untuk dijual langsung dari kartunya di Garasi — dengan tombol “Pasang untuk dijual”
+- Harga iklan tidak lebih dari tiga kali nilai taksiran mobil: pembeli juga tidak akan mengirim pesan pada harga setinggi itu, dan mobil “Zhiguli” seharga satu miliar hanya membingungkan pemain
+- Iklan baru muncul di pasar secara bertahap, dalam rentang waktu beberapa bulan waktu game
+- Tujuh kota baru: Mozhaysk, Votkinsk, Seversk, Severobaikalsk, Severouralsk, Severomorsk, dan Severo-Kurilsk — kini total ada 189 kota
+- Pencarian mobil memahami campuran huruf Sirilik dan Latin, serta kesalahan umum dalam penulisan nama merek
+
+
+TAWAR-MENAWAR
+
+- Penjual kini memiliki karakter. Ada yang keras kepala dan hanya memberi sedikit kelonggaran, ada yang luwes, ada yang butuh uang mendesak, dan ada yang paham pasar lalu mempertahankan harga pasar alih-alih harga di iklan
+- Seberapa banyak penjual bersedia mengalah kini bersifat individual untuk masing-masing orang — tidak ada satu batas yang sama untuk semua. Karakternya tidak diumumkan secara gamblang, tetapi kamu bisa menebaknya dari pesan pertama dan dari cara penjual menawar
+- Pembeli menulis pesan dengan cara berbeda: “Siap membeli mobilmu seharga…”, “Mobilnya belum laku? Saya ambil seharga…”, “Mari tukar kunci lawan kunci, tanpa tambahan” — alih-alih kalimat yang seragam untuk semua orang. Angka nominal dalam pesan pembeli memiliki pemisah ribuan: 650 000 ₽, bukan 650000 ₽
+- Di obrolan dengan pembeli, tombol “Tolak”, “Tawar”, dan “Setuju” disusun dalam bentuk kisi, persis seperti saat membeli — tidak perlu lagi menggesernya ke samping
+- Header obrolan dengan pembeli menampilkan harga iklanmu, bukan harga dasar mobil
+- Mobil yang kamu tawarkan kepada penjual dalam tukar-tambah dinilai olehnya dengan mempertimbangkan kerusakannya — persis seperti yang dilakukan pembeli. Mobil yang sedang dipajang untuk dijual tidak bisa ditawarkan dalam tukar-tambah: turunkan iklannya terlebih dahulu
+- Kamu bisa menukar beberapa mobil sekaligus — hingga empat mobil, dengan tambahan pembayaran di salah satu pihak. Namun penjual enggan repot berurusan dengan banyak mobil: untuk setiap mobil tambahan setelah mobil pertama, peluangnya untuk setuju berkurang 30%, sekalipun tawarannya menutupi seluruh harga. Jika ia menolak, tawarkan kombinasi mobil lain atau tambah uang tunai
+
+
+UANG MUKA
+
+- Kamu menyepakati harga — penjual terkadang meminta uang muka terlebih dahulu. Tidak selalu — kira-kira di setiap transaksi kelima
+- Permintaan uang muka datang lebih dulu, dan baru setelahnya ada tawaran untuk menjadwalkan pertemuan. Jika penjual meminta uang muka, hukumnya wajib: sampai kamu mentransfernya, kamu tidak bisa menjadwalkan pertemuan
+- Penjual mengirimkan nominal dan sebuah tombol ke dalam obrolan, dan transfer itu sendiri diproses lewat P-Bank: jendela terpisah berisi penerima dan nominal, dikonfirmasi dengan kode bank
+- Selama uang muka terbayar, mobil dipesan untukmu selama satu atau dua hari dan ditarik dari penjualan. Saat pembelian, seluruh nominal uang muka diperhitungkan ke dalam transaksi
+- Jika pesanan tidak ditebus sebelum batas waktunya berakhir, uang muka hangus, dan jadwal pertemuan dibatalkan: penjual memasang kembali mobil ke penjualan, dan untuk pertemuan baru uang muka harus ditransfer ulang
+- Uang muka memotong separuh peluang penjual menolak datang ke kotamu, dan membatalkan penolakan yang sudah diterimanya
+- Tidak semua penjual jujur. Seseorang dengan peringkat rendah memiliki risiko nyata lebih tinggi untuk membawa kabur uang, menghapus iklan, dan memblokir obrolan. Peringkat ditampilkan baik di iklan maupun di jendela transfer — periksa siapa yang kamu bayar
+
+
+PERTEMUAN
+
+- Penjual tidak lagi wajib datang kepadamu melintasi seluruh negeri. Jika kamu menjadwalkan pertemuan bukan di kota tempat mobil berada, dia bisa menolak: “Saya tidak akan datang, datanglah sendiri”
+- Semakin jauh ia harus bepergian, semakin tinggi peluang penolakannya. Di kotanya sendiri penjual tidak pernah menolak
+- Penolakan bersifat final: kamu tidak bisa membujuk penjual dengan kata-kata — kamu harus pergi sendiri, atau membayar uang muka; setelahnya dia menyetujui jauh lebih sukarela
+- Penjual dari kota lain butuh waktu untuk sampai ke sana. Jika kamu menjadwalkan pertemuan sebelum ia sempat tiba, ia akan menulis “Saya tidak sempat tiba pada jam itu” dan memindahkan sendiri pertemuannya ke jam terdekat yang bisa ia penuhi begitu tiba
+
+
+ULASAN
+
+- Setelah transaksi selesai, kamu akan diberi ulasan. Penjual, pembeli, atau mitra tukar-tambah menulis beberapa baris dan memberikan peringkat bintang — seperti di situs jual-beli iklan baris
+- Ulasan tidak masuk seketika, melainkan beberapa jam setelah transaksi, dan tidak semua orang menulisnya: orang yang puas biasanya lebih malas menulis ulasan daripada yang kecewa
+- Melewatkan pertemuan dan menolak transaksi di lokasi juga tidak luput dari perhatian. Namun jika kamu tidak hadir lalu tetap menyelesaikan transaksi dengan orang yang sama, ulasan buruk karena mangkir tidak akan dikirimkan
+- Di profil, di sebelah bintang terdapat penghitung ulasan; ketuk untuk membuka daftar ulasan terbaru
+
+
+PLAMEFINANCE
+
+- PlameFinance dalam desain baru: kartu di bagian atas berisi total utang, pembayaran berikutnya, dan tingkat kepercayaan; tarif berupa ubin; serta formulir pengajuan pinjaman berupa lembaran praktis dengan jangka waktu dalam bulan
+- Tombol “Lakukan pembayaran”: kamu bisa melunasi pembayaran mingguan berikutnya sebelum tanggal jatuh tempo tanpa harus melunasi seluruh pinjaman. Pembayaran lebih awal membersihkan status tunggakan persis seperti debet reguler, dan mengamankanmu jika rekening sedang menipis di kemudian hari
+- Pembayaran terakhir tidak lagi dibulatkan ke atas: untuk sisa utang yang tersisa, bank memotong tepat sesuai jumlah sisanya
+- Pinjaman mikro: dari 5 hingga 50 ribu rubel selama 3, 7, atau 14 hari, tanpa pemeriksaan riwayat kredit
+- Bunga pinjaman mikro berjalan setiap hari: lunasi lebih cepat — bayar lebih sedikit. Pada tanggal jatuh tempo, bank akan mendebit utang secara otomatis jika rekening memiliki saldo yang cukup
+- Keterlambatan pinjaman mikro memukul reputasimu dan mendatangkan denda penalti, jadi ini adalah pilihan darurat terakhirmu, bukan uang gratis
+
+
+PROPERTI DAN SEWA
+
+- Aplikasi “Makelar” berganti menjadi “MestoBuy”: selain garasi, kini apartemen dan rumah di kota tempatmu berada juga dijual
+- Apartemen menambahkan tempat parkir di halaman; rumah — tanah kavling sendiri untuk dua hingga empat mobil. Di atas tanah kavling dan di dalam garasi, mobil-mobilmu aman
+- Properti bisa disewakan secara harian, mingguan, atau bulanan. Uang masuk di akhir masa kontrak; penyewa tidak langsung ditemukan seketika, dan kontrak itu sendiri bisa diperpanjang atau diakhiri lebih cepat
+- Properti yang disewakan berhenti bekerja untukmu: selama penyewa tinggal di sana, properti tidak memberikan tempat parkir dan tidak melindungi halaman
+- Setelah masa kontrak berakhir properti bisa mengalami kerusakan, dan semakin lama masa sewanya, semakin tinggi risikonya. Kamu memiliki waktu tiga hari untuk memperbaiki kerusakan besar, jika tidak penyewa akan membayar lebih sedikit
+- Mobil di halaman berisiko menjadi sasaran vandalisme. Memiliki apartemen mahal milikmu sendiri di kota secara nyata mengurangi risiko ini
+- Di kota tempat kamu memiliki properti gratis milikmu sendiri, tidur menjadi gratis dan tanpa risiko pencurian. Namun, apartemen murah memiliki peredam bising yang buruk dan membangunkanmu lebih awal dari jam alarm
+- Properti dapat dijadikan agunan dan meningkatkan batas kredit yang tersedia
+- Jika tidak ada uang untuk membayar pinjaman, juru sita akan menyita secara berurutan: pertama uang, lalu mobil, dan baru kemudian properti
+- Semua pemain menerima apartemen pemula di kota asalnya — apartemen ini tidak bisa disewakan, dan tidak akan disita karena utang
+
+
+KASINO AVTOBUYCASE
+
+- Situs web AvtoBuyCase hadir di browser bawaan: kotak hadiah, pertarungan (battle), upgrade, rolet, slot, blackjack, dan ranjau. Bookmark tersedia di halaman awal browser
+- Kotak hadiah dari 500 ₽ hingga 250 000 ₽: uang, barang inventaris, dan mobil sungguhan. Gulungan berputar dan berhenti pada hadiah kemenangan, dan setiap hadiah memiliki warna kelangkaannya sendiri — dari barang murah hingga emas. Peluang kemenangan ditampilkan untuk setiap hadiah
+- Kotak hadiah bisa dibuka satu, dua, tiga, atau bahkan lima sekaligus — gulungan berputar bersamaan dan berbunyi klik pada setiap hadiah, dan hadiah langka disambut dengan kembang api
+- Mobil yang dimenangkan langsung tiba di garasi kota tempatmu berada sekarang; barang inventaris masuk ke ransel penyimpanan. Hadiah kemenangan bisa langsung dijual ke situs di tempat seharga 75% dari nilainya; setelah membuka beberapa kotak — cukup dengan satu tombol
+- Mobil dari kotak hadiah memiliki kelompoknya sendiri: mobil-mobil tersebut tidak dijual di pasar, dan bot tidak menawarkannya dalam tukar-tambah — mobil semacam itu hanya bisa didapatkan dari kotak hadiah. Mobil yang sedang berada dalam obrolan, pertemuan, atau pesanan tidak akan keluar dari kotak hadiah
+- Jika saat kamu melihat kotak hadiah isinya berubah (misalnya, ada mobil baru yang ditambahkan ke dalam kelompok hadiah), situs web akan memperingatkanmu dan tidak mengenakan biaya — apa yang ditampilkan adalah apa yang diundi
+- Pertarungan (battle): buka kotak hadiah yang sama bersama satu atau dua lawan; siapa pun yang hasil rampasannya lebih mahal mengambil semuanya. Dalam mode “Hasil terendah menang”, nilai total termurah yang menang. Nominal seri — hasil imbang, dan total taruhan dibagi rata
+- Peningkatan (upgrade): kalikan taruhanmu dari ×1.5 hingga ×20. Peluangnya jujur: ×2 — tepat 50%, ×10 — 10%. Situs web memotong komisi 12% di atas nilai taruhan; persentase ditampilkan pada tombol
+- Rolet: merah dan hitam ×1.9, hijau ×13. Slot: tiga simbol kembar — menang; sepasang simbol kembar membayar ×1.3
+- “21” — blackjack dengan aturan klasik: ambil kartu (hit), cukup (stand), lipat gandakan (double), pisahkan pasangan (split). Kemenangan blackjack membayar 3:2; dealer menarik kartu hingga 17
+- Ranjau: arena 5×5; pilih dari 1 hingga 24 ranjau dan buka petak. Setiap petak kosong menaikkan pengali; kamu bisa mengambil kemenanganmu kapan saja; jika terkena ranjau — taruhan hangus. Semakin banyak ranjau, semakin cepat pengali tumbuh
+- Tab “Profil” — seperti pada situs kotak hadiah sungguhan: nama panggilan dan ID, hasil hadiah terbaik, total yang dijual ke situs web, upgrade, kotak, pertarungan, dan putaran blackjack. Di bagian atas — feed langsung dari hadiah-hadiah terbaru, dengan milikmu disorot khusus
+- Kasino selalu unggul dalam jangka panjang: rata-rata 85–90% dari total taruhan kembali ke pemain. Kamu tidak bisa menjadi kaya dari kasino — ini adalah hiburan, bukan sumber penghasilan
+- Lima pencapaian baru untuk kasino
+
+
+DRIVE ACE
+
+- Game mini baru Drive Ace di halaman pertama layar beranda, di antara PlameBlocks dan “Jam”. Kemudikan mobil klien di jalan raya dan hindari lalu lintas — tekan kiri atau kanan, geser jari, atau gunakan tombol panah di keyboard
+- Selama kamu berada di balik kemudi, waktu game berjalan tiga kali lebih cepat — praktis untuk menunggu pertemuan atau balasan pesan. Setiap kilometer membayar 60 ₽. Dimulai dari kecepatan 110 km/jam, berakselerasi hingga 260 km/jam, dengan lalu lintas yang semakin padat
+- Nitro: tombol di bagian bawah layar (atau tombol panah atas). Beberapa detik kecepatan yang jauh lebih tinggi, dengan tabung terisi di awal dan tabung-tabung cadangan langsung di jalan
+- Koin-koin melayang di jalan — kumpulkan dengan menabraknya. Koin, jarak tempuh kilometer, dan manuver menghasilkan poin Drive Ace
+- Lalu lintas bervariasi: kendaraan sekitar menyalakan lampu sein dan berpindah jalur, perbaikan jalan dengan tanda panah menutup lajur, dan polisi lalu lintas tidak suka disalip terlalu rapat — denda 300 ₽ dipotong langsung dari pendapatan balapanmu
+- “Nyaris serempet!” — saat kamu menghindar dari mobil di jalurmu sendiri pada detik terakhir
+- Garasi: dengan poin Drive Ace kamu meningkatkan performa mesin, pengendalian, dan nitro, serta membeli mobil baru — Hatch GTI, Coupé RS, dan Supercar, masing-masing dengan bonusnya sendiri — serta delapan warna cat mobil
+- Misi: tiga tugas sekaligus — berkendara sekian kilometer, menyalip kendaraan, mengumpulkan koin, menggunakan nitro. Untuk tugas yang selesai kamu mendapatkan poin dan uang; tombol “Ambil” ada di awal
+- Jalur lintasannya adil: di antara arus lalu lintas selalu tersedia celah ruang untuk berpindah jalur — bahkan ketika ada truk, bus, dan kendaraan sekitar yang berpindah lajur di dekatmu
+- Pemandangan dari balik kemudi: pegunungan dan hutan di cakrawala, tikungan, pagar pengaman jalan, pohon birch dan cemara, tiang lampu di atas jalan, tiang penanda kilometer, dan rambu nama kota. Di jalan: mobil, crossover, van, truk, dan bus
+- Siang dan malam mengikuti jam di game: di malam hari lampu depan menerangi aspal, ada genangan cahaya di bawah lampu jalan, lampu rem lalu lintas menyala merah, dan mobil polisi menyalakan lampu strobo
+- Spidometer, hitungan mundur sebelum mulai, percikan api dan guncangan saat tabrakan, serta hasil balapan lengkap dengan perolehan poin dan rekor
+- Jika mengalami tabrakan, kamu bisa melanjutkan balapan dengan menonton iklan — sekali per balapan. Jika kamu keluar dari jalan di tengah balapan, jarak yang berhasil kamu tempuh tetap dibayar
+
+
+PLAMEBLOCKS
+
+- Saat kamu menyeret bidak, papan menyorot di mana bidak akan mendarat dan baris mana yang akan selesai terisi. Sorotan merah menandakan bidak tidak muat di sana
+- Jika kalah, kamu bisa melanjutkan permainan dengan menonton iklan — sekali per game: papan dibersihkan, dan poin tetap tersimpan
+- Papan peringkat kini hanya memiliki satu tempat per pemain — dengan hasil terbaik mereka. Sebelumnya beberapa pemain memenuhi seluruh daftar 100 besar dengan percobaan berulang mereka; sekarang setiap pemain bisa masuk ke 100 besar
+
+
+CUCI MOBIL
+
+- Mobil bisa dicuci langsung dari garasi. Mobil yang bersih terjual sedikit lebih mahal selama beberapa hari — sangat menguntungkan mencucinya sebelum memasangnya di iklan
+
+
+PENCAPAIAN
+
+- Terdapat delapan belas pencapaian alih-alih enam. Sebelumnya hadiah hanya untuk uang; sekarang ada hadiah untuk kepemilikan properti, untuk tukar-tambah tanpa tambahan pembayaran, untuk tingkat teratas skala kredit, dan untuk kasino
+- “Mata elang” diberikan kepada mereka yang menemukan cacat tersembunyi sendiri, tanpa bantuan inspektur mobil
+- Ada juga pencapaian yang tidak patut dipamerkan: saat reputasimu anjlok hingga tinggal satu bintang
+- Pencapaian baru memperhitungkan apa yang sudah pernah kamu lakukan sebelumnya: rumah yang sudah kamu beli atau tarif yang sudah kamu buka langsung terhitung secara otomatis
+
+
+APLIKASI BARU
+
+- Kalkulator hadir di halaman kedua layar beranda — untuk menghitung margin keuntungan tanpa perlu keluar dari game
+- Tersedia juga aplikasi “Pelat Nomor” (beta): segera kamu bisa membeli pelat nomor cantik di sana dan menjualnya kembali. Untuk mengetahui informasi ini dan pembaruan lainnya terlebih dahulu, ikuti saluran Telegram kami AvtoBuy_game
+- Satu lagi aplikasi beta — “Identitas”: segera paspor, SIM, dan dokumen lainnya sebagai dealer mobil akan muncul di sini
+- Aplikasi “Dukungan”: kode QR dan tautan bagi mereka yang ingin menyumbang dana demi pengembangan game. Tidak ada bonus dalam game untuk donasi ini, dan tidak akan pernah ada
+- Saat sesuatu yang baru muncul di halaman kedua, layar beranda akan melirik ke sana sejenak, sebuah notifikasi masuk, dan tanda merah menyala di atas titik halaman hingga kamu membukanya
+- Titik-titik halaman di bagian bawah layar beranda bisa diketuk, dan di browser halaman dapat digulir menggunakan mouse
+
+
+PENGATURAN DAN TAMPILAN
+
+- Tema gelap telah disempurnakan seutuhnya: sebelumnya mode malam hanya mengubah sebagian layar; kini berfungsi di seluruh aplikasi, termasuk di browser dan AvtoHistory
+- Ikon-ikon aplikasi baru
+- Enam wallpaper bawaan. Kamu tetap bisa memasang gambarmu sendiri dari galeri, dan gradien standar juga tetap dipertahankan
+- Wallpaper bisa dipasang secara terpisah: setelah memilih gambar, game akan menanyakan lokasinya — di layar kunci, layar beranda, atau di mana saja. Sampai kamu memilih secara terpisah, layar kunci menyamakan gambar layar beranda
+- Pencarian di Pengaturan: kata kunci “kata sandi” menemukan menu “Keamanan”, “wifi” menemukan Wi‑Fi
+- Wi‑Fi di Pengaturan: bisa dimatikan, dan kamu bisa melihat jaringan di sekitarmu. Hanya untuk variasi tampilan — tidak memengaruhi jalannya game
+
+
+SUARA
+
+- Musik latar telah hadir di dalam game. Trek-trek musik diputar bergantian dengan jeda di antaranya dan volumenya meningkat secara bertahap
+- Musik bisa dinyalakan, dimatikan, dan dikecilkan di Pengaturan. Secara default musik diputar perlahan
+- Soundtrack digubah oleh Cukat14, dan trek “nightmare chase” oleh vicedee. Keduanya tercantum di bagian “Pembuat dan dukungan”
+- Efek suara telah hadir: notifikasi, pesan obrolan, gulungan kasino, dan saat membuka kunci ponsel
+- Tombol, ikon, dan tab berbunyi klik lembut saat ditekan — tenang dan lembut agar tidak mengganggu. Usapan layar dan tombol tidak aktif bersuara senyap; efek ini bisa dimatikan dengan tombol pengalih “Efek suara”
+- Tombol pengalih “Efek suara” dan “Suara notifikasi” di Pengaturan kini berfungsi semestinya. Tombol kedua hanya mematikan suara — notifikasi itu sendiri tetap muncul normal
+
+
+PENYIMPANAN
+
+- Progres di situs web kini tidak boleh hilang lagi. Game meminta browser untuk tidak menghapus datanya, menyimpan pada saat tab ditutup, dan menyimpan cadangan di penyimpanan browser terpisah. Jika penyimpanan utama hilang atau rusak, game akan memulihkan cadangan secara otomatis saat peluncuran dan memberitahumu
+- Di ponsel cadangan disimpan sebagai file terpisah, dan cadangan tersebut juga dipulihkan secara otomatis
+- Proses penyimpanan menjadi lebih ringan: beberapa perubahan berturut-turut ditulis sekaligus, sehingga game lebih sedikit tersendat saat banyak hal terjadi secara bersamaan
+
+
+PRIVASI
+
+- Pada peluncuran pertama kamu harus mengonfirmasi bahwa kamu berusia 13 tahun ke atas, dan menyetujui kebijakan privasi — tautan teksnya berada tepat di sebelah kotak centang. Pemain yang sudah bermain hanya akan melihat jendela ini sekali
+
+
+DIPERBAIKI
+
+- Pembeli tidak lagi berkata “batas saya adalah 0 ₽” dan tidak memblokir obrolan saat diminta membeli mobil seharga beberapa rubel: jumlah kecil dalam tawar-menawar tidak lagi dibulatkan ke nol
+- Iklan tidak bisa dipasang dengan harga di bawah 1 000 ₽. Jika harga jauh lebih rendah dari nilai taksiran mobil, game akan meminta konfirmasi ulang — hal ini mencegah kelebihan atau kekurangan angka nol
+- Mobil yang dipasang jauh di bawah harga pasar langsung dibeli oleh pembeli sesuai harga iklan, alih-alih mereka berusaha menawarnya hingga setengah harga lagi
+- Kartu iklan menampilkan foto pertama kembali — sama seperti yang ada di feed. Sebelumnya galeri dimulai dari foto kedua
+- Mobil pemula gratis bernilai tidak lebih dari 120 000 ₽, baik dari segi harga iklan maupun harga pasar. Sebelumnya bisa muncul mobil yang bisa langsung dijual seharga ratusan ribu
+- Biaya perbaikan dihitung dari nilai pasar mobil, bukan dari harga iklannya yang diturunkan
+- Tukar-tambah tidak lagi ditampilkan sebagai penjualan tunai: harga iklan tidak lagi menggelembungkan total keuntungan dan pencapaian, dan riwayat transaksi menunjukkan jenis transaksi serta tambahan pembayaran yang sebenarnya
+- Syarat akhir tawar-menawar dipertahankan hingga saat pertemuan; setelah beralih dari tukar-tambah ke pembayaran tunai, penawaran tukar-tambah yang lama tidak lagi digunakan
+- Menyelesaikan satu transaksi untuk kedua kalinya tidak lagi memungkinkanmu menerima mobil, uang, atau reputasi secara berulang
+- Penawaran pembeli dan mobil tukar-tambah dinilai berdasarkan nilai pasar; transaksi pembeli yang berbeda untuk mobil yang sama tidak lagi tertukar
+- Mobil yang sama tidak lagi dapat muncul dalam penawaran tukar-tambah dari beberapa pembeli berbeda secara bersamaan
+- Obrolan tidak lagi menampilkan status bahwa pembeli lain telah menyelesaikan transaksi sendiri: jika orang lain membeli mobil tersebut, status yang benar akan ditampilkan
+- Tombol “Tanda tangani” dan “Beli mobil” saat pertemuan tidak lagi melorot ke bawah bilah navigasi sistem ponsel — bahkan dalam transaksi tukar-tambah dengan tambahan pembayaran dan penyerahan barang
+- Jika kamu sudah berada di lokasi pertemuan, pertemuan tidak lagi batal karena waktu jam: kamu tiba pukul 17:58 untuk pertemuan pukul 17:00 dan sedang tawar-menawar — pada pukul 18:00 transaksi tidak akan batal
+- Jika kamu membatalkan transaksi di lokasi pertemuan, pertemuan ditutup, dan satu jam kemudian denda mangkir dari pertemuan tidak akan dikenakan lagi
+- Kamu membeli mobil lewat tukar-tambah — pertemuan ditutup. Sebelumnya pertemuan tetap tertinggal di kalender dan satu jam kemudian dihitung sebagai mangkir: pengurangan reputasi dan ulasan buruk. Uang muka untuk pembelian lewat tukar-tambah juga langsung diperhitungkan ke dalam transaksi, bukan hilang
+- PlameBlocks di ponsel: ukuran bidak di bawah jarimu persis sama dengan ukuran petak papan, dan mendarat tepat di posisi yang kamu tuju. Sebelumnya di browser ukurannya lebih besar dari papan dan mendarat dengan sedikit pergeseran
+- PlameBlocks: bidak di wadah tidak lagi saling bertumpuk pada layar sempit, poin penempatan bidak langsung masuk ke rekor, dan pada layar “Game over” waktu tidak lagi dipercepat
+- Setelah keluar dari mode pemindahan, ikon kalender tidak lagi membeku berwarna abu-abu
+- Lencana merah pesan baru pada ikon AvtoBuy tidak lagi terpotong di bagian atas
+- Game tidak lagi crash jika kamu menutup pemilih wallpaper saat galeri masih terbuka
+- Tombol “+” untuk membuat iklan baru di AvtoBuy tidak lagi menghilang
+- Layar “Pesan pemeriksaan” bisa digulir penuh: pada ponsel berlayar kecil waktu pemeriksaan kini bisa dipilih kembali
+
+
+Сlose-Beta-Test 0.3.3
+
+
+APLIKASI BARU
+
+- "Browser" dengan situs web AvtoHistory — pemeriksaan iklan berdasarkan ID. Pemeriksaan awal (apakah ada temuan atau tidak) gratis, tetapi rinciannya (larangan registrasi, manipulasi nomor VIN) dibuka berbayar dan hanya jika temuan terkonfirmasi. Apa yang kamu temukan bisa ditunjukkan kepada penjual langsung saat tawar-menawar
+- "Telepon" — panggilan ke penjual dan pembeli: tab "Terbaru" dan "Panggilan"; setiap iklan memiliki nomornya sendiri (+801...), dan layar panggilan persis seperti aslinya. Kamu bisa menggunakan panggilan untuk meminta penjadwalan ulang pertemuan atau mencoba membuka blokir obrolan — satu kesempatan per hari waktu game
+- "Jam" — alarm yang memengaruhi bangun tidur setelah beristirahat
+- "Kamera" — kini menyarankan untuk membagikan game dan mengikuti @avtobuy_game
+- Aplikasi "VPN" telah dihapus
+
+
+PASAR DAN IKLAN
+
+- Basis data yang sepenuhnya baru: 200+ iklan dengan foto, deskripsi, dan harga baru
+- Jauh lebih banyak kota sekarang — Sochi, Tolyatti, Magnitogorsk, Naberezhnye Chelny, Nizhny Tagil, dan kota-kota di wilayah Moskow seperti Khimki, Mytishchi, dan Balashikha, serta puluhan kota lainnya
+- Iklan lama yang tidak laku terkadang menghilang dengan sendirinya, tetapi bisa muncul kembali seiring waktu. Jika obrolan sedang berlangsung untuk suatu iklan, iklan tersebut tidak akan menghilang
+- Iklan milikmu kini bisa diedit — dari "Iklan baru" dan dari Profil. Jendela pemasangan iklan itu sendiri telah diperbarui: foto mobil, harga pasar dan harga jual, serta tambahan pembayaran dengan slider
+- Batas harga maksimum saat membuat iklan telah dihapus
+- Foto bisa digeser tanpa perlu membuka halaman iklan
+- Filter dan pengurutan telah dirombak
+
+
+TAWAR-MENAWAR, CHAT DAN PERTEMUAN
+
+- Tukar-tambah: saat membeli mobil orang lain, kamu bisa menawarkan mobilmu sendiri ditambah sejumlah uang.
+- Semua jendela tawar-menawar dipindahkan ke bagian bawah layar dan diseragamkan: kelipatan ±5 000 ₽ dengan tombol, angka ribuan dipisahkan dengan spasi, dan petunjuk apakah tawaran sudah mencukupi
+- Penambahan fitur tawar-menawar di kap mobil
+- Bot tidak lagi membalas secara instan: terdapat jeda dengan indikator "mengetik..."
+- Kamu bisa mengubah tanggal dan lokasi pertemuan yang sudah dijadwalkan, tetapi tidak lebih dari 2 kali: setelah itu pihak lawan kehilangan kesabaran dan transaksi dibatalkan
+- Saat menjadwalkan pertemuan untuk pembelian, kini kamu juga bisa memilih kotanya
+- Kolom input harga kini menampilkan pemisah ribuan: 600 000 alih-alih 600000
+- Foto mobil telah ditambahkan ke jendela pertemuan dengan pembeli
+- Aplikasi "Obrolan" di layar utama kini langsung membuka tab "Pesan"
+- Penambahan mekanisme panggilan telepon untuk membuka blokir obrolan atau mengubah jadwal pertemuan
+
+UANG, PINJAMAN DAN LOGISTIK
+
+- Kamu bisa mengambil beberapa pinjaman sekaligus; batas pinjaman bergantung pada peringkat kreditmu
+- Kamu tidak bisa lagi mengambil pinjaman, langsung melunasinya, lalu seketika mengambil pinjaman baru: jeda setelah setiap pelunasan bertambah panjang — 1 hari, 2, 4, 8, hingga paling lama 16 hari
+- Penagih utang tidak lagi datang jika saldo rekeningmu mencukupi untuk pembayaran cicilan berikutnya
+- Tidur siang telah ditambahkan. Di kota lain kamu bisa membayar penginapan malam atau mengambil risiko tidur gratis, dengan kemungkinan terjadi pencurian
+- Mobil bisa dipindahkan antar tempat parkir: tab "Tempat parkir" di "Garasi"
+- Mekanisme truk derek dirombak
+
+
+TAMPILAN
+
+- Layar beranda dirombak: kini kamu bisa memasang wallpapermu sendiri, mengatur ulang posisi ikon, dan menggeser antar layar
+- Antarmuka obrolan diubah
+- Ikon-ikon ditambahkan ke Buku Catatan dan Pengaturan
+
+
+PRIVASI DAN LAIN-LAIN
+
+- Penambahan pengumpulan statistik penggunaan anonim: hanya jumlah pemain dan waktu yang mereka habiskan di game. Bisa dimatikan di Pengaturan
+- Layar awal setelah memilih kota telah diubah
+
+
+DIPERBAIKI
+
+- Tukar-tambah: saat pertemuan tambahan pembayaran dari tawaran pertama bot yang digunakan, alih-alih yang disepakati saat tawar-menawar; transaksi tetap berjalan meski uang untuk tambahan pembayaran tidak cukup; game bisa crash jika basis data mobil belum selesai dimuat
+- Pertemuan: jika beberapa pembeli mengirim pesan tentang mobil yang sama, harga pembeli yang salah bisa terisi; membatalkan satu pertemuan membatalkan pertemuan lain; saat mobil ditarik dari penjualan, pertemuannya dan balasan yang tertunda tidak dibatalkan
+- Obrolan: membersihkan obrolan menghapus pemblokiran; lawan bicara membalas setiap pesan beruntun yang dikirim alih-alih pesan terakhir; tombol tawar-menawar bisa ditekan lagi tanpa menunggu balasan; banner "Obrolan diblokir" tidak membentang selebar layar penuh
+- Harga: diskon dari barang dihitung dari harga awal alih-alih harga terkini; saat pertama kali memasang iklan harga bisa terisi nol; tambahan pembayaran dari bot terkadang tampak aneh (0 ₽ dan seterusnya)
+- Parkir: selama perjalanan dengan mobil sendiri, biaya parkir dipotong di kota tujuan; saat waktu dilewati menggunakan truk derek, biaya parkir dipotong sebelum mobil tiba
+- Layar antarmuka: terdapat ruang kosong berlebih di bagian atas jendela pertemuan (baik untuk pembelian maupun penjualan) dan di "Browser"; bilah alamat browser terlalu sempit; ikon tab tidak muncul di "Jam"; dua bilah status digambar bertumpukan di "Kamera"; catatan pembaruan di buku catatan berkedip dan mereset posisi gulir
+- Kalender: setelah mobil dijual kembali, secara tidak sengaja mobil bisa terjual kembali kepada pemilik sebelumnya
+- Pinjaman: penagih utang datang hanya karena satu tunggakan lama, meskipun kamu sudah membayar tepat waktu sejak lama
+- Penjualan mobil dan barang inventaris, pemblokiran obrolan, tawar-menawar di kap mobil: perbaikan bug yang sudah lama ada
+- Di buku catatan, pada bagian "Pembuat dan dukungan", kalimat tentang sponsor diganti menjadi "didonasikan"
+
+dan masih banyak lagi...
+
+Сlose-Beta-Test 0.3.2.1 Bugfix
+
+- 50 iklan ditambahkan ke kota asalmu
+- Mekanisme tanda tangan dirombak. Sekarang batas kecocokan adalah 36%, template ditampilkan, dan kamu tidak bisa menggambar di luar bidang
+- Bug pada aplikasi "Makelar" diperbaiki. Teks "saldo tidak cukup" kini muncul sebelum tanda tangan. Memperbaiki bug yang membuat pembelian garasi tidak dapat dilakukan.
+- Subsidi kini membayar dari 50 hingga 322 rubel
+- Bilah pencarian ditambahkan ke aplikasi "Transportasi"
+- Bug tawar-menawar diperbaiki
+- Aplikasi baru ditambahkan: "PlameBlocks" untuk sedikit melewati waktu dan menghasilkan sedikit uang
+
+
+
+
+Сlose-Beta-Test 0.3.2
+
+- Memperbaiki bug saat memilih kota di AvtoBuy memindahkan posisi karakter pemain itu sendiri
+- Penambahan pencapaian
+- Label yang menunjukkan kota tempatmu berada ditambahkan ke jendela penjadwalan pertemuan
+- Bilah pencarian ditambahkan ke layar pemilihan kota awal
+- Perubahan kecil pada antarmuka profil
+- BETA|Mekanisme mobil rusak dirombak total. Sekarang mobil memiliki kerusakannya sendiri (sesuai dengan iklan). Kerusakan tersebut dapat diperbaiki di garasi dengan biaya tertentu. Kerusakan tersembunyi yang tidak tertulis di iklan juga ditambahkan (kamu bisa menemukannya sendiri saat membeli, dengan peluang kecil; peluang lebih tinggi jika bersama inspektur mobil)
+- Mekanisme tawar-menawar saat membeli mobil dirombak total
+- Sekarang jika kamu membatalkan transaksi, 1 bintang dikurangi dari profilmu dan obrolan diblokir
+- Iklan kini muncul secara bertahap seiring waktu, alih-alih muncul sekaligus
+- Lencana "Baru" kini bertahan selama 2 hari waktu game
+- Ikon aplikasi "Tidur" diubah
+- Fitur-fitur baru ditambahkan ke aplikasi "P-Bank"
+- Penambahan aplikasi baru "PlameFinance", tempat kamu bisa mendapatkan uang dan mengambil pinjaman
+- Bagian baru di aplikasi "Buku Catatan": Pembuat dan dukungan
+- Mekanisme tanda tangan ditambahkan. Sekarang pada peluncuran pertama (atau setelah mereset progres) kamu harus membuat tanda tangan, yang digunakan dalam transaksi berikutnya
+- Nilai pasar ditambahkan ke setiap mobil. Nilai ini ditampilkan di iklan dan saat kamu memasang mobil untuk dijual. BOT JUGA MEMILIKI PELUANG LEBIH BESAR UNTUK MENGETAHUI NILAI PASAR
+- Gambar ditambahkan untuk barang-barang inventaris
+- SEMENTARA MENGHAPUS KEMAMPUAN TAWAR-MENAWAR DENGAN AI; sekarang komunikasi dengan penjual menggunakan tombol
+- Penambahan kemampuan menawarkan barang saat mengirim pesan ke penjual
+- Memperbaiki bug pesan sistem yang kosong
+- Obrolan kini dibagi menjadi pesan masuk dan keluar
+- Antarmuka obrolan diubah
+- BETA|Fondasi tema gelap ditambahkan (sama sekali belum berfungsi)
+
+Сlose-Beta-Test 0.3.1 
+
+- Iklan baru ditambahkan
+- Obrolan kini bisa disematkan (geser obrolan ke kanan)
+- Logika bot dirombak. Sekarang jika jaringan saraf menawarkan harga sama dengan atau di atas nilai mobil, bot akan menyetujui transaksi
+- Game kini tersedia di perangkat lain sebagai situs web: AvtoBuy.space
+- Mekanisme membeli dari bot dirombak. Sekarang kamu harus menawarkan harga yang masuk akal
+
+
+Сlose-Beta-Test 0.3.0 
+
+- Layar "Close Beta Test" ditambahkan pada peluncuran pertama
+- Aplikasi "Buku Catatan" ditambahkan, tempat kamu bisa melihat catatan pembaruan dan tips
+- Tombol pengembang dipindahkan dari "P-Bank" ke "Pengaturan"
+- Pada peluncuran pertama kamu kini mendapatkan dari 40 000 hingga 120 000 rubel sebagai uang modal dan mobil pemula
+- Mekanisme tawar-menawar dirombak
+- Gaya ikon aplikasi di layar beranda diubah
+- Nama aplikasi diubah
+- Avatar aplikasi ditambahkan
+
+
+Alpha 0.2.1
+
+- 150 iklan lagi ditambahkan (total sekarang 200)
+- Jumlah nama perempuan dikurangi
+- Memperbaiki bug yang memungkinkan pembeli mengirim pesan beberapa kali berturut-turut
+- Ikon aplikasi SEMENTARA ditambahkan
+- Foto dirombak ulang, ukuran game kini lebih ringan
+
+
+Alpha 0.2.0
+
+- Nama-nama ditambahkan untuk pembeli
+- Memperbaiki bug di mana bot bisa menjual sekaligus menukar mobilnya pada saat yang bersamaan
+- Tombol praktis untuk membuka "Transportasi" ditambahkan di aplikasi "Kalender"
+- Memperbaiki bug faktual saat bot menawar melawan kepentingannya sendiri
+- Notifikasi belum dibaca kini ditampilkan pada ikon "AvtoBuy", ikon "Pesan", dan di sebelah kanan setiap pesan dalam daftar semua pesan.
+
+
+Pre-alpha 0.1.1
+
+- Warna utama game diubah
+- Contoh nama ditambahkan saat pendaftaran
+- Sejumlah besar kota ditambahkan
+- Bagian baru di aplikasi "Garasi": ransel. Sekarang menyimpan semua barang yang diterima dalam tukar-tambah
+- Mekanisme menjual mobilmu dirombak. Tahap akhir ditambahkan pada pertemuan penjualan
+- Sekarang saat kamu menjual mobilmu, ada peluang pembeli akan menawarkan tukar-tambah dengan mobil, uang, dan barang unik
+- Aplikasi "AvtoRynok" kini dinamai "AvtoBuy"
+- Visual iklan pada layar beranda "AvtoBuy" dirombak
+- Pemfilteran pada layar beranda "AvtoBuy" dirombak, pengurutan berdasarkan berbagai parameter ditambahkan
+- Tab "Obrolan" di "AvtoBuy" diganti namanya menjadi "Pesan"
+- Penginputan nama pada peluncuran pertama disempurnakan
+- Aplikasi "VPN" baru ditambahkan
+- Fungsi "Hapus obrolan" ditambahkan ke bagian "Pesan" pada aplikasi "AvtoBuy", kanan atas
+- geser pemilih kota ke kanan, relatif terhadap tepi kanan layar
+- Memperbaiki bug yang membuat tambahan pembayaran menjadi 0 rubel
+- Memperbaiki bug di mana bot bisa menawar merugikan kepentingannya sendiri
+- Desain notifikasi diubah
+- Notifikasi kini bisa ditutup dengan menggeser ke kiri atau kanan
+- Logika notifikasi diperbaiki, sebelumnya menyebabkan bug
+- Tanggal dan waktu saat ini ditambahkan ke jendela penjadwalan pertemuan untuk kenyamanan
+- Widget navigasi ditambahkan ke jendela penjadwalan pertemuan
+- Bilah status ponsel dan jam ditambahkan di bagian atas jendela penjadwalan pertemuan
+- Bilah status ponsel dan jam ditambahkan ke jendela filter, pengurutan, dan pemilihan kota
+- Desain iklan pada layar beranda "AvtoBuy" diubah
+- Warna ikon "Favorit" diubah
+- Jaringan saraf dirombak ulang
+- Posisi ikon pemilih kota pada layar beranda "AvtoBuy" diubah
+- Mekanisme "Mendesak" dan "Baru" ditambahkan ke iklan.
+
+
+Pre-alpha 0.1.0
+
+- Sejumlah besar eror dan bug telah diperbaiki
+- Tampilan harga diubah; sebelumnya menyebabkan bot bekerja secara keliru
+- Mekanisme beta penjualan mobil ditambahkan
+- Antarmuka obrolan diperbaiki
+- Kemampuan menghapus obrolan ditambahkan (geser obrolan ke kiri)
+- Mekanisme pengiriman pesan dirombak
+
+
+Prototype 0.0.5.1 (bugfix)
+
+- penyesuaian menu pemilihan kota di atas (radius) / layar avito
+- mekanisme harga / layar obrolan, layar pertemuan
+- perbaikan deteksi cacat / layar pertemuan
+- bank oranye / layar bank
+- tombol panggil / layar hijau avito
+- reset progres di pengaturan (dari P-Bank) / layar pengaturan
+- makelar - tombol hijau / layar makelar
+- avatar aplikasi / layar beranda
+- perubahan warna mobil menjadi biru/oranye / layar beranda
+- gaya avatar yang diseragamkan / layar beranda
+
+
+Prototype 0.0.5
+
+🚀 Pembaruan global: “Logistik, Waktu, dan Realisme” (Beta)
+- Mekanisme geografi ditambahkan. Sekarang kamu harus melacak posisimu dan merencanakan keuanganmu dengan lebih baik. Mobil kini memiliki lokasinya sendiri. Kamu bisa mengemudikannya sendiri ke kota lain atau menggunakan truk derek.
+- Sekarang pada peluncuran pertama (atau setelah mereset progres) kamu memilih nama dan kota awal (yang nantinya akan memengaruhi jalannya permainan)
+- Aplikasi "Transportasi" ditambahkan, analog dari Yandex Go. Di dalamnya kamu bisa melihat posisimu dan bepergian antar kota
+- Sekarang kamu harus memarkir mobilmu di Garasi, di halaman gratis, atau di tempat parkir berbayar.
+- Aplikasi "Makelar" ditambahkan, tempat kamu bisa membeli garasi di berbagai kota
+- Fitur "Inspeksi sebelum membeli" ditambahkan. Sekarang saat membeli mobil kamu bisa memilih untuk memeriksanya sendiri atau memanggil seorang inspektur yang akan menemukan cacat tersembunyi.
+
+
+Prototype 0.0.4
+
+- Paspor kendaraan (PTS) dan antarmuka Bank dirombak
+- Memperbaiki bug pada tampilan foto mobil
+
+
+Prototype 0.0.3
+
+- Bug pada tombol "Tambah iklan" diperbaiki
+- Fungsi Tambah iklan telah disempurnakan
+- Antarmuka aplikasi Garasi dirombak
+- Sekarang setelah membeli mobil kamu diarahkan ke garasi (sebelumnya, ke layar beranda)
+- Beberapa bug diperbaiki, beberapa mekanisme dirombak
+- Deskripsi ditambahkan untuk mobil yang ada di garasi atau yang sedang dijual
+- Sejumlah besar perempuan dihapus
+- Beberapa tombol di AvtoBuy diubah
+- Tombol "Favorit" ditambahkan ke layar iklan
+- Mekanisme tawar-menawar dirombak
+- Mekanisme interaksi mobil ditambahkan ke profil
+
+
+
+Prototype 0.0.2
+
+- Tombol navigasi di AvtoBuy diubah
+- Fungsi Pencarian ditambahkan
+- Garasi sedang dalam proses pengerjaan ulang.
+- Versi beta Bank dibuat
+- Fungsi pembelian mobil dirombak
+
+
+Prototype 0.0.1
+
+- Tombol plus ditambahkan, garasi versi beta
+- Jaringan saraf DeepSeek ditambahkan
+- Persentase diperbaiki saat tawar-menawar dan saat pertemuan
+- Gaya warna dirombak
+- Persiapan kecil untuk perubahan ikon
+
+
+Prototype 0.0.0
+
+- Versi awal

@@ -1,0 +1,41 @@
+👨‍💻 Baş geliştirici:
+gl1st — yaratıcı
+
+🛠 İkinci geliştirici:
+Vuyr — ön yüz, kodda güçlü destek, harika mekaniklerin uygulanması, projeye bağış yaptı
+
+👨‍🔧 Üçüncü geliştirici:
+MaGC0M — test eden ve hata düzelten, mimari geliştiricisi ve kodun stabilizasyonu
+
+🎵 Müzik:
+Cukat14 — AvtoBuy saundtrack'ini yazdı
+vicedee — « nightmare chase » parçası
+creeper_xx — « PowerCar » parçası
+
+📷 Fotoğraflar:
+SpaceX — «Tesla Roadster’daki Starman» fotoğrafı (2018, kamu malı, CC0)
+
+🏆 Çok teşekkürler (Efsaneler):
+• Winstoy — oyun test edicisi (oyun fikrinin kurucularından biri)
+• forever — milyar hata ve bug buldu, birçok fikir önerdi
+• ŁíŞ — birçok ilan ekledi ve bir sürü fikir verdi
+• PLAME — binbaşı-be
+• Danil Mahav — AvtoBuy projesinin ilk reklamını yaptı
+• L1ri — teknik destek, yardım, saygılar
+• SAZIX — projeye bağış yaptı
+• Merk62 — tasarım konusunda yardım etti
+• MLCL — projeye yardım
+• TwisTw — projeye yardım
+• w1nfyy — projeye yardım
+• ArtKill — projeye yardım
+• Skipi_57 — projeye yardım
+• sashaz18 — projeye yardım
+• 2+2=5+2 — projeye yardım
+• Redbull — projeye yardım
+• charon — projeye yardım
+• tist — projeye yardım
+
+🤝 Ayrıca teşekkürler (En iyi flipçiler ve test ediciler):
+Beta testte oyunu aktif olarak zorlayan, botlara hata bildiren, admin paneli uğruna arkadaş getiren ve ekonomiyi daha iyi yapmaya yardım eden herkese:
+Telegram kanalının aboneleri:
+t.me/AvtoBuy_game

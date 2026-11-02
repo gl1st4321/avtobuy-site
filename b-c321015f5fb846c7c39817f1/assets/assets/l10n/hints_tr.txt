@@ -1,0 +1,187 @@
+================================
+  AVTOBUY'A HOŞ GELDİN!
+================================
+
+Sen acemi bir flipçisin. Piyasadan ucuz araba bul, pazarlık yap, kontrol et,
+tamir et ve daha pahalıya sat. Tüm iş telefonunda: her mekaniğin
+kendi uygulaması var.
+
+Aşağıda uygulamalar ve tecrübeli flipçilerin bildiği numaraların rehberi var.
+
+
+📱 UYGULAMALAR
+-------------------------------
+
+🛒 AvtoBuy — oto pazarı
+- Ülke genelinde ilan akışı. Filtreler: fiyat, yıl, şehir, arama yarıçapı.
+- « Önce yeniler » sıralaması — en güzel fırsatlar çabuk gider.
+- Kalp — favorilere, arabayı kaçırmamak için.
+- Ortadaki buton — kendi arabanı ilana koy. İlanda takas düşünüp düşünmediğini
+  belirtebilirsin.
+- İlan fiyatı — 1 000 ₽'den başlar ve arabanın üç değerlemesini geçemez. Çok
+  pahalıyı neredeyse kimse almaz, çok ucuzunu ise oyun teyit ister.
+
+💬 Sohbetler ve Aramalar
+- Tüm pazarlık sohbetlerde yapılır. Satıcılar hemen yanıt vermez: kimi çevrimiçidir, kimi
+  bir saat sonra, kimi de ancak sabah yanıtlar.
+- Randevuyu ertelemek ya da sohbetin engelini kaldırmasını istemek için arayabilirsin.
+
+🚘 Garaj
+- Tüm arabaların, onların otoparkı, tamiri, yıkaması ve plakaları.
+- Otopark: kendi şehrindeki avlu ücretsiz (3 yer, her sahip olduğun daire için bir yer daha),
+  garaj ve evin yanındaki arsa ücretsiz ve güvenli, geri kalanı —
+  ücretli otopark (her saat başı para düşer, uyurken bile!).
+- Avluda arabayı vandallar çizebilir. Garajda ve arsada — hayır.
+- Yıkama: temiz araba üç gün boyunca biraz daha pahalıya satılır.
+- « Sırt çantası » — takaslarda alınan eşyalar.
+
+🔧 Tamir ve servis (Garaj → araba → « Tamir »)
+- Araba çizimi: arızalı üniteler yanıp söner, hasarlı kaporta parçaları
+  taranmış görünür. Bir üniteye bas — neyin bozuk olduğunu gösterelim.
+- Her arıza için DetalBuy'dan kendi yedek parçası gerekir (kuru temizleme ve düzeltme
+  için parça gerekmez). Parça yalnızca kendi markasına ve modeline uyar.
+- « Servise » — işçilik için şehrin norm saatine göre ödersin. Servis 9:00
+  ile 20:00 arası çalışır, geceleri araba bekler. Araba tamirdeyken satılamaz,
+  ilana konamaz ya da takasa verilemez.
+- « Garajda kendim » — işçilik ücretsiz, ama 1,6 kat daha uzun sürer ve sadece basit işler
+  (🔧 simgesi): akü, bujiler, amortisörler, tampon. Araba kendi garajında ya da arsada
+  durmalı.
+- Kaporta: düzeltme daha ucuz ve parça gerektirmez, ama macun kalır — alıcı
+  bunu kalınlık ölçerle bulur ve daha az verir. Parça değişimi daha pahalıdır, ama
+  fiyatı neredeyse hiç etkilemez.
+
+📦 DetalBuy — yedek parça mağazası
+- Arabanı seç — hangi parçalara ihtiyacı olduğunu görürsün.
+- Her parçanın birkaç satıcısı var: puan, yorumlar, teslimat süresi.
+  · Orijinal — pahalı ama güvenilir.
+  · Muadil — yaklaşık iki kat daha ucuz.
+  · Sökümden ikinci el — daha da ucuz.
+  Muadil ve ikinci el parçalar ilk iki ay içinde yeniden bozulabilir — o zaman tamir
+  yeniden. Hızlı satacaksan tasarruf et, kendinde tutacaksan orijinali al.
+- Sipariş birkaç gün yolda (aynı gün ekspres da var — daha pahalı). Gelen
+  parça servise takılana kadar « Depo »da bekler.
+- Orada ayrıca flipçinin araçları: kalınlık ölçer ve OBD tarayıcı.
+
+📍 Ulaşım
+- Ülke sınırları ve şehirlerin olduğu harita. Bir şehre bas — rotayı,
+  fiyatı ve süreyi görürsün: tren, uçak, taksi ya da kendi arabanla.
+- Yolculuk gerçekten işler: yol saati — ekranda bir saniye. Varış şehrine
+  yalnızca varınca ulaşırsın.
+- Yolda Drive Ace ya da PlameBlocks oynayabilirsin — yol süresi
+  daha da hızlı akar (saniyede 80 dakika).
+- Kendi arabanla kaza olabilir: arıza, trafik polisinde zaman kaybı ve bazen ceza.
+
+📅 Takvim, ⏰ Saat, 🌙 Uyku
+- Takvim — tüm randevular. « Yola çık » düğmesi hemen
+  doğru şehirle Ulaşım'ı açar.
+- Saat'te alarmlar. Uyku zamanı ileri sarar: gece — 9:00'a kadar (21:00'den itibaren),
+  gündüz — günde bir kez. Uykuda otopark ücreti de ödenir!
+- Kendi evin olmayan bir şehirde otelde kalmak zorunda kalırsın.
+
+🏦 P-Bank
+- Kart, bakiye, harcama geçmişi. Giriş için kendi kodun.
+- Ücretli siyah ve altın kartlar günlük harcamalardan (otopark,
+  yol, tamir) cashback verir, haftada bir gelir.
+- Bazen ailen « yemek parası » için biraz para gönderir.
+
+💰 PlameFinance
+- Krediler: zamanında ne kadar çok ödersen, o kadar büyük tutarlara erişirsin.
+  Gecikme — ceza, sonra icra memurları para ya da arabayı alır.
+- Mikro krediler — hızlı, ama günde %1.
+- Sübvansiyonlar — reklam karşılığı küçük paralar.
+- Randevuda arabayı taksitli kredi ile alabilirsin.
+
+🏢 MestoBuy — gayrimenkul
+- Garajlar, daireler ve evler. Kendi konutun araba yeri, ücretsiz uyku
+  ve avlu güvenliği sağlar. Boş konutu kiraya verebilirsin.
+
+🔢 Plakalar
+- Güzel plaka arabanın fiyatını yükseltir. Vitrin her gün güncellenir,
+  « trafik polisi ruleti » ile şansını deneyebilirsin. Kendi plakanı söküp,
+  başka araca takabilir ya da satabilirsin.
+
+📄 Belgeler ve sözleşmeler
+- Her işlem gerçek bir sözleşmedir: okuyun ve kendi tarafınızın « imza » satırına imzanızı atın.
+  İmza, sizin örneğinizle karşılaştırılır.
+- Arabanın ruhsatı ve alım satım sözleşmesi — Garajdaki kartında.
+
+🌐 Tarayıcı
+- AvtoHistory — ID ile araba kontrolü: rehin, yasaklar, değiştirilmiş VIN.
+- GosBuy — vergiler, cezalar, kayıt ve belgeleriniz (pasaport, ehliyet,
+  ruhsat). Satın alınan arabayı 10 gün içinde tescil ettirmek gerekir, yoksa ceza.
+- AvtoBuyCase — kasalar, slotlar, pokerli kumarhane. Unutma: kumarhane her zaman
+  kazanır, sen kazanmazsın.
+
+🎮 Mini oyunlar ve ek iş
+- Drive Ace — pistte sür: sollamalar, « kıl payı », jetonlar, nitro. Solda
+  karşı yönün üç şeridi: oradan puanlar üç kat, ama karşıdan araçlar gelir. Trafik polisi
+  çılgınlık ve karşı şeride çıkma için ceza keser. Kilometre başına biraz para ödenir, zaman
+  üç kat hızlı akar.
+- PlameBlocks — bulmaca, zaman iki kat hızlı, online rekorlar.
+- İnşaat — ek iş: her blok için 10 ₽, günde en fazla 8 saat.
+
+⚙️ Ayarlar, 🎵 Müzik, 📝 Not defteri, 🧮 Hesap makinesi — tıpkı sıradan bir telefondaki gibi.
+Ayarlar'da — tema, güvenlik, Dynamic Island, gezinme tuşları,
+oyunlardaki kontrol hassasiyeti ve ilerlemeyi sıfırlama.
+
+
+💡 PROFESYONELLERİN SIRLARI
+-----------------------------------------
+
+* İTİBAR HER ŞEYİ BELİRLER
+Başlangıç — 5 yıldız. İşlemler yükseltir; iptal edilen randevular ve işlemden çekilmek düşürür.
+Puan ne yüksekse, alıcılar o kadar sık yazar.
+
+* SOHBETTE PAZARLIK
+Her satıcının kendi karakteri var — ilk cümlesindeki ipucu: « fiyat
+kesin », « pazarlık olabilir », « acil para lazım », « piyasa fiyatı ».
+Yarı fiyatla başlama — birkaç küstah teklifin ardından satıcı
+sohbeti engeller. Takas — aynı anda en fazla dört araba, ama araba sayısı arttıkça
+daha az kabul edilir.
+
+* RANDEVU VE MUAYENE
+Bir saatten fazla geciktin — satıcı gider. Aynı sohbette iki iptal edilen randevu —
+kalıcı engel.
+Kendin muayene et — ücretsiz, ama gizli sorunu nadiren bulursun. Ekspertiz uzmanı
+%5 fiyatına çalışır, daha sık bulur ve tüm kaporta ölçümünü hemen yapar.
+
+* KALINLIK ÖLÇER
+DetalBuy'dan al — ve randevuda çizimdeki kaporta parçalarına bas:
+  175 µm'ye kadar — fabrika boyası,
+  175–380 — parça yeniden boyanmış,
+  daha fazlası — macun, araba kazaya karışmış,
+  plastik tamponlar — cihaz onları ölçmez.
+Satıcı « hasarsız, boyasız » dedi, ama cihaz macun gösterdi mi? Bu, pazarlıkta en iyi
+argüman. Kontrol etmeden hasarlı aldıysan — satarken alıcılar bulur
+ve daha az verir.
+
+* OBD TARAYICI
+Randevuda bağla — çoğu zaman geri sarılmış kilometreyi yakalar.
+
+* MOTOR BAŞINDA PAZARLIK
+Argüman sun: arızalar, bulunan sorun, ölçümler, satıcının yalanları,
+« para hemen şimdi ». Makul sınırlar içinde iste — satıcının sabrı var:
+sabır biterse fiyat kesinleşir. Ret karşısında genelde yarısını teklif eder —
+kabul edip etmemek sana kalmış.
+
+* KAPORA
+Bazen satıcı kapora ister — onsuz randevu ayarlanamaz. Puanı 3,7'nin altında olan
+satıcılarda dolandırıcılık sık görülür: parayı alır ve kaybolur.
+Eğer kaporayı sen alıcıdan istiyorsan — randevuyu üç gün önceden ayarla ve
+arabayı başkasına satma, yoksa banka kartını engeller.
+
+* RANDEVUYA YETİŞEMİYOR MUSUN?
+Vekil gönder: küçük bir ücret karşılığında işlemi o yapar.
+
+* ZAMAN DURMAZ
+Oyun kapalıyken zaman gerçek hayattaki gibi akar: randevular, ödemeler ve otopark
+hiçbir yere gitmez. Açık bildirimler önemli şeyleri hatırlatır.
+
+Bol kazançlı işlemler ve bereketli kârlar!
+=====================================
+
+ÖNEMLİ!!!
+
+BİR HATA FARK EDERSENİZ VEYA KENDİ FİKRİNİZİ ÖNERMEK İSTERSENİZ
+BİZE YAZABİLİRSİNİZ:
+TG-BOT - avtobuygame_bot

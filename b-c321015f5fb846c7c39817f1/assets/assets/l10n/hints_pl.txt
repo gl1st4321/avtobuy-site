@@ -1,0 +1,187 @@
+================================
+  WITAJ W AVTOBUY!
+================================
+
+Jesteś początkującym handlarzem. Szukaj aut tańszych niż rynkowa cena, targuj się,
+sprawdzaj, naprawiaj i sprzedawaj drożej. Cały biznes mieści się w Twoim telefonie:
+każda mechanika ma własną aplikację.
+
+Poniżej znajdziesz przewodnik po aplikacjach i sztuczkach, które znają doświadczeni gracze.
+
+
+📱 APLIKACJE
+-------------------------------
+
+🛒 AvtoBuy — rynek aut
+- Lista ogłoszeń z całego kraju. Filtry: cena, rocznik, miasto, promień wyszukiwania.
+- Sortowanie „Najnowsze” — najlepsze oferty znikają szybko.
+- Serduszko — do ulubionych, żeby nie zgubić auta.
+- Przycisk na środku — wystaw własne auto. W ogłoszeniu można wskazać,
+  czy rozważasz zamianę.
+- Cena ogłoszenia — od 1 000 ₽ i nie więcej niż trzykrotność wyceny auta. Zbyt
+  drogie auto prawie nikt nie kupi, a przy zbyt niskiej cenie gra dopyta, czy na pewno.
+
+💬 Czaty i Połączenia
+- Cały targ odbywa się na czatach. Sprzedawcy nie odpowiadają od razu: jeden jest online, inny
+  odpisze za godzinę, a jeszcze inny dopiero rano.
+- Możesz zadzwonić, żeby przełożyć spotkanie albo poprosić o odblokowanie czatu.
+
+🚘 Garaż
+- Wszystkie Twoje auta, ich parkowanie, naprawa, mycie i tablice rejestracyjne.
+- Parkowanie: podwórko w rodzinnym mieście jest bezpłatne (3 miejsca, plus po jednym miejscu za każde
+  własne mieszkanie), garaż i działka przy domu — bezpłatnie i bezpiecznie, reszta —
+  to parking płatny (pieniądze schodzą co godzinę, nawet gdy śpisz!).
+- Na podwórku wandale mogą porysować auto. W garażu i na działce — nie.
+- Mycie: czyste auto przez trzy dni sprzedaje się odrobinę drożej.
+- „Plecak” — rzeczy otrzymane przy zamianach.
+
+🔧 Naprawa i warsztat (Garaż → auto → „Naprawa”)
+- Rysunek auta: usterki w podzespołach migają, uszkodzone elementy nadwozia
+  są zakreskowane. Kliknij podzespół — pokażemy, co jest zepsute.
+- Do każdej usterki potrzebna jest osobna część z DetalBuy (do czyszczenia i prostowania blach
+  części nie trzeba). Część pasuje tylko do swojej marki i modelu.
+- „W warsztacie” — płacisz za robociznę według stawki roboczogodziny w mieście. Warsztat pracuje od 9:00
+  do 20:00, w nocy auto stoi. Gdy auto jest w naprawie, nie można go sprzedać,
+  wystawić ani oddać w zamianie.
+- „Sam w garażu” — praca za darmo, ale 1,6 razy dłużej i tylko proste rzeczy
+  (ikona 🔧): akumulator, świece, amortyzatory, zderzak. Auto musi stać
+  w Twoim garażu lub na działce.
+- Nadwozie: prostowanie jest tańsze i bez części, ale zostaje szpachla — kupujący
+  znajdzie ją miernikiem lakieru i da mniej. Wymiana części jest droższa, za to prawie
+  nie obniża ceny.
+
+📦 DetalBuy — sklep z częściami
+- Wybierz auto — zobaczysz, jakich części potrzebuje.
+- Każda część ma kilku sprzedawców: ocenę, opinie, czas dostawy.
+  · Oryginał — drogo i niezawodnie.
+  · Zamiennik — mniej więcej o połowę taniej.
+  · Używana z demontażu — jeszcze taniej.
+  Zamiennik i używana część w pierwszych dwóch miesiącach mogą znów się zepsuć — wtedy naprawa
+  od nowa. Sprzedajesz szybko — oszczędzaj, zostawiasz auto dla siebie — bierz oryginał.
+- Zamówienie jedzie kilka dni (bywa ekspres w jeden dzień — drożej). To, co przyjedzie,
+  leży w „Magazynie”, dopóki nie oddasz auta do warsztatu.
+- Tu też są narzędzia handlarza: miernik lakieru i skaner OBD.
+
+📍 Transport
+- Mapa z granicami państw i miastami. Kliknij miasto — zobaczysz trasę,
+  cenę i czas: pociąg, samolot, taksówka lub własne auto.
+- Podróż trwa naprawdę: godzina drogi to sekunda na ekranie. Do miasta
+  docelowego trafiasz dopiero po dotarciu na miejsce.
+- W drodze można zagrać w Drive Ace lub PlameBlocks — czas podróży popłynie
+  jeszcze szybciej (80 minut na sekundę).
+- Własnym autem zdarzają się wypadki: awaria, czas na policji drogowej i czasem mandat.
+
+📅 Kalendarz, ⏰ Zegar, 🌙 Sen
+- Kalendarz — wszystkie spotkania. Przycisk „Wyrusz w drogę” od razu otworzy
+  Transport z właściwym miastem.
+- Budziki w Zegarze. Sen przewija czas: nocny — do 9:00 (od 21:00),
+  drzemka w dzień — raz na dobę. Podczas snu parking też się płaci!
+- W obcym mieście bez własnego mieszkania trzeba będzie spać w hotelu.
+
+🏦 P-Bank
+- Karta, saldo, historia wydatków. Własny kod logowania.
+- Płatna czarna i złota karta dają cashback od codziennych wydatków (parking,
+  droga, naprawa), wypłacany raz w tygodniu.
+- Czasem rodzina przelewa trochę „na jedzenie”.
+
+💰 PlameFinance
+- Kredyty: im więcej spłacisz w terminie, tym większe kwoty będą dostępne.
+  Zwłoka — kara, a potem komornicy zabierają pieniądze lub auto.
+- Mikropożyczki — szybko, ale 1 % dziennie.
+- Dotacje — drobne pieniądze za reklamę.
+- Na spotkaniu można kupić auto na kredyt samochodowy.
+
+🏢 MestoBuy — nieruchomości
+- Garaże, mieszkania i domy. Własne mieszkanie daje miejsca dla aut, bezpłatny sen
+  i ochronę podwórka. Wolne mieszkanie można wynająć.
+
+🔢 Tablice
+- Ładna tablica podnosi cenę auta. Wystawa odświeża się codziennie,
+  a w „ruletce policji drogowej” możesz spróbować szczęścia. Własną tablicę można zdjąć,
+  przełożyć lub sprzedać.
+
+📄 Dokumenty i umowy
+- Każda transakcja to prawdziwa umowa: przeczytaj ją i podpisz się w
+  rubryce „podpis” swojej strony. Podpis jest porównywany z Twoim wzorem.
+- Dowód rejestracyjny (PTS) i umowa kupna-sprzedaży własnego auta — w jego karcie w Garażu.
+
+🌐 Przeglądarka
+- AvtoHistory — sprawdzenie auta po ID: zastawy, zakazy, przebity VIN.
+- GosBuy — podatki, mandaty, rejestracja i Twoje dokumenty (paszport, prawo jazdy,
+  PTS). Kupione auto trzeba zarejestrować w 10 dni, inaczej mandat.
+- AvtoBuyCase — kasyno ze skrzynkami, slotami, pokerem. Pamiętaj: kasyno zawsze
+  jest na plusie, a Ty — nie.
+
+🎮 Minigry i dorywcza praca
+- Drive Ace — pędź po trasie: wyprzedzanie, „na styk”, monety, nitro. Po lewej —
+  trzy pasy ruchu przeciwnego: tam punkty liczą się potrójnie, ale pędzą na Ciebie auta. Policja drogowa karze za
+  szaleństwo i wyjazd na przeciwny pas. Za kilometry dostajesz trochę pieniędzy, czas
+  płynie trzy razy szybciej.
+- PlameBlocks — łamigłówka, czas dwa razy szybciej, rekordy online.
+- Budowa — dorywcza praca: 10 ₽ za każdą płytę, do 8 godzin na dobę.
+
+⚙️ Ustawienia, 🎵 Muzyka, 📝 Notatnik, 🧮 Kalkulator — jak w zwykłym telefonie.
+W Ustawieniach — motyw, bezpieczeństwo, Dynamic Island, przyciski nawigacji,
+czułość sterowania w grach i reset postępów.
+
+
+💡 SEKRETY PROFESJONALISTÓW
+-----------------------------------------
+
+* REPUTACJA DECYDUJE O WSZYSTKIM
+Start — 5 gwiazdek. Transakcje ją podnoszą, a zerwane spotkania i wyjście z transakcji — obniżają.
+Im wyższa ocena, tym częściej piszą kupujący.
+
+* TARGOWANIE NA CZACIE
+Każdy sprzedawca ma swój charakter — wskazówka kryje się w jego pierwszym zdaniu: „cena
+ostateczna”, „do negocjacji”, „pilnie potrzebne pieniądze”, „cena rynkowa”.
+Nie zaczynaj od połowy ceny — po kilku bezczelnych propozycjach sprzedawca
+zablokuje czat. Zamiana — do czterech aut naraz, ale im więcej aut,
+tym rzadziej się zgadzają.
+
+* SPOTKANIE I OGLĘDZINY
+Spóźnisz się o ponad godzinę — sprzedawca odjedzie. Dwa zerwane spotkania w jednym
+czacie — blokada na zawsze.
+Obejrzeć samemu — za darmo, ale ukrytą wadę znajdziesz rzadko. Rzeczoznawca
+kosztuje 5 % ceny, znajduje częściej i od razu zmierzy całe nadwozie.
+
+* MIERNIK LAKIERU
+Kup go w DetalBuy — a na spotkaniu klikaj elementy nadwozia na rysunku:
+  do 175 µm — lakier fabryczny,
+  175–380 — element był lakierowany,
+  powyżej — szpachla, auto miało wypadek,
+  zderzaki są plastikowe — przyrząd ich nie mierzy.
+Sprzedawca mówi „nie bity, nie lakierowany”, a przyrząd pokazał szpachlę? To najlepszy
+argument w targu. Kupiłeś bitego bez sprawdzenia — kupujący przy sprzedaży to znajdą
+i dadzą mniej.
+
+* SKANER OBD
+Podłącz na spotkaniu — najczęściej wychwyci cofnięty przebieg.
+
+* TARG PRZY MASCE
+Przedstawiaj argumenty: usterki, znaleziony haczyk, pomiary, kłamstwa sprzedawcy,
+„gotówka od ręki”. Proś o rozsądną kwotę — sprzedawca ma
+cierpliwość: skończy się — cena ostateczna. Na odmowę często proponuje
+połowę — zgodzić się czy nie, decydujesz Ty.
+
+* ZADATEK
+Czasem sprzedawca prosi o zadatek — bez niego spotkania nie umówisz. Sprzedawcy
+z oceną poniżej 3,7 często są oszustami: wezmą pieniądze i znikną.
+Jeśli to Ty prosisz kupującego o zadatek — umów spotkanie w ciągu trzech dni i nie
+sprzedawaj auta komu innemu, inaczej bank zablokuje kartę.
+
+* NIE ZDĄŻASZ NA SPOTKANIE?
+Wyślij pełnomocnika: przeprowadzi transakcję za niewielką opłatą.
+
+* CZAS NIE STOI
+Gdy gra jest zamknięta, czas płynie jak w życiu: spotkania, płatności i parking
+nigdzie nie znikną. Włączone powiadomienia przypomną o ważnych sprawach.
+
+Udanych transakcji i tłustego zarobku!
+=====================================
+
+WAŻNE!!!
+
+JEŚLI ZAUWAŻYŁEŚ BŁĄD LUB CHCESZ ZAPROPONOWAĆ WŁASNY POMYSŁ,
+MOŻESZ NAPISAĆ DO NAS:
+BOT TELEGRAM - avtobuygame_bot

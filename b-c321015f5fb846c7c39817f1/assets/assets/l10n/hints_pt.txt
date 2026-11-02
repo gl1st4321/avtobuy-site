@@ -1,0 +1,188 @@
+================================
+  BEM-VINDO AO AVTOBUY!
+================================
+
+Você é um revendedor de carros iniciante. Encontre carros abaixo do preço de
+mercado, negocie, inspecione, conserte e revenda mais caro. Todo o negócio está
+no seu celular: cada mecânica tem seu próprio aplicativo.
+
+Abaixo está o guia dos aplicativos e os truques que os veteranos conhecem.
+
+
+📱 APLICATIVOS
+-------------------------------
+
+🛒 AvtoBuy — mercado de carros
+- Feed de anúncios do país inteiro. Filtros: preço, ano, cidade, raio de busca.
+- Ordenação «Mais recentes» — as melhores ofertas somem rápido.
+- Coração — favoritar, para não perder o carro.
+- Botão do meio — anunciar o seu carro. No anúncio dá para indicar
+  se você aceita troca.
+- O preço do anúncio vai de 1 000 ₽ até no máximo três avaliações do carro.
+  Um preço alto demais quase ninguém paga; um baixo demais o jogo pergunta de novo.
+
+💬 Chats e Ligações
+- Toda a negociação acontece nos chats. Os vendedores não respondem na hora:
+  uns estão online, outros respondem em uma hora, outros só de manhã.
+- Dá para ligar para remarcar o encontro ou pedir para desbloquear o chat.
+
+🚘 Garagem
+- Todos os seus carros, estacionamento, conserto, lavagem e placas.
+- Estacionamento: o pátio na cidade natal é grátis (3 vagas, mais uma vaga por
+  cada apartamento seu), garagem e terreno ao lado de casa são grátis e seguros,
+  o resto é estacionamento pago (o dinheiro é descontado a cada hora, até
+  enquanto você dorme!).
+- No pátio, vândalos podem arranhar o carro. Na garagem e no terreno, não.
+- Lavagem: um carro limpo vende um pouco mais caro por três dias.
+- «Mochila» — itens recebidos nas trocas.
+
+🔧 Conserto e oficina (Garagem → carro → «Conserto»)
+- Esquema do carro: as peças com defeito piscam, as peças da lataria
+  danificadas aparecem hachuradas. Toque numa peça para ver o que quebrou.
+- Cada defeito pede uma peça própria do DetalBuy (limpeza a seco e
+  funilaria não precisam de peça). A peça só serve para a sua marca e modelo.
+- «Na oficina» — você paga o serviço por hora de mão de obra da cidade. A oficina
+  funciona das 9:00 às 20:00, à noite o carro fica parado. Enquanto o carro está
+  em conserto, não dá para vender, anunciar nem dar em troca.
+- «Eu mesmo na garagem» — mão de obra grátis, mas 1,6 vez mais demorada e só
+  serviço simples (ícone 🔧): bateria, velas, amortecedores, para-choque. O carro precisa
+  estar na sua garagem ou no seu terreno.
+- Lataria: a desamassagem é mais barata e sem peça, mas fica massa corrida —
+  o comprador acha com o medidor de espessura e paga menos. A troca da peça
+  é mais cara, mas quase não afeta o preço.
+
+📦 DetalBuy — loja de autopeças
+- Escolha o carro e veja quais peças ele precisa.
+- Cada peça tem vários vendedores: nota, avaliações, prazo de entrega.
+  · Original — caro e confiável.
+  · Paralela — mais ou menos metade do preço.
+  · Usada de desmanche — ainda mais barata.
+  A paralela e a usada podem quebrar de novo nos dois primeiros meses — aí o conserto
+  é refeito. Vai revender rápido — economize; vai ficar com o carro — leve a original.
+- O pedido leva alguns dias (há expresso em um dia — mais caro). O que chega
+  fica no «Estoque» até você levar à oficina.
+- Lá também ficam as ferramentas do revendedor: medidor de espessura e scanner OBD.
+
+📍 Transporte
+- Mapa com fronteiras de países e cidades. Toque numa cidade para ver a rota,
+  o preço e o tempo: trem, avião, táxi ou o seu carro.
+- A viagem acontece de verdade: uma hora de viagem é um segundo na tela. Você só
+  chega à cidade de destino quando a viagem termina.
+- Na estrada dá para jogar Drive Ace ou PlameBlocks — o tempo da viagem passa
+  ainda mais rápido (80 minutos por segundo).
+- No seu carro pode haver acidente: quebra, tempo na polícia de trânsito e às vezes multa.
+
+📅 Calendário, ⏰ Relógio, 🌙 Sono
+- Calendário — todos os encontros. O botão «Partir» abre o Transporte
+  já com a cidade certa.
+- Alarmes no Relógio. O sono avança o tempo: o noturno vai até as 9:00 (a partir das 21:00),
+  o diurno, uma vez por dia. Dormindo, o estacionamento também é cobrado!
+- Em outra cidade, sem imóvel próprio, você terá de dormir em hotel.
+
+🏦 P-Bank
+- Cartão, saldo, histórico de gastos. Seu próprio código de acesso.
+- Os cartões pagos preto e dourado dão cashback em gastos do dia a dia (estacionamento,
+  estrada, conserto), que cai uma vez por semana.
+- De vez em quando a família manda uma ajudinha «para a comida».
+
+💰 PlameFinance
+- Empréstimos: quanto mais você pagar em dia, maiores os valores disponíveis.
+  Atraso — multa, e depois os oficiais de justiça levam seu dinheiro ou carro.
+- Microempréstimos — rápidos, mas 1 % ao dia.
+- Subsídios — um dinheirinho por ver propaganda.
+- No encontro dá para comprar o carro financiado.
+
+🏢 MestoBuy — imóveis
+- Garagens, apartamentos e casas. Um imóvel próprio dá vagas para carros, sono
+  grátis e proteção do pátio. Imóvel livre pode ser alugado.
+
+🔢 Placas
+- Uma placa bonita aumenta o preço do carro. A vitrine é renovada todo dia,
+  e na «roleta da polícia de trânsito» dá para tentar a sorte. Sua placa pode ser removida,
+  trocada ou vendida.
+
+📄 Documentos e contratos
+- Cada negócio é um contrato de verdade: leia e assine
+  na linha «assinatura» do seu lado. A assinatura é conferida com o seu modelo.
+- O documento do veículo (PTS) e o contrato de compra e venda do seu carro ficam na ficha dele na Garagem.
+
+🌐 Navegador
+- AvtoHistory — consulta do carro pelo ID: penhoras, restrições, VIN adulterado.
+- GosBuy — impostos, multas, registro e seus documentos (passaporte, carteira de
+  motorista, PTS). O carro comprado precisa ser registrado em 10 dias, senão há multa.
+- AvtoBuyCase — cassino com caixas, caça-níqueis, pôquer. Lembre: o cassino está sempre
+  no lucro, e você não.
+
+🎮 Minijogos e bicos
+- Drive Ace — acelere pela estrada: ultrapassagens, «raspando», moedas, nitro. À esquerda
+  há três faixas de contramão: ali os pontos valem o triplo, mas os carros vêm de frente. A polícia
+  multa por barbaridade e por entrar na contramão. Os quilômetros pagam um pouco de dinheiro, e o tempo
+  passa três vezes mais rápido.
+- PlameBlocks — quebra-cabeça, tempo duas vezes mais rápido, recordes online.
+- Obra — bico: 10 ₽ por cada laje, até 8 horas por dia.
+
+⚙️ Configurações, 🎵 Música, 📝 Bloco de notas, 🧮 Calculadora — como num celular normal.
+Nas Configurações — tema, segurança, Dynamic Island, botões de navegação,
+sensibilidade dos controles nos jogos e redefinição do progresso.
+
+
+💡 SEGREDOS DOS PROFISSIONAIS
+-----------------------------------------
+
+* A REPUTAÇÃO DECIDE TUDO
+Você começa com 5 estrelas. Negócios fechados aumentam, encontros furados e abandonar um negócio diminuem.
+Quanto maior a nota, mais compradores escrevem para você.
+
+* NEGOCIAÇÃO NO CHAT
+Cada vendedor tem seu temperamento — a dica está na primeira frase dele: «preço
+final», «aceito negociar», «preciso de dinheiro urgente», «preço de mercado».
+Não comece pela metade do preço — depois de algumas propostas abusivas o vendedor
+bloqueia o chat. Troca — até quatro carros de uma vez, mas quanto mais carros,
+menos aceitam.
+
+* ENCONTRO E VISTORIA
+Atrasou mais de uma hora — o vendedor vai embora. Dois encontros furados no mesmo
+chat — bloqueio para sempre.
+Vistoriar por conta própria é grátis, mas raramente você acha o defeito escondido. O despachante
+custa 5 % do preço, acha com mais frequência e já mede a lataria inteira.
+
+* MEDIDOR DE ESPESSURA
+Compre no DetalBuy — e no encontro toque nas peças da lataria no esquema:
+  até 175 µm — pintura de fábrica,
+  175–380 — peça repintada,
+  acima — massa corrida, o carro já bateu,
+  para-choques são de plástico — o aparelho não mede.
+O vendedor disse «sem batida, sem repintura», e o aparelho mostrou massa? Esse é o melhor
+argumento na negociação. Comprou um carro batido sem checar — os compradores, na revenda, vão achar
+e pagar menos.
+
+* SCANNER OBD
+Conecte no encontro — quase sempre pega a quilometragem adulterada.
+
+* NEGOCIAÇÃO NO CAPÔ
+Apresente argumentos: defeitos, o problema que você achou, medições, mentiras do vendedor,
+«dinheiro na mão agora». Peça dentro do razoável — o vendedor tem
+paciência: quando acabar, o preço é final. Diante de uma recusa ele costuma propor
+a metade do caminho — aceitar ou não é com você.
+
+* SINAL
+Às vezes o vendedor pede um sinal — sem ele não dá para marcar o encontro. Vendedores
+com nota abaixo de 3,7 costumam aplicar golpe: pegam o dinheiro e somem.
+Se é você quem pede o sinal ao comprador — marque o encontro em até três dias e não
+venda o carro para outra pessoa, senão o banco bloqueia o cartão.
+
+* NÃO VAI CHEGAR AO ENCONTRO?
+Mande um procurador: ele fecha o negócio por uma pequena taxa.
+
+* O TEMPO NÃO PARA
+Com o jogo fechado, o tempo corre como na vida real: encontros, pagamentos e estacionamento
+não vão a lugar nenhum. As notificações ativadas lembram do que é importante.
+
+Bons negócios e muito lucro!
+=====================================
+
+IMPORTANTE!!!
+
+SE VOCÊ NOTOU UM BUG OU QUER SUGERIR A SUA IDEIA,
+PODE ESCREVER PARA NÓS:
+BOT DO TELEGRAM - avtobuygame_bot

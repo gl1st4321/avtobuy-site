@@ -1,0 +1,187 @@
+================================
+  SELAMAT DATANG DI AVTOBUY!
+================================
+
+Kamu adalah broker mobil pemula. Cari mobil yang lebih murah dari harga pasar, tawar-menawar,
+periksa, perbaiki, lalu jual lebih mahal. Seluruh bisnismu ada di ponselmu: setiap mekanik
+punya aplikasinya sendiri.
+
+Di bawah ini panduan aplikasi dan trik yang diketahui pemain berpengalaman.
+
+
+📱 APLIKASI
+-------------------------------
+
+🛒 AvtoBuy — pasar mobil
+- Daftar iklan di seluruh negeri. Filter: harga, tahun, kota, radius pencarian.
+- Urutkan «Terbaru dulu» — penawaran paling menggiurkan cepat laku.
+- Ikon hati — simpan ke favorit supaya mobilnya tidak hilang.
+- Tombol di tengah — pasang iklan mobilmu sendiri. Di iklan bisa kamu tentukan
+  apakah menerima tukar tambah.
+- Harga iklan — mulai 1 000 ₽ dan maksimal tiga kali nilai taksiran mobil. Yang terlalu
+  mahal hampir tidak ada yang beli, yang terlalu murah akan ditanyakan ulang oleh game.
+
+💬 Chat dan Panggilan
+- Semua tawar-menawar berlangsung di chat. Penjual tidak langsung membalas: ada yang online,
+  ada yang membalas sejam lagi, ada yang baru pagi hari.
+- Kamu bisa menelepon untuk memindahkan jadwal pertemuan atau meminta chat dibuka blokirnya.
+
+🚘 Garasi
+- Semua mobilmu, parkirnya, perbaikan, cuci, dan pelat nomornya.
+- Parkir: halaman di kota asal gratis (3 tempat, ditambah satu tempat untuk setiap
+  apartemen milikmu), garasi dan lahan di dekat rumah — gratis dan aman, sisanya —
+  parkiran berbayar (setiap jam uang dipotong, bahkan saat kamu tidur!).
+- Di halaman, mobil bisa digores vandal. Di garasi dan di lahan rumah — tidak.
+- Cuci: mobil bersih selama tiga hari laku sedikit lebih mahal.
+- «Ransel» — barang yang didapat dari tukar tambah.
+
+🔧 Perbaikan dan bengkel (Garasi → mobil → «Perbaikan»)
+- Denah mobil: komponen yang rusak berkedip, bagian bodi yang rusak
+  diarsir. Tekan komponennya — kami tunjukkan apa yang rusak.
+- Setiap kerusakan butuh suku cadang sendiri dari DetalBuy (untuk dry cleaning dan
+  pelurusan bodi tidak perlu suku cadang). Suku cadang hanya cocok untuk merek dan model yang sama.
+- «Ke bengkel» — kamu membayar jasa berdasarkan tarif per jam kerja di kota itu. Bengkel buka dari 9:00
+  sampai 20:00, malam hari mobil didiamkan. Selama mobil diperbaiki, tidak bisa dijual,
+  dipasang iklan, atau ditukar tambah.
+- «Sendiri di garasi» — pengerjaan gratis, tetapi 1,6 kali lebih lama dan hanya yang sederhana
+  (ikon 🔧): aki, busi, shockbreaker, bumper. Mobil harus berada
+  di garasimu atau di lahan rumahmu.
+- Bodi: meluruskan lebih murah dan tanpa suku cadang, tetapi dempul tetap ada — pembeli
+  akan menemukannya dengan alat ukur ketebalan cat dan menawar lebih rendah. Ganti komponen lebih mahal, tetapi hampir
+  tidak memengaruhi harga.
+
+📦 DetalBuy — toko suku cadang
+- Pilih mobil — kamu akan lihat suku cadang apa yang dibutuhkannya.
+- Setiap suku cadang punya beberapa penjual: rating, ulasan, waktu pengiriman.
+  · Original — mahal dan andal.
+  · Aftermarket — kira-kira setengah harganya.
+  · Bekas bongkaran — lebih murah lagi.
+  Aftermarket dan bekas di dua bulan pertama bisa rusak lagi — lalu perbaikan
+  harus diulang. Kalau cepat dijual lagi — hemat, kalau mau dipakai sendiri — ambil yang original.
+- Pesanan dikirim beberapa hari (ada ekspres satu hari — lebih mahal). Yang sudah tiba
+  disimpan di «Gudang» sampai kamu memasangnya di bengkel.
+- Di sana juga ada alat broker mobil: alat ukur ketebalan cat dan pemindai OBD.
+
+📍 Transportasi
+- Peta dengan batas negara dan kota. Tekan kota — kamu akan lihat rute,
+  harga, dan waktu: kereta, pesawat, taksi, atau mobil sendiri.
+- Perjalanan berjalan sungguhan: satu jam perjalanan — satu detik di layar. Kamu baru
+  sampai di kota tujuan setelah tiba.
+- Di perjalanan kamu bisa main Drive Ace atau PlameBlocks — waktu perjalanan akan berlalu
+  lebih cepat lagi (80 menit per detik).
+- Dengan mobil sendiri bisa terjadi kecelakaan: kerusakan, waktu di polisi lalu lintas, dan kadang denda.
+
+📅 Kalender, ⏰ Jam, 🌙 Tidur
+- Kalender — semua pertemuan. Tombol «Berangkat» langsung membuka
+  Transportasi dengan kota yang sesuai.
+- Alarm ada di Jam. Tidur mempercepat waktu: tidur malam — sampai 9:00 (mulai 21:00),
+  tidur siang — sekali sehari. Saat tidur, parkir tetap dibayar!
+- Di kota lain tanpa tempat tinggal sendiri, kamu harus tidur di hotel.
+
+🏦 P-Bank
+- Kartu, saldo, riwayat pengeluaran. Kode masukmu sendiri.
+- Kartu hitam dan emas berbayar memberi cashback dari pengeluaran sehari-hari (parkir,
+  perjalanan, perbaikan), cair seminggu sekali.
+- Kadang keluarga mentransfer sedikit «untuk makan».
+
+💰 PlameFinance
+- Kredit: semakin banyak yang dilunasi tepat waktu, semakin besar jumlah yang bisa diambil.
+  Keterlambatan — denda, lalu juru sita mengambil uang atau mobilmu.
+- Pinjaman mikro — cepat, tetapi 1 % per hari.
+- Subsidi — uang kecil untuk menonton iklan.
+- Saat pertemuan, mobil bisa dibeli dengan kredit mobil.
+
+🏢 MestoBuy — properti
+- Garasi, apartemen, dan rumah. Tempat tinggal sendiri memberi tempat untuk mobil, tidur gratis
+  dan perlindungan halaman. Tempat tinggal yang kosong bisa disewakan.
+
+🔢 Pelat nomor
+- Nomor cantik menaikkan harga mobil. Etalase diperbarui setiap hari,
+  dan di «roulette polisi lalu lintas» kamu bisa coba peruntungan. Nomormu bisa dilepas,
+  dipasang di mobil lain, atau dijual.
+
+📄 Dokumen dan kontrak
+- Setiap transaksi — kontrak sungguhan: baca dulu
+  lalu tanda tangani di kolom «tanda tangan» pihakmu. Tanda tangan dicocokkan dengan contohmu.
+- Surat kendaraan (PTS) dan perjanjian jual-beli mobilmu ada di kartunya di Garasi.
+
+🌐 Browser
+- AvtoHistory — cek mobil lewat ID: jaminan, larangan, VIN yang diubah.
+- GosBuy — pajak, denda, registrasi, dan dokumenmu (paspor, SIM,
+  PTS). Mobil yang dibeli harus didaftarkan dalam 10 hari, kalau tidak kena denda.
+- AvtoBuyCase — kasino dengan kotak kejutan, slot, poker. Ingat: kasino selalu
+  untung, sedangkan kamu tidak.
+
+🎮 Mini-game dan kerja sampingan
+- Drive Ace — ngebut di jalan raya: menyalip, «mepet», koin, nitro. Di sebelah kiri —
+  tiga lajur berlawanan: poin di sana tiga kali lipat, tetapi mobil datang dari depan. Polisi lalu lintas mendenda
+  pengebut dan yang masuk ke jalur berlawanan. Kilometer dibayar sedikit uang, waktu
+  berjalan tiga kali lebih cepat.
+- PlameBlocks — teka-teki, waktu dua kali lebih cepat, rekor online.
+- Konstruksi — kerja sampingan: 10 ₽ untuk setiap pelat, hingga 8 jam per hari.
+
+⚙️ Pengaturan, 🎵 Musik, 📝 Catatan, 🧮 Kalkulator — seperti di ponsel biasa.
+Di Pengaturan — tema, keamanan, Dynamic Island, tombol navigasi,
+sensitivitas kontrol di game dan reset progres.
+
+
+💡 RAHASIA PARA PROFESIONAL
+-----------------------------------------
+
+* REPUTASI MENENTUKAN SEGALANYA
+Awalnya 5 bintang. Transaksi menaikkannya, pertemuan yang gagal dan pergi dari transaksi menurunkannya.
+Semakin tinggi rating, semakin sering pembeli menghubungi.
+
+* TAWAR-MENAWAR DI CHAT
+Setiap penjual punya karakter — petunjuknya ada di kalimat pertamanya: «harga
+pas», «bisa nego», «butuh uang cepat», «harga pasaran».
+Jangan mulai dari setengah harga — setelah beberapa tawaran kurang ajar penjual
+akan memblokir chat. Tukar tambah — sampai empat mobil sekaligus, tetapi semakin banyak mobil,
+semakin jarang disetujui.
+
+* PERTEMUAN DAN PEMERIKSAAN
+Terlambat lebih dari satu jam — penjual pergi. Dua pertemuan gagal di satu
+chat — diblokir selamanya.
+Memeriksa sendiri — gratis, tetapi jarang menemukan kejanggalan tersembunyi. Jasa pemeriksa
+harganya 5 % dari harga mobil, lebih sering menemukan dan langsung mengukur seluruh bodi.
+
+* ALAT UKUR KETEBALAN CAT
+Beli di DetalBuy — dan saat pertemuan tekan bagian bodi di denah:
+  sampai 175 mikron — cat pabrik,
+  175–380 — bagian dicat ulang,
+  lebih dari itu — dempul, mobil pernah kecelakaan,
+  bumper dari plastik — alat tidak mengukurnya.
+Penjual bilang «tidak tabrakan, tidak dicat», tapi alat menunjukkan dempul? Itu argumen
+terbaik saat nego. Membeli mobil bekas tabrakan tanpa memeriksa — pembeli saat kamu menjual akan menemukannya
+dan menawar lebih rendah.
+
+* PEMINDAI OBD
+Pasang saat pertemuan — paling sering menangkap odometer yang diputar mundur.
+
+* NEGO DI DEPAN KAP MESIN
+Ajukan argumen: kerusakan, kejanggalan yang ditemukan, hasil ukur, kebohongan penjual,
+«uang tunai sekarang juga». Minta dalam batas wajar — penjual punya
+kesabaran: kalau habis, harga jadi pas. Kalau ditolak, ia sering menawarkan
+setengahnya — setuju atau tidak, terserah kamu.
+
+* UANG MUKA
+Kadang penjual meminta uang muka — tanpa itu pertemuan tidak bisa dijadwalkan. Penjual
+dengan rating di bawah 3,7 sering melakukan penipuan: mengambil uang lalu menghilang.
+Kalau kamu sendiri yang meminta uang muka dari pembeli — jadwalkan pertemuan dalam tiga hari dan jangan
+jual mobilnya ke orang lain, kalau tidak bank akan memblokir kartumu.
+
+* TIDAK SEMPAT DATANG KE PERTEMUAN?
+Kirim perwakilan: ia akan menyelesaikan transaksi dengan bayaran kecil.
+
+* WAKTU TIDAK BERHENTI
+Selama game ditutup, waktu berjalan seperti di kehidupan nyata: pertemuan, pembayaran, dan parkir
+tidak akan ke mana-mana. Notifikasi yang aktif akan mengingatkan hal-hal penting.
+
+Selamat bertransaksi dan semoga cuan besar!
+=====================================
+
+PENTING!!!
+
+JIKA KAMU MENEMUKAN BUG ATAU INGIN MENGUSULKAN IDEMU SENDIRI
+KAMU BISA MENULIS KE KAMI:
+BOT TG - avtobuygame_bot

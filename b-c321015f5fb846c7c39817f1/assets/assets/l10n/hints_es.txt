@@ -1,0 +1,194 @@
+================================
+  ¡BIENVENIDO A AVTOBUY!
+================================
+
+Eres un revendedor novato. Encuentra coches por debajo del precio de mercado,
+regatea, inspecciona, repara y vende más caro. Todo el negocio está en tu
+teléfono: cada mecánica tiene su propia aplicación.
+
+A continuación, una guía de las aplicaciones y los trucos que conocen los veteranos.
+
+
+📱 APLICACIONES
+-------------------------------
+
+🛒 AvtoBuy — mercado de coches
+- Lista de anuncios de todo el país. Filtros: precio, año, ciudad, radio de búsqueda.
+- Orden «Más recientes primero»: las mejores ofertas vuelan.
+- El corazón guarda el coche en favoritos para no perderlo.
+- El botón central sirve para publicar tu propio coche. En el anuncio puedes indicar
+  si aceptas cambios.
+- El precio del anuncio va desde 1 000 ₽ hasta tres veces la tasación del coche. Uno
+  demasiado caro casi nadie lo compra; uno demasiado barato, el juego te pedirá confirmación.
+
+💬 Chats y Llamadas
+- Todo el regateo se hace en los chats. Los vendedores no responden al instante: unos
+  están en línea, otros contestan dentro de una hora y otros solo por la mañana.
+- Puedes llamar para aplazar una cita o pedir que desbloqueen el chat.
+
+🚘 Garaje
+- Todos tus coches, su aparcamiento, reparaciones, lavado y matrículas.
+- Aparcamiento: el patio de tu ciudad natal es gratis (3 plazas, más una por cada
+  piso propio); el garaje y el terreno junto a tu casa son gratuitos y seguros; el
+  resto son aparcamientos de pago (se cobra cada hora, ¡incluso mientras duermes!).
+- En el patio unos vándalos pueden rayar el coche. En el garaje y en el terreno, no.
+- Lavado: un coche limpio se vende algo más caro durante tres días.
+- La «Mochila» guarda los objetos que recibes en los cambios.
+
+🔧 Reparación y taller (Garaje → coche → «Reparación»)
+- Plano del coche: parpadean las piezas averiadas y las partes dañadas de la
+  carrocería aparecen rayadas. Toca una pieza y verás qué está roto.
+- Cada avería necesita su propio repuesto de DetalBuy (para la limpieza en seco
+  y el enderezado no hace falta pieza). Cada pieza sirve solo para su marca y modelo.
+- «Al taller»: pagas el trabajo por horas-hombre de la ciudad. El taller trabaja de
+  9:00 a 20:00; de noche el coche espera. Mientras está en reparación no se puede
+  vender, anunciar ni dar a cambio.
+- «Yo mismo en el garaje»: el trabajo es gratis, pero tarda 1,6 veces más y solo lo
+  sencillo (icono 🔧): batería, bujías, amortiguadores, parachoques. El coche debe
+  estar en tu garaje o en tu terreno.
+- Carrocería: enderezar es más barato y sin pieza, pero queda masilla; el comprador
+  la detectará con el medidor de espesor y ofrecerá menos. Cambiar la pieza es más
+  caro, pero casi no afecta al precio.
+
+📦 DetalBuy — tienda de repuestos
+- Elige un coche y verás qué piezas necesita.
+- Cada pieza tiene varios vendedores: valoración, reseñas, plazo de entrega.
+  · Original: caro y fiable.
+  · Alternativa: aproximadamente la mitad de precio.
+  · De segunda mano, de desguace: aún más barata.
+  Las alternativas y las de segunda mano pueden volver a romperse en los dos
+  primeros meses; entonces toca reparar otra vez. Si vendes rápido, ahorra; si te
+  lo quedas, compra la original.
+- El pedido tarda varios días (a veces hay envío exprés en un día, más caro). Lo que
+  llega se queda en el «Almacén» hasta que lo montes en el taller.
+- Ahí también están las herramientas del revendedor: medidor de espesor y escáner OBD.
+
+📍 Transporte
+- Mapa con fronteras de países y ciudades. Toca una ciudad y verás la ruta, el
+  precio y el tiempo: tren, avión, taxi o coche propio.
+- El viaje transcurre de verdad: una hora de camino es un segundo en pantalla. Llegas
+  a la ciudad de destino solo cuando termina el viaje.
+- Durante el trayecto puedes jugar a Drive Ace o PlameBlocks: el tiempo de viaje
+  pasará aún más rápido (80 minutos por segundo).
+- En tu propio coche puede haber accidentes: avería, tiempo con la policía de tráfico
+  (GIBDD) y a veces una multa.
+
+📅 Calendario, ⏰ Reloj, 🌙 Sueño
+- El calendario muestra todas las citas. El botón «Ponerse en camino» abre
+  Transporte directamente con la ciudad correcta.
+- Las alarmas están en el Reloj. Dormir adelanta el tiempo: de noche, hasta las 9:00
+  (desde las 21:00); de día, una vez al día. ¡Mientras duermes también se paga el aparcamiento!
+- En una ciudad ajena, sin vivienda propia, tendrás que dormir en un hotel.
+
+🏦 P-Bank
+- Tarjeta, saldo, historial de gastos. Tu propio código de acceso.
+- Las tarjetas de pago negra y dorada dan cashback en gastos cotidianos
+  (aparcamiento, carretera, reparaciones); llega una vez por semana.
+- A veces tus familiares te transfieren un poco «para comer».
+
+💰 PlameFinance
+- Créditos: cuanto más pagues a tiempo, mayores serán las cantidades disponibles.
+  Un impago supone multa y después los alguaciles se llevan dinero o el coche.
+- Microcréditos: rápidos, pero al 1 % diario.
+- Subvenciones: un poco de dinero por ver publicidad.
+- En la cita puedes comprar el coche con un préstamo de automóvil.
+
+🏢 MestoBuy — inmuebles
+- Garajes, pisos y casas. Una vivienda propia da plazas para coches, sueño gratis
+  y protección del patio. La vivienda libre se puede alquilar.
+
+🔢 Matrículas
+- Una matrícula bonita sube el precio del coche. El escaparate se renueva cada día
+  y en la «ruleta de la GIBDD» puedes probar suerte. Tu matrícula se puede quitar,
+  cambiar de coche o vender.
+
+📄 Documentos y contratos
+- Cada operación es un contrato de verdad: léelo y firma en la línea «firma» de tu
+  parte. La firma se compara con tu muestra.
+- El vehicle passport (PTS) y el contrato de compraventa de tu coche están en su
+  ficha, dentro del Garaje.
+
+🌐 Navegador
+- AvtoHistory: comprobación del coche por ID: embargos, prohibiciones, VIN alterado.
+- GosBuy: impuestos, multas, matriculación y tus documentos (pasaporte, carné de
+  conducir, PTS). El coche comprado debe registrarse en 10 días o te multan.
+- AvtoBuyCase: casino con cajas, tragaperras, póker. Recuerda: el casino siempre
+  gana, y tú no.
+
+🎮 Minijuegos y trabajos extra
+- Drive Ace: acelera por la autopista: adelantamientos, «rozando», monedas, nitro.
+  A la izquierda hay tres carriles en sentido contrario: allí los puntos valen el
+  triple, pero vienen coches de frente. La policía multa por conducción temeraria y
+  por invadir el carril contrario. Por los kilómetros pagan algo de dinero y el
+  tiempo pasa tres veces más rápido.
+- PlameBlocks: rompecabezas, el tiempo pasa el doble de rápido, récords en línea.
+- Obra: trabajo extra: 10 ₽ por cada losa, hasta 8 horas al día.
+
+⚙️ Ajustes, 🎵 Música, 📝 Bloc de notas, 🧮 Calculadora: como en un teléfono normal.
+En Ajustes: tema, seguridad, Dynamic Island, botones de navegación, sensibilidad
+del control en los juegos y restablecer el progreso.
+
+
+💡 SECRETOS DE PROFESIONALES
+-----------------------------------------
+
+* LA REPUTACIÓN LO ES TODO
+Empiezas con 5 estrellas. Las operaciones la suben; las citas fallidas y abandonar
+una operación la bajan. Cuanta más reputación, más compradores te escriben.
+
+* REGATEO EN EL CHAT
+Cada vendedor tiene su carácter; la pista está en su primera frase: «precio
+final», «se puede negociar», «necesito dinero urgente», «precio de mercado».
+No empieces ofreciendo la mitad: tras un par de ofertas descaradas el vendedor
+bloqueará el chat. Puedes cambiar hasta cuatro coches a la vez, pero cuantos más
+coches, menos probable es que acepten.
+
+* CITA E INSPECCIÓN
+Si llegas más de una hora tarde, el vendedor se marcha. Dos citas fallidas en el
+mismo chat: bloqueo para siempre.
+Inspeccionar tú mismo es gratis, pero rara vez encontrarás el defecto oculto. El
+asesor de compra cuesta el 5 % del precio, encuentra más y mide toda la
+carrocería de una vez.
+
+* MEDIDOR DE ESPESOR
+Cómpralo en DetalBuy y, en la cita, toca las piezas de la carrocería en el plano:
+  hasta 175 µm: pintura de fábrica,
+  175–380: pieza repintada,
+  más: masilla, el coche tuvo un accidente,
+  los parachoques son de plástico: el aparato no los mide.
+¿El vendedor dijo «sin golpes ni repintados» y el aparato marcó masilla? Es el mejor
+argumento para regatear. Si compras uno siniestrado sin comprobarlo, los compradores
+lo detectarán al venderlo y ofrecerán menos.
+
+* ESCÁNER OBD
+Conéctalo en la cita: lo más probable es que detecte un kilometraje trucado.
+
+* REGATEO JUNTO AL CAPÓ
+Presenta argumentos: averías, el defecto encontrado, mediciones, las mentiras del
+vendedor, «dinero ahora mismo». Pide dentro de lo razonable: el vendedor tiene
+paciencia, y cuando se acaba, el precio es final. Ante una negativa, a menudo
+ofrece la mitad: aceptar o no, lo decides tú.
+
+* SEÑAL
+A veces el vendedor pide una señal, y sin ella no se puede fijar la cita. Los
+vendedores con valoración inferior a 3,7 suelen ser estafadores: cogen el dinero
+y desaparecen.
+Si la señal se la pides tú al comprador, fija la cita en un plazo de tres días y no
+vendas el coche a otra persona, o el banco bloqueará la tarjeta.
+
+* ¿NO LLEGAS A LA CITA?
+Envía a un apoderado: cerrará el trato por una pequeña comisión.
+
+* EL TIEMPO NO SE DETIENE
+Con el juego cerrado, el tiempo pasa como en la vida real: las citas, los pagos y
+el aparcamiento no desaparecen. Las notificaciones activadas te recordarán lo
+importante.
+
+¡Buenos tratos y buenas ganancias!
+=====================================
+
+¡¡¡IMPORTANTE!!!
+
+SI HAS ENCONTRADO UN BUG O QUIERES PROPONER UNA IDEA
+PUEDES ESCRIBIRNOS:
+BOT DE TG - avtobuygame_bot

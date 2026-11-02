@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Какие данные собирает игра AvtoBuy, что остаётся на устройстве, что уходит на сервер и как отключить сбор статистики.">
+  <link rel="icon" type="image/png" href="/favicon.png"/>
+  <title>Политика конфиденциальности — AvtoBuy</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: #121212;
+      color: #D1D1D6;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 64px; }
+    .topbar {
+      display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+      border-bottom: 1px solid #242426; padding-bottom: 16px; margin-bottom: 26px;
+    }
+    .topbar img { width: 38px; height: 38px; border-radius: 10px; }
+    .topbar .name { font-size: 17px; font-weight: 800; color: #FFFFFF; }
+    .topbar nav { margin-left: auto; display: flex; gap: 14px; flex-wrap: wrap; }
+    .topbar nav a { color: #8E8E93; text-decoration: none; font-size: 14px; }
+    .topbar nav a:hover, .topbar nav a.active { color: #40A7FF; }
+    h1 { color: #FFFFFF; font-size: 27px; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.4px; }
+    h2 { color: #FFFFFF; font-size: 19px; font-weight: 700; margin: 30px 0 10px; letter-spacing: -0.2px; }
+    h3 { color: #FFFFFF; font-size: 16px; font-weight: 700; margin: 20px 0 8px; }
+    p { margin-bottom: 13px; }
+    ul { margin: 0 0 14px 20px; }
+    li { margin-bottom: 6px; }
+    a { color: #40A7FF; }
+    code { background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 5px; padding: 1px 5px; font-size: 13px; }
+    table { width: 100%; border-collapse: collapse; margin: 12px 0 18px; font-size: 14px; }
+    th, td { border: 1px solid #2C2C2E; padding: 8px 10px; text-align: left; vertical-align: top; }
+    th { background: #1C1C1E; color: #FFFFFF; font-weight: 600; }
+    hr { border: none; border-top: 1px solid #242426; margin: 24px 0; }
+    .lead { color: #8E8E93; font-size: 16px; margin-bottom: 8px; }
+    .meta { color: #8E8E93; font-size: 14px; margin-bottom: 20px; }
+    .version { background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; }
+    .version h2 { margin-top: 0; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; margin: 18px 0 8px; }
+    .card {
+      background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 12px;
+      padding: 16px; text-decoration: none; display: block; transition: border-color .15s ease;
+    }
+    .card:hover { border-color: #40A7FF; }
+    .card .t { color: #FFFFFF; font-weight: 700; font-size: 15px; margin-bottom: 5px; }
+    .card .d { color: #8E8E93; font-size: 13.5px; line-height: 1.45; }
+    .rank { color: #8E8E93; width: 48px; }
+    .score { color: #FFFFFF; font-weight: 700; text-align: right; }
+    .back { display: inline-block; margin-top: 26px; color: #40A7FF; text-decoration: none; font-weight: 600; }
+    footer { border-top: 1px solid #242426; margin-top: 32px; padding-top: 18px; color: #636366; font-size: 13px; }
+    footer a { color: #8E8E93; }
+</style>
+
+  <!-- 🔥 Карточка ссылки для Telegram, ВК и поисковиков. Без неё
+       ссылка разворачивается в пустой прямоугольник с именем домена. -->
+  <link rel="canonical" href="https://avtobuy.space/privacy.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AvtoBuy">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:title" content="Политика конфиденциальности — AvtoBuy">
+  <meta property="og:description" content="Какие данные собирает игра AvtoBuy, что остаётся на устройстве, что уходит на сервер и как отключить сбор статистики.">
+  <meta property="og:url" content="https://avtobuy.space/privacy.html">
+  <meta property="og:image" content="https://avtobuy.space/og-preview.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="AvtoBuy — симулятор перекупа автомобилей">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Политика конфиденциальности — AvtoBuy">
+  <meta name="twitter:description" content="Какие данные собирает игра AvtoBuy, что остаётся на устройстве, что уходит на сервер и как отключить сбор статистики.">
+  <meta name="twitter:image" content="https://avtobuy.space/og-preview.jpg">
+  <meta name="theme-color" content="#121212">
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <img src="/icons/Icon-192.png" alt="AvtoBuy">
+      <span class="name">AvtoBuy</span>
+      <nav>
+        <a href="/">Игра</a>
+        <a href="/guide">Как играть</a>
+        <a href="/leaderboard">Рекорды</a>
+        <a href="/changelog">Обновления</a>
+        <a href="/privacy" class="active">Конфиденциальность</a>
+      </nav>
+    </div>
+    <h1>Политика конфиденциальности — AvtoBuy</h1>
+    <p><strong>Версия:</strong> 1.1 · <strong>Дата:</strong> 18 сентября 2026 г. · <strong>Стадия:</strong> Закрытый бета-тест</p>
+    <hr>
+    <h2>1. Кто мы</h2>
+    <p>AvtoBuy — мобильная игра, симулятор перекупа автомобилей. Разработчик — частное лицо. Связь: Telegram-канал <a href="https://t.me/avtobuy_game" target="_blank" rel="noopener noreferrer">@avtobuy_game</a>.</p>
+    <h2>2. Коротко</h2>
+    <p>Игра работает офлайн. Почти все данные — деньги, гараж, чаты, прогресс — хранятся <strong>только на вашем устройстве</strong> и никуда не отправляются. На сервер уходят ровно две вещи, и обе описаны ниже: результат в мини-игре PlameBlocks (если вы в неё играете) и обезличенная статистика использования (её можно отключить).</p>
+    <p>Мы <strong>не собираем</strong> и никогда не запрашиваем: адрес электронной почты, номер телефона, контакты, фотографии, точную геолокацию, идентификаторы устройства (Android ID, IMEI, MAC). Мы не продаём данные.</p>
+    <p>В игре показывается реклама Рекламной сети Яндекса — подробности в разделе 6.</p>
+    <hr>
+    <h2>3. Что хранится только на вашем устройстве</h2>
+    <p>Весь игровой прогресс: баланс, автомобили, инвентарь, переписки с ботами, встречи, кредиты, достижения, настройки, обои, ваша подпись для договоров. Хранилище — <code>SharedPreferences</code> на вашем устройстве. Часть значений дополнительно шифруется, чтобы затруднить читерство.</p>
+    <p>Эти данные <strong>не покидают устройство</strong>. Мы не имеем к ним доступа. При удалении игры или сбросе прогресса в настройках они уничтожаются.</p>
+    <hr>
+    <h2>4. Таблица лидеров PlameBlocks</h2>
+    <p><strong>Когда отправляется:</strong> только если вы играете в мини-игру PlameBlocks и обновляете свой рекорд.</p>
+    <p><strong>Что отправляется:</strong></p>
+    <table>
+      <tr><th>Данные</th><th>Зачем</th></tr>
+      <tr><td>Имя игрока, которое вы ввели в игре</td><td>Показать вас в общей таблице лидеров</td></tr>
+      <tr><td>Набранные очки</td><td>Место в таблице</td></tr>
+      <tr><td>Время результата</td><td>Сортировка и защита от накрутки</td></tr>
+      <tr><td>Страна (определяется Cloudflare по сети)</td><td>Статистика по регионам</td></tr>
+    </table>
+    <p>⚠️ <strong>Имя игрока вы задаёте сами, и оно видно всем в таблице лидеров.</strong> Если вы не хотите раскрывать своё настоящее имя — укажите псевдоним. Изменить имя можно в настройках игры; уже отправленные записи при этом останутся со старым именем, для их удаления напишите нам.</p>
+    <h2>5. Статистика использования</h2>
+    <p><strong>Зачем:</strong> понять, сколько людей играет и сколько времени проводит в игре, чтобы развивать её осмысленно. Никакой другой цели у этих данных нет.</p>
+    <p><strong>Что отправляется:</strong></p>
+    <table>
+      <tr><th>Данные</th><th>Что это</th><th>Персональные?</th></tr>
+      <tr><td>Идентификатор установки</td><td>Случайный UUID, который приложение генерирует само при первом запуске</td><td>Нет. Это <strong>не</strong> идентификатор устройства. Он не связан ни с вами, ни с вашим телефоном, и обнуляется при переустановке игры</td></tr>
+      <tr><td>Длительность сессии</td><td>Сколько минут приложение было открыто</td><td>Нет</td></tr>
+      <tr><td>Версия игры и платформа</td><td>Например, <code>1.0.0+3</code>, <code>android</code></td><td>Нет</td></tr>
+      <tr><td>Страна</td><td>Определяется Cloudflare по сети</td><td>Нет (страна, не город и не координаты)</td></tr>
+      <tr><td>Хеш IP-адреса</td><td>Необратимая свёртка (SHA-256 с секретной серверной солью)</td><td>Сам адрес <strong>не сохраняется</strong> — только хеш, по которому нельзя восстановить исходный IP. Нужен для защиты от накрутки</td></tr>
+    </table>
+    <p><strong>Чего в статистике нет:</strong> вашего имени, содержимого чатов, игрового прогресса, баланса, списка автомобилей, IP-адреса в открытом виде, точного местоположения.</p>
+    <p><strong>Как отключить:</strong> Настройки → выключить «Отправлять анонимную статистику». После этого приложение перестаёт отправлять что-либо по этому каналу.</p>
+    <hr>
+    <h2>6. Реклама</h2>
+    <p>В приложении показывается реклама <strong>Рекламной сети Яндекса (РСЯ)</strong>: баннеры на экранах игры и в ленте объявлений, ролик за игровую субсидию и межстраничная реклама во время сна.</p>
+    <p>Рекламу подбирает и показывает Яндекс, а не мы. Для этого его рекламный модуль может собирать собственные данные — например, рекламный идентификатор устройства и технические сведения о нём. Мы этих данных не получаем и не храним: нам доступна только обезличенная статистика показов в кабинете рекламной сети.</p>
+    <p>Что именно собирает Яндекс, описано в его документах: <a href="https://yandex.ru/legal/confidential/" target="_blank" rel="noopener noreferrer">политика конфиденциальности Яндекса</a> и <a href="https://yandex.ru/legal/partner/ru/" target="_blank" rel="noopener noreferrer">правила Рекламной сети</a>.</p>
+    <p>Отключить рекламу внутри игры нельзя: она покрывает расходы на разработку, а сама игра распространяется бесплатно.</p>
+    <h2>7. Где хранятся данные</h2>
+    <p>Оба потока (лидерборд и статистика) обрабатываются на <strong>Cloudflare Workers</strong> и хранятся в базе <strong>Cloudflare D1</strong>. Cloudflare выступает обработчиком данных; её собственная политика — на <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener noreferrer">cloudflare.com/privacypolicy</a>.</p>
+    <p>Других получателей нет. Мы не передаём данные рекламным сетям, аналитическим сервисам и брокерам данных.</p>
+    <h2>8. Сроки хранения</h2>
+    <ul>
+      <li>Записи статистики использования — <strong>12 месяцев</strong>, после чего удаляются.</li>
+      <li>Записи таблицы лидеров — пока существует таблица лидеров, поскольку в этом её смысл.</li>
+    </ul>
+    <h2>9. Ваши права</h2>
+    <p>Вы можете:</p>
+    <ul>
+      <li><strong>отключить статистику</strong> — в настройках игры, в любой момент;</li>
+      <li><strong>удалить весь локальный прогресс</strong> — Настройки → сброс прогресса, либо удалив приложение;</li>
+      <li><strong>запросить удаление ваших записей на сервере</strong> (результата в таблице лидеров или статистики) — напишите в <a href="https://t.me/avtobuy_game" target="_blank" rel="noopener noreferrer">@avtobuy_game</a>, укажите имя игрока из таблицы лидеров. Ответим в разумный срок;</li>
+      <li><strong>запросить, какие данные о вас есть</strong> — тем же способом.</li>
+    </ul>
+    <h2>10. Дети</h2>
+    <p>Играть можно с 13 лет: при первом запуске игрок подтверждает возраст той же галочкой, которой принимает эту политику. Игра не предназначена для детей младше 13 лет и не собирает их данные сознательно. Если вам станет известно, что ребёнок отправил нам данные, напишите — удалим.</p>
+    <h2>11. Изменения</h2>
+    <p>При изменении политики мы обновим дату вверху документа и сообщим в <a href="https://t.me/avtobuy_game" target="_blank" rel="noopener noreferrer">@avtobuy_game</a>.</p>
+    <hr>
+    <a class="back" href="/">← Играть</a>
+    <footer>
+      AvtoBuy — бесплатный симулятор перекупа автомобилей, стадия закрытого бета-теста.<br>
+      Новости и связь с разработчиком: <a href="https://t.me/avtobuy_game" target="_blank" rel="noopener noreferrer">Telegram-канал</a>.
+    </footer>
+  </div>
+</body>
+</html>

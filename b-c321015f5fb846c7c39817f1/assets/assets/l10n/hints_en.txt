@@ -1,0 +1,193 @@
+================================
+  WELCOME TO AVTOBUY!
+================================
+
+You're a rookie car flipper. Find cars below market price, haggle, inspect,
+fix them up and sell for more. The whole business lives in your phone: every
+mechanic has its own app.
+
+Below is a guide to the apps and the tricks that veterans know.
+
+
+📱 APPS
+-------------------------------
+
+🛒 AvtoBuy — the car market
+- A feed of listings across the whole country. Filters: price, year, city, search radius.
+- Sort by "Newest first" — the juiciest deals go fast.
+- Heart icon — add to favorites so you don't lose the car.
+- The button in the middle — list your own car. In the listing you can say
+  whether you're open to a trade.
+- A listing price is at least 1,000 ₽ and no more than three times the car's
+  valuation. Almost nobody will buy an overpriced car, and the game will ask
+  you to confirm a price that's too low.
+
+💬 Chats and Calls
+- All haggling happens in chats. Sellers don't answer right away: some are
+  online, some will reply in an hour, and some only in the morning.
+- You can call to reschedule a meeting or ask to unblock a chat.
+
+🚘 Garage
+- All your cars, their parking, repairs, washing and plates.
+- Parking: the yard in your home city is free (3 spots, plus one spot for each
+  apartment you own), a garage and a plot by your house are free and safe,
+  everything else is paid parking (money is charged every hour, even while you sleep!).
+- In the yard, vandals can scratch your car. In a garage or on a plot, they can't.
+- Washing: a clean car sells for slightly more for three days.
+- "Backpack" — items you got from trades.
+
+🔧 Repairs and the shop (Garage → car → "Repair")
+- Car blueprint: faulty parts blink, damaged body panels are hatched.
+  Tap a part and we'll show you what's broken.
+- Each fault needs its own part from DetalBuy (detailing and panel beating
+  don't need a part). A part only fits its own make and model.
+- "At the shop" — you pay for labor at the city's hourly rate. The shop works
+  from 9:00 to 20:00, and at night the car just sits. While a car is being
+  repaired, you can't sell it, list it or trade it.
+- "Do it yourself in the garage" — labor is free, but takes 1.6 times longer
+  and only covers simple jobs (🔧 icon): battery, spark plugs, shock absorbers,
+  bumper. The car must be in your garage or on your plot.
+- Body: panel beating is cheaper and needs no part, but body filler remains —
+  a buyer will find it with a paint gauge and pay less. Replacing the panel
+  costs more, but barely hurts the price.
+
+📦 DetalBuy — the parts store
+- Pick a car and you'll see which parts it needs.
+- Each part has several sellers: rating, reviews, delivery time.
+  · Original — expensive and reliable.
+  · Aftermarket — about half the price.
+  · Used from a scrapyard — cheaper still.
+  Aftermarket and used parts can break again within the first two months —
+  then you repair it all over again. Flipping fast? Save money. Keeping the
+  car? Buy original.
+- An order takes several days to arrive (express in one day is available —
+  costs more). Arrived parts wait in "Storage" until you take them to the shop.
+- This is also where the flipper's tools are: a paint gauge and an OBD scanner.
+
+📍 Transport
+- A map with country borders and cities. Tap a city to see the route, price
+  and time: train, plane, taxi or your own car.
+- The trip is real: one hour of travel is one second on screen. You only
+  arrive in the destination city when the trip ends.
+- On the road you can play Drive Ace or PlameBlocks — travel time will fly
+  by even faster (80 minutes per second).
+- In your own car, accidents happen: breakdowns, time at the traffic police
+  and sometimes a fine.
+
+📅 Calendar, ⏰ Clock, 🌙 Sleep
+- The calendar shows all your meetings. The "Set off" button opens Transport
+  with the right city already selected.
+- Alarms are in Clock. Sleep fast-forwards time: night sleep — until 9:00
+  (available from 21:00), day sleep — once a day. Parking is charged while you sleep, too!
+- In another city without your own home you'll have to sleep in a hotel.
+
+🏦 P-Bank
+- Card, balance, spending history. Your own login code.
+- The paid black and gold cards give cashback on everyday spending (parking,
+  travel, repairs), paid out once a week.
+- Sometimes your family sends a little money "for food".
+
+💰 PlameFinance
+- Loans: the more you repay on time, the larger the amounts available to you.
+  Miss a payment and you get a fine, then bailiffs take your money or your car.
+- Microloans — quick, but 1% per day.
+- Subsidies — a little money for watching ads.
+- At a meeting you can buy a car with a car loan.
+
+🏢 MestoBuy — real estate
+- Garages, apartments and houses. Owning a home gives you spots for cars,
+  free sleep and yard protection. A vacant home can be rented out.
+
+🔢 Plates
+- A nice license plate raises a car's price. The showcase refreshes every day,
+  and in the "traffic police roulette" you can try your luck. You can remove,
+  swap or sell your plate.
+
+📄 Documents and contracts
+- Every deal is a real contract: read it and sign on your party's
+  "signature" line. Your signature is checked against your sample.
+- The vehicle passport and the sales contract for your own car are on its
+  card in the Garage.
+
+🌐 Browser
+- AvtoHistory — check a car by ID: liens, restrictions, tampered VIN.
+- GosBuy — taxes, fines, registration and your documents (passport, license,
+  vehicle passport). A purchased car must be registered within 10 days,
+  or you get a fine.
+- AvtoBuyCase — a casino with cases, slots and poker. Remember: the house
+  always wins, and you don't.
+
+🎮 Mini-games and side jobs
+- Drive Ace — race down the highway: overtakes, near misses, coins, nitro.
+  On the left are three lanes of oncoming traffic: points are tripled there,
+  but cars are coming straight at you. The traffic police fine you for
+  reckless driving and for crossing into oncoming lanes. You earn a little
+  money per kilometer, and time passes three times faster.
+- PlameBlocks — a puzzle game, time runs twice as fast, online high scores.
+- Construction — a side job: 10 ₽ for every slab, up to 8 hours a day.
+
+⚙️ Settings, 🎵 Music, 📝 Notepad, 🧮 Calculator — just like on a regular phone.
+In Settings: theme, security, Dynamic Island, navigation buttons,
+control sensitivity in games and progress reset.
+
+
+💡 PRO SECRETS
+-----------------------------------------
+
+* REPUTATION IS EVERYTHING
+You start with 5 stars. Deals raise it, missed meetings and walking out of a deal lower it.
+The higher your rating, the more often buyers message you.
+
+* HAGGLING IN CHAT
+Every seller has a personality — the hint is in their first message: "price
+is final", "haggling is fine", "need money urgently", "market price".
+Don't open with half the price — after a couple of cheeky offers the seller
+will block the chat. Trades allow up to four cars at once, but the more cars,
+the less often they agree.
+
+* MEETING AND INSPECTION
+Late by more than an hour — the seller leaves. Two missed meetings in the
+same chat — blocked for good.
+Inspecting it yourself is free, but you'll rarely find a hidden catch. A
+car picker costs 5% of the price, finds more, and measures the whole body right away.
+
+* PAINT GAUGE
+Buy one in DetalBuy — then at a meeting tap the body panels on the blueprint:
+  up to 175 µm — factory paint,
+  175–380 — the panel was repainted,
+  above that — body filler, the car has been in a crash,
+  bumpers are plastic — the gauge doesn't measure them.
+The seller said "no crashes, no repaints", but the gauge shows filler? That's
+the best argument for haggling. If you buy a wrecked car without checking,
+buyers will find it when you sell and offer less.
+
+* OBD SCANNER
+Plug it in at a meeting — it most often catches a rolled-back odometer.
+
+* HAGGLING AT THE HOOD
+Present your arguments: faults, the catch you found, measurements, the
+seller's lies, "cash right now". Ask within reason — the seller has patience:
+when it runs out, the price is final. After a refusal he often offers to
+split the difference — whether to accept is up to you.
+
+* DEPOSIT
+Sometimes a seller asks for a deposit — without it you can't schedule the
+meeting. Sellers rated below 3.7 are often scammers: they take the money and vanish.
+If you ask a buyer for a deposit yourself, schedule the meeting within three
+days and don't sell the car to someone else, or the bank will block your card.
+
+* CAN'T MAKE IT TO THE MEETING?
+Send a proxy: they'll close the deal for a small fee.
+
+* TIME KEEPS RUNNING
+While the game is closed, time passes like in real life: meetings, payments
+and parking won't wait. Turn on notifications and they'll remind you of important things.
+
+Happy dealing and fat profits!
+=====================================
+
+IMPORTANT!!!
+
+IF YOU FOUND A BUG OR WANT TO SUGGEST YOUR OWN IDEA
+YOU CAN WRITE TO US:
+TG BOT - avtobuygame_bot

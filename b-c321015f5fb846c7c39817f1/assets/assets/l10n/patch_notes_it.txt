@@ -1,0 +1,899 @@
+Сlose-Beta-Test 0.3.6 (Actual)
+
+
+NUOVO
+
+- CoinBuy diventa un exchange: cripto (BTC, ETH, TON, DOGE) e azioni delle case auto — Tayota, BNW, Mersedes, VAZ Motors, Kyundai, Cherix, Teslor, Fordo. Grafici a 30 giorni, acquisto e vendita con commissione dello 0,1 %. Le notizie di AvtoVesti sui marchi muovono subito le loro azioni
+- CoinBuy: ricarica dalla carta P-Bank e preleva indietro, dopo la verifica del passaporto (si fa su GosBuy). Commissione dell’1 % sui depositi e dell’1,5 % sui prelievi, fino a 300 000 ₽ al giorno. Casinò e P2P funzionano come prima
+- Gli incontri prendono vita: il venditore arriva e si vede il suo umore — calmo, di fretta, nervoso o arrabbiato man mano che si tratta. L’auto si può ispezionare parte per parte — cofano, ruote, interni, carrozzeria, sottoscocca (5 minuti per zona): sotto il cofano può saltare fuori un VIN manomesso, negli interni un volante consumato con «pochi» chilometri
+- Giro di prova all’incontro: 20 minuti al volante — colpi nelle sospensioni, strattoni del cambio, motore che perde colpi, auto che tira da un lato, spia motore. A volte il venditore non ti fa guidare
+- Interni ed esterni in «Tuning»: pelle, multimedia, impianto audio, pulizia interni, riverniciatura in uno di 8 colori, lucidatura, trattamento ceramico, dechromatura. L’auto passa qualche ora in officina e il valore sale
+- Una DeLorean DMC-12 del 2035 di Doc Brown — cercala negli annunci. Il proprietario può arrivare a 88 mph una volta a settimana: salto istantaneo in qualsiasi città insieme all’auto. Si può rivendere. E c’è un obiettivo segreto
+- Se all’immatricolazione il VIN non coincide con i documenti, ora puoi chiedere una perizia su GosBuy: 3–7 giorni, e se il numero è autentico (errore di fabbrica o targhetta arrugginita) l’auto viene immatricolata. Se è contraffatto — vendila senza immatricolazione o fai causa al venditore
+- Caparra tramite link: puoi copiare il link in chat e incollarlo nella finestra del bonifico
+- Blocco note → riconoscimenti: ŁíŞ entra tra le leggende per tanti annunci e idee
+
+
+CORRETTO
+
+- Molto meno lag: il salvataggio è decine di volte più veloce (prima il gioco si bloccava a ogni azione e una volta al minuto per il backup), la schermata iniziale non si ridisegna più ogni secondo e gli annunci si calcolano più in fretta
+- «Pubblica» nel Garage: se l’auto non si può mettere in vendita (lavora come taxi, è in officina, arriva dall’import), ora si vede il perché — prima il pulsante non faceva nulla
+- Gli sconti «Urgente» non coprono più tutti gli annunci: solo circa un venditore su tre ribassa quelli vecchi, e un annuncio che torna conta come nuovo
+- Taxi: le altre auto non si attraversano più, si danno la precedenza agli incroci, mantengono la distanza e non compaiono una sopra l’altra
+- Incontro di vendita: se il compratore ha scoperto i chilometri scalati, uscire e rientrare non glielo fa più «dimenticare»
+- Annuncio 8002: descrizione riscritta
+
+
+Сlose-Beta-Test 0.3.5.2
+
+
+NUOVO
+
+- CoinBuy — nuova app, un portafoglio crypto. AvtoBuyCase ora ha un saldo proprio: le puntate vengono prese da lì (se manca, il sito si ricarica dalla tua carta) e le vincite si accumulano lì. Si possono prelevare solo su CoinBuy in USDT — da 1 000 ₽, commissione del sito del 2 %, arrivano in 10–40 minuti. Gli USDT si possono anche rimandare al sito
+- CoinBuy: vendi USDT in rubli tramite P2P — ogni acquirente ha il suo tasso, i suoi limiti e la sua valutazione, e il tasso cambia ogni giorno. La banca può congelare i bonifici da 300 000 ₽ in su per 3–7 giorni e restituirne una parte al mittente: i soldi non arrivano. Con acquirenti verificati succede meno spesso
+- Caparra: il venditore manda un link di pagamento tipo p-bank.ru/zadatok/…, da ridigitare nella schermata del bonifico. Basta un carattere sbagliato e i soldi vanno a truffatori o alla persona sbagliata — e la caparra al venditore resta da versare
+- Depositi in P-Bank: conto risparmio al 12 % annuo (interessi ogni giorno, prelievo quando vuoi) e depositi vincolati di 1, 2 o 4 settimane al 14, 16 e 18 % — interessi a scadenza, nessuno se chiudi prima. Al massimo 10 milioni di ₽ su tutti i depositi. Con un prestito scaduto, gli ufficiali giudiziari arrivano anche ai depositi
+- Trasloco nella propria casa: in MestoBuy → «Miei», appartamento o casa nella città natale hanno «Trasferirsi qui» (traslocatori 15 000 ₽ per un appartamento, 25 000 ₽ per una casa, 3 ore, una volta a settimana). Dove vivi non si può affittare né vendere, mentre l’appartamento iniziale si può affittare dopo il trasloco. Puoi tornarci quando vuoi
+- Risposte come su Telegram nelle chat di AvtoBuy e in «Messaggi»: scorri un messaggio a sinistra e la battuta successiva parte con citazione; tocca la citazione per tornare all’originale. Se scrivi più messaggi di fila, anche l’interlocutore risponde con citazione. La doppia spunta ✓✓ ora compare su tutti i tuoi messaggi a cui hanno risposto, non solo sull’ultimo
+- Furto d’auto: quando non sei in città, l’auto in cortile o nel parcheggio a pagamento può essere rubata — in cortile più spesso, e anche quelle costose. Garage e terreno di casa sono sicuri. La polizia cerca per 3–10 giorni e ne ritrova circa un terzo, a volte con la carrozzeria danneggiata. Protezione: antifurto GPS in DetalBuy → «Tuning» (la metà dei furti, quasi sempre ritrovata), assicurazione in P-Bank (non ritrovata — pagato l’80 % del valore) e telecamere dell’Officina
+- Kuzbass: 18 nuove città della regione di Kemerovo — Prokop'evsk, Meždurečensk, Leninsk-Kuzneckij, Kiselëvsk, Belovo, Jurga, Anžero-Sudžensk, Berëzovskij, Osinniki, Myski, Taštagol, Topki, Polysaevo, Gur'evsk, Mariinsk, Kaltan, Tajga e Salair. Le targhe lì hanno la regione 42
+- Una leggenda nella cassa «Oligarca»: una possibilità su mille di trovare la Tesla Roadster volante con Starman al volante. Non si può vendere, ma in «Trasporti» compare una nuova opzione — il volo in Tesla: il doppio più veloce dell’aereo e senza carburante. Ai fortunati va un obiettivo segreto
+
+
+CORRETTO
+
+- Vendita e scambio: la schermata di firma del contratto non può più essere chiusa durante il timbro «FIRMATO», e la doppia riscossione della stessa trattativa è bloccata
+- «Mine»: l'incasso è ora consentito solo con un moltiplicatore di almeno 1.0, e il salvataggio della fortuna non si attiva sulla prima casella (blocca gli autoclicker)
+- Slot «Cassaforte»: gli autospin rispettano rigorosamente il limite di puntata del livello del casinò, e le vincite di linea non forzano più il bonus a ogni giro
+- Drive Ace: l'auto si ricentra perfettamente nella corsia prescelta quando si rilascia lo sterzo, e un tocco rapido esegue un cambio di corsia pulito
+- Treno: corretto l'addebito errato delle tariffe alberghiere quando si dorme durante un viaggio in treno interurbano
+- Acconto: se la trattativa fallisce durante l'incontro, l'acconto viene rimborsato all'acquirente, evitando blocchi ingiusti ai sensi della 161-FZ
+- PlameFinance: il tempo di attesa per un nuovo prestito viene ora applicato solo dopo l'estinzione anticipata, non alla normale scadenza
+- Ispezione del veicolo: risolta la sovrapposizione dei pulsanti di trattativa su schermi compatti
+
+
+Сlose-Beta-Test 0.3.5.1
+
+
+NUOVO
+
+- Le chat con la famiglia si sono animate. Nuovi argomenti in chat: “Novità?” — ognuno ha la sua vita e le sue storie; “Consigliami” — consigli sui tuoi affari (parcheggio a pagamento, un prestito pagato in ritardo, un’auto non immatricolata, perdite al casinò); “Vantati” del tuo ultimo affare; e “Giornata storta…” — ti sosterranno, e la mamma, la nonna o il nonno a volte ti daranno qualche soldo
+- “Passa a trovarci” — nella tua città di origine, una volta a settimana per ogni parente: un paio d’ore a tè, la famiglia si fida di più di te, e la nonna potrebbe infilarti qualche soldo in tasca per il viaggio
+- I parenti hanno il compleanno — quel giorno arriva un promemoria e compare il pulsante “Fai gli auguri”. Fagli gli auguri e la fiducia cresce; dimenticali e il giorno dopo te lo faranno notare. Puoi fare gli auguri anche per l’8 marzo, il 23 febbraio e Capodanno
+- Anche i parenti ti fanno gli auguri: nel tuo compleanno scrivono tutti (la data viene dal passaporto), e quelli più anziani mandano dei soldi. Ti augurano anche buon Capodanno, buon 8 marzo o buon 23 febbraio
+- I parenti vengono a sapere delle tue cose da soli e scrivono per primi: hai comprato un’auto costosa, hai guadagnato bene o sei andato in rosso, hai comprato una casa, hai vinto al casinò, hai saltato una rata del prestito, ti hanno bloccato la carta
+- Le risposte dei parenti seguono il genere indicato nel tuo passaporto, così le parole ti corrispondono
+
+
+CORRETTO
+
+- Carro attrezzi: la lista delle città compariva come un quadrato grigio — ora la lista è tornata al suo posto
+- Installazione del tuning: quando i kit sono tanti, la lista scorre e i pulsanti “In officina” / “Da me” non escono più dal bordo dello schermo
+- Trattativa: hai abbassato il prezzo con gli oggetti (allarme, autoradio…), l’accordo era stato raggiunto — ma nel fissare l’incontro il venditore scriveva “Aspetta, ho corso troppo… il mio limite” e non ti lasciava fissarlo. Ora gli oggetti vengono considerati, e la stessa risposta non si ripete più a ogni tocco
+- Sonno: se un annuncio non si caricava, lo schermo non resta più bloccato al buio con l’orologio fermo. Anche i video premio ora non si bloccano senza connessione
+- Una targa non può essere rimossa da un’auto mentre è in un annuncio o in attesa di un incontro: l’acquirente ne ha già tenuto conto, e prima pagava una bella targa che in realtà non era sull’auto
+- Un’auto dell’Importazione ancora in viaggio non può essere usata per un viaggio con mezzo proprio. Anche le auto in transito, in riparazione o in taxi non possono essere usate per questo
+
+MODIFICATO
+
+- Parco taxi: un autista che rovina l’auto o rompe le sospensioni paga metà della riparazione, e gli incidenti sono un terzo meno frequenti — ora il parco si ripaga da solo
+- Targhe: i numeri riconoscibili ora valgono di più — 911, 228, 112, 102, 314 e 1-2-3, cifre della regione al contrario (617 nella regione 716), e più parole composte da lettere. Due cifre uguali sono aumentate di prezzo
+
+
+Сlose-Beta-Test 0.3.5
+
+
+NUOVO
+
+- Recensioni di venditori e acquirenti: dopo un affare o un incontro saltato puoi valutare la persona con stelle e qualche parola (Profilo → “Valuta gli affari”). A volte ti rispondono
+- AvtoBuyCase: i pulsanti “Gira” / “Upgrade” / “Decollo” e gli altri ora stanno subito sotto il gioco, sopra le impostazioni della puntata — non serve più scorrere in basso
+- AvtoBuyCase: un banner in fondo alla pagina nelle slot, nell’upgrade, nella roulette e in Piccolo Aereo
+- AvtoBuyCase: nuova slot “Bamboo” — il bambù nascosto si apre in un unico e stesso simbolo, e durante i giri gratis ogni apertura aumenta il moltiplicatore
+- AvtoBuyCase: la difficoltà influisce sulla fortuna nel casinò — su “Facile” vinci un po’ più spesso, su “Hardcore” meno spesso
+- “Classic”: meno giri gratis (10 / 15 / 20 invece di 15 / 20 / 25), ma le vincite normali sono più grandi
+- Roulette: rosso e nero pagano ×1,85 (prima ×1,9)
+- Piccone: la miniera è più avara con le grandi vincite; dietro i blocchi rotti ora c’è una parete di grotta, e alla fine del giro la vincita compare grande al centro, con le monete
+- Piccolo Aereo: diverse portaerei lungo la strada. Puoi superare l’ultima e atterrare troppo tardi — oppure non arrivarci
+- L’interfaccia del casinò è più compatta: intestazione, feed dal vivo e schede stanno più in alto, si scorre meno
+- Container: ogni giorno arrivano sei container di livelli diversi — economy, standard, premium ed élite — da paesi diversi (le auto giapponesi arrivano più spesso dal Giappone). Gli oggetti nei container ora corrispondono al bottino promesso, non a qualche migliaio
+- AvtoHistory trova di più: pegni, chilometraggio riportato indietro e incidenti, non solo il divieto di immatricolazione e il VIN. Il venditore risponde quando nomini un’anomalia e reagisce in modo diverso — più per un divieto, meno per un incidente
+- Tuning: dieci nuovi mod — turbocompressore, compressore, protossido d’azoto, fari allo xeno, luci sottoscocca, spoiler, paraurti, minigonne, blindatura (per le auto costose) e fari lampeggianti. Protossido, luci sottoscocca e fari attirano la polizia stradale
+- AvtoBuyCase, “Classic”: dopo una vincita, i simboli dei lampi vengono riempiti dai rulli che girano, non da simboli che cadono
+- Editor: le foto dalla galleria (PNG, HEIC, scatti grandi) ora vengono compresse automaticamente e aggiunte senza errori
+- La valutazione delle recensioni non mostra più code come 3.8000000000000003
+- Il tuning si installa in una sola visita: tutti i kit consegnati sono selezionati e installati insieme, e la schermata mostra passi chiari: “ordine → attesa → installazione”
+- “Musica”: interruttori per “Casuale” e “Solo le mie tracce”
+- MestoBuy: la scheda “Mio” è sempre visibile ed evidenziata
+
+- L’intera mappa del mondo in “Trasporti” e “Voli”: tutti i continenti, i mari e i confini; si allontana fino a mostrare tutto il pianeta
+- All’estero, in “Trasporti” e “Voli” si vede dove sei davvero — la città di arrivo, non quella di partenza. Dall’estero puoi volare direttamente a casa
+- Importazione nel tema scuro è scura
+- Ricompense delle missioni ridotte di dieci volte: venivano pagate troppo facilmente
+- Targa nella roulette della polizia stradale: tutti i caratteri hanno la stessa ombra, compresa la prima lettera
+- Gli annunci nelle slot si ricaricano se la prima volta non si sono caricati
+- Un pulsante della lingua nella schermata di scelta della città; la schermata iniziale, la schermata di blocco, le Impostazioni e la scelta della difficoltà sono tradotte in inglese
+- Scelta della lingua nelle Impostazioni. Per ora sono pronti russo e inglese (la traduzione inglese è ancora in corso e alcuni testi sono ancora in russo); le altre lingue arriveranno presto
+- Voli: l’aereo vola su una mappa reale — con mari, confini e città di partenza e di arrivo
+- Una volta volato all’estero, sei lì: in “Trasporti” si vede che sei per esempio a Varsavia, e non puoi viaggiare in Russia finché non torni tramite “Voli”
+- P-Bank: un nuovo interruttore “Settimana / Mese” in “Dove vanno i soldi”
+- AvtoBuyCase, Piccone: un piccone vola da un colpo all’altro senza teletrasporto, e dopo il giro resta sopra la miniera. Il cielo sopra la miniera ora corrisponde al gioco: sole, nuvole e colline
+- MestoBuy senza la barra superiore in più — come in P-Bank
+- L’Editor è stato spostato sulla terza pagina della schermata iniziale
+- Targhe! Ogni auto ora ha una targa — si vede nella foto della scheda dell’annuncio e in garage. Le targhe vengono assegnate all’inizio di una nuova partita, e alcune sono belle: 001, tre sette, lettere uguali, numeri con il codice regione, serie come “EKX”. Una bella targa sale di prezzo da un paio di migliaia fino a un milione, e chi compra l’auto paga di più per essa
+- L’app “Targhe” nella seconda pagina della schermata iniziale: la vetrina delle belle targhe si aggiorna ogni giorno; puoi rimuovere la tua targa da un’auto (tassa statale 2.850 ₽) e metterla su un’altra auto o metterla in vendita — gli acquirenti invieranno offerte. Lì puoi anche controllare quanto vale una qualsiasi targa
+- “Estrai” una targa dalla polizia stradale: ogni tentativo dà una targa casuale per la tua regione — se ti piace tienila; se no, gira di nuovo. Quelle belle escono raramente
+- Una targa si può rimuovere o mettere direttamente in Garage, sulla scheda dell’auto. Le targhe ora sembrano vere: una targa bianca con caratteri in rilievo, bulloni e riflesso
+- Anche gli esperti di mercato conoscono le targhe e le includono nel prezzo dell’auto. Gli altri venditori non le valutano — vai a caccia di tesori. La scheda dell’annuncio con una bella targa mostra la sua classe, il suo prezzo e quanto in più pagheranno gli acquirenti alla rivendita
+- Il Garage ha una nuova scheda “Targhe”: tutte le tue targhe sono appese alla parete del garage — sfogliale e ammirale
+- Più combinazioni di targhe: la serie da vice “AAM”, la serie da “sindaco” con due O (AOO, MOO…), lettere speculari; il vecchio codice di Mosca 77 vale più di quelli nuovi. Sono stati aggiunti tutti i codici di Mosca (799, 997) e della regione di Mosca (250, 550, 790)
+- La roulette della polizia stradale può girare più veloce — un interruttore “Veloce”
+- I viaggi ora sono reali: dopo aver comprato il biglietto si apre la schermata del viaggio — quanto manca, quanto resta (un’ora di viaggio = un secondo), pausa e “Termina il viaggio”. E per far passare più in fretta il tempo sulla strada, puoi giocare a PlameBlocks o a Drive Ace direttamente da lì
+- L’app “Musica”: cambi brani, metti in pausa, aggiungi la tua musica — un file dal telefono o un link a un mp3. Di default tutto come prima: i brani del gioco con pause tra l’uno e l’altro (le pause si possono disattivare)
+- Dynamic Island come su iPhone: la capsula nera in alto si espande quando sei in viaggio, sta per arrivare un incontro o suona la musica. Toccala e si apre l’app giusta. Si può disattivare nelle Impostazioni
+- Prestito auto in PlameFinance: se ti mancano soldi a un incontro, la banca paga al venditore la cifra mancante, ma l’acconto deve essere almeno il 20% del prezzo. Il tasso è più basso di un prestito normale, e l’auto è data in pegno: puoi venderla o scambiarla solo dopo aver estinto il prestito
+- Quando vendi un’auto puoi chiedere all’acquirente una caparra — all’incontro paga il resto. Ma se prendi una caparra e imbrogli (non ti presenti, vendi a un altro, ritiri l’annuncio), la banca bloccherà la tua carta secondo la legge 161-FZ: meno 3,5 stelle di reputazione e niente acquisti di auto finché non paghi la multa e restituisci il doppio della caparra. Se cambi idea in buona fede, la caparra può essere restituita
+- Non vuoi andare a un incontro in un’altra città? Manda un delegato. Si occuperà dell’affare per una piccola commissione, ma non ispezionerà l’auto e a volte l’affare non va in porto
+- GosBuy — un sito nel Browser integrato (un segnalibro nella pagina iniziale): imposta sul reddito del 13% sul guadagno dalla vendita di un’auto, e una volta al mese una tassa sui trasporti per le auto in garage. Hai due settimane per pagare, dopodiché iniziano a maturare le sanzioni
+- Immatricolazione dell’auto, come nella vita reale: dopo aver comprato un’auto, immatricolala su GosBuy entro 10 giorni (servono il passaporto, una tassa statale di 850 ₽ e un’ispezione alla polizia stradale nella città dove è parcheggiata l’auto). Puoi venderla prima con un contratto di compravendita senza immatricolazione. Se scade il tempo, la multa è di 1.500 ₽. L’ispezione rivela un divieto di immatricolazione e un VIN falso. Se cambi i dati del passaporto, le tue auto vanno reimmatricolate
+- Una nuova città — Bakhchisaray in Crimea
+- Il gioco automatico nelle slot si può configurare: puntata, numero di giri (fino a 1.000) e quando fermarsi — con una vincita sopra una cifra, oppure con una perdita sopra una cifra. Durante il gioco automatico si può attivare anche il giro veloce
+- Dynamic Island si espande in una mini finestra, come su iPhone: avanzamento del viaggio, incontro, controlli della musica
+- Impostazioni — “Pulsanti di navigazione nella schermata iniziale”. Disattivato di default
+- Nella schermata del viaggio non ci sono più i pulsanti “Pausa” e “Termina il viaggio”: in aereo e in treno ora hai un posto tuo con la disposizione della cabina
+- Cambiare il passaporto è diventato più difficile: la data di nascita e il sesso non si possono cambiare; il nome completo si può cambiare per 3.000 ₽ e non più di una volta ogni 60 giorni, e le tue auto vanno reimmatricolate
+- Puoi prendere un prestito auto anche se hai i soldi: una casella “Compra con prestito auto” all’incontro
+- Calendario → “Parti” apre subito “Trasporti” con il percorso verso la città dell’auto
+- “Chiedi una caparra” nella chat di vendita è una scheda in evidenza, disponibile anche prima dell’incontro. “Manda un delegato” è comparso in chat mentre l’incontro è ancora da fare
+- Polizia stradale: in modalità veloce puoi scegliere fino a quale classe girare le targhe senza fermarti
+- La mappa di “Trasporti” non rallenta più quando la si ingrandisce; aggiunti “Dove sono” e i pulsanti di zoom
+- La mappa di “Trasporti” ora mostra i confini dei paesi — sembra più una mappa vera
+- Le app ridotte non rallentano più il gioco: mentre non le vedi, non vengono ridisegnate
+- Se hai preso una caparra da un acquirente, fissa l’incontro entro tre giorni, altrimenti conta come frode
+- Riparazioni vere: alla stazione di servizio c’è un disegno dell’auto, e le unità difettose lampeggiano. Invece di “motore rotto” ottieni un guasto preciso: guarnizione della testata, catena della distribuzione, rotule, alternatore e altre due dozzine. Ognuno ha il suo pezzo e il suo lavoro in ore standard. L’officina lavora dalle 9:00 alle 20:00, e l’auto resta in officina per il tempo reale. I lavori semplici (batteria, candele, ammortizzatori, paraurti) puoi farli da solo nel tuo garage — gratis, ma ci vuole più tempo
+- Carrozzeria per pannelli: ogni auto ha 13 elementi, e molte hanno una storia — pannelli riverniciati e stucco dopo gli incidenti. Un’ammaccatura si può raddrizzare (economico, ma resta lo stucco) oppure il pannello si può sostituire
+- DetalBuy — un negozio di ricambi nella seconda pagina della schermata iniziale: venditori con valutazioni e recensioni, ricambi originali, aftermarket e usati, consegna in pochi giorni, ordini e magazzino. Gli aftermarket e gli usati costano meno, ma nei primi due mesi possono rompersi di nuovo
+- Spessimetro per vernice: compralo da DetalBuy, e all’incontro misura la vernice direttamente sul disegno dell’auto. Il venditore dice “non incidentata, non riverniciata”, ma lo spessimetro mostra lo stucco? Un ottimo argomento per trattare. L’ispettore arriva con il suo spessimetro e controlla tutta la carrozzeria. E lo scanner OBD scopre il chilometraggio riportato indietro
+- Nuova trattativa sul cofano: presenta i tuoi argomenti — guasti, misure dello spessore della vernice, le bugie del venditore, “contanti subito”. Il venditore ha pazienza, e quando rifiuti spesso propone la metà. Anche il carattere del venditore dalla chat influisce su questa trattativa
+- Gli acquirenti valutano meno un’auto danneggiata o riverniciata — vengono anche con uno spessimetro per la vernice. Controlla prima di comprare
+- Drive Ace: una corsia opposta a sinistra. Lì i punti sono triplicati, ma le auto arrivano a ondate e lampeggiano con gli abbaglianti. La polizia stradale ti multa anche per il sorpasso nella corsia opposta. Il nitro ora si accumula dolcemente e aggiunge velocità, e alla velocità la telecamera si allontana e si inclina nelle curve, come nei giochi di corse. Nuovo compito — guida nella corsia opposta
+- Schermata del viaggio: il marcatore si muove dolcemente lungo il percorso, e il “rimanente” scende minuto per minuto
+- I mini-giochi sulla strada accelerano il tempo fino a 80 minuti di viaggio al secondo — più veloce della stessa schermata del viaggio
+- Nuovo brano “PowerCar” di creeper_xx
+- I suggerimenti di gioco nel Blocco note sono stati riscritti per il gioco attuale
+- Passaporto e patente: dopo la registrazione ricevi un passaporto e una patente — cognome, nome, data di nascita, foto. Tutti i documenti e i passaporti dei veicoli delle tue auto sono su GosBuy, nella scheda “Documenti”
+- Poker su AvtoBuyCase: Texas Hold’em a un tavolo da sei posti con bot — ognuno ha il suo carattere; alcuni giocano con prudenza, altri bluffano. Tre tavoli da 50/100 a 1.000/2.000; puoi comprare altre fiches, e puoi alzarti dal tavolo in qualsiasi momento tra una mano e l’altra
+- Lavoretto extra “Cantiere” — una nuova app nella schermata iniziale. La gru porta le lastre di cemento, e il tuo compito è posarle in modo uniforme: ciò che sporge viene tagliato, ciò che manca — la torre crolla e viene ricostruita. Non ci sono indizi su dove atterrerà una lastra. Più l’edificio è alto, più la gru è veloce, e dal quarto piano il vento fa oscillare le lastre. 10 ₽ per lastra. Durante il turno il tempo scorre due volte più veloce, e un turno dura non più di otto ore di gioco al giorno
+- Nell’annuncio di vendita puoi indicare se consideri le permute. Se disattivato, gli acquirenti vengono solo con i contanti
+- Nuovo Garage: un riepilogo del parco in alto, schede grandi con foto, targa, condizione e valore
+- PlameBlocks con un nuovo aspetto: blocchi 3D, un lampo sulla scacchiera, e le scritte “Ottimo!” e “Combo” quando si eliminano le linee (una serie dà un bonus), e la scacchiera cambia tema ogni tanto — da scuro a completamente bianco
+- Le Impostazioni hanno una nuova sezione “App”: sensibilità dello sterzo in Drive Ace e trascinamento dei pezzi in PlameBlocks
+- “Trasporti” è stato rifatto: il percorso è disegnato sulla mappa attraverso le città lungo la strada, prezzi e tempi di tutte le opzioni sono visibili insieme, e puoi scegliere una destinazione direttamente sulla mappa o tramite la ricerca
+- MestoBuy con un nuovo aspetto: appartamenti, case e garage — in sezioni separate con schede degli annunci, e tutto ciò che possiedi è nella scheda “Mio”. Gli alloggi hanno immagini diverse — palazzi a pannelli, khrushchëvka, nuove costruzioni, staliniane, cottage, case in tronchi, chalet — e la ricerca in alto funziona: per nome, prezzo, parcheggio, con ordinamento
+- Nella schermata iniziale è comparsa una barra di navigazione — le app ridotte ora si possono aprire direttamente dalla schermata iniziale
+- Sulla strada capitano incidenti: se guidi verso un’altra città con la tua auto, puoi avere un incidente lungo il percorso. Più guidi lontano, più alto è il rischio. La carrozzeria prende il danno, più raramente le sospensioni o l’impianto elettrico; le pratiche con la polizia stradale richiedono un’ora o due, e se la colpa è tua — anche una multa
+- Le slot di AvtoBuyCase ora funzionano come un vero casinò: i rulli girano e si fermano uno dopo l’altro, i simboli vincenti esplodono e quelli nuovi cadono dall’alto — e così via finché la vincita non si esaurisce (anche i giri gratis). Puntate fino a 1.000.000 ₽. In “Classic” le vincite sono diventate più rare ma più grandi. Due macchine: “Classic” — cinque rulli, 20 linee, WILD e bonus; tre bonus danno giri gratis con vincite raddoppiate. “Toro d’oro” — rulli 3-4-3, il toro sostituisce ogni simbolo, e a volte si attiva “Furia del Toro”: rimane un simbolo e i tori sui rulli, che girano finché non c’è una vincita. Uno schermo pieno di tori paga ×10
+- Il potenziamento e le slot si possono far girare velocemente — l’interruttore “⚡ Veloce”
+- Le slot hanno il gioco automatico: il pulsante “AUTO” — 10, 25, 50 o 100 giri di seguito alla stessa puntata, con la possibilità di fermarsi su un bonus e su una grande vincita
+- Suoni di PlameBlocks: un pezzo scatta al suo posto con un tonfo morbido, una linea eliminata risuona, e una combo suona un’intera melodia
+- Impostazioni → “App” è ora una schermata separata con le impostazioni dei mini-giochi, e la ricerca nelle Impostazioni li trova. La sterzata di Drive Ace si regola in un intervallo più ampio: da ×0,3 a ×4
+- La mappa di “Trasporti” è ora a sé: terra, fiumi, laghi e nomi delle città. Funziona senza internet e senza VPN
+- Le probabilità nei case sono state aumentate: veicoli, oggetti e grandi somme escono più spesso
+- Contratti come quelli veri: quando si compra e si vende un’auto, si scambia, si prende un prestito o si compra un immobile, si apre un foglio di contratto — le parti, il VIN, il numero del passaporto del veicolo, il prezzo, le clausole. Il venditore ha già firmato, e tu firmi proprio sulla riga della “firma”; sul foglio compare il timbro “FIRMATO”
+- Documenti dell’auto: sulla scheda della tua auto e su GosBuy — il passaporto del veicolo (VIN, proprietario, data di acquisto, immatricolazione) e il contratto di compravendita con le firme di entrambe le parti
+- PlameBlocks: dopo un cambio di tema, a volte cambia anche la scacchiera, e tutti i blocchi diventano di un unico colore
+- All’incontro e nella trattativa sul cofano puoi vedere una foto dell’auto
+- 16 nuovi oggetti: videoregistratore, autoradio Android, gomme estive, batteria, allarme con avviamento a distanza, compressore, cric, tanica di benzina, coprisedili, subwoofer, xeno, box sul tetto, monopattino elettrico, avviatore, insegna da taxi sul tetto e un vecchio smartphone. Puoi ottenerli dagli acquirenti e nei case, e offrirli ai venditori nella trattativa
+- Slot di salvataggio: nelle Impostazioni ci sono tre salvataggi separati. La partita attuale (e il salvataggio dalla 0.3.4) è il primo slot; cambiare slot riavvia il gioco
+- Missioni: ogni giorno tre missioni (comprare, vendere, guidare, trattare…), e ogni settimana missioni separate, più grandi. Ognuna dà denaro, tutte quelle giornaliere danno una cassa, e una serie di giorni consecutivi aumenta la ricompensa. Un grande premio per la settimana
+- Promozione degli annunci, come su Avito: “Boost”, “Turbo” e “Premium” per 1–7 giorni — mentre una promozione è attiva, gli acquirenti scrivono 2–4 volte più spesso
+- Il prezzo di mercato sulla scheda di un’auto tiene conto delle riparazioni: puoi vedere sia il prezzo con i guasti sia il prezzo dell’auto intera. Anche gli acquirenti notano i guasti e trattano sulle riparazioni
+- Un viaggio con la propria auto può essere interrotto: una gomma bucata, un incidente, la polizia, un ingorgo, il surriscaldamento. Il marcatore si ferma a metà percorso e decidi tu cosa fare — aspettare il carro attrezzi o cambiare la ruota da solo, chiamare la polizia stradale o compilare una constatazione amichevole. Tempo e denaro — la scelta è tua
+- Miglioramenti del garage — una nuova scheda “Officina”: un ponte sollevatore, un set di attrezzi, una cabina di verniciatura, un autolavaggio e telecamere. Con questi puoi fare più riparazioni da solo, lavare le auto gratis, e nel cortile c’è meno vandalismo
+- Le auto nel Garage si possono fissare in alto — un pulsante pin sulla foto; le auto fissate restano sempre in cima
+- Filtri di AvtoBuy rifatti: marche, prezzo e anno con opzioni rapide, chilometraggio, città e raggio, “nessun guasto visibile”, “urgente”, “nuovo”, valutazione del venditore. Il pulsante mostra quanti annunci corrisponderanno. I filtri attivi compaiono come chip sotto la ricerca; toccando “Annunci” in basso si azzerano
+- La trattativa sul cofano è più chiara: passi “Ispezione → Prezzo → Decisione” e tre offerte pronte con la probabilità di accettazione, invece di un cursore
+- La musica si può scorrere — in “Musica” e nella Dynamic Island
+- Nuove città: Ščëlkovo, Sergiev Posad, Monino, Kudrinskaja e Kartyšovo (regione di Kaluga), Neftekumsk, Nesterov, Kirovsk (LNR), Njagan
+- Sulla mappa di “Trasporti”, Crimea, le regioni di DNR, LNR, Zaporižžja e Chersonskaja sono entro i confini della Russia
+- Casinò: in “Classic” i giri gratis escono molto più raramente (circa una volta ogni 150 giri), ma sono di più e pagano ×5. Il gioco principale paga di più. “Toro d’oro”: “Furia del Toro” esce più spesso e non paga mai meno di ×3 la puntata
+- Nuova macchina “Cassaforte di monete”: sei monete sullo schermo aprono la cassaforte — le monete restano al loro posto, hai tre giri di riserva, e ogni nuova moneta li ripristina. Tutte le 15 celle piene di monete — GRAND ×100
+- Slot: quando sono già presenti due bonus sullo schermo, i rulli restanti si illuminano e girano più a lungo, rallentando lentamente fino a fermarsi — stiamo aspettando il terzo!
+- Il gioco è diventato più difficile: meno soldi all’inizio, i venditori concedono meno e gli acquirenti scrivono più raramente e offrono un po’ meno
+- Livelli su AvtoBuyCase: il limite per una singola puntata cresce con il totale di tutte le tue puntate sul sito — da 20.000 ₽ per un principiante. Il VIP non ha limite: puoi puntare qualsiasi cifra alle slot. Puoi inserire la puntata a mano — tocca la cifra. Il tuo livello e quanto manca al successivo sono mostrati nel profilo del sito e sotto la scelta della puntata
+- Un’auto vinta in un case può essere venduta al sito direttamente dal Garage in qualsiasi momento — per il 70% della sua valutazione. Queste auto sono contrassegnate “🎰 DAL CASE”
+- La data di nascita nel passaporto si sceglie con una ruota, come su iPhone, e accanto viene mostrata l’età
+- Le chiamate ora sono una conversazione: chiama dalla chat (la cornetta verde) e scegli una frase — “Controlla la chat”, “L’auto è ancora in vendita?”, “È possibile trattare?”, “Quando ti conviene incontrarci?”. Se l’altra persona è offline, “Controlla la chat” spesso la fa rispondere in un paio di minuti invece che in qualche ora. Puoi chiamare la stessa persona una volta al giorno
+- Appartamenti e case si possono affittare a lungo termine — per sei mesi: i soldi arrivano ogni mese, la tariffa è inferiore del 10%, e gli inquilini ne hanno più cura. La scheda dell’immobile mostra fino a quale data è affittato, per quanto e quando arriveranno i soldi
+- Nella roulette della polizia stradale a volte escono targhe kazake, bielorusse e kirghise — puoi tenerle nella tua collezione, ma non puoi montarle su un’auto. Negli annunci compaiono solo targhe russe
+- Nuovi case su AvtoBuyCase: “Centesimo” a 200 ₽, “Tuning” con oggetti per l’auto e “Oligarca” da un milione — con le auto più costose
+- Sul sito la musica parte sempre con il brano “nightmare chase”
+- Gli alloggi sono diventati più cari e più realistici: appartamenti da 2,5 a 8 milioni, case da 6 a 30 milioni, e a Mosca e San Pietroburgo 1,5–2,2 volte più cari
+- PlameBlocks: i temi della scacchiera cambiano in ordine misto, e una scacchiera chiara ora compare in ogni partita
+- Nella stazione di servizio il disegno dell’auto mostra in colore i pezzi con una storia — riverniciatura, stucco, sostituzione — come sullo spessimetro
+- Puoi cambiare il tuo luogo di residenza: MestoBuy → “Mio”. Il trasloco costa da 70.000 ₽, più è lontano più costa, e non più di una volta al mese. Il cortile gratuito per 3 auto, il sonno a casa e l’appartamento iniziale vengono con te
+- Le auto che hai venduto possono tornare sul mercato: un mese dopo il nuovo proprietario a volte le rimette in vendita — al prezzo che sceglie e nelle condizioni in cui le hai vendute. Riparate valgono di più; vendute danneggiate costano meno
+- P-Bank: puoi trasferire soldi a mamma, papà, nonna o a un amico — e in risposta torna un messaggio affettuoso
+- P-Bank: le spese in un grande grafico animato e in barre, per una settimana o un mese
+- “Urgente” sul serio: un annuncio pubblicato da più di tre mesi diventa più economico ogni settimana (fino al −20%) — il feed mostra il vecchio prezzo barrato
+- Lavaggio “fai da te”: lava l’auto da solo per 200 ₽ — ci vuole più tempo (un’ora e mezza), ma costa poco
+- Modalità di inizio gioco (beta): “Facile” — tre volte i soldi iniziali; “Normale” e “Hardcore” — meno della metà
+- Drive Ace: nelle Impostazioni → “App” puoi scegliere i comandi (dito e bordi, solo dito, solo bordi) e dove si trova il pulsante del nitro — al centro, a sinistra o a destra
+- “Editor” nella seconda pagina: dopo tutti i risultati puoi pubblicare i tuoi annunci su AvtoBuy — marca, prezzo, città, guasti, fregature e foto
+- L’acquirente propone uno scambio, ma ti servono soldi? Il pulsante “Solo contanti, niente scambio” — circa un acquirente su due accetta di pagare un po’ meno del valore dello scambio
+- Causa contro il venditore: all’ispezione “va tutto bene”, ma a casa emergono guasti o riverniciature nascoste — entro 10 giorni dall’acquisto puoi assumere un avvocato dalla scheda dell’auto. Il tribunale impiega 3–7 giorni, e vinci circa 6 volte su 10
+- (Beta) Molto raramente un acquirente propone di scambiare la tua auto con il disco volante di Rick di “Rick e Morty”. Non si può vendere né valutare. Dicono che sblocchi un risultato segreto
+- I garage costano il 20% in meno, e il prezzo ora dipende dalla città: più cari a Mosca e San Pietroburgo, più economici nei piccoli centri
+- Nella città di origine all’inizio del gioco ci sono il doppio degli annunci — 40 (in una partita nuova o dopo un ripristino)
+- Nuove app annunciate: “Voli” (visti e auto dall’Europa), “Container” e “Importazione”
+- Centesimi! Il saldo in P-Bank e su AvtoBuyCase ora ha i centesimi, e le vincite del casinò e il cashback vengono pagati fino al centesimo
+- Casinò: puntate da 5 ₽ in tutte le modalità
+- Due nuove macchine su AvtoBuyCase. “Oro del Texas”: lo sceriffo è WILD, e sopra i rulli c’è una linea dei moltiplicatori ×1…×15 — tutta la vincita viene moltiplicata per quello che esce su di essa; nei giri gratis il moltiplicatore è almeno ×2. “Libro di Anubi”: il libro è sia WILD sia bonus; tre libri danno 10 giri gratis con un simbolo speciale che si apre su tutto il rullo e paga su tutte le linee
+- “Toro d’oro” come quello vero: sotto i rulli c’è un toro — prima della “Furia del Toro” diventa dorato, e a volte fa solo finta, lampeggiando per un secondo
+- “Classic” è diventato un po’ più generoso, “Toro d’oro” un po’ più avaro
+- Il pulsante “AUTO” nelle slot ora si vede bene
+- Chiamate: più frasi — sulle condizioni, i documenti, il chilometraggio, lo scambio e dove vedere l’auto. Il venditore potrebbe lasciarsi sfuggire qualcosa su una fregatura. Di notte quasi nessuno risponde; la mattina presto e la sera tardi — circa la metà delle volte
+- Roulette della polizia stradale: gioco automatico — 10, 25 o 50 tentativi fino alla classe di targa desiderata, veloce o lento
+- Riavvolgimento del contachilometri: DetalBuy vende un “correttore chilometraggio”. Un’auto con il chilometraggio riavvolto costa di più, ma circa un acquirente su quattro arriva con uno scanner — lo scoprirà e chiederà uno sconto del 30%
+- All’incontro: l’auto che l’acquirente offre in cambio ora si può ispezionare — a occhio, con lo spessimetro e l’OBD. Se trovi una fregatura, rifiuta lo scambio senza penalità
+- La sveglia ora suona anche nel gioco: all’ora impostata — una schermata della sveglia con “Posticipa di 10 minuti” e “Spegni”
+- “Cantiere”: “perfetto” paga il doppio, una serie di “perfetti” allarga di nuovo la lastra, e ogni 10 piani senza crollo — un bonus su ogni lastra
+- Drive Ace: le auto che vanno nella stessa direzione compaiono molto più avanti e si rivelano dalla foschia, invece di spuntare proprio davanti a te
+- L’auto di Rick ora ha un’immagine
+- I messaggi in fondo allo schermo non si accodano più: uno nuovo sostituisce subito quello vecchio e scompare dopo un paio di secondi; si può far scorrere via
+- Il parco taxi è operativo! Mettiti al volante tu stesso: vista dall’alto della mappa del quartiere (ogni città ha la sua), prendi i passeggeri e portali all’indirizzo — le corse fluide senza scossoni danno le mance, e ogni urto contro una casa o un’auto riduce il compenso. Fino a 8 ore di gioco al volante al giorno, il carburante si paga con gli incassi. Oppure assumi degli autisti: ogni giorno ci sono nuovi candidati con la propria abilità, cura e quota degli incassi. Dai un’auto a un autista — e una volta al giorno ti consegna gli incassi. Gli autisti distratti rovinano le auto, e alcuni non consegnano affatto gli incassi
+- Il taxi è un mini-gioco completo: quartieri tre volte più grandi, con nomi di strade e punti di riferimento (stazione, centro commerciale, ospedale…). Un ordine arriva come offerta — accetta o salta. Il navigatore traccia una linea e dà indicazioni di svolta, con una mini-mappa a destra. Tipi di ordine: “Urgente” (arrivare in tempo), “Comfort” (mance generose, ma non si tollerano urti), “Gruppo”. Gli urti ora sono reali — scintille, scossoni, ammaccature: a durabilità zero il turno finisce e l’auto ha bisogno di riparazioni. I passeggeri danno le stelle, hai una valutazione, e cinque stelle di fila — una serie con bonus. Un’auto costosa significa una tariffa più alta. Di notte — fari e lampioni, e alla fine del turno — un riepilogo
+- Il taxi non rallenta più, e l’orologio in alto è di nuovo visibile
+- “Messaggi” ha sostituito le “Chat” blu nel dock: in un’unica app ci sono sia i tuoi parenti sia le chat degli annunci AvtoBuy
+- I parenti non sempre rispondono subito: possono rispondere dopo un paio di minuti o ore, di notte solo al mattino, oppure leggere e stare zitti. Un prestito arriva insieme alla risposta
+- App “Messaggi”: chat con i parenti — mamma, papà, nonna, nonno, Sanja, tua sorella e zia Ljuba. Puoi chattare oppure prendere in prestito soldi senza interessi per 14 giorni. Restituisci in tempo e la prossima volta prestano di più; in ritardo — meno; e chi tira per le lunghe un debito per una settimana non chiederà più prestiti. I trasferimenti dai parenti a te e da te a loro vengono mostrati anche nelle chat
+- Riparare prima di vendere ora conviene: i venditori includono i guasti nel prezzo dell’annuncio, gli acquirenti detraggono per i guasti non riparati più di quanto costi la riparazione, e le parti riverniciate dopo una riparazione abbassano meno il prezzo
+- L’asta è operativa: ogni giorno cinque lotti che non sono negli annunci — auto in restituzione dal leasing, auto sequestrate, veicoli rari e relitti delle assicurazioni. Offerte dal vivo: il timer si azzera dopo ogni offerta, i concessionari rivali superano le offerte fino al loro limite, e alcuni offrono all’ultimo secondo. Per partecipare serve un acconto (restituito se non vinci), e chi vince paga una commissione del 5%
+- Container: offerte alla cieca su container sigillati di dogana e magazzini. Non puoi guardare dentro — solo suggerimenti (“ruota visibile”, “vecchi pneumatici”), e uno può mentire. Dentro — un’auto, pezzi di ricambio (venduti direttamente a DetalBuy), oggetti per l’inventario, o rottami. Se vinci, lo apri tu
+- Voli: vola in Germania, Polonia, Lituania o Repubblica Ceca per un’auto. Prima serve un visto (una tassa, 4–9 giorni di attesa, e possono rifiutarlo — più raramente con una buona reputazione). Sul posto ispezioni l’auto di persona e vedi ciò che il venditore non ha scritto. Per tornare — con mezzi propri (veloce, ma potresti avere un incidente) o su un autotreno. All’importazione — sdoganamento e tassa di riciclaggio: il miglior rapporto qualità-prezzo sono le auto di 3–5 anni
+- Importazione: auto dalle aste giapponesi, coreane, cinesi ed emiratine su ordinazione. Puoi vedere il grado del foglio d’asta — da 5 (come nuova) a R (danneggiata), e il foglio a volte esagera le qualità dell’auto. La consegna richiede settimane, con possibili ritardi doganali e danni durante il tragitto. Sdoganamento, SBKTS e EPTS si pagano al momento dell’ordine
+- Tuning: cerchi, centralina, scarico, pellicola, oscuramento dei vetri, ribassamento, isolamento acustico. Un tuning fatto bene aumenta la valutazione dell’auto più del suo costo; un lavoro scadente la aumenta meno; sulle auto economiche la gente valuta una cosa, su quelle costose un’altra. Per l’oscuramento dei vetri, uno scarico rumoroso e il ribassamento, la polizia stradale a volte multa
+- Stile dell’interfaccia nelle Impostazioni: Android o iOS. Con lo stile iOS, invece dei tre pulsanti c’è una barra home (tocco o scorrimento verso l’alto — alla schermata iniziale, tenendo premuto — schede), indietro con lo scorrimento dal bordo sinistro, e transizioni e scorrimento come su iPhone
+- Lavaggio a mano vero: applica la schiuma, strofina con la spugna, sciacqua con acqua e asciuga — tutto con il dito sull’auto. Lavata bene — brilla per 3 giorni, come dopo un autolavaggio; lavata male — un giorno o due
+- Il “Libro di Anubi” è diventato speciale: a volte si sveglia una mummia che cammina — entra in un intero rullo come WILD e dà giri gratis, avanzando verso sinistra finché non esce dal campo
+- Avatar per venditori e acquirenti: ognuno ha il proprio volto — nell’annuncio, in chat, nell’elenco delle chat e nelle chiamate
+- Il feed di AvtoBuy con un nuovo aspetto: schede arrotondate, contatore delle foto, caratteristiche come chip, il venditore con un volto e una valutazione
+- Il passaporto si rilascia passo dopo passo: foto, nome completo, sesso e data di nascita, verifica. In alto — un’anteprima in tempo reale del passaporto che si compila man mano
+- Nell’Editor puoi aggiungere le tue foto dalla galleria del telefono (tieni premuto per eliminare)
+- Nuova città — Berdjansk
+- Le Impostazioni hanno una nuova voce “Stile dell’interfaccia” — presto potrai far assomigliare il telefono a un iPhone o a un Android
+- Nuovo aspetto per le app d’affari — Asta, Container, Voli, Importazione e Tuning: uno stile scuro e sobrio, cifre grandi, icone chiare al posto delle emoji, senza cornici appariscenti né sfumature. Pulsanti, finestre, fogli, campi di input e messaggi ora sono coerenti e ordinati in tutto il gioco. È la prima fase del nuovo design — seguono le schermate principali
+- Voli veri: scegli un volo (più economico al mattino, più caro la sera; ognuno ha compagnia, numero di volo, durata e posti disponibili) e una tariffa — “Economy” non rimborsabile, oppure “Flessibile”: se torni senza l’auto, ti vengono rimborsati il 60% del costo. Poi la carta d’imbarco con il tuo nome, posto e gate, un volo sulla mappa e l’ispezione dell’auto dal venditore. Il tempo di gioco scorre in modo realistico: fino alla partenza, il volo stesso e la strada verso l’auto
+- Il visto ora si gestisce su GosBuy: una nuova scheda “Visto” — domanda, tassa consolare, tempi di elaborazione e probabilità di rifiuto. Serve il passaporto. Un pulsante in “Voli” porta lì
+- Container: una scelta — trattare (più economico, ma possono superarti) oppure comprare subito (più caro, ma sicuro). Un aspetto proprio — un terminal portuale: container disegnati con numeri sui lati, suggerimenti sotto forma di manifesto di ispezione, le porte si aprono quando le apri, e alla fine vedi se sei in utile o in perdita
+- Importazione con un nuovo aspetto, come i veri fogli d’asta: numero del lotto, sede, grado in una cornice, carrozzeria e interni con le lettere, calcolo chiavi in mano e il risparmio rispetto al mercato. Gli ordini in viaggio — tracciamento per fasi: acquistata, in porto, in mare, in dogana, in viaggio verso casa
+- Tuning come riparazioni: i kit si comprano su DetalBuy (una nuova sezione “Tuning” — originali e aftermarket, consegna in pochi giorni), e si montano in officina a pagamento oppure da soli in garage — gratis, ma più lentamente. Cerchi, oscuramento dei vetri e isolamento acustico si possono montare da soli; scarico e ribassamento — con il ponte sollevatore; tuning della centralina e la pellicola — solo in officina. Durante quel tempo l’auto è in officina. Gli acquirenti valutano i ricambi aftermarket meno di quelli originali
+- Asta: il bagagliaio di un’auto vinta a volte contiene ancora cose del proprietario precedente — una busta con soldi, un oggetto o targhe. Più spesso da auto sequestrate
+- Affitto mensile — soldi ogni mese, non alla fine di tutto il periodo. Un contratto può essere prolungato al massimo di tre mesi in anticipo. I contratti lunghi già prolungati sono passati anch’essi ai pagamenti mensili, e i mesi già trascorsi vengono pagati subito
+- Editor: fino a 10 foto per annuncio, più d’una alla volta dalla galleria. Le foto sono più leggere e si adattano meglio, e in alto si vede quanto spazio occupano le tue foto
+- Editor: i tuoi annunci si possono salvare in un file (il pulsante “Condividi” in alto) e inviare a un amico — lui li carica nel proprio Editor. Le tue foto viaggiano dentro il file
+- Nuove città: Almetievsk (Tatarstan), Voskresensk (regione di Mosca) e Kašin (regione di Tver)
+- Design, seconda fase: messaggi in fondo allo schermo — una sola striscia scura e ordinata con un’icona che corrisponde al significato (successo, errore, attenzione) invece di strisce colorate appariscenti ed emoji. Il Garage si apre con un riepilogo, come un portafoglio: il valore del parco in grande e quanto guadagnerai sopra il prezzo d’acquisto, e per ogni auto il guadagno alla vendita alla sua valutazione. I pulsanti di trattativa in chat — tre stili sobri invece di un arcobaleno; una riga in più sulla chat AI è stata rimossa. P-Bank ha perso il bagliore arancione, e PlameFinance, “Missioni”, “Parco taxi” e “Musica” hanno perso sfumature ed emoji nei titoli. I parenti in “Messaggi” hanno dei volti disegnati, come i venditori
+- Design, terza fase: emoji rimosse da pulsanti, titoli e suggerimenti in tutto il gioco — l’incontro, la trattativa, MestoBuy, la stazione di servizio, le targhe, la caparra, Cantiere, il taxi (l’umore del passeggero è ora un’icona). Le intestazioni di MestoBuy e AvtoHistory sono piatte, così come il pulsante della promozione annunci, l’ingresso in P-Bank, la schermata del viaggio, la chiamata e la finestra di valutazione delle targhe
+- Taxi: le strade sono più ampie — l’auto è più piccola rispetto alla carreggiata, e ci sono la metà delle altre auto. Lo sterzo prende velocità dolcemente e torna rapidamente; alla velocità l’auto gira più dolcemente e non sprofonda nelle case. L’auto non viene più attirata al centro della strada. Anche i leggeri tocchi sono graffi, non un incidente
+- Pacchetti mod nell’Editor: i tuoi annunci si possono salvare come pacchetto mod — con un nome, un autore e una descrizione — e inviare come file. Prima dell’installazione un amico vede cosa contiene, e una nuova versione dello stesso pacchetto si installa sopra la vecchia. I pacchetti installati sono mostrati separatamente dai tuoi annunci, e ciascuno si può rimuovere per intero. Fino a 60 annunci nel feed
+- Blocco note: ora puoi scriverci le tue note — prezzi, chi ha promesso cosa, quali auto ti interessano. La prima riga diventa il titolo, e tutto si salva automaticamente. Le note sulla versione, i suggerimenti e i titoli di coda sono rimasti al loro posto. Le note fanno parte del telefono: non spariscono cambiando slot o ripristinando i progressi
+- I parenti chiedono di prestare soldi: una volta ogni una o due settimane qualcuno scrive e chiede un po’ di denaro. Aiutali e restituiranno in tempo; la prossima volta che chiederai, presteranno di più e diranno più raramente “siamo a corto anche noi”. Puoi rifiutare senza rancore. Puoi rispondere direttamente in chat oppure con un trasferimento in P-Bank — un trasferimento non inferiore alla richiesta conta come prestito
+- Nuove città: Mendeleevsk (Tatarstan) e Belebej (Baškortostan)
+- Roulette della polizia stradale: “Veloce” non dà più subito la targa — i simboli girano come prima, solo più velocemente. Anche la serie “fino alla classe” gira sotto i tuoi occhi. Le scritte di riepilogo in fondo allo schermo (“N tentativi, spesi…”) sono state rimosse
+- Un appartamento o una casa si possono vendere: MestoBuy → “Mio” → “Vendi”. Imposti un prezzo — gli acquirenti ti scrivono da soli con le offerte (più basso è l’annuncio, più in fretta), e puoi trattare con ognuno: fino al loro limite un acquirente accetta, sopra di esso indica il suo ultimo prezzo, e se insisti se ne va. Urgente — un’agenzia lo compra subito per il 75–80% della valutazione. Un immobile affittato deve prima essere sgomberato; l’appartamento iniziale non si può vendere
+- L’asta è dal vivo: prima dell’offerta ci sono 15 secondi per ispezionare il lotto — puoi guardare due delle quattro aree (carrozzeria, motore, interni, documenti) e scoprire ciò che non è nella valutazione. Durante l’offerta il banditore dice “Uno… due… Venduto!”, e i rivali mostrano il loro carattere (appassionato, cecchino, prudente, dealer): al loro limite esitano, poi dicono “passo”. Puoi offrire non solo di un passo ma con un salto di +3 e +5 passi — un salto spaventa i prudenti, mentre gli appassionati saltano anch’essi. Lo stesso vale per i Container, e una volta per asta puoi sbirciare da una fessura
+- 193 nuovi annunci con foto dalla comunità — targhe sotto il badge AvtoBuy, badge di marca nascosti. Foto compresse; il gioco è cresciuto di meno di 30 MB
+- Garage: ordinamento (per data d’acquisto, valutazione, guadagno, anno, città, marca), i filtri “In vendita”, “Serve riparazione”, “In questa città”, “In officina / in viaggio” e la ricerca. Le auto fissate restano comunque in cima
+- Crash su AvtoBuyCase: il moltiplicatore sale, e in qualsiasi momento il grafico può volare via — incassa in tempo. C’è un incasso automatico da ×1,5 a ×10. Il sito ha il vantaggio, come in altri giochi: a volte il grafico vola via già a ×1,00, ma capita anche ×50
+- Le schede di AvtoBuyCase non si stringono più in una riga: ora sono tante, e la barra delle schede scorre in orizzontale
+- “Piccolo Aereo” su AvtoBuyCase: l’aereo decolla da una portaerei con un contatore a ×1, raccoglie bonus e moltiplicatori fino a ×5 lungo la strada, e i missili lo abbattono dimezzando il contatore. Alla fine si avvicina per atterrare: atterrare sulla portaerei — la vincita è contatore × puntata; mancarla — la puntata è persa. Atterra in circa la metà dei voli. Un bel cielo con il tramonto, nuvole, isole, una scia dietro l’aereo, una portaerei dettagliata, missili con le fiamme
+- “Minatore” su AvtoBuyCase: una miniera di 10 file. In ogni fila colpisci un blocco con il piccone — un blocco intatto rivela il minerale, e scendi più in profondità e il moltiplicatore cresce; sotto un crollo la puntata brucia. Puoi incassare il bottino dopo qualsiasi fila. Quattro tipi di roccia — da facile (uno su quattro crolla) a estremo (due su tre)
+- “Piccone” su AvtoBuyCase: un campo di blocchi, come in Minecraft — terra, pietra, carbone, ferro, oro, diamanti e dinamite, e più in profondità, più ricco. Un solo piccone: 14 volte cade in una colonna e spacca i blocchi da solo. All’inizio è di legno, e dopo aver rotto pietra, ferro o diamante diventa di pietra, ferro, diamante — e colpisce sempre più forte. Il minerale rotto conta come vincita, e la dinamite fa esplodere tutto intorno
+- Cartelle sulla schermata iniziale, come su iPhone: tieni premuta un’icona sopra un’altra per creare una cartella, trascina un’icona su una cartella — va dentro. Una cartella aperta è la schermata iniziale sfocata, un nome grande (tocca per rinominare) e un pannello di vetro con le app. Tieni premuta un’app dentro una cartella — compare un “−” per ritirarla fuori. Una cartella con una sola app scompare da sola
+- Nuove icone per le app della seconda pagina: Calcolatrice, Targhe, Musica, DetalBuy, Asta, Tuning, Voli, Container, Importazione, Parco taxi, più Cantiere, Missioni e “Supporto” — immagini disegnate al posto delle semplici icone
+- Difficoltà — una schermata separata all’inizio della partita, dopo il passaporto e prima della password: “Facile”, “Normale” o “Hardcore”. Si sceglie per tutta la partita e cambia non solo il capitale iniziale ma anche la frequenza con cui scrivono gli acquirenti
+- Le notizie si aprono: tocca una notizia e si apre l’articolo completo. Nelle notizie di mercato — perché è successo, quali marche riguarda e fino a quale data
+- Notizie nel Browser — il sito “AvtoVesti”: cosa succede in città e sul mercato. Ogni tre giorni esce una notizia di mercato — la domanda di auto giapponesi, tedesche, coreane, cinesi, americane o nazionali sale o scende, e nei tre giorni seguenti gli acquirenti scrivono davvero più o meno spesso per annunci di questo tipo
+- Apertura di un container in due fasi: spalanchi le porte — vecchi pneumatici all’ingresso, illumini con una torcia in fondo — e dal buio emerge la sagoma nera di un’auto con i fanali posteriori, casse di ricambi, scatole o persino altri rottami. Il container ora occupa tutta la larghezza dello schermo ed è disegnato come quello vero: porte con cerniere, sbarre di chiusura e un sigillo, un pavimento di legno, un fascio di luce della torcia con polvere. Anche i container al terminal sono diventati più dettagliati — angolari, nervature delle pareti, strisce di ruggine
+- Il gioco è diventato più difficile: gli acquirenti scrivono meno spesso, molto meno per le auto costose (un acquirente per un’auto da decine di milioni è raro), e quando ci sono molti annunci i stessi acquirenti si dividono tra loro. Ora gli acquirenti pagano al massimo l’8% in più della valutazione
+- Taxi: in alto è comparso un banner pubblicitario, e la nuova scheda dell’ordine è piccola e in alto, sotto la barra di stato, e non blocca più la strada
+- Sussidio senza internet: il video segnaposto dura 15–30 secondi, come un vero annuncio
+- La pubblicità della Rolls-Royce Boat Tail ha ottenuto una descrizione come si deve
+
+
+DRIVE ACE
+
+- La corsia opposta ora è larga tre corsie, come il lato della stessa direzione: puoi spostarti molto a sinistra, ma le auto in senso opposto usano tutte e tre le corsie
+- Il gioco va più veloce: i numeri del tachimetro sono gli stessi, ma tutto intorno sfreccia più in fretta — ora è più difficile
+- I suggerimenti sulla corsia opposta (il dito in basso e in alto) compaiono solo nella prima corsa. Dopo, i bordi rossi dello schermo avvisano del traffico opposto nella tua corsia
+- Sterzo libero: trascina il dito — l’auto lo segue invece di saltare tra tre corsie. Puoi anche semplicemente tenere il dito sul lato sinistro o destro. Sul computer — i tasti freccia oppure A e D
+- Un “passaggio ravvicinato” ora conta solo per un sorpasso davvero ravvicinato, non per quasi ogni sorpasso. Più di seguito formano una serie: ×2, ×3, fino a ×5 punti
+- La polizia stradale non ti multa più per un normale sorpasso nella corsia adiacente — prima un’auto nella corsia centrale non poteva evitare la multa. La multa si applica solo se passi troppo vicino o sfrecci col nitro
+- Anche il sorpasso ravvicinato di un camion o di un autobus ora conta come “passaggio ravvicinato” — prima i veicoli lunghi sparivano prima che potessi sorpassarli
+- I fianchi di camion e autobus in lontananza non spariscono più — corsie, finestrini e ruote sono subito visibili
+
+
+CORRETTO
+
+- All’incontro dopo una caparra puoi vedere quanto è stato pagato e quanto resta da pagare: un pulsante “Paga il saldo” invece del prezzo intero
+- Parenti: lo stato “online” non salta più — puoi vedere quando la persona è stata online l’ultima volta
+- I parenti non prestano subito a tutti all’inizio: puoi prendere in prestito da non più di due di loro, e per non più di 40.000 ₽ in totale
+- GosBuy: il piè di pagina del sito è fissato in fondo alla pagina
+- La mappa di “Trasporti” non si spezza più nel mare ai bordi quando la si allontana
+
+- Roulette della polizia stradale: la prima lettera della targa non ha più un’“ombra”. I caratteri restano al loro posto e non tremano mentre quelli vicini lampeggiano
+- Piccone: dopo una pausa, i frammenti dell’ultimo colpo non restano più sospesi sul campo
+- Riavvolgimento del contachilometri: un acquirente con lo scanner non chiede più il 30% per un riavvolgimento di un paio di chilometri. Un piccolo riavvolgimento è invisibile allo scanner, e lo sconto si chiede in base a quanto il riavvolgimento ha aggiunto al prezzo
+- Trattativa sul cofano: dopo la risposta del venditore il prezzo non resta rosso o verde per sempre, e lo stesso guasto non compare più come due argomenti
+- Trattativa: il venditore non accetta più un prezzo sotto il suo minimo. Prima, in uno scambio, dopo “aggiungi altri 500.000” potevi offrire 500.000 per un’auto con prezzo di 4,8 milioni — e lui rispondeva “D’accordo!”
+- Le tue foto nell’Editor non rompono più il salvataggio sul sito: prima, quando la memoria del browser si esauriva, la scrittura si interrompeva e una parte dei progressi andava persa
+- Se chiudi il gioco nel mezzo di un’asta, la caparra viene restituita al successivo avvio. Prima andava persa
+- Un’auto dell’Importazione non può più essere messa in vendita mentre è in viaggio: prima veniva venduta prima dell’arrivo, aggirando i danni durante il trasporto
+- Causa contro il venditore: il tribunale decide il giorno dell’udienza, alle 12:00 (data e ora sono sulla scheda dell’auto). Prima la sentenza arrivava solo il giorno dopo, e sembrava che non succedesse niente
+- Annunci, pacchetti mod e le tue foto dell’Editor non spariscono più cambiando slot di salvataggio — si spostano con te, e l’Editor resta aperto nel nuovo slot
+- Gli annunci non fanno più tremare lo schermo: lo spazio pubblicitario è sempre della stessa altezza (prima la striscia saltava al caricamento e collassava in caso di errore), e il banner viene creato quando la schermata si è aperta, non nel mezzo di un’animazione
+- Meno rallentamenti: sotto l’HUD di Drive Ace non c’è più una sfocatura ricalcolata a ogni fotogramma, le auto che emergono dalla foschia costano meno da disegnare, l’equalizzatore della musica nella Dynamic Island non ridisegna più lo schermo 60 volte al secondo, e l’orologio, lo schermo e la barra di navigazione vengono ridisegnati separatamente l’uno dall’altro
+- Gli acquirenti non scompaiono più da un’auto in vendita da molto tempo: prima, dopo la cancellazione delle chat, i nuovi acquirenti non le scrivevano affatto
+- Il venditore dichiara il suo “limite” come una cifra tonda, e se offri ancora meno, prima ti avverte e solo dopo blocca la chat
+- “Toro d’oro” fa finta la metà delle volte, e il gioco automatico delle targhe ha una pausa — hai tempo per vedere ogni targa
+- Mentre un annuncio viene riprodotto prima del sonno notturno, il tempo di gioco continua a scorrere: prima un giocatore con un incontro alle 9:00 si svegliava alle 10:00
+- Il sussidio di PlameFinance non si può più riscuotere più volte premendo ripetutamente “Guarda il video”
+- Il venditore in chat non chiede più per l’auto più di quanto indicato nell’annuncio
+- I case si aprono più fluidamente: i rulli non scattano più
+- La richiesta del venditore “aggiungi altri …” non viene più presa come prezzo dell’auto: prima, dopo che era passato del tempo, l’auto poteva essere comprata solo con quel sovrapprezzo
+- Gli acquirenti non propongono più scambi con sovrapprezzi di milioni: il sovrapprezzo non supera 500.000 ₽
+- In “Mine” il campo non scivola più verso il basso né taglia la fila in fondo
+- La prima finestra (su età e regole) scorre sugli schermi piccoli — il pulsante non esce più dal bordo
+- La finestra dell’informativa sulla privacy non deseleziona più da sola la casella dopo un aggiornamento: prima spariva dopo un secondo, e diventava quasi impossibile proseguire nel gioco
+- Le strisce arancioni con scritte come “RSYa: caricamento…” non compaiono più sopra le schermate — erano messaggi di servizio sul caricamento degli annunci
+- La ricerca della città nel servizio carro attrezzi non si azzera più dopo un secondo
+- Chat: se esci dalla chat mentre l’altra persona sta scrivendo una risposta, la risposta non va più persa. Prima ricomparivano i pulsanti di trattativa, e il bot contava un’offerta ripetuta come insolenza e bloccava la chat
+- Targhe: si può rimuovere solo una bella targa. Prima, rimuovere una targa normale creava all’infinito nuove targhe nel deposito
+- I caratteri sulle targhe non “saltano” più in altezza e spessore: le targhe ora hanno un proprio font, uguale su tutti i telefoni
+- PlameBlocks: le scritte “Super!” e altre non compaiono più due volte
+- Il sito avtobuy.space si apre di nuovo in Russia senza VPN
+- La sovvenzione di PlameFinance non si può più “sfregare” offline: prima, senza connessione, al posto del video compariva un segnaposto e i soldi venivano dati a ogni tocco. Ora senza pubblicità la sovvenzione è una volta al giorno
+
+- La Dynamic Island non scompare più quando metti in pausa la musica: il lettore resta, e si può riattivare
+- Schermata del viaggio: il marcatore non è più in ritardo — il viaggio non finisce prima di arrivare in città
+- “Musica” e “Documenti” dell’auto: l’intestazione ora è uguale a quella delle altre app
+- Drive Ace: nella corsia opposta non compare più uno schermo blu (di notte — nero) e il lag quando passa un’auto in senso contrario vicino
+- Trattativa in chat: se esci dalla chat e ci torni, il venditore non “dimentica” più che hai trattato onestamente — solo le offerte insolenti consumano la sua pazienza. Prima, dopo un paio di passi normali e il rientro, la prima offerta bassissima bloccava la chat
+- Trattativa in chat: un oggetto accettato dal venditore (baratto) non va più perso rientrando in chat. Prima lo sconto restava, ma l’oggetto non veniva detratto alla conclusione dell’affare
+- Uno sconto concordato con l’acquirente all’incontro non diventa più il suo prezzo per l’auto nella chat
+- Un acquirente che ha versato una caparra e non si è presentato all’incontro — la caparra resta a te. Prima, dopo tre giorni, per questo la carta veniva bloccata, come per frode. E con una caparra gli acquirenti ora si presentano quasi sempre
+- Il venditore ti chiede di “aggiungere” soldi e tu premi “Compra” — l’acquisto va al suo ultimo prezzo, non più basso
+- Lo scorrimento indietro dalla scheda dell’auto non fa più comparire la tastiera di ricerca
+- Dopo il ripristino dei progressi, “Cantiere” non scompare più dalla schermata iniziale
+- La Dynamic Island è più piccola e non si sovrappone più al Wi‑Fi e all’orologio
+- Il pulsante “+” in AvtoBuy non si sovrappone più né scivola via dai pulsanti del pannello
+- Se tocchi più volte una città in fretta all’inizio del gioco, non ottieni più diverse auto iniziali e capitale raddoppiato
+- La roulette della polizia stradale in modalità veloce “fino alla classe” non spende più alla cieca: prima di una serie vedi il costo del tentativo e il massimo (non più di 50 tentativi); prima una serie poteva fare fino a 300 tentativi
+- Il tempo nei mini-giochi, nel viaggio e in “Cantiere” scorre fluidamente, non a scatti una volta al secondo
+- Un acquirente all’incontro non chiede più decine di migliaia “per la benzina”: ora sono 2–5 mila ₽, come un pieno
+- La data di nascita nel passaporto non si azzera più quando la scegli, e non si può scegliere un’età inferiore a 18 anni
+- Un grande carattere di sistema sul telefono non rompe più l’impaginazione del gioco
+- Le tue mp3 vengono aggiunte a “Musica” in modo più affidabile: si può scegliere qualsiasi file, e quelli non adatti vengono saltati con un suggerimento
+- I progressi non scompaiono più dopo una reinstallazione a causa della tua musica: i file delle tracce non vanno più nel backup di Google, perché lo saturavano e il backup non veniva salvato per intero
+- Il feed di AvtoBuy dopo un filtro per marca non diventa più un rettangolo grigio dopo la prima auto
+- Il pulsante di lavaggio sulla scheda dell’auto non si rompe più: il testo non si impila in verticale, e i pulsanti “Lavaggio” e “Da me” sono al loro posto
+- Dopo il ripristino dei progressi, “Cantiere” e “Missioni” sono sulla schermata iniziale al loro posto
+- I filtri, l’Editor, il trasloco, gli slot di salvataggio e le impostazioni delle app hanno un’intestazione sottile, come le altre app
+- I pulsanti delle frasi rapide in una chiamata sono visibili anche nel tema chiaro
+- Scambio all’acquisto: quando il venditore ti chiede di aggiungere soldi, compare il pulsante “Accetta lo scambio” con il suo sovrapprezzo. Prima “Compra” acquistava l’auto in denaro invece che in scambio
+- Trattativa: se il venditore ha accettato un oggetto e abbassato il prezzo, ma la risposta non era ancora arrivata, dopo essere rientrati in chat la trattativa non riparte più dal prezzo dell’annuncio
+- Le etichette dei campi di input (passaporto, Editor, nome all’inizio del gioco) non sporgono più sopra il campo — l’etichetta galleggia all’interno
+- La finestra del gioco automatico nelle slot: le etichette dei campi non scivolano più sulla cornice; il numero di giri e gli stop sono nello stesso stile del sito
+- La patente su GosBuy: le categorie “B, B1, M” non si sovrappongono più al bordo sotto la foto
+- “Sostituzione del passaporto”: l’intestazione non scende più dell’altezza della barra di stato
+- Meno rallentamenti dalla pubblicità: una schermata coperta da un’altra non conserva più il suo banner (prima potevano essercene tre contemporaneamente, tutti disegnati a ogni fotogramma), il banner nel feed non viene più ricreato al caricamento, e non c’è più un banner in alto nel lavaggio a mano
+- Su AvtoBuyCase l’interruttore “Veloce” ha un’icona invece dell’emoji del fulmine
+- Sul sito dal computer i feed scorrono con il mouse: le schede del casinò, i filtri, i rivali alle aste
+- Offerte in asta e container: meno testo — il feed mostra solo le offerte e il “passo”, senza commenti, e i rivali sono mostrati come piccole etichette. Nei container l’intestazione con il manifesto è diventata piccola e non copre più le offerte più basse
+- Garage: l’intestazione con il valore del parco è ora su una sola riga, e la ricerca e i filtri scorrono insieme all’elenco — più spazio per le auto
+- “Messaggi”: l’intestazione è sottile, come nelle altre app, anche nelle chat con i parenti
+- Drive Ace: le strisce tratteggiate della carreggiata si vedono da lontano, invece di comparire proprio davanti all’auto
+- Sito su iPhone (Safari): nel tema scuro l’orologio e le icone in alto non scompaiono più — prima erano nere su sfondo scuro
+- Targhe: l’intera targa è disegnata su una riga con un’ombra comune — la prima lettera non sembra più diversa dalle altre
+- Targhe: la prima lettera non sembra più un glifo diverso. Con un font grande nelle impostazioni del telefono i caratteri non entravano: la prima lettera si sovrapponeva al bullone della targa, e la croce del bullone cadeva sulla seconda lettera. Ora la targa non dipende più dalla dimensione del font, e il “RUS” sotto la regione non viene più tagliato
+- Il numero del container nella finestra delle aste non sporge più oltre il bordo dell’immagine
+- Trattativa: il venditore non accetta più di cedere l’auto per la cifra che ha chiesto di “aggiungere” in uno scambio (per esempio 10.000 ₽ per un’auto da un milione). Anche se la chat “ha concordato” un tale prezzo, il venditore non fisserà l’incontro né concluderà l’affare
+- La sovvenzione di PlameFinance non si può più “spremere” toccando più volte l’annuncio e spegnendo internet: un video paga non più di una volta ogni 20 secondi
+
+
+Сlose-Beta-Test 0.3.4
+
+
+TELEFONO
+
+- Il gioco si apre dalla schermata di blocco, come un vero telefono: data, ora e notifiche. Per aprirlo, scorri verso l’alto
+- Lo schermo si può proteggere con un codice a quattro cifre, una sagoma o una password. Viene proposto subito dopo aver disegnato la firma, e si può cambiare nelle Impostazioni, alla voce “Sicurezza”. Se dimentichi la password, la protezione si può rimuovere, e i progressi non vengono toccati
+- La schermata di blocco ha una torcia e una fotocamera. Lo sblocco è accompagnato da un suono e da una leggera vibrazione; un codice sbagliato fa sobbalzare il telefono
+- Le notifiche sulla schermata di blocco funzionano come su iPhone: il nome del contatto, il suo messaggio e l’ora. Le notifiche di una stessa app si accumulano; toccando la pila si espande. Toccando una notifica si apre la chat giusta
+- Le app si aprono dalla loro icona, e il pulsante “Home” le riduce di nuovo dentro di essa. Un’app ridotta aspetta dove l’avevi lasciata: una chat aperta, un feed scorso, un testo digitato
+- Il terzo pulsante in basso è quello delle schede: le app aperte come carte. Toccando una carta ci torni; scorrendola verso l’alto la chiudi; “Chiudi tutto” chiude tutto in una volta. Fino a otto app restano attive in background
+- “Indietro” nella prima schermata di un’app la riduce nella schermata iniziale. Il pulsante “Indietro” si può mettere a sinistra — nelle Impostazioni, “Pulsante indietro”
+- Un messaggio dalla notifica si apre in “Chat”, e dopo un affare all’incontro si apre subito il “Garage”
+- Un’app ridotta non lavora per te: una chat in background non segna i messaggi come letti, e i mini-giochi sono in pausa. Anche un incontro non può essere “tenuto” in background — se lo riduci, il venditore di nuovo aspetta secondo l’orologio
+
+
+TEMPO E NOTIFICHE
+
+- Il tempo nel gioco scorre anche quando è chiuso: chiudilo per sei ore — nel gioco passano sei ore. Tutto ciò che è accaduto in quel tempo aspetta sulla schermata di blocco
+- Gli incontri mancati mentre il gioco era chiuso saltano come al solito. Se questa modalità non ti piace, si può disattivare nelle Impostazioni: “Il tempo scorre quando il gioco è chiuso”
+- Non puoi far avanzare il tempo cambiando l’orologio del telefono: il tempo viene verificato con internet. Senza internet si contano non più di dodici ore
+- Un gioco ridotto non “accelera” più il tempo: prima in background andava alla velocità di gioco, quindi dieci minuti in un’altra app diventavano dieci ore di gioco. Ora il tempo in background scorre come nella vita reale, e se sei stato via per più di cinque minuti, il telefono ti accoglie con la schermata di blocco
+- Notifiche reali del telefono mentre il gioco è chiuso: risposte di venditori e acquirenti, promemoria di un incontro un’ora e 15 minuti prima, pagamenti di prestiti e microprestiti, una prenotazione scaduta, inquilini che entrano e escono. Una notifica arriva esattamente quando accade nel gioco, e mostra solo ciò che accadrà davvero nel gioco. Le notifiche di una stessa chat sono raggruppate
+- Queste notifiche funzionano solo se “Il tempo scorre quando il gioco è chiuso” è attivo. Un interruttore separato — “Notifiche a gioco chiuso” — è nelle Impostazioni. Il gioco chiede il permesso per le notifiche una sola volta, al primo sblocco
+- Le notifiche di gioco somigliano a quelle di un vero telefono: l’icona e il nome dell’app, il nome del contatto e il testo. Una notifica si può far scorrere verso l’alto o di lato
+
+
+P-BANK
+
+- P-Bank completamente rifatta: una carta con il saldo in alto (gli importi si possono nascondere con l’icona dell’occhio), quanto è entrato e uscito nella settimana, dove vanno i soldi, e lo storico delle transazioni giorno per giorno
+- Ricerca tra le transazioni: trova qualsiasi pagamento, acquisto o trasferimento
+- I prestiti di PlameFinance si aprono direttamente dalla banca, e in “Depositi” puoi vedere per quali auto è stata pagata una caparra
+- Per entrare in banca si usa un codice a quattro cifre personale, che inventi la prima volta che la apri. La banca chiede il codice quando viene aperta dalla schermata iniziale, dopo che il telefono è stato bloccato, e se è rimasta in background per più di un minuto. Se hai dimenticato il codice, puoi inventarne uno nuovo; i soldi restano dove sono
+- Puoi evitare la richiesta del codice: tocca l’avatar nell’intestazione della banca — ci sono le impostazioni e un interruttore “Chiedi il codice all’ingresso”
+- La carta si può ricolorare: toccala. Sei colori sono gratuiti, e le carte nera e oro si emettono per 50.000 e 250.000 ₽ e danno il 1% e il 2% di cashback su strade, carburante, parcheggio, stazioni di servizio, autolavaggi, carro attrezzi e autoselezionatore. Il cashback arriva una volta a settimana in un’unica somma
+- Parenti e amici a volte aiutano: una volta ogni un paio di settimane mamma, nonna, papà o un amico mandano mille o duemila “per il cibo” o “per le spese”. Arrivano due notifiche — l’accredito in banca e un messaggio dal mittente
+
+
+ANNUNCI E CITTÀ
+
+- Il database degli annunci è stato aggiornato: 250 auto invece delle precedenti duecento e passa — auto nuove, nuove foto e descrizioni, nomi, prezzi, anni di produzione, visualizzazioni e recensioni dei venditori corretti
+- Un’auto si può mettere in vendita direttamente dalla sua scheda nel Garage — con il pulsante “Metti in vendita”
+- Il prezzo di un annuncio non è più alto di tre valutazioni dell’auto: gli acquirenti comunque non scrivono a quei prezzi, e una “Žiguli” da un miliardo confondeva solo la gente
+- I nuovi annunci compaiono sul mercato gradualmente, nell’arco di un paio di mesi di gioco
+- Sette nuove città: Možajsk, Votkinsk, Seversk, Severobajkalsk, Severouralsk, Severomorsk e Severo-Kurilsk — ora sono 189 in totale
+- La ricerca auto riconosce lettere cirilliche e latine mescolate, così come gli errori più comuni nei nomi delle marche
+
+
+TRATTATIVA
+
+- I venditori ora hanno un carattere. Alcuni si impuntano e cedono solo un poco alla volta, altri sono disponibili, alcuni hanno urgente bisogno di soldi e altri conoscono il mercato e tengono il prezzo di mercato piuttosto che il prezzo dell’annuncio
+- Quanto un venditore è disposto a concedere ora è individuale per ciascuno — non c’è un unico limite per tutti. Il carattere non è dichiarato apertamente, ma lo puoi intuire dal primo messaggio e da come tratta
+- Gli acquirenti scrivono in modi diversi: “Pronto a comprare la tua auto per…”, “Non hai ancora venduto l’auto? La compro per…”, “Scambiamo chiave per chiave, senza sovrapprezzi” — invece della stessa frase per tutti. La cifra nel messaggio di un acquirente ha il separatore delle migliaia: 650.000 ₽, non 650000 ₽
+- Nella chat con un acquirente i pulsanti “Rifiuta”, “Tratta” e “Accetta” sono disposti in griglia, come all’acquisto — non si scorrono più di lato
+- L’intestazione della chat con un acquirente mostra il prezzo del tuo annuncio, non il prezzo base dell’auto
+- L’auto che offri al venditore in scambio viene da lui valutata tenendo conto dei suoi guasti — come fanno gli acquirenti. Un’auto messa in vendita non può essere offerta in uno scambio: prima ritira l’annuncio
+- Puoi scambiare più auto insieme — fino a quattro, con un sovrapprezzo in entrambe le direzioni. Ma al venditore non va di occuparsi di più auto: con ogni auto oltre la prima la sua probabilità di accettare è inferiore del 30%, anche se l’offerta copre tutto il prezzo. Se rifiuta, offri un altro insieme di auto o più denaro
+
+
+CAPARRA
+
+- Concordi un prezzo — il venditore a volte chiede una caparra in anticipo. Non sempre — circa in un affare su cinque
+- Prima viene la richiesta di caparra, e solo dopo la proposta di fissare un incontro. Se il venditore ha chiesto una caparra, è obbligatoria: finché non la trasferisci, non puoi fissare un incontro
+- Il venditore invia nella chat una somma e un pulsante, e il trasferimento vero e proprio passa per P-Bank: una finestra separata con il destinatario e la somma, confermata con il codice della banca
+- Mentre la caparra è versata, l’auto ti è riservata per un giorno o due e viene tolta dalla vendita. All’acquisto l’intera somma va in conto all’affare
+- Se la prenotazione non viene riscattata prima della scadenza, la caparra si brucia e l’incontro fissato viene annullato: il venditore rimette l’auto in vendita, e per un nuovo incontro la caparra va trasferita di nuovo
+- Una caparra dimezza la probabilità che il venditore rifiuti di venire nella tua città, e annulla un rifiuto già ricevuto
+- Non ogni venditore è onesto. Una persona con una valutazione bassa ha un rischio sensibilmente più alto di prendere i soldi, cancellare l’annuncio e bloccare la chat. La valutazione è mostrata sia nell’annuncio sia nella finestra del trasferimento — controlla a chi stai pagando
+
+
+INCONTRI
+
+- Il venditore non deve più venire da te attraverso tutto il paese. Se fissi un incontro non nella città dove si trova l’auto, lui può rifiutarsi: “Non vengo, vieni tu”
+- Più strada deve percorrere, più alta è la probabilità del rifiuto. Nella sua città il venditore non rifiuta mai
+- Il rifiuto è definitivo: non puoi convincere il venditore con le parole — dovresti andarci tu, oppure versare una caparra; dopo di essa accetta molto più volentieri
+- Un venditore di un’altra città ha bisogno di tempo per arrivare. Se fissi l’incontro prima che possa arrivarci, scriverà “Non ce la faccio per quell’ora” e sposterà lui l’incontro all’ora più vicina che può raggiungere una volta arrivato
+
+
+RECENSIONI
+
+- Dopo gli affari si lasciano recensioni. Il venditore, l’acquirente o il partner dello scambio scrive un paio di righe e dà una valutazione — come su una bacheca di annunci
+- Una recensione non arriva subito, ma alcune ore dopo l’affare, e non tutti la scrivono: le persone soddisfatte sono più pigre di quelle insoddisfatte
+- Anche un incontro mancato e il rifiuto di un affare sul posto non passano inosservati. Ma se non ti sei presentato e poi hai concluso comunque un affare con la stessa persona, la recensione negativa per la mancata presenza non arriva
+- Nel profilo, accanto alle stelle, c’è un contatore delle recensioni; toccalo per aprire l’elenco delle ultime
+
+
+PLAMEFINANCE
+
+- PlameFinance con un nuovo design: in alto una carta con il debito totale, la prossima rata e il livello di fiducia; le tariffe come riquadri; e la domanda di prestito come un comodo foglio con la durata in mesi
+- Il pulsante “Effettua un pagamento”: puoi saldare la prossima rata settimanale prima della scadenza senza rimborsare l’intero prestito. Un pagamento anticipato toglie lo stato di scoperto come un normale addebito, e ti assicura contro il giorno in cui il conto va in rosso
+- L’ultima rata non viene più arrotondata per eccesso: per il debito residuo la banca prende esattamente il resto
+- Microprestiti: da 5 a 50 mila per 3, 7 o 14 giorni, senza verifica della storia creditizia
+- Gli interessi di un microprestito maturano ogni giorno: restituisci prima — paghi di meno. Alla scadenza la banca detrae da sola il debito se sul conto ci sono abbastanza soldi
+- Un microprestito scaduto danneggia la tua reputazione e comporta penali, quindi questa è la tua ultima possibilità, non denaro gratis
+
+
+IMMOBILI E AFFITTI
+
+- L’app “Agente immobiliare” è diventata “MestoBuy”: oltre ai garage, nella città in cui ti trovi ora sono in vendita appartamenti e case
+- Un appartamento aggiunge un posto auto nel cortile; una casa — un proprio terreno per due-quattro auto. Sul terreno e in garage le auto sono al sicuro
+- Gli immobili si possono affittare a giornata, a settimana o a mese. I soldi arrivano alla fine del contratto; un inquilino non si trova subito, e il contratto stesso può essere prolungato o risolto in anticipo
+- Fai smettere di lavorare per te gli immobili: mentre ci vivono inquilini, non danno posti auto e non proteggono il cortile
+- Dopo un contratto l’alloggio può guastarsi, e più il contratto è lungo, più alto è il rischio. Hai tre giorni per riparare un guasto grave, altrimenti gli inquilini pagheranno di meno
+- Le auto nel cortile rischiano di finire nelle mani dei vandali. Il tuo appartamento costoso in città riduce sensibilmente questo rischio
+- In una città dove hai un alloggio gratuito, il sonno è gratuito e senza rischio di furto. Tuttavia un appartamento economico isola peggio dai rumori e ti sveglia prima della sveglia
+- Gli immobili vanno come garanzia e alzano il livello di credito disponibile
+- Se non c’è modo di pagare un prestito, arrivano gli ufficiali giudiziari a turno: prima i soldi, poi l’auto, e solo dopo l’alloggio
+- Tutti i giocatori ricevono un appartamento iniziale nella loro città di origine — non può essere affittato, e non viene preso per i debiti
+
+
+CASINÒ AVTOBUYCASE
+
+- Nel browser integrato è comparso il sito AvtoBuyCase: case, battaglie, upgrade, roulette, slot, blackjack e mine. Il segnalibro è nella pagina iniziale del browser
+- Case da 500 ₽ a 250.000 ₽: soldi, oggetti e auto vere. Il rullo gira e si ferma sulla vincita, e ogni premio ha il colore della propria rarità — dalla merce economica all’oro. Le probabilità sono mostrate per ogni premio
+- I case si possono aprire uno, due, tre o persino cinque alla volta — i rulli girano insieme e scattano su ogni premio, e una caduta rara viene accolta con fuochi d’artificio
+- Un’auto vinta arriva subito nel garage della città in cui ti trovi ora; un oggetto va nell’inventario. La vincita si può vendere al sito sul posto per il 75% del suo valore; dopo più case — con un solo pulsante
+- Le auto dei case hanno un insieme proprio: non si vendono sul mercato, e i bot non le offrono negli scambi — un’auto del genere si può ottenere solo da un case. Le auto con cui hai una corrispondenza, un incontro o una prenotazione non cadono dai case
+- Se mentre guardi un case i suoi premi cambiano (per esempio è arrivata una nuova auto nell’insieme), il sito ti avverte e non addebita — viene estratto esattamente ciò che è mostrato
+- Battaglie: apri gli stessi case contro uno o due avversari; chi ha il premio più costoso prende tutto. Nella modalità “Vince il più basso” vince la somma più piccola. Somme uguali — pareggio, e il banco viene diviso in parti uguali
+- Upgrade: moltiplica la tua puntata da ×1,5 a ×20. La probabilità è onesta: ×2 — esattamente il 50%, ×10 — il 10%. Il sito prende una commissione del 12% sopra la puntata; è mostrata sul pulsante
+- Roulette: rosso e nero ×1,9, verde ×13. Slot: tre uguali — vincita; una coppia paga ×1,3
+- “21” — blackjack con le regole classiche: carta, stai, raddoppia, dividi una coppia. Il blackjack paga 3:2; il banco pesca fino a 17
+- Mine: un campo 5×5; scegli da 1 a 24 mine e apri le celle. Ogni cella vuota aumenta il moltiplicatore; puoi incassare la vincita in qualsiasi momento; su una mina la puntata brucia. Più mine ci sono, più velocemente cresce il moltiplicatore
+- La scheda “Profilo” — come sui veri siti di case: nickname e ID, miglior premio, quanto è stato venduto al sito, upgrade, case, battaglie e mani di blackjack. In alto — un feed dal vivo degli ultimi premi, con il tuo evidenziato
+- Il casinò alla lunga è sempre in vantaggio: in media torna l’85–90% di quanto viene puntato. Non ci si arricchisce — è intrattenimento, non un reddito
+- Cinque obiettivi per il casinò
+
+
+DRIVE ACE
+
+- Un nuovo mini-gioco Drive Ace nella prima pagina della schermata iniziale, tra PlameBlocks e “Orologio”. Guida l’auto del cliente lungo l’autostrada ed evita il traffico — premi a sinistra o a destra, scorri, oppure usa i tasti freccia della tastiera
+- Mentre sei al volante, il tempo di gioco scorre tre volte più veloce — comodo per aspettare un incontro o una risposta. Ogni chilometro paga 60 ₽. Si parte a 110 km/h, si accelera fino a 260, con il traffico sempre più fitto
+- Nitro: il pulsante in fondo allo schermo (o la freccia in su). Un paio di secondi di velocità ancora maggiore; le cariche sono all’inizio e le bombole si trovano direttamente sulla strada
+- Le monete sono sospese sulla strada — raccoglile passandoci sopra. Monete, chilometri e manovre portano punti Drive Ace
+- Il traffico è vario: i vicini accendono le frecce e cambiano corsia, i lavori stradali con la freccia chiudono una corsia, e alla polizia stradale non piacciono i sorpassi ravvicinati — una multa di 300 ₽ viene detratta dai guadagni della corsa
+- “Passaggio ravvicinato!” — quando eviti all’ultimo momento un’auto nella tua corsia
+- Garage: con i punti Drive Ace migliori il motore, la tenuta di strada e il nitro, e compri nuove auto — la Hatch GTI, la Coupé RS e la Supercar, ognuna con i propri bonus — e otto colori di vernice
+- Missioni: tre compiti alla volta — percorri tot chilometri, sorpassa, raccogli monete, usa il nitro. Per i compiti completati ottieni punti e denaro; un pulsante “Ritira” all’inizio
+- La strada è equa: tra il traffico c’è sempre un percorso con spazio per cambiare corsia — anche quando ci sono camion, autobus e vicini che cambiano corsia
+- Vista dal posto di guida: montagne e foresta all’orizzonte, curve, guardrail, betulle e abeti, lampioni sopra la strada, cippi chilometrici e cartelli delle città. Sulla strada: auto, crossover, furgoni, camion e autobus
+- Giorno e notte secondo l’orologio di gioco: di notte i fari illuminano l’asfalto, sotto i lampioni ci sono pozze di luce, le luci di stop del traffico brillano e le auto della polizia lampeggiano
+- Tachimetro, conto alla rovescia prima della partenza, scintille e scosse in un incidente, e il risultato della corsa con punti e record
+- Se hai un incidente, puoi continuare la corsa guardando una pubblicità — una volta per corsa. Se esci di strada nel mezzo di una corsa, la distanza percorsa viene comunque pagata
+
+
+PLAMEBLOCKS
+
+- Mentre trascini un pezzo, la scacchiera evidenzia dove atterrerà e quali linee completerà. L’evidenziazione rossa significa che il pezzo non ci entra
+- Se perdi, puoi continuare la partita guardando una pubblicità — una volta per partita: la scacchiera viene svuotata, e i punti restano
+- La classifica ora ha un posto per giocatore — con il suo risultato migliore. Prima alcuni giocatori riempivano tutte le cento posizioni con i propri tentativi; ora ogni giocatore può entrare nella top 100
+
+
+LAVAGGIO
+
+- Un’auto si può lavare direttamente dal garage. Un’auto pulita si vende per un po’ di più per diversi giorni — conviene lavarla prima di metterla in vendita
+
+
+TRAGUARDI
+
+- Ci sono diciotto traguardi invece di sei. Prima le ricompense erano solo in denaro; ora ci sono ricompense per l’alloggio, per uno scambio senza sovrapprezzo, per il gradino più alto della scala del credito e per il casinò
+- “Occhio d’aquila” va a chi ha trovato un difetto nascosto da sé, senza il selezionatore automatico
+- Ce ne sono anche alcuni di cui non ti vanterai: per una reputazione scesa a una stella
+- I nuovi traguardi contano ciò che hai già fatto: una casa che hai comprato o una tariffa che hai aperto contano subito
+
+
+NUOVE APP
+
+- Nella seconda pagina della schermata iniziale è apparsa la Calcolatrice — per calcolare i margini senza uscire dal gioco
+- C’è anche l’app “Targhe” (beta): presto potrai comprarci belle targhe e rivenderle. Per saperne di più e sapere per primo degli altri aggiornamenti, segui il nostro canale Telegram AvtoBuy_game
+- Un’altra app beta — “Personalità”: presto qui compariranno il tuo passaporto, la patente e gli altri documenti come concessionario
+- Un’app “Supporto”: un codice QR e un link per chi vuole contribuire allo sviluppo del gioco. Non ci sono bonus nel gioco per questo, e non ci saranno mai
+- Quando compare qualcosa di nuovo nella seconda pagina, la schermata iniziale ci sbircia per un secondo, arriva una notifica e sopra il pallino della pagina resta un segno rosso finché non ci guardi
+- I pallini delle pagine in fondo alla schermata iniziale si toccano, e nel browser le pagine si scorrono con il mouse
+
+
+IMPOSTAZIONI E ASPETTO
+
+- Il tema scuro è completato: prima la modalità notturna cambiava solo alcune schermate; ora funziona in tutta l’app, compresi il browser e AvtoHistory
+- Nuove icone delle app
+- Sei sfondi integrati. Puoi ancora impostare una tua immagine dalla galleria, e resta anche il gradiente standard
+- Gli sfondi si possono impostare separatamente: dopo aver scelto un’immagine, il gioco chiede dove — sulla schermata di blocco, sulla schermata iniziale o ovunque. Finché non ne scegli di separati, la schermata di blocco ripete la schermata iniziale
+- Ricerca nelle Impostazioni: “password” trova “Sicurezza”, “wifi” trova il Wi‑Fi
+- Wi‑Fi nelle Impostazioni: si può spegnere e puoi vedere le reti vicine. Solo per mostrare — non influisce sul gioco
+
+
+AUDIO
+
+- È comparsa la musica di sottofondo nel gioco. I brani si susseguono con pause tra l’uno e l’altro e aumentano gradualmente di volume
+- La musica si può accendere, spegnere e abbassare nelle Impostazioni. Di default suona piano
+- La colonna sonora è di Cukat14, e il brano “nightmare chase” è di vicedee. Entrambi sono indicati nella sezione “Autori e supporto”
+- Sono comparsi dei suoni: notifiche, messaggi in chat, rulli del casinò, sblocco del telefono
+- Pulsanti, icone e schede fanno un clic leggero quando li premi — piano, per non risultare fastidioso. Gli scorrimenti e i pulsanti inattivi sono silenziosi; si può disattivare con l’interruttore “Effetti sonori”
+- Gli interruttori “Effetti sonori” e “Suono delle notifiche” nelle Impostazioni ora funzionano. Il secondo spegne solo il suono — le notifiche restano
+
+
+SALVATAGGI
+
+- I progressi sul sito non devono più andare persi. Il gioco chiede al browser di non cancellare i suoi dati, salva nel momento in cui la scheda viene chiusa e conserva una copia di backup in una memoria separata del browser. Se il salvataggio principale va perso o si danneggia, il gioco ripristina da solo la copia al lancio e te lo comunica
+- Sul telefono il backup è conservato come file separato, e anch’esso viene ripristinato automaticamente
+- Il salvataggio è diventato più leggero: più modifiche consecutive vengono scritte in una volta sola, così il gioco scatta meno quando succede molto contemporaneamente
+
+
+PRIVACY
+
+- Al primo avvio devi confermare di avere 13 anni o più, e accettare l’informativa sulla privacy — un link al suo testo è proprio accanto alla casella. Chi gioca già vedrà questa finestra una volta
+
+
+CORRETTO
+
+- Un acquirente non dice più “il mio limite è 0 ₽” e non blocca la chat per aver chiesto di prendere un’auto per un paio di rubli: le piccole somme nella trattativa non si arrotondano più a zero
+- Un annuncio non può essere messo in vendita a meno di 1.000 ₽. Se il prezzo è molto più basso del valore dell’auto, il gioco chiede di nuovo — così si individua uno zero in più o in meno
+- Un’auto messa in vendita ben sotto il prezzo di mercato viene presa dagli acquirenti al prezzo dell’annuncio, invece che cercare di abbassarlo ancora della metà
+- La scheda dell’annuncio mostra di nuovo la prima foto — come nel feed. Prima la galleria partiva dalla seconda
+- L’auto iniziale gratuita costa non più di 120.000 ₽, sia al prezzo dell’annuncio sia sul mercato. Prima poteva capitare un’auto che si poteva vendere subito per centinaia di migliaia
+- Il costo di una riparazione è calcolato dal valore di mercato dell’auto, non dal suo prezzo d’annuncio sottostimato
+- Uno scambio non viene più mostrato come una vendita in contanti: il prezzo dell’annuncio non gonfia più il guadagno totale e i traguardi, e lo storico mostra il tipo di affare e il sovrapprezzo reale
+- Le condizioni finali della trattativa restano fino all’incontro; dopo il passaggio da uno scambio al pagamento in contanti, la vecchia offerta di scambio non viene più usata
+- Concludere per una seconda volta lo stesso affare non ti fa più ricevere un’auto, soldi o reputazione
+- Le offerte degli acquirenti e le auto in scambio vengono valutate al valore di mercato; gli affari di acquirenti diversi per la stessa auto non si mescolano più
+- La stessa auto non può più comparire in offerte di scambio di acquirenti diversi nello stesso momento
+- La chat non mostra più che un acquirente esterno ha concluso l’affare da sé: se un’altra persona ha comprato l’auto, viene mostrato lo stato corretto
+- I pulsanti “Firma” e “Compra auto” all’incontro non scivolano più sotto la barra di navigazione di sistema del telefono — anche in uno scambio con sovrapprezzo e oggetto
+- Se sei già all’incontro, non si interrompe più con l’orologio: arrivi alle 17:58 per un incontro alle 17:00 e stai trattando — alle 18:00 l’affare non salta
+- Se ti sei allontanato dall’affare all’incontro, l’incontro si chiude, e un’ora dopo non arriva anche una penale per l’incontro mancato
+- Hai comprato un’auto in uno scambio — l’incontro viene chiuso. Prima restava nel calendario e un’ora dopo contava come mancato: meno reputazione e una brutta recensione. Anche una caparra per un acquisto in scambio va in conto all’affare, invece di andare persa
+- PlameBlocks sul telefono: il pezzo sotto il dito è esattamente della dimensione delle celle della scacchiera, e si posa esattamente dove lo porti. Prima nel browser era più grande della scacchiera e si posava con uno scarto
+- PlameBlocks: i pezzi nel vassoio non si sovrappongono più su uno schermo stretto, i punti per aver posato un pezzo vanno direttamente nel record, e nella schermata “Game over” il tempo non accelera più
+- Dopo aver lasciato la modalità di spostamento, l’icona del calendario non resta più grigia
+- Il distintivo rosso dei nuovi messaggi sull’icona di AvtoBuy non viene più tagliato in alto
+- Il gioco non si blocca più se chiudi la scelta dello sfondo mentre è aperta la galleria
+- Il pulsante “+” per un nuovo annuncio in AvtoBuy non scompare più
+- La schermata “Prenota un’ispezione” scorre completamente: sui telefoni piccoli si può scegliere di nuovo l’orario
+
+
+Сlose-Beta-Test 0.3.3
+
+
+NUOVE APP
+
+- “Browser” con il sito AvtoHistory — verifica di un annuncio per ID. La ricognizione (se c’è un’anomalia o no) è gratuita, ma i dettagli (un divieto di immatricolazione, un VIN alterato) si aprono a pagamento e solo se l’anomalia è confermata. Ciò che trovi può essere presentato al venditore direttamente nella trattativa
+- “Telefono” — chiamate a venditori e acquirenti: le schede “Recenti” e “Tastiera”; ogni annuncio ha il proprio numero (+801...), e una schermata di chiamata come quella vera. Puoi usare una chiamata per chiedere di riprogrammare un incontro o provare a sbloccare una chat — un tentativo al giorno di gioco
+- “Orologio” — sveglie che influiscono sul risveglio dopo il sonno
+- “Fotocamera” — ora propone di condividere il gioco e di seguire @avtobuy_game
+- L’app “VPN” è stata rimossa
+
+
+MERCATO E ANNUNCI
+
+- Un database completamente nuovo: più di 200 annunci con nuove foto, descrizioni e prezzi
+- Molte più città ora — Soči, Togliatti, Magnitogorsk, Naberezhnye Chelny, Nižnij Tagil, e le città della regione di Mosca Chimki, Mytišči e Balašicha, più decine di altre
+- Vecchi annunci non reclamati a volte scompaiono da soli, ma possono ricomparire col tempo. Se su un annuncio c’è già una chat in corso, non scompare
+- La propria inserzione ora si può modificare — da “Nuovo annuncio” e dal Profilo. La finestra dell’annuncio stesso è stata rifatta: la foto dell’auto, il prezzo di mercato e il prezzo di vendita, e il sovrapprezzo con un cursore
+- È stato rimosso il limite massimo del prezzo nella creazione di un annuncio
+- Le foto si possono sfogliare senza aprire l’annuncio
+- Filtri e ordinamento sono stati rifatti
+
+
+TRATTATIVA, CHAT E INCONTRI
+
+- Scambio: quando acquisti l’auto di qualcun altro, puoi offrire la tua auto più un sovrapprezzo.
+- Tutte le finestre di trattativa sono state spostate in fondo allo schermo e sono diventate uguali: un passo di ±5.000 ₽ con i pulsanti, le migliaia separate da uno spazio, e un suggerimento su se l’offerta è sufficiente
+- Aggiunta la trattativa sul cofano
+- I bot non rispondono più all’istante: c’è una pausa con l’indicatore “sta scrivendo...”
+- Puoi cambiare la data e il luogo di un incontro fissato, ma non più di 2 volte: dopodiché l’altra parte perde la pazienza e l’affare viene annullato
+- Quando fissi un incontro per un acquisto, ora puoi scegliere anche la città
+- I campi di inserimento dei prezzi ora mostrano il separatore delle migliaia: 600 000 invece di 600000
+- Nella finestra dell’incontro con l’acquirente è stata aggiunta la foto dell’auto
+- L’app “Chat” sul desktop ora apre subito la scheda “Messaggi”
+- Aggiunta una meccanica di chiamata telefonica per sbloccare una chat o cambiare un incontro
+
+DENARO, PRESTITI E LOGISTICA
+
+- Puoi avere più prestiti contemporaneamente; il limite dipende dal tuo rating di credito
+- Non puoi più prendere un prestito, restituirlo e subito prenderne uno nuovo: la pausa dopo ogni chiusura cresce — 1 giorno, 2, 4, 8, al massimo 16
+- Gli esattori non vengono più se sul conto ci sono abbastanza soldi per la rata successiva
+- Aggiunto il sonno diurno. In un’altra città puoi pagare per il pernottamento oppure rischiare di dormire gratis, con la possibilità di un furto
+- Le auto si possono spostare tra i posti parcheggio: la scheda “Posti auto” nel “Garage”
+- Meccanica del carro attrezzi rifatta
+
+
+ASPETTO
+
+- Schermata iniziale rifatta: ora puoi impostare i tuoi sfondi, riordinare le icone e scorrere tra le schermate
+- Cambiata l’interfaccia della chat
+- Aggiunte icone al Blocco note e alle Impostazioni
+
+
+PRIVACY E ALTRO
+
+- Aggiunta la raccolta anonima delle statistiche d’uso: solo quante persone giocano e per quanto tempo. Si può disattivare nelle Impostazioni
+- Modificata la schermata iniziale dopo la scelta della città
+
+
+CORRETTO
+
+- Scambio: all’incontro veniva usato il sovrapprezzo della prima offerta del bot invece di quello concordato nella trattativa; l’affare andava in porto anche quando non c’erano abbastanza soldi per il sovrapprezzo; il gioco poteva bloccarsi se il database delle auto non aveva finito di caricarsi
+- Incontri: se più acquirenti scrivevano per la stessa auto, poteva essere inserito il prezzo dell’acquirente sbagliato; annullare un incontro ne faceva cadere un altro; quando un’auto veniva tolta dalla vendita, i suoi incontri e le risposte in attesa non venivano annullati
+- Chat: svuotare una chat rimuoveva il blocco; l’altra parte rispondeva a ogni messaggio inviato di seguito invece che all’ultimo; i pulsanti di trattativa si potevano premere di nuovo senza attendere la risposta; il banner “Chat bloccata” non si estendeva per tutta la larghezza
+- Prezzi: lo sconto da un oggetto veniva calcolato dal prezzo iniziale invece che da quello attuale; alla prima pubblicazione il prezzo poteva essere inserito come zero; il sovrapprezzo del bot a volte appariva strano (0 ₽ e simili)
+- Parcheggio: durante un viaggio con la propria auto, il parcheggio veniva addebitato nella città di destinazione; quando il tempo veniva saltato con il carro attrezzi, la tariffa veniva addebitata prima che l’auto arrivasse
+- Schermate: c’era uno spazio vuoto extra in alto nelle finestre dell’incontro (sia per gli acquisti sia per le vendite) e nel “Browser”; la barra dell’indirizzo del browser era troppo stretta; nell’“Orologio” non venivano mostrate le icone delle schede; nella “Fotocamera” due barre di stato venivano disegnate una dopo l’altra; le note di versione nel blocco note sfarfallavano e azzeravano lo scorrimento
+- Calendario: dopo la rivendita di un’auto, questa poteva essere venduta per errore di nuovo al suo proprietario precedente
+- Prestiti: gli esattori venivano per una sola vecchia rata scaduta, anche se da molto tempo pagavi regolarmente
+- Vendite di auto e oggetti, blocchi delle chat, trattativa sul cofano: corretti bug di vecchia data
+- Nel blocco note, nella sezione “Autori e supporto”, la formulazione sullo sponsor è stata sostituita con “donato”
+
+e molto altro...
+
+Сlose-Beta-Test 0.3.2.1 Bugfix
+
+- 50 annunci aggiunti alla tua città natale
+- Meccanica della firma rielaborata. Ora la soglia di somiglianza è del 36%, viene mostrato un modello e non è possibile disegnare fuori dal campo
+- Risolti i bug nell'app "Agente immobiliare". Il testo "saldo insufficiente" ora appare prima della firma. Risolto un bug che rendeva impossibile acquistare un garage.
+- Il sussidio ora paga da 50 a 322 rubli
+- Barra di ricerca aggiunta all'app "Trasporti"
+- Risolti bug nelle trattative
+- Nuova app aggiunta: "PlameBlocks" per saltare un po' di tempo e guadagnare un po' di soldi
+
+
+
+
+Сlose-Beta-Test 0.3.2
+
+- Risolto un bug per cui la scelta di una città in AvtoBuy spostava il giocatore stesso
+- Aggiunti gli obiettivi
+- Aggiunta una scritta con la città in cui ti trovi nella finestra di pianificazione dell'incontro
+- Aggiunta la barra di ricerca nella schermata iniziale di selezione della città
+- Modifiche minori all'interfaccia del profilo
+- BETA|Meccanica delle auto danneggiate completamente rielaborata. Ora l'auto ha i suoi difetti (corrispondenti all'annuncio). Possono essere riparati in garage per una certa somma. Sono stati aggiunti anche difetti nascosti non indicati nell'annuncio (puoi trovarli tu stesso al momento dell'acquisto con una piccola probabilità; la probabilità è maggiore con un perito auto)
+- Meccanica di trattativa per l'acquisto dell'auto completamente rielaborata
+- Ora se abbandoni una trattativa viene tolta 1 stella dal profilo e la chat viene bloccata
+- Gli annunci ora appaiono gradualmente nel tempo anziché tutti insieme
+- Il badge "Nuovo" ora rimane per 2 giorni di gioco
+- Icona dell'app "Sonno" modificata
+- Nuove funzioni aggiunte all'app "P-Bank"
+- Nuova app "PlameFinance" aggiunta, dove puoi ricevere denaro e richiedere prestiti
+- Nuova sezione nell'app "Blocco note": Autori e supporto
+- Meccanica della firma aggiunta. Ora al primo avvio (o dopo un ripristino dei progressi) devi creare una firma, che verrà utilizzata nei successivi accordi
+- Aggiunto il valore di mercato a ogni auto. Viene mostrato negli annunci e quando metti un'auto in vendita. ANCHE I BOT HANNO UNA MAGGIORE PROBABILITÀ DI CONOSCERE IL VALORE DI MERCATO
+- Aggiunte immagini per gli oggetti
+- TEMPORANEAMENTE RIMOSSA LA POSSIBILITÀ DI TRATTARE CON L'IA; ora la comunicazione con il venditore avviene tramite pulsanti
+- Aggiunta la possibilità di offrire oggetti durante i messaggi con il venditore
+- Risolto un bug con un messaggio di sistema vuoto
+- Le chat ora sono suddivise in in entrata e in uscita
+- Interfaccia della chat modificata
+- BETA|Aggiunta la base per il tema scuro (non funziona affatto)
+
+Сlose-Beta-Test 0.3.1 
+
+- Aggiunto un nuovo annuncio
+- Le chat ora possono essere fissate in alto (scorri la chat verso destra)
+- Logica dei bot rielaborata. Ora se la rete neurale propone un prezzo pari o superiore al valore dell'auto, il bot accetta l'accordo
+- Il gioco è ora disponibile su altri dispositivi sotto forma di sito web: AvtoBuy.space
+- Acquisto dai bot rielaborato. Ora devi proporre un prezzo ragionevole
+
+
+Сlose-Beta-Test 0.3.0 
+
+- Schermata "Close Beta Test" aggiunta al primo avvio
+- App "Blocco note" aggiunta, dove puoi visualizzare le note di rilascio e i suggerimenti
+- Pulsanti per sviluppatori spostati da "P-Bank" a "Impostazioni"
+- Al primo avvio ora ricevi da 40 000 a 120 000 rubli come denaro iniziale e un'auto di partenza
+- Meccanica di trattativa rielaborata
+- Stile delle icone delle app nella schermata principale modificato
+- Nome dell'app modificato
+- Avatar dell'app aggiunto
+
+
+Alpha 0.2.1
+
+- Aggiunti altri 150 annunci (ora in totale 200)
+- Numero di nomi femminili ridotto
+- Risolto un bug che consentiva a un acquirente di scrivere più volte di seguito
+- Icone TEMPORANEE delle app aggiunte
+- Foto rielaborate, il gioco ora occupa meno spazio
+
+
+Alpha 0.2.0
+
+- Aggiunti nomi per gli acquirenti
+- Risolto un bug per cui un bot poteva contemporaneamente vendere e scambiare la propria auto
+- Comodo pulsante per passare a "Trasporti" aggiunto nell'app "Calendario"
+- Risolto un errore effettivo in cui il bot trattava a proprio svantaggio
+- Le notifiche non lette ora vengono mostrate sull'icona di "AvtoBuy", sull'icona di "Messaggi" e a destra di ciascun messaggio nell'elenco di tutti i messaggi.
+
+
+Pre-alpha 0.1.1
+
+- Colore principale del gioco modificato
+- Esempi di nomi aggiunti alla registrazione
+- Aggiunto un gran numero di città
+- Nuova sezione nell'app "Garage": zaino. Ora vi sono conservati tutti gli oggetti ricevuti negli scambi
+- Vendita della propria auto perfezionata. Aggiunta una fase finale dell'incontro per la vendita
+- Ora quando vendi la tua auto c'è la possibilità che l'acquirente proponga uno scambio con un'auto, denaro e un oggetto unico
+- L'app "AvtoRynok" ora si chiama "AvtoBuy"
+- Visuale degli annunci nella schermata principale di "AvtoBuy" rielaborata
+- Sistema di filtri nella schermata principale di "AvtoBuy" rielaborato, aggiunta la suddivisione per vari parametri
+- La scheda "Chat" in "AvtoBuy" è stata rinominata in "Messaggi"
+- Meccanica di inserimento del nome al primo avvio migliorata
+- Nuova app "VPN" aggiunta
+- Funzione "Cancella chat" aggiunta nella sezione "Messaggi" dell'app "AvtoBuy" in alto a destra
+- Sposta la selezione della città a destra, rispetto al bordo destro dello schermo
+- Risolto un bug per cui l'importo della maggiorazione era di 0 rubli
+- Risolto un bug per cui il bot poteva trattare a proprio sfavore
+- Design delle notifiche modificato
+- Ora la notifica può essere rimossa con uno swipe verso sinistra o destra
+- Logica delle notifiche corretta, causava bug
+- Data e ora attuali aggiunte nella finestra di pianificazione dell'incontro per comodità
+- Widget di navigazione aggiunti nella finestra di pianificazione dell'incontro
+- Barra di stato del telefono e ora aggiunte in alto nella finestra di pianificazione dell'incontro
+- Barra di stato del telefono e ora aggiunte nelle finestre dei filtri, dell'ordinamento e della selezione della città
+- Design degli annunci nella schermata principale di "AvtoBuy" modificato
+- Colore dell'icona "Preferiti" modificato
+- Rete neurale rielaborata
+- Posizione dell'icona di selezione della città nella schermata principale di "AvtoBuy" modificata
+- Meccanica "Urgente" e "Nuovo" aggiunta agli annunci.
+
+
+Pre-alpha 0.1.0
+
+- Risolto un gran numero di errori e bug
+- Modificata la visualizzazione del prezzo; per questo motivo i bot funzionavano in modo non corretto
+- Meccanica Beta di vendita delle auto aggiunta
+- Interfaccia della chat corretta
+- Aggiunta la possibilità di eliminare una chat (scorri la chat verso sinistra)
+- Meccanica di invio dei messaggi rielaborata
+
+
+Prototype 0.0.5.1 (bugfix)
+
+- regola il menu di selezione della città in alto (raggio) / avito screen
+- meccanica del prezzo / chat screen, meeting screen
+- correzione del rilevamento dei difetti / meeting screen
+- banca arancione / bank screen
+- pulsante chiama / verde avito screen
+- ripristina i progressi nelle impostazioni (da P-Bank) / settings screen
+- agente immobiliare - pulsanti verdi / realtor screen
+- avatar delle app / home screen
+- cambio colore dell'auto in blu/arancione / home screen
+- stile uniforme degli avatar / home screen
+
+
+Prototype 0.0.5
+
+- 🚀 Aggiornamento globale: “Logistica, Tempo e Realismo” (Beta)
+- Meccanica geografica aggiunta. Ora devi tenere d'occhio la tua posizione e calcolare meglio i fondi. L'auto ora avrà una propria posizione. Puoi guidarla tu stesso in un'altra città o usare un carro attrezzi.
+- Ora al primo avvio (o dopo un ripristino dei progressi) dovrai scegliere un Nome e una Città iniziale (influirà successivamente sul gameplay)
+- App "Trasporti" aggiunta, analoga a Yandex Go. In questa app puoi scoprire informazioni su dove ti trovi e spostarti tra le città
+- Ora l'auto dovrà essere conservata in Garage, in un cortile gratuito o in un parcheggio a pagamento.
+- App "Agente immobiliare" aggiunta, in cui puoi acquistare garage in diverse città
+- Funzione "Perito auto" aggiunta. Ora all'acquisto di un'auto puoi scegliere se ispezionare l'auto tu stesso o chiamare un perito auto che troverà difetti nascosti.
+
+
+Prototype 0.0.4
+
+- Interfaccia di carta di circolazione (PTS) e Banca perfezionata
+- Risolto un errore nella visualizzazione delle foto delle auto
+
+
+Prototype 0.0.3
+
+- Risolti i bug con il pulsante "Aggiungi annuncio"
+- La funzione di aggiunta annuncio è stata perfezionata
+- Interfaccia dell'app Garage perfezionata
+- Ora dopo l'acquisto di un'auto si viene reindirizzati al garage (prima alla schermata principale)
+- Corretti alcuni bug, perfezionate alcune meccaniche
+- Aggiunte descrizioni per le auto presenti in garage o in vendita
+- Rimosso un gran numero di donne
+- Modificati alcuni pulsanti in AvtoBuy
+- Pulsante "Preferiti" aggiunto nella schermata degli annunci
+- Meccanica di trattativa rielaborata
+- Meccanica di interazione con le auto aggiunta nel profilo
+
+
+
+Prototype 0.0.2
+
+- Pulsanti di navigazione in AvtoBuy modificati
+- Funzione di ricerca aggiunta
+- Garage in fase di perfezionamento.
+- Creata la versione beta della Banca
+- Funzione di acquisto dell'auto perfezionata
+
+
+Prototype 0.0.1
+
+- Aggiunto il Più, garage Beta
+- Aggiunta la rete neurale DeepSeek
+- Corrette le percentuali durante la trattativa e all'incontro
+- Stile dei colori rielaborato
+- Piccola preparazione per la modifica delle icone
+
+
+Prototype 0.0.0
+
+- Versione iniziale

@@ -1,0 +1,41 @@
+👨‍💻 Pengembang Utama:
+gl1st — pencipta
+
+🛠 Pengembang Kedua:
+Вуыр — frontend, bantuan kode yang luar biasa, mewujudkan mekanik-mekanik keren, ikut berdonasi untuk proyek
+
+👨‍🔧 Pengembang Ketiga:
+MaGC0M - tester & fixer, perancang arsitektur dan penstabil kode
+
+🎵 Musik:
+Cukat14 — menulis soundtrack AvtoBuy
+vicedee — lagu «nightmare chase»
+creeper_xx — lagu «PowerCar»
+
+📷 Foto:
+SpaceX — foto «Starman di Tesla Roadster» (2018, domain publik, CC0)
+
+🏆 Terima kasih banyak (Legenda):
+• Winstoy — penguji game (salah satu pendiri ide game ini)
+• forever — menemukan sejuta error, bug, dan melontarkan banyak ide
+• ŁíŞ — menambahkan banyak iklan dan menyumbang segudang ide
+• PLAME — mayor-sialan
+• данил махав - membuat iklan pertama proyek AvtoBuy
+• L1ri - dukungan teknis, bantuan, respect
+• SAZIX - berdonasi untuk proyek
+• Merk62 — membantu desain
+• MLCL — membantu proyek
+• TwisTw — membantu proyek
+• w1nfyy — membantu proyek
+• ArtKill — membantu proyek
+• Skipi_57 — membantu proyek
+• sashaz18 — membantu proyek
+• 2+2=5+2 — membantu proyek
+• редбулл — membantu proyek
+• charon — membantu proyek
+• tist — membantu proyek
+
+🤝 Terima kasih juga (Para broker mobil dan tester terbaik):
+Untuk semua yang aktif merusak game di beta test, melaporkan bug ke bot, mengajak teman demi akses admin, dan membantu membuat ekonomi game jadi lebih baik:
+Pelanggan kanal Telegram:
+t.me/AvtoBuy_game

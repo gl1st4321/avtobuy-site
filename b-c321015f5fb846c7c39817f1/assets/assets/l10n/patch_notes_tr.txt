@@ -1,0 +1,899 @@
+Сlose-Beta-Test 0.3.6 (Actual)
+
+
+YENİ
+
+- CoinBuy artık bir borsa: kripto (BTC, ETH, TON, DOGE) ve otomobil şirketi hisseleri — Tayota, BNW, Mersedes, VAZ Motors, Kyundai, Cherix, Teslor, Fordo. 30 günlük grafikler, %0,1 komisyonla alım-satım. AvtoVesti’nin marka haberleri hisseleri anında oynatır
+- CoinBuy: P-Bank kartından yükleme ve geri çekme — pasaport doğrulamasından sonra (pasaport GosBuy’dan alınır). Yatırmada %1, çekmede %1,5 komisyon, günde 300 000 ₽’ye kadar. Kumarhane ve P2P eskisi gibi çalışıyor
+- Buluşmalar canlandı: satıcı gelir ve ruh hâli görünür — pazarlık ilerledikçe sakin, aceleci, gergin ya da sinirli. Aracı parça parça inceleyebilirsiniz — kaput, tekerlekler, iç mekân, kaporta, alt gövde (bölge başına 5 dakika): kaputun altında değiştirilmiş bir VIN, içeride «düşük» kilometreye rağmen aşınmış bir direksiyon fark edilebilir
+- Buluşmada test sürüşü: direksiyonda 20 dakika — süspansiyon tıkırdıyor, şanzıman vuruyor, motor tekliyor, araç bir yana çekiyor, arıza lambası yanıyor. Bazen satıcı sürmenize izin vermez
+- «Tuning»de iç mekân ve dış görünüş: deri döşeme, multimedya, ses sistemi, iç temizlik, 8 renkten birine boya, pasta cila, seramik kaplama, krom silme. Araç birkaç saat stüdyoda kalır, değeri artar
+- Doc Brown’dan 2035 model DeLorean DMC-12 — ilanlarda arayın. Sahibi haftada bir 88 mph’e çıkabilir: araçla birlikte herhangi bir şehre anında sıçrama. Yeniden satılabilir. Bir de gizli başarım var
+- Tescilde VIN belgelerle uyuşmazsa artık GosBuy’dan inceleme isteyebilirsiniz: 3–7 gün; numara orijinalse (fabrika hatası ya da paslı plaka) araç tescil edilir. Değiştirilmişse — tescilsiz satın ya da satıcıya dava açın
+- Bağlantıyla kapora: sohbetteki bağlantıyı kopyalayıp transfer penceresine yapıştırabilirsiniz
+- Not defteri → emeği geçenler: ŁíŞ sayısız ilan ve fikir için efsaneler arasında
+
+
+DÜZELTİLDİ
+
+- Çok daha az kasma: oyunu kaydetmek onlarca kat hızlandı (önceden oyun her işlemde ve yedekleme yüzünden dakikada bir takılıyordu), ana ekran artık her saniye yeniden çizilmiyor, ilan listesi daha hızlı hesaplanıyor
+- Garajda «Yayınla»: araç ilana konamıyorsa (takside çalışıyor, serviste, ithalattan geliyor) artık nedeni görünüyor — önceden düğme hiçbir şey yapmıyordu
+- «Acil» indirimleri artık tüm listeyi kaplamıyor: eski ilanlarda indirime yalnızca yaklaşık üç satıcıdan biri gidiyor, geri dönen ilan yeni sayılıyor
+- Taksi: diğer araçlar artık birbirinin içinden geçmiyor, kavşaklarda sırayla yol veriyor, mesafe koruyor ve üst üste belirmiyor
+- Satış buluşması: alıcı düşürülmüş kilometreyi fark ettiyse, buluşmadan çıkıp yeniden girmek artık bunu «unutturmuyor»
+- 8002 numaralı ilan: açıklama yeniden yazıldı
+
+
+Сlose-Beta-Test 0.3.5.2
+
+
+YENİ
+
+- CoinBuy — yeni uygulama, bir kripto cüzdan. AvtoBuyCase artık kendi bakiyesine sahip: bahisler buradan düşülür (yetmezse site kartınızdan yükleme yapar), kazançlar burada birikir. Kazançlar yalnızca CoinBuy’a USDT olarak çekilebilir — 1 000 ₽’den itibaren, %2 site komisyonu, 10–40 dakikada gelir. USDT siteye geri de gönderilebilir
+- CoinBuy: USDT’yi P2P ile rubleye satın — her alıcının kendi kuru, limitleri ve puanı var, kur her gün değişir. Banka 300 000 ₽ ve üzeri transferleri 3–7 gün dondurabilir ve bir kısmını göndericiye iade edebilir; o zaman para hiç gelmez. Doğrulanmış alıcılarda bu daha seyrek olur
+- Kapora: satıcı p-bank.ru/zadatok/… gibi bir ödeme bağlantısı gönderir ve onu transfer ekranında yeniden yazmanız gerekir. Tek bir karakter yanlışsa para dolandırıcılara ya da yanlış kişiye gider — ve satıcıya kaporayı yine de ödemeniz gerekir
+- P-Bank’ta mevduat: yıllık %12 birikim hesabı (her gün faiz, istediğiniz zaman çekin) ve 1, 2 veya 4 haftalık %14, %16 ve %18 vadeli mevduat — faiz vade sonunda, erken kapatırsanız faiz yok. Tüm mevduatlarda en fazla 10 milyon ₽. Gecikmiş krediniz varsa icra memurları mevduata da el koyar
+- Kendi evine taşınma: MestoBuy → «Benim» bölümünde memleketinizdeki daire veya evde artık «Buraya taşın» var (nakliyeci daire için 15 000 ₽, ev için 25 000 ₽, 3 saat, haftada bir). Yaşadığınız ev kiraya verilemez ve satılamaz; başlangıç dairesi ise taşındıktan sonra kiraya verilebilir. Ona istediğiniz zaman dönebilirsiniz
+- AvtoBuy sohbetlerinde ve «Mesajlar»da Telegram gibi yanıtlar: bir mesajı sola kaydırın, bir sonraki mesajınız alıntıyla gider; alıntıya dokunarak orijinale gidin. Art arda birkaç mesaj yazarsanız karşı taraf da alıntıyla yanıt verir. Çift tik ✓✓ artık yalnızca sonuncuda değil, yanıt alan tüm mesajlarınızda görünür
+- Araç hırsızlığı: siz şehirde yokken avludaki veya ücretli otoparktaki araç çalınabilir — avluda daha sık, pahalı araçlar da daha sık. Garaj ve ev arsası güvenlidir. Polis 3–10 gün arar ve yaklaşık üçte birini bulur, bazen kaportası hasarlı. Koruma: DetalBuy → «Tuning»de GPS’li alarm (yarı yarıya az çalınır, neredeyse her zaman bulunur), P-Bank’ta kasko (bulunmazsa değerin %80’i ödenir) ve Atölye kameraları
+- Kuzbass: Kemerovo bölgesinden 18 yeni şehir — Prokopyevsk, Mejduréçensk, Leninsk-Kuznetski, Kiselyovsk, Belovo, Yurga, Ancero-Sucensk, Beryozovski, Osinniki, Mıski, Taştagol, Topki, Polısayevo, Guryevsk, Mariinsk, Kaltan, Tayga ve Salair. Oradaki plakalarda bölge kodu 42
+- «Oligark» kasasında bir efsane: direksiyonda Starman olan uçan Tesla Roadster’ı çıkarmak için binde bir şans. Satılamaz ama «Ulaşım»a yeni bir seçenek gelir — Tesla ile uçuş: uçaktan iki kat hızlı ve yakıtsız. Şanslılara gizli bir başarım
+
+
+DÜZELTİLDİ
+
+- Satış ve takas: sözleşme imzalama ekranı “İMZALANDI” damgası sırasında kapatılamaz ve aynı işlemden iki kez para alma açığı engellendi
+- “Mayınlar”: kazancı çekmek artık en az 1.0 çarpanında mümkündür ve ilk mayından kaçma şansı ilk karede devreye girmez (otomatik tıklayıcı açığı giderildi)
+- “Kasa” slotu: otomatik çevirmeler artık kumarhane seviyesi bahis sınırına uyar ve çizgi kazançları her çevirmede bonus oyununu zorla tetiklemez
+- Drive Ace: direksiyon bırakıldığında araç şeridin tam ortasına hizalanır ve ekrana hızlı bir dokunuş temiz bir şerit değişimi gerçekleştirir
+- Tren: şehirlerarası tren yolculuğu sırasında uyurken otel ücretinin hatalı kesilmesi düzeltildi
+- Kapora: buluşma sırasında pazarlık bozulursa kapora alıcıya iade edilir ve 161-FZ uyarınca haksız hesap blokajı önlenir
+- PlameFinance: yeni kredi çekme bekleme süresi artık planlı vadede değil, yalnızca erken kapatma durumunda uygulanır
+- Araç incelemesi: küçük ekranlarda pazarlık butonlarının üst üste binmesi düzeltildi
+
+
+Сlose-Beta-Test 0.3.5.1
+
+
+YENİ
+
+- Aileyle sohbetler canlandı. Sohbette yeni konular: “Neler var neler yok?” — herkesin kendi hayatı ve kendi hikâyeleri var; “Bana akıl ver” — işleriniz hakkında tavsiyeler (ücretli otopark, gecikmiş kredi ödemesi, kayıtsız araba, kumarhane kayıpları); son anlaşmanızla “Övün”; ve “Zor bir gün…” — moral verirler, ayrıca anne, büyükanne veya büyükbaba bazen harçlık sıkıştırır
+- “Ziyarete git” — memlekette, her akraba için haftada bir kez: çay eşliğinde iki saat, ailenizin size güveni artar ve büyükanne yolluk niyetine cebinize biraz para koyabilir
+- Akrabaların doğum günleri var — o gün bir hatırlatıcı gelir ve “Tebrik et” butonu belirir. Tebrik ederseniz güven artar; unutursanız ertesi gün sitem ederler. Ayrıca 8 Mart, 23 Şubat ve Yılbaşı günlerinde de onları tebrik edebilirsiniz
+- Akrabalar da sizi tebrik eder: doğum gününüzde herkes yazar (tarih pasaportunuzdan alınır) ve aile büyükleri para gönderir. Ayrıca Yeni Yıl, 8 Mart veya 23 Şubat’ı da kutlarlar
+- Akrabalar durumunuzu kendileri öğrenip ilk önce yazar: pahalı bir araba aldınız, iyi kazandınız veya eksiye düştünüz, ev aldınız, kumarhanede kazandınız, kredi taksitini kaçırdınız, kartınızı bloke ettirdiniz
+- Akrabaların yanıtları pasaportunuzdaki cinsiyete göre uyarlanır, hitap şekli size tam uyar
+
+
+DÜZELTİLDİ
+
+- Çekici: şehir listesi yerine gri bir kare görünüyordu — liste yeniden yerinde
+- Tuning montajı: çok sayıda kit olduğunda liste kaydırılabilir, “Serviste” / “Kendim” butonları artık ekranın dışına taşmıyor
+- Pazarlık: fiyatı eşyalarla kırdınız (alarm, oto teyp…), anlaşmaya varıldı — ancak buluşma ayarlarken satıcı “Dur, acele ettim… bu benim sınırım” deyip buluşma ayarlatmadı. Artık eşyalar hesaba katılıyor ve her dokunuşta aynı yanıt tekrarlanmıyor
+- Uyku: reklam yüklenemediğinde ekran artık donmuş saatle karanlıkta takılı kalmıyor. Ödüllü videolar da bağlantı olmadan donmuyor
+- İlanda veya buluşma bekleyen bir arabadan plaka sökülemez: alıcı fiyatı buna göre kabul etti, daha önce arabada olmayan havalı bir plaka için para ödüyordu
+- İthalat’tan henüz yolda olan bir araba kendi sürüşünüz için kullanılamaz. Transit, tamirde veya taksideki arabalar da bunun için kullanılamaz
+
+DEĞİŞTİRİLDİ
+
+- Taksi filosu: arabayı vuran veya süspansiyonu kıran şoför masrafın yarısını karşılar ve kazalar üçte bir oranında azaldı — filo artık kendi masrafını çıkarıyor
+- Plakalar: bilinen ve özel numaralar artık daha değerli — 911, 228, 112, 102, 314 ve 1-2-3, tersten bölge kodları (716 bölgesinde 617) ve harflerden oluşan daha fazla kelime. İki aynı rakamın fiyatı arttı
+
+
+Сlose-Beta-Test 0.3.5
+
+
+YENİ
+
+- Satıcı ve alıcı yorumları: bir anlaşmadan veya kaçırılan buluşmadan sonra kişiyi yıldızlarla ve birkaç kelimeyle değerlendirebilirsiniz (Profil → “Anlaşmaları puanla”). Bazen size yanıt verirler
+- AvtoBuyCase: “Döndür” / “Yükselt” / “Kalkış” ve diğer butonlar artık doğrudan oyunun altında, bahis ayarlarının üstünde yer alıyor — aşağı kaydırmaya gerek yok
+- AvtoBuyCase: slotlarda, yükseltmede, rulette ve Küçük Uçak’ta sayfanın altında bir banner
+- AvtoBuyCase: yeni “Bambu” slotu — gizli bambu aynı sembolü açığa çıkarır ve bedava dönüşler sırasında her açılış çarpanı artırır
+- AvtoBuyCase: zorluk kumarhanedeki şansı etkiler — “Kolay”da biraz daha sık kazanırsınız, “Zorlu”da daha seyrek
+- “Klasik”: daha az bedava dönüş (15 / 20 / 25 yerine 10 / 15 / 20), ancak normal kazançlar daha büyük
+- Rulet: kırmızı ve siyah ×1.85 öder (önceden ×1.9)
+- Kazma: maden büyük kazançlar konusunda daha cimri; kırılan blokların arkasında artık bir mağara duvarı var ve turun sonunda kazanç madeni paralarla birlikte ortada büyük görünür
+- Küçük Uçak: yol boyunca birkaç uçak gemisi. Sonuncuyu geçip çok geç inebilir veya yetmeyip düşebilirsiniz
+- Kumarhane arayüzü daha derli toplu: başlık, canlı akış ve sekmeler daha yukarıda, daha az kaydırma
+- Konteynerler: her gün farklı ülkelerden farklı sınıflarda altı konteyner (ekonomi, standart, premium ve elit) gelir (Japon arabaları çoğunlukla Japonya’dan gelir). Konteynerlerdeki eşyalar artık birkaç bin değil, vadedilen ganimete uygun
+- AvtoHistory daha fazlasını bulur: sadece tescil yasağı ve VIN değil, rehinler, düşürülmüş kilometre ve kazalar. Bir bulgu belirttiğinizde satıcı yanıt verir ve duruma göre indirim yapar — yasak için daha çok, kaza için daha az
+- Tuning: on yeni modifiye — turboşarj, süperşarj, nitroz oksit, ksenon farlar, alt neon aydınlatma, spoyler, tamponlar, yan marşpiyeller, zırh (pahalı arabalar için) ve tepe lambaları. Nitro, alt aydınlatma ve tepe lambaları trafik polisinin dikkatini çeker
+- AvtoBuyCase, “Klasik”: bir kazançtan sonra patlayan sembollerin yerine düşen semboller değil, dönen makaralar gelir
+- Düzenleyici: galeriden fotoğraflar (PNG, HEIC, büyük çekimler) artık otomatik olarak sıkıştırılır ve hatasız eklenir
+- Değerlendirme puanında artık 3.8000000000000003 gibi küsurat kuyrukları görünmüyor
+- Tuning tek seferde monte edilir: teslim edilen tüm kitler işaretlenir ve birlikte takılır; ekranda net adımlar görünür: “sipariş et → bekle → tak”
+- “Müzik”: “Karışık” ve “Yalnızca parçalarım” anahtarları
+- MestoBuy: “Benimki” sekmesi her zaman görünür ve vurgulanır
+
+- “Ulaşım” ve “Uçuşlar”da tüm dünya haritası: tüm kıtalar, denizler ve sınırlar; tüm gezegene kadar uzaklaştırılabilir
+- Yurt dışında “Ulaşım” ve “Uçuşlar” gerçekten nerede olduğunuzu gösterir — kalkış şehrini değil, varış şehrini. Yurt dışından doğrudan eve uçabilirsiniz
+- Koyu temada İthalat koyu renklidir
+- Görev ödülleri on kat azaltıldı: çok kolay para kazandırıyorlardı
+- Trafik polisi ruletinde plaka: ilk harf dahil tüm karakterler aynı gölgeye sahip
+- Slotlardaki reklamlar ilk seferde yüklenmezse yeniden yüklenir
+- Şehir seçimi ekranında dil butonu; ana ekran, kilit ekranı, Ayarlar ve zorluk seçimi İngilizceye çevrildi
+- Ayarlar’da dil seçimi. Şimdilik Rusça ve İngilizce hazır (İngilizce çeviri devam ediyor ve bazı metinler hâlâ Rusça); diğer diller çok yakında
+- Uçuşlar: uçak gerçek bir harita üzerinde uçar — denizler, sınırlar, kalkış ve varış şehirleriyle birlikte
+- Yurt dışına uçtuğunuzda oradasınızdır: “Ulaşım”, örneğin Varşova’da olduğunuzu gösterir ve “Uçuşlar” ile dönene kadar Rusya içinde seyahat edemezsiniz
+- P-Bank: “Paranın gittiği yer” kısmında yeni bir “Hafta / Ay” anahtarı
+- AvtoBuyCase, Kazma: tek bir kazma ışınlanmadan vuruştan vuruşa uçar ve turun ardından madenin üzerinde kalır. Madenin üzerindeki gökyüzü artık oyunla uyumlu: güneş, bulutlar ve tepeler
+- MestoBuy ekstra üst başlık olmadan — tıpkı P-Bank’taki gibi
+- Düzenleyici, ana ekranın üçüncü sayfasına taşındı
+- Plakalar! Artık her arabanın bir plakası var — ilan kartındaki fotoğrafta ve garajda görünüyor. Plakalar yeni bir oyunun başında verilir ve bazıları havalıdır: 001, üç yedi, aynı harfler, bölge kodlu numaralar, “EKX” gibi seriler. Güzel bir plakanın fiyatı birkaç binden bir milyona kadar çıkar ve pahalı arabaların alıcıları bunlara ekstra para öder
+- Ana ekranın ikinci sayfasında “Plakalar” uygulaması: güzel plakaların vitrini her gün yenilenir; plakanızı arabadan sökebilir (devlet harcı 2.850 ₽), başka bir arabaya takabilir veya satışa çıkarabilirsiniz — alıcılar teklif gönderir. Orada herhangi bir plakanın değerini de kontrol edebilirsiniz
+- Trafik polisinde plaka “çevir”: her denemede bölgeniz için rastgele bir plaka verilir — beğendiyseniz alın, beğenmediyseniz tekrar çevirin. Güzel plakalar nadiren çıkar
+- Plaka doğrudan Garaj’da, araba kartından sökülebilir veya takılabilir. Plakalar artık gerçekçi görünüyor: kabartmalı karakterler, cıvatalar ve parlama efektine sahip beyaz bir plaka
+- Piyasa uzmanları da plakalardan anlar ve bunları arabanın fiyatına dahil eder. Diğer satıcılar plakalara değer vermez — hazine avına çıkın. Güzel bir plakaya sahip ilan kartında plakanın sınıfı, fiyatı ve alıcıların yeniden satışta bunun için ne kadar fazladan ödeyeceği gösterilir
+- Garaj’da yeni bir “Plakalar” sekmesi: tüm plakalarınız garaj duvarında asılı durur — göz atın ve keyfini çıkarın
+- Daha fazla plaka kombinasyonu: milletvekili serisi “AAM”, iki O içeren “belediye başkanı” serileri (AOO, MOO…), ayna harfler; eski Moskova kodu 77 yenilerden daha değerlidir. Tüm Moskova kodları (799, 997) ve Moskova Bölgesi kodları (250, 550, 790) eklendi
+- Trafik polisi ruleti daha hızlı dönebilir — “Hızlı” anahtarı
+- Yolculuklar artık gerçekçi: bilet aldıktan sonra bir yolculuk ekranı açılır — ne kadar yol var, ne kadar kaldı (bir saatlik yol = bir saniye), duraklat ve “Yolculuğu bitir”. Yoldaki zamanın daha hızlı geçmesi için doğrudan oradan PlameBlocks veya Drive Ace oynayabilirsiniz
+- “Müzik” uygulaması: parçaları değiştirin, duraklatın, kendi müziğinizi ekleyin — telefonunuzdan bir dosya veya bir mp3 bağlantısı. Varsayılan olarak her şey eskisi gibidir: parçalar arasında duraklamalarla oyunun müzikleri (duraklamalar kapatılabilir)
+- Tıpkı iPhone’daki gibi Dynamic Island: yoldayken, yaklaşan bir buluşma olduğunda veya müzik çalarken üstteki siyah kapsül genişler. Üzerine dokunun ve ilgili uygulama açılsın. Ayarlar’dan kapatılabilir
+- PlameFinance’te taşıt kredisi: buluşmada paranız çıkışmazsa eksik tutarı banka satıcıya öder, ancak peşinatınız fiyatın en az %20’si olmalıdır. Faiz oranı normal krediden daha düşüktür ve araba rehinlidir: satabilir veya takas edebilirsiniz ancak kredinin kapatılması gerekir
+- Bir araba satarken alıcıdan kapora isteyebilirsiniz — buluşmada kalanı öder. Ancak kapora alıp dolandırırsanız (gelmezseniz, başkasına satarsanız, ilanı kaldırırsanız), banka kartınızı 161 Sayılı Federal Yasa kapsamında bloke eder: itibarınızdan 3,5 yıldız silinir, cezayı ödeyene ve kaporayı iki katı olarak iade edene kadar araba alamazsınız. Fikrinizi dürüstçe değiştirirseniz kaporayı iade edebilirsiniz
+- Başka bir şehirdeki buluşmaya gitmek istemiyor musunuz? Bir vekil gönderin. Küçük bir ücret karşılığında anlaşmayı sizin yerinize halleder ancak arabayı incelemez ve bazen anlaşma suya düşer
+- GosBuy — yerleşik Tarayıcı’da bir web sitesi (başlangıç sayfasında bir yer imi): araba satış kârından %13 gelir vergisi ve garajdaki arabalar için ayda bir taşıt vergisi. Ödemek için iki haftanız vardır, sonrasında gecikme faizi işlemeye başlar
+- Gerçek hayattaki gibi araç tescili: bir araba satın aldıktan sonra 10 gün içinde GosBuy üzerinden tescil ettirin (pasaportunuz, 850 ₽ harç ve arabanın bulunduğu şehirdeki trafik polisinde muayene gerekir). Tescilsiz olarak alım-satım sözleşmesiyle daha önce de satabilirsiniz. Süreyi kaçırırsanız ceza 1.500 ₽’dir. Muayenede tescil yasağı ve sahte VIN ortaya çıkar. Pasaport bilgilerinizi değiştirirseniz arabalarınızın yeniden tescil edilmesi gerekir
+- Yeni bir şehir — Kırım’da Bahçesaray
+- Slotlarda otomatik oyun ayarlanabilir: bahis, dönüş sayısı (1.000’e kadar) ve ne zaman duracağı — belirli bir tutarın üzerindeki kazançta veya belirli bir tutarın üzerindeki kayıpta. Otomatik oyun sırasında hızlı döndürme de açılabilir
+- Dynamic Island, iPhone’daki gibi bir mini pencereye dönüşür: yolculuk ilerlemesi, buluşma, müzik kontrolleri
+- Ayarlar — “Ana ekranda gezinme butonları”. Varsayılan olarak kapalıdır
+- Yolculuk ekranında “Duraklat” ve “Yolculuğu bitir” butonları yoktur: uçakta ve trende artık kabin planıyla birlikte kendi koltuğunuz vardır
+- Pasaport değiştirmek zorlaştı: doğum tarihi ve cinsiyet değiştirilemez; ad-soyadınız 3.000 ₽ karşılığında ve 60 günde en fazla bir kez değiştirilebilir ve arabalarınız yeniden tescil edilir
+- Paranız varken bile taşıt kredisi çekebilirsiniz: buluşmada “Taşıt kredisiyle satın al” onay kutusu
+- Takvim → “Yola çık”, doğrudan arabanın bulunduğu şehre giden rotayla “Ulaşım”ı açar
+- Satış sohbetindeki “Kapora iste”, buluşmadan önce bile kullanılabilen belirgin bir karttır. Buluşma henüz gerçekleşmemişken sohbette “Vekil gönder” belirdi
+- Trafik polisi: hızlı modda, durmaksızın hangi sınıfa kadar plaka çevrileceğini seçebilirsiniz
+- “Ulaşım” haritası yakınlaştırırken artık kasmıyor; “Neredeyim” ve yakınlaştırma butonları eklendi
+- “Ulaşım” haritası artık ülke sınırlarını gösteriyor — gerçek bir haritaya daha çok benziyor
+- Simge durumuna küçültülen uygulamalar artık oyunu yavaşlatmıyor: siz görmezken yeniden çizilmiyorlar
+- Bir alıcıdan kapora aldıysanız üç gün içinde buluşmayı ayarlayın, aksi takdirde bu dolandırıcılık sayılır
+- Gerçekçi tamir: serviste arabanın teknik çizimi var ve arızalı parçalar yanıp söner. “Motor bozuk” yerine somut bir arıza: silindir kapak contası, triger zinciri, rotiller, alternatör ve yirmiden fazlası. Her birinin kendine ait parçası ve işçilik saati vardır. Servis 09:00 - 20:00 arası çalışır ve araba gerçek süre boyunca serviste kalır. Basit işler (akü, bujiler, amortisörler, tampon) kendi garajınızda kendiniz yapılabilir — ücretsizdir ama daha uzun sürer
+- Parça parça kaporta: her arabada 13 parça bulunur ve çoğunun bir geçmişi vardır — kazalardan sonra boyanmış parçalar ve macun. Göçük düzeltilebilir (ucuzdur ama macun kalır) veya parça değiştirilebilir
+- DetalBuy — ana ekranın ikinci sayfasında yedek parça mağazası: puanlı ve yorumlu satıcılar, orijinal, yan sanayi ve çıkma parçalar, birkaç günde teslimat, siparişler ve depo. Yan sanayi ve çıkma parçalar daha ucuzdur ancak ilk iki ay içinde tekrar bozulabilirler
+- Boya kalınlık ölçer: DetalBuy’dan satın alın ve buluşmada boyayı doğrudan araba çizimi üzerinde ölçün. Satıcı “hatasız, boyasız” diyor ama cihaz macun mu gösteriyor? Pazarlık için harika bir koz. Eksper kendi cihazıyla gelir ve tüm kaportayı ölçer. OBD tarayıcı ise düşürülmüş kilometreyi yakalar
+- Kaput başında yeni pazarlık: kozlarınızı öne sürün — arızalar, boya ölçer değerleri, satıcının yalanları, “hemen peşin para”. Satıcının sabrı vardır ve reddettiğinizde genellikle yarısını teklif eder. Satıcının sohbetteki karakteri bu pazarlığı da etkiler
+- Alıcılar hasarlı veya boyalı bir arabaya daha düşük değer biçer — onlar da boya ölçerle gelir. Satın almadan önce kontrol edin
+- Drive Ace: solda karşı şerit belirdi. Orada puanlar üçe katlanır, ancak arabalar dalga dalga üzerinize gelir ve selektör yapar. Trafik polisi karşı şeritten solladığınız için de ceza keser. Nitro artık kademeli olarak hızlanır ve sürat katar; yüksek hızda ise kamera geriye çekilir ve yarış oyunlarındaki gibi virajlarda yatar. Yeni görev — karşı şeritte sürün
+- Yolculuk ekranı: simge rota boyunca akıcı bir şekilde ilerler ve “kalan süre” dakika dakika geri sayar
+- Yoldaki mini oyunlar zamanı saniyede 80 dakikalık yolculuğa kadar hızlandırır — yolculuk ekranının kendisinden bile daha hızlı
+- creeper_xx tarafından yeni parça “PowerCar”
+- Not Defteri’ndeki oyun ipuçları güncel oyun için yeniden yazıldı
+- Pasaport ve sürücü belgesi: imza kaydından sonra pasaport ve sürücü belgesi alırsınız — soyadı, ad, doğum tarihi, fotoğraf. Tüm belgeler ve araç ruhsatları GosBuy’da, “Belgeler” sekmesindedir
+- AvtoBuyCase’te poker: botlarla altı kişilik masada Texas Hold’em — her birinin kendi karakteri var; kimi temkinli oynar, kimi blöf yapar. 50/100’den 1.000/2.000’e kadar üç masa; daha fazla fiş alabilir ve eller arasında istediğiniz zaman masadan kalkabilirsiniz
+- Ek iş “İnşaat” — ana ekranda yeni bir uygulama. Vinç beton blokları taşır, göreviniz onları düzgünce yerleştirmektir: sarkan kısımlar kesilir, ıskalarsanız kule yıkılır ve yeniden inşa edilir. Bloğun nereye düşeceğine dair ipucu yoktur. Bina ne kadar yüksek olursa vinç o kadar hızlı hareket eder ve dördüncü kattan itibaren rüzgâr blokları sallar. Blok başına 10 ₽. Vardiya sırasında zaman iki kat daha hızlı akar ve bir vardiya günde en fazla sekiz oyun saati sürer
+- Satış ilanında takas düşünüp düşünmediğinizi belirtebilirsiniz. Kapatılırsa alıcılar yalnızca nakitle gelir
+- Yeni Garaj: üstte filo özeti, fotoğraf, plaka, durum ve değer içeren büyük kartlar
+- PlameBlocks yeni görünümünde: 3 boyutlu bloklar, tahta parlaması ve çizgiler temizlendiğinde “Harika!” ve “Kombo” yazıları (seri yakalamak bonus verir) ve tahta zaman zaman temasını koyudan tamamen beyaza doğru değiştirir
+- Ayarlar’da yeni bir “Uygulamalar” bölümü: Drive Ace’te direksiyon hassasiyeti ve PlameBlocks’ta taşları sürükleme
+- “Ulaşım” yenilendi: rota yol üzerindeki şehirlerden harita üzerinde çizilir, tüm seçeneklerin fiyatları ve süreleri bir arada görünür ve doğrudan harita üzerinden veya arama yaparak bir varış noktası seçebilirsiniz
+- MestoBuy yeni görünümünde: daireler, evler ve garajlar — ilan kartlarıyla ayrı bölümlerde ve sahip olduğunuz her şey “Benimki” sekmesinde. Konutların farklı resimleri var — panel binalar, Kruşçevkalar, yeni binalar, Stalinalar, müstakil evler, kütük evler, dağ evleri — ve üstteki arama çalışır: ada, fiyata, otoparka göre ve sıralama ile
+- Ana ekranda bir gezinme çubuğu belirdi — simge durumuna küçültülen uygulamalar artık doğrudan ana ekrandan açılabilir
+- Yolda kazalar olur: kendi arabanızla başka bir şehre giderseniz yolda kaza yapabilirsiniz. Ne kadar uzağa giderseniz risk o kadar artar. Hasarı kaporta alır, daha seyrek olarak süspansiyon veya elektrik; trafik polisiyle tutanak işlemleri bir iki saat sürer ve kusurluysanız ceza da kesilir
+- AvtoBuyCase’teki slotlar artık gerçek bir kumarhane gibi çalışıyor: makaralar döner ve peş peşe durur, kazanan semboller patlar ve yukarıdan yenileri düşer — ve kazanç bitene kadar böyle devam eder (bedava dönüşlerde de). 1.000.000 ₽’ye kadar bahis. “Klasik”te kazançlar daha nadir hale geldi ama büyüdü. İki makine: “Klasik” — beş makara, 20 çizgi, WILD ve bonus; üç bonus kazancı ikiye katlayan bedava dönüşler verir. “Altın Boğa” — 3-4-3 makaralar, boğa herhangi bir sembolün yerine geçer ve bazen “Boğa Çılgınlığı” devreye girer: makaralarda tek bir sembol ile boğalar kalır ve kazanç olana kadar dönerler. Tüm ekranın onlarla dolması ×10 kazandırır
+- Yükseltme ve slotlar hızlıca çevrilebilir — “⚡ Hızlı” anahtarı
+- Slotlarda otomatik oyun vardır: “OTO” butonu — aynı bahisle arka arkaya 10, 25, 50 veya 100 dönüş; isteğe bağlı olarak bonus veya büyük kazançta durdurulabilir
+- PlameBlocks sesleri: parça hafif bir tıkırtıyla yerine oturur, temizlenen çizgi çınlar ve kombo tam bir melodi çalar
+- Ayarlar → “Uygulamalar” artık mini oyunlar için ayarlar içeren ayrı bir ekrandır ve Ayarlar araması bunları bulur. Drive Ace direksiyon hassasiyeti daha geniş bir aralıkta ayarlanabilir: ×0.3’ten ×4’e kadar
+- “Ulaşım” haritası artık yereldir: kara parçaları, nehirler, göller ve şehir isimleri. İnternet ve VPN olmadan çalışır
+- Kasalardaki oranlar yükseltildi: araçlar, eşyalar ve büyük paralar daha sık düşer
+- Gerçek gibi sözleşmeler: araba alıp satarken, takas yaparken, kredi çekerken veya konut satın alırken bir sözleşme sayfası açılır — taraflar, VIN, araç ruhsat numarası, fiyat, maddeler. Satıcı zaten imzalamıştır, siz de doğrudan “imza” satırına imzanızı atarsınız; sayfada “İMZALANDI” damgası belirir
+- Araba belgeleri: arabanızın kartında ve GosBuy’da — araç ruhsatı (VIN, sahibi, satın alma tarihi, tescil) ve her iki tarafın imzalarını içeren alım-satım sözleşmesi
+- PlameBlocks: tema değişikliğinden sonra bazen oyun alanı da değişir ve tüm bloklar tek renk haline gelir
+- Buluşmada ve kaput başında pazarlıkta arabanın fotoğrafı görülebilir
+- 16 yeni eşya: araç kamerası, Android multimedya sistemi, yaz lastikleri, akü, uzaktan çalıştırmalı alarm, kompresör, kriko, benzin bidonu, koltuk kılıfları, subwoofer, ksenon, tavan bagajı, elektrikli skuter, takviye cihazı, taksi tavan lambası ve eski bir akıllı telefon. Bunları alıcılardan ve kasalardan alabilir, pazarlıkta satıcılara teklif edebilirsiniz
+- Kayıt yuvaları: Ayarlar’da üç ayrı kayıt bulunur. Mevcut oyun (ve 0.3.4’teki kayıt) birinci yuvadır; geçiş yapmak oyunu yeniden başlatır
+- Görevler: her gün üç görev (satın al, sat, sür, pazarlık yap…), ve her hafta ayrı, daha büyük görevler. Her biri para kazandırır, tüm günlük görevler bir sandık verir ve art arda gelen gün serisi ödülü artırır. Hafta için büyük bir ödül
+- Avito tarzı ilan öne çıkarma: 1–7 gün boyunca “Yukarı Taşı”, “Turbo” ve “Premium” — öne çıkarma etkinken alıcılar 2–4 kat daha sık yazar
+- Araba kartındaki piyasa fiyatı tamirleri hesaba katar: hem arızalı fiyatı hem de hasarsız bir arabanın fiyatını görebilirsiniz. Alıcılar da arızaları fark eder ve tamir masrafı için pazarlık yapar
+- Kendi arabanızla yolculuk yarıda kesilebilir: patlak lastik, kaza, polis, trafik sıkışıklığı, hararet. Simge rotanın ortasında durur ve ne yapacağınıza siz karar verirsiniz — çekici mi bekleyeceksiniz yoksa tekerleği kendiniz mi değiştireceksiniz, trafik polisi mi çağıracaksınız yoksa kaza tespit tutanağı mı düzenleyeceksiniz. Zaman ve para — seçim sizin
+- Garaj yükseltmeleri — yeni bir “Atölye” sekmesi: lift, alet takımı, boya kabini, oto yıkama ve güvenlik kameraları. Bunlarla daha fazla onarımı kendiniz yapabilir, arabaları ücretsiz yıkayabilirsiniz ve bahçedeki vandalizm azalır
+- Garajdaki arabalar sabitlenebilir — fotoğrafta bir raptiye butonu; sabitlenen arabalar her zaman en üstte kalır
+- AvtoBuy filtreleri baştan tasarlandı: hızlı seçeneklerle markalar, fiyat ve yıl, kilometre, şehir ve yarıçap, “gözle görülür arıza yok”, “acil”, “yeni”, satıcı puanı. Buton kaç ilanın eşleşeceğini gösterir. Etkin filtreler aramanın altında butonlar olarak görünür; alttaki “İlanlar”a dokunmak bunları sıfırlar
+- Kaput başında pazarlık daha net: kaydırma çubuğu yerine “Ekspertiz → Fiyat → Karar” adımları ve kabul edilme şansı olan üç hazır teklif seçeneği
+- Müzik sarılabilir — “Müzik” uygulamasında ve Dynamic Island’da
+- Yeni şehirler: Şçyolkovo, Sergiyev Posad, Monino, Kudrinskaya ve Kartışovo (Kaluga Bölgesi), Neftekumsk, Nesterov, Kirovsk (LHC), Nyagan
+- “Ulaşım” haritasında Kırım, DHC, LHC, Zaporojye ve Herson bölgeleri Rusya sınırları içindedir
+- Kumarhane: “Klasik”te bedava dönüşler çok daha seyrek gelir (yaklaşık her 150 dönüşte bir), ancak sayıları daha fazladır ve ×5 öderler. Ana oyun daha çok kazandırır. “Altın Boğa”: “Boğa Çılgınlığı” daha sık gelir ve bahsin asla ×3 katından azını vermez
+- Yeni makine “Para Kasası”: ekrandaki 6 madeni para kasayı açar — paralar yerinde kalır, 3 tekrar dönüş hakkınız olur ve her yeni para bunları yeniler. 15 hücrenin tamamı parayla dolarsa — GRAND ×100
+- Slotlar: ekranda zaten iki bonus olduğunda kalan makaralar parıldar ve daha uzun süre döner, yavaşça durmaya yaklaşır — üçüncüyü bekliyoruz!
+- Oyun daha zorlaştı: daha az başlangıç parası, satıcılar daha az indirim yapıyor ve alıcılar daha seyrek yazıp biraz daha az teklif veriyor
+- AvtoBuyCase’te seviyeler: tek bir bahsin limiti, sitedeki tüm bahislerinizin toplamıyla birlikte büyür — yeni başlayanlar için 20.000 ₽’den başlar. VIP için limit yoktur: slotlara istediğiniz tutarda bahis yapabilirsiniz. Bahsi elle girebilirsiniz — tutara dokunun. Seviyeniz ve bir sonrakine ne kadar kaldığı, site profilinde ve bahis seçiminin altında gösterilir
+- Kasadan kazanılan bir araba, doğrudan Garaj’dan istenildiği an siteye değerinin %70’ine satılabilir. Bu tür arabalar “🎰 KASADAN” olarak işaretlenir
+- Pasaporttaki doğum tarihi, tıpkı iPhone’daki gibi bir çarkla seçilir ve yanında yaş gösterilir
+- Aramalar artık gerçek bir sohbete dönüştü: sohbetten arayın (yeşil ahize) ve bir ifade seçin — “Sohbete bakın”, “Araba hâlâ satılık mı?”, “Pazarlık payı var mı?”, “Ne zaman buluşmak uygun olur?”. Karşı taraf çevrimdışıysa “Sohbete bakın” demek, birkaç saat yerine birkaç dakika içinde yanıt vermesini sağlar. Aynı kişiyi günde bir kez arayabilirsiniz
+- Daireler ve evler uzun vadeli olarak — altı aylığına kiraya verilebilir: para her ay gelir, oran %10 daha düşüktür ve kiracılar daha özenli davranır. Mülk kartında hangi tarihe kadar kiralandığı, ne kadar olduğu ve paranın ne zaman geleceği görünür
+- Trafik polisi ruletinde bazen Kazak, Belarus ve Kırgız plakaları çıkar — bunları koleksiyonunuzda tutabilirsiniz ancak arabaya takamazsınız. İlanlarda yalnızca Rus plakaları yer alır
+- AvtoBuyCase’te yeni kasalar: 200 ₽’ye “Kuruşluk”, araba eşyalarıyla “Tuning” ve en pahalı arabalarla bir milyona “Oligark”
+- Sitede müzik her zaman “nightmare chase” parçasıyla başlar
+- Konutlar pahalandı ve daha gerçekçi hale geldi: daireler 2,5–8 milyon, evler 6–30 milyon, Moskova ve St. Petersburg’da ise 1,5–2,2 kat daha pahalı
+- PlameBlocks: tahta temaları karışık sırayla değişir ve açık renkli tahta artık her oyunda denk gelir
+- Serviste, arabanın teknik çiziminde geçmişi olan parçalar (boya, macun, değişim) tıpkı boya ölçerdeki gibi renkli görünür
+- İkamet ettiğiniz yeri değiştirebilirsiniz: MestoBuy → “Benimki”. Taşınma 70.000 ₽’den başlar, mesafe arttıkça pahalanır ve ayda en fazla bir kez yapılabilir. 3 arabalık ücretsiz avlu, evde uyuma ve başlangıç dairesi sizinle birlikte taşınır
+- Sattığınız arabalar piyasaya geri dönebilir: bir ay sonra yeni sahibi arabayı bazen yeniden ilana koyar — kendi belirlediği fiyatla ve sizin sattığınız durumda. Tamir ettiyseniz — daha değerli; hasarlı sattıysanız — daha ucuz
+- P-Bank: anneye, babaya, büyükanneye veya bir arkadaşa öylece para gönderebilirsiniz — yanıt olarak sıcak bir mesaj gelir
+- P-Bank: bir hafta veya bir ay için büyük animasyonlu grafik ve sütunlar halinde giderler
+- Gerçek anlamda “Acil”: üç aydan uzun süredir yayında olan bir ilan her hafta ucuzlar (%−20’ye kadar) — akışta eski fiyatın üzeri çizili görünür
+- “Kendin” yıka: 200 ₽ karşılığında arabayı kendiniz yıkayın — daha uzun sürer (bir buçuk saat) ama ucuzdur
+- Oyun başlangıç modu (beta): “Kolay” — üç kat daha fazla başlangıç parası; “Normal” ve “Zorlu” — yarısından daha az
+- Drive Ace: Ayarlar → “Uygulamalar”da kontrolleri (parmak ve kenarlar, yalnızca parmak, yalnızca kenarlar) ve nitro butonunun nerede duracağını (orta, sol veya sağ) seçebilirsiniz
+- İkinci sayfada “Düzenleyici”: tüm başarımlardan sonra AvtoBuy’da kendi ilanlarınızı yayımlayabilirsiniz — marka, fiyat, şehir, arızalar, tuzaklar ve fotoğraflar
+- Alıcı takas teklif ediyor ama size nakit mi lazım? “Yalnızca nakit, takas yok” butonu — yaklaşık her iki alıcıdan biri takas değerinden biraz daha azını ödemeyi kabul eder
+- Satıcıya dava: ekspertizde “her şey harika” dendi ama evde arızalar ya da gizli boya ortaya çıktı — satın aldıktan sonraki 10 gün içinde araba kartından bir avukat tutabilirsiniz. Mahkeme 3–7 gün sürer ve 10 davadan yaklaşık 6’sını kazanırsınız
+- (Beta) Çok nadiren bir alıcı, arabanızı “Rick and Morty”deki Rick’in uçan dairesiyle takas etmeyi teklif eder. Satılamaz, ekspertiz yapılamaz. Bunun için gizli bir başarım verildiği söyleniyor
+- Garajlar %20 daha ucuz ve fiyat artık şehre göre değişiyor: Moskova ve St. Petersburg’da daha pahalı, küçük şehirlerde daha ucuz
+- Oyunun başında memleketinizde iki kat daha fazla ilan var — 40 tane (yeni oyunda veya sıfırlamadan sonra)
+- Duyurulan yeni uygulamalar: “Uçuşlar” (vizeler ve Avrupa’dan arabalar), “Konteynerler” ve “İthalat”
+- Kuruşlar! P-Bank ve AvtoBuyCase’teki bakiye artık kuruş içeriyor; kumarhane kazançları ve nakit iadesi tamı tamına kuruşu kuruşuna ödeniyor
+- Kumarhane: tüm modlarda 5 ₽’den başlayan bahisler
+- AvtoBuyCase’te iki yeni makine. “Teksas Altını”: şerif WILD’dır ve makaraların üzerinde ×1…×15 çarpan çizgisi vardır — tüm kazanç üzerine gelen değerle çarpılır; bedava dönüşlerde çarpan en az ×2’dir. “Anubis’in Kitabı”: kitap hem WILD hem de bonustur; üç kitap, tüm makaraya yayılan ve tüm çizgilerde ödeme yapan özel bir sembolle 10 bedava dönüş verir
+- Gerçeği gibi “Altın Boğa”: makaraların altında bir boğa oturur — “Boğa Çılgınlığı”ndan önce altın rengine döner, bazen de bir saniyeliğine parlayarak sadece heyecanlandırır
+- “Klasik” biraz daha cömertleşti, “Altın Boğa” biraz daha cimrileşti
+- Slotlardaki “OTO” butonu artık rahatça görülüyor
+- Aramalar: durum, belgeler, kilometre, takas ve arabayı nerede görebileceğiniz hakkında daha fazla ifade. Satıcı ağzından bir bit yeniği kaçırabilir. Gece neredeyse hiç kimse açmaz; sabah erken ve akşam geç saatlerde ise yarı yarıya
+- Trafik polisi ruleti: otomatik çevirme — istenen plaka sınıfına kadar hızlı veya animasyonlu 10, 25 veya 50 deneme
+- Kilometre düşürme: DetalBuy’da “Kilometre Düzeltici” satılıyor. Kilometresi düşürülmüş araba daha pahalıdır ancak yaklaşık her dört alıcıdan biri tarayıcıyla gelir — fark eder ve %30 indirim talep eder
+- Buluşmada takas: alıcının teklif ettiği araba artık incelenebilir — gözle, boya ölçerle ve OBD ile. Bir bit yeniği bulursanız ceza almadan takası reddedin
+- Çalar saat artık oyunda da çalıyor: ayarlanan saatte — “10 dakika ertele” ve “Kapat” seçenekleriyle bir alarm ekranı
+- “İnşaat”: “kusursuz” iki kat öder, “kusursuz” serisi bloğu tekrar genişletir ve yıkılmadan geçen her 10 kat — her blok için fazladan prim
+- Drive Ace: aynı yönde giden arabalar uzakta belirir ve aniden burnunuzun dibinde bitmek yerine pusların ardından yavaşça netleşir
+- Rick’in arabası artık resimli
+- Ekranın altındaki mesajlar artık sırada birikmiyor: yeni mesaj hemen eskisinin yerini alıyor ve birkaç saniye sonra kayboluyor; kaydırarak kapatılabilir
+- Taksi durağı faaliyete geçti! Direksiyona kendiniz geçin: bölge haritasına yukarıdan bakış (her şehrin kendine ait), yolcuları alın ve adrese götürün — çarpmadan akıcı sürüşler bahşiş kazandırır, bir eve veya arabaya her çarpma kazancı düşürür. Günde en fazla 8 oyun saati direksiyon başında kalınabilir, yakıt hasılattan karşılanır. Ya da şoför kiralayın: her gün kendi becerisi, dikkati ve hasılat payı olan yeni adaylar gelir. Şoföre arabanızı verin — günde bir kez hasılatı teslim eder. Dikkatsiz şoförler arabayı vurur, bazıları ise hasılatı hiç teslim etmez
+- Taksi tam teşekküllü bir mini oyuna dönüştü: bölgeler üç kat daha büyük, sokak isimleri ve belirgin yerler (gar, AVM, hastane…) var. Sipariş teklif olarak gelir — kabul edin veya geçin. Navigasyon bir çizgiyle yönlendirir ve dönüşleri bildirir, sağda mini harita vardır. Sipariş türleri: “Acelesi var” (süreye yetişin), “Konfor” (cömert bahşiş ama sarsıntıya tahammülü yok), “Grup”. Çarpmalar artık gerçekçi — kıvılcımlar, sarsıntı, göçükler: arabanın dayanıklılığı sıfıra indiğinde vardiya biter ve araba tamir ister. Yolcular yıldız verir, puanınız vardır, arka arkaya beş yıldız — primli seri getirir. Pahalı araba daha yüksek tarife demektir. Gece — farlar ve sokak lambaları, vardiya sonunda ise bir özet
+- Taksi artık kasmıyor ve üstteki saat yeniden görünüyor
+- Dock’taki mavi “Sohbetler” yerini “Mesajlar”a bıraktı: tek bir uygulamada hem akrabalarınız hem de AvtoBuy ilan sohbetleri yer alıyor
+- Akrabalar her zaman hemen cevap vermez: birkaç dakika veya birkaç saat içinde cevap verebilirler, gece yazılanlara ancak sabah dönerler veya görüldü atıp susabilirler. Borç para yanıtla birlikte gelir
+- “Mesajlar” uygulaması: akrabalarla sohbetler — anne, baba, büyükanne, büyükbaba, Sanya, kız kardeş ve Lyuba Teyze. Sohbet edebilir veya 14 günlüğüne faizsiz borç para alabilirsiniz. Zamanında öderseniz bir dahaki sefere daha çok verirler; gecikirseniz daha az; borcu bir hafta aksatan ise bir daha borç alamaz. Akrabalardan size ve sizden onlara yapılan transferler de sohbetlerde gösterilir
+- Satıştan önce tamir yapmak artık kârlı: satıcılar arızaları ilan fiyatına dahil eder, alıcılar tamir edilmemiş arızalar için tamir masrafından fazlasını kırar ve tamirden sonra boyanan parçalar fiyatı daha az düşürür
+- Açık artırma faaliyete geçti: her gün ilanlarda olmayan beş lot — leasing iadeleri, hacizli araçlar, nadir arabalar ve sigortadan hurdaya ayrılanlar. Canlı teklifler: her tekliften sonra sayaç sıfırlanır, rakip al-satçılar limitlerine kadar fiyat artırır, bazıları ise son saniyede teklif verir. Katılım için kapora gerekir (kazanamazsanız iade edilir), kazanandan %5 komisyon alınır
+- Konteynerler: gümrükten ve depolardan kapalı konteynerler için körü körüne teklif verme. İçine bakamazsınız — yalnızca ipuçları (“tekerlek görünüyor”, “eski lastikler”) ve biri yanıltıcı olabilir. İçinde bir araba, yedek parçalar (doğrudan DetalBuy’a satılır), envanter eşyaları veya çöp çıkar. Kazanırsanız kilidi kendiniz açarsınız
+- Uçuşlar: araba almak için Almanya, Polonya, Litvanya veya Çekya’ya uçun. Önce vize (harç, 4–9 gün bekleme süresi ve reddedebilirler — iyi bir itibarla ret ihtimali düşer). Yerinde arabayı canlı inceler ve satıcının yazmadığı şeyleri görürsünüz. Eve dönüş — kendi sürüşünüzle (hızlıdır ama kaza yapabilirsiniz) veya oto taşıyıcı tırla. İthalatta — gümrük işlemleri ve geri dönüşüm ücreti: en kârlısı 3–5 yaşındaki arabalardır
+- İthalat: sipariş üzerine Japon, Kore, Çin ve BAE açık artırmalarından arabalar. Açık artırma formundaki notu görebilirsiniz — 5’ten (yeni gibi) R’ye (hasarlı) kadar; form bazen aracı över. Teslimat haftalar sürer, gümrükte gecikmeler ve yolda hasarlar meydana gelebilir. Gümrükleme, SBKTS ve EPTS doğrudan sipariş anında ödenir
+- Tuning: jantlar, çip, egzoz, kaplama, cam filmi, alçaltma, ses yalıtımı. Doğru modifiye arabanın değerini maliyetinden fazla artırır; kalitesiz iş daha az artırır; ucuz arabalarda bir şeye, pahalı arabalarda başka bir şeye değer verilir. Cam filmi, gürültülü egzoz ve alçaltma için trafik polisi bazen ceza keser
+- Ayarlar’da arayüz stili: Android veya iOS. iOS stilinde üç buton yerine ana ekran çubuğu vardır (dokun veya yukarı kaydır — ana ekrana, basılı tut — sekmeler), sol kenardan kaydırarak geri gelme, iPhone gibi geçişler ve kaydırmalar
+- Gerçek gibi elle oto yıkama: köpük sıkın, süngerle ovalayın, suyla durulayın ve kurulayın — hepsi araba üzerinde parmağınızla. Pırıl pırıl yıkandıysa — tıpkı oto yıkamadan çıkmış gibi 3 gün parlar; baştan savma yıkandıysa — bir iki gün
+- “Anubis’in Kitabı” özelleşti: bazen yürüyen bir mumya uyanır — bir makaraya boydan boya WILD olarak yerleşir ve oyun alanından çıkana kadar sola doğru yürüyerek bedava tekrar dönüşler verir
+- Satıcılar ve alıcılar için avatarlar: herkesin kendi yüzü var — ilanda, sohbette, sohbet listesinde ve aramalarda
+- AvtoBuy akışı yeni görünümünde: yuvarlatılmış kartlar, fotoğraf sayacı, buton şeklinde özellikler, yüzü ve puanı olan satıcı
+- Pasaport adım adım düzenlenir: fotoğraf, ad-soyadı, cinsiyet ve doğum tarihi, kontrol. Üstte — siz ilerledikçe dolan canlı pasaport sayfası
+- Düzenleyici’de telefonun galerisinden kendi fotoğraflarınızı ekleyebilirsiniz (silmek için uzun basın)
+- Yeni şehir — Berdyansk
+- Ayarlar’da yeni bir “Arayüz stili” seçeneği belirdi — yakında telefonunuzu iPhone veya Android gibi gösterebileceksiniz
+- İş uygulamaları için yeni görünüm — Açık Artırma, Konteynerler, Uçuşlar, İthalat ve Tuning: sade koyu tarz, büyük tutarlar, emoji yerine net simgeler, gösterişli çerçeveler veya gradyanlar yok. Butonlar, pencereler, paneller, giriş alanları ve mesajlar artık tüm oyunda tutarlı ve düzenli. Bu yeni tasarımın ilk aşaması — sırada ana ekranlar var
+- Gerçekçi uçuşlar: bir uçuş seçersiniz (sabahları daha ucuz, akşamları daha pahalı; her birinin havayolu şirketi, uçuş numarası, seyahat süresi ve kalan koltuk sayısı vardır) ve bir tarife — iadesiz “Ekonomi” veya “Esnek”: arabasız dönerseniz bilet ücretinin %60’ı iade edilir. Ardından adınız, koltuğunuz ve kapı numaranızın bulunduğu bir biniş kartı, harita üzerinden uçuş ve satıcının yanında arabanın incelenmesi. Oyunda zaman dürüstçe akar: kalkışa kadar, uçuşun kendisi ve arabaya giden yol
+- Vize işlemleri artık GosBuy üzerinden yapılıyor: yeni bir “Vize” sekmesi — başvuru, konsolosluk harcı, değerlendirme süresi ve ret olasılığı. Pasaport gereklidir. “Uçuşlar”daki bir buton oraya yönlendirir
+- Tercihe göre konteynerler: pazarlık yapma (daha ucuz ama üstünüze teklif verebilirler) veya hemen satın alma (daha pahalı ama garanti). Kendine has görünüm — liman terminali: bordasında numaraları çizilmiş konteynerler, muayene manifestosu şeklinde ipuçları, açıldığında iki yana açılan kapılar ve sonunda kârda mı yoksa zararda mı olduğunuz görünür
+- Gerçek açık artırma formları gibi yeni görünümde İthalat: lot numarası, alan, çerçeve içinde puan, harflerle kaporta ve iç mekân, anahtar teslim hesaplama ve piyasaya göre kâr. Yoldaki siparişler — aşamalara göre takip: satın alındı, limanda, denizde, gümrükte, eve geliyor
+- Tamir gibi modifiye: kitler DetalBuy’dan satın alınır (yeni “Tuning” bölümü — orijinal ve yan sanayi, birkaç günde teslimat) ve serviste ücret karşılığı ya da garajda kendi ellerinizle monte edilir — ücretsizdir ama daha yavaş. Jantlar, cam filmi ve ses yalıtımı kendiniz monte edilebilir; egzoz ve alçaltma — liftle; çip tuning ve kaplama — yalnızca serviste. Bu süre zarfında araba serviste kalır. Alıcılar yan sanayi parçalara orijinalinden daha az değer verir
+- Açık artırma: kazanılan arabanın bagajında bazen önceki sahibinden eşyalar kalır — bir zarf dolusu para, bir eşya veya plakalar. En çok da hacizli arabalarda
+- Aylık kira — para tüm dönemin sonunda değil, her ay gelir. Kira sözleşmesi en fazla üç ay sonrasına uzatılabilir. Daha önce uzun süreli uzatılmış sözleşmeler de aylık ödemelere geçti ve geçmiş aylar hemen ödendi
+- Düzenleyici: ilan başına 10 fotoğrafa kadar, galeriden aynı anda birkaç tane. Fotoğraflar daha hafif hale geldi, daha fazlası sığıyor ve üstte kendi fotoğraflarınızın ne kadar yer kapladığı görünüyor
+- Düzenleyici: ilanlarınız bir dosyaya kaydedilebilir (üstteki “Paylaş” butonu) ve bir arkadaşa gönderilebilir — o da bunları kendi “Düzenleyici”sine yükler. Kendi fotoğraflarınız dosyanın içinde taşınır
+- Yeni şehirler: Almetevsk (Tataristan), Voskresensk (Moskova Bölgesi) ve Kaşin (Tver Bölgesi)
+- Tasarım, ikinci aşama: ekranın altındaki mesajlar — cafcaflı renkli şeritler ve emojiler yerine anlama uygun bir simgeye (başarı, hata, dikkat) sahip tek bir derli toplu koyu şerit. Garaj bir portföy gibi özetle açılır: büyük puntolarla filo değeri ve alış fiyatına göre ne kadar kâr sağlayacağı, ayrıca her araba için ekspertiz değerinden satışta elde edilecek kâr. Sohbetteki pazarlık butonları — gökkuşağı yerine üç sakin stil; yapay zekâ sohbetiyle ilgili gereksiz yazı kaldırıldı. P-Bank turuncu parıltısını; PlameFinance, “Görevler”, “Taksi durağı” ve “Müzik” ise gradyanlarını ve emoji başlıklarını kaybetti. “Mesajlar”daki akrabalar da tıpkı satıcılar gibi çizim yüzlere sahip
+- Tasarım, üçüncü aşama: emojiler tüm oyundaki butonlardan, başlıklardan ve ipuçlarından kaldırıldı — buluşma, pazarlık, MestoBuy, servis, plakalar, kapora, İnşaat, taksi (yolcu ruh hali artık bir simge). MestoBuy ve AvtoHistory başlıkları, ilan öne çıkarma butonu, P-Bank girişi, yolculuk ekranı, arama ve plaka ekspertiz penceresi artık düz bir tasarıma sahip
+- Taksi: sokaklar daha ferah — araba yola kıyasla daha küçük ve diğer arabaların sayısı yarıya indi. Direksiyon akıcı bir şekilde toparlanır ve hızla merkeze döner; süratliyken araba daha yumuşak döner ve binalara dalmaz. Araba artık caddenin ortasına çekilmiyor. Hafif temaslar kaza değil çiziktir
+- Düzenleyici’de mod paketleri: ilanlarınız bir mod paketi olarak kaydedilebilir — isim, yazar ve açıklama ile — ve bir dosya olarak gönderilebilir. Bir arkadaş yüklemeden önce içinde ne olduğunu görür ve aynı paketin yeni sürümü eskisinin üzerine kurulur. Yüklü paketler kendi ilanlarınızdan ayrı gösterilir ve her biri tamamen kaldırılabilir. Akışta 60’a kadar ilan
+- Not Defteri: artık içine kendi notlarınızı yazabilirsiniz — fiyatlar, kimin ne sözü verdiği, gözünüze kestirdiğiniz arabalar. İlk satır başlık olur ve her şey otomatik kaydedilir. Sürüm notları, ipuçları ve yapımcılar yerinde kaldı. Notlar telefonun bir parçasıdır: yuva değiştirirken veya ilerlemeyi sıfırlarken kaybolmazlar
+- Akrabalar kendileri borç ister: bir iki haftada bir birisi yazar ve biraz para ister. Yardım ederseniz zamanında öderler; bir dahaki sefere siz istediğinizde daha çok verirler ve “kendimize yetmiyor” cevabını daha nadir alırsınız. Alınmadan reddedebilirsiniz. Doğrudan sohbette veya P-Bank üzerinden transferle yanıt verebilirsiniz — talep edilen tutardan az olmayan bir transfer borç sayılır
+- Yeni şehirler: Mendeleyevsk (Tataristan) ve Belebey (Başkurtistan)
+- Trafik polisi ruleti: “Hızlı” artık plakayı anında vermez — semboller tıpkı eskisi gibi döner, sadece hızlıca. “Sınıfa kadar” serisi de gözlerinizin önünde döner. Ekranın altındaki özet yazıları (“N deneme, harcanan…”) kaldırıldı
+- Bir daire veya ev satılabilir: MestoBuy → “Benimki” → “Sat”. Bir fiyat belirlersiniz — alıcılar kendileri tekliflerle yazar (ilan ne kadar ucuzsa o kadar hızlı) ve her biriyle pazarlık yapabilirsiniz: limitine kadar alıcı kabul eder, üstünde son fiyatını söyler ve daha fazla zorlarsanız vazgeçer. Acilse — bir emlak ajansı ekspertiz değerinin %75–80’ine anında satın alır. Kirada olan konutun önce boşaltılması gerekir; başlangıç dairesi satılamaz
+- Açık artırma canlandı: teklif vermeden önce lotu incelemek için 15 saniye vardır — dört alandan ikisine (kaporta, motor, iç mekân, belgeler) bakabilir ve ekspertizde olmayan şeyleri bulabilirsiniz. Açık artırma sırasında müzayedeci “Bir… İki… Sattım!” diye sayar ve rakipler karakterlerini gösterir (hırslı, keskin nişancı, temkinli, galerici): sınırlarına geldiklerinde tereddüt ederler ve sonra “pas” derler. Sadece bir kademe değil, +3 ve +5 kademelik bir sıçramayla da teklif verebilirsiniz — sıçrama temkinlileri korkutur, hırslılar ise kendileri de sıçrar. Aynı şey Konteynerler için de geçerlidir, ayrıca her açık artırmada bir kez aralıktan içeriye göz atabilirsiniz
+- Topluluktan fotoğraflarla 193 yeni ilan — AvtoBuy etiketinin altındaki plakalar, gizli marka logoları. Fotoğraflar sıkıştırıldı; oyun 30 MB’tan daha az büyüdü
+- Garaj: sıralama (satın alma tarihine, ekspertize, kâra, yıla, şehre, markaya göre), “Satışta”, “Tamir gerekiyor”, “Bu şehirde”, “Serviste / yolda” filtreleri ve arama. Sabitlenen arabalar yine en üstte kalır
+- AvtoBuyCase’te Crash: çarpan yükselir ve grafik her an uçup gidebilir — kazancınızı zamanında alın. ×1.5…×10 seviyelerinde otomatik bozdurma vardır. Diğer oyunlarda olduğu gibi kasanın avantajı vardır: bazen grafik doğrudan ×1.00’de uçar, ancak ×50 de olur
+- AvtoBuyCase sekmeleri artık tek bir satıra sıkışmıyor: artık sayıları çok fazla ve sekme şeridi yana doğru kaydırılıyor
+- AvtoBuyCase’te “Küçük Uçak”: uçak bir uçak gemisinden ×1 sayacıyla havalanır, yol boyunca ek kazançlar ve ×5’e kadar çarpanlar toplar; füzeler ise onu vurup sayacı yarıya indirir. Sonunda inişe geçer: uçak gemisine inerse kazanç sayaç × bahistir; ıskalarsa bahis batar. Uçuşların yaklaşık yarısında başarılı iniş yapar. Gün batımıyla harika bir gökyüzü, bulutlar, adalar, uçağın ardındaki iz, ayrıntılı uçak gemisi, alevli füzeler
+- AvtoBuyCase’te “Madenci”: 10 sıralı bir maden. Her sırada kazmayla bir bloğa vurun — sağlam blok cevheri açığa çıkarır, siz daha derine inersiniz ve çarpan büyür; göçükte ise bahis yanar. Herhangi bir sıradan sonra ganimeti alıp çıkabilirsiniz. Dört kaya türü — kolaydan (dörtte bir çökme) aşırıya (üçte iki çökme) kadar
+- AvtoBuyCase’te “Kazma”: Minecraft’taki gibi bloklardan bir alan — toprak, taş, kömür, demir, altın, elmas ve dinamit; ne kadar derin olursa o kadar zenginleşir. Tek bir kazma: bir sütuna 14 kez düşer ve blokları kendisi kırar. Tahta olarak başlar ve taş, demir veya elmas kırdıktan sonra taş, demir, elmas kazmaya dönüşür — ve gittikçe daha sert vurur. Kırılan cevher kazanca eklenir, dinamit ise etraftaki her şeyi patlatır
+- Tıpkı iPhone’daki gibi ana ekranda klasörler: bir klasör oluşturmak için bir simgeyi diğerinin üzerinde tutun, bir klasörün üzerine bir simge bırakın — içeri girer. Açık bir klasör bulanıklaştırılmış bir masaüstü, büyük bir isim (yeniden adlandırmak için dokunun) ve uygulamalar içeren cam bir paneldir. Klasör içindeki bir uygulamayı basılı tutun — onu tekrar dışarı çıkarmak için “−” belirir. Tek uygulamalı bir klasör kendiliğinden kaybolur
+- İkinci sayfa uygulamaları için yeni simgeler: Hesap Makinesi, Plakalar, Müzik, DetalBuy, Açık Artırma, Tuning, Uçuşlar, Konteynerler, İthalat, Taksi durağı, ayrıca İnşaat, Görevler ve “Destekle” — simgeler yerine çizim resimler
+- Zorluk derecesi — oyunun başında, pasaporttan sonra ve şifreden önce ayrı bir ekran: “Kolay”, “Normal” veya “Zorlu”. Tüm oyun için seçilir ve yalnızca başlangıç sermayesini değil, alıcıların ne sıklıkla yazdığını da değiştirir
+- Haberler açılıyor: bir habere dokunun — makalenin tamamı açılsın. Piyasa haberlerinde — neden olduğu, hangi markaları etkilediği ve hangi tarihe kadar geçerli olduğu yazar
+- Tarayıcı’da haberler — “AvtoVesti” sitesi: şehirde ve piyasada neler olup bittiği. Üç günde bir piyasa haberi çıkar — Japon, Alman, Kore, Çin, Amerikan veya yerli arabalara talep artar veya düşer ve sonraki üç gün boyunca alıcılar gerçekten bu tür ilanlara daha sık veya daha seyrek yazar
+- İki aşamalı konteyner açma: kapıları açarsınız — girişte eski lastikler, derinlere el feneri tutarsınız — ve karanlıktan arka stop lambalarıyla siyah bir araba silüeti, yedek parça sandıkları, kutular veya daha da fazla çöp belirir. Konteyner artık ekranın tüm genişliğini kaplar ve gerçeği gibi çizilmiştir: menteşeli, kilitleme kilitli ve mühürlü kapılar, ahşap zemin, tozlu fener ışığı. Terminaldeki konteynerler de daha ayrıntılı hale geldi — köşe bağlantıları, duvar olukları, pas izleri
+- Oyun daha zorlaştı: alıcılar daha seyrek yazıyor, pahalı arabalar için çok daha az (on milyonlarca liralık bir arabaya alıcı nadiren bulunur) ve çok fazla ilan olduğunda aynı alıcılar aralarında bölünür. Alıcılar artık ekspertiz değerinin en fazla %8’i kadar fazla ödeme yapar
+- Taksi: üstte bir reklam banner’ı belirdi ve yeni sipariş kartı durum çubuğunun altında küçük ve üstte yer alıyor, artık yolu kapatmıyor
+- İnternetsiz devlet desteği: yer tutucu video, gerçek bir reklam gibi 15–30 saniye sürer
+- Rolls-Royce Boat Tail ilanı düzgün bir açıklamaya kavuştu
+
+
+DRIVE ACE
+
+- Karşı şerit artık gidiş yönü gibi üç şeritlidir: sola doğru iyice açılabilirsiniz ancak karşıdan gelen araçlar her üç şeridi de kullanır
+- Oyun daha hızlı akıyor: hız göstergesindeki sayılar aynı ancak etraftaki her şey belirgin şekilde daha hızlı geçiyor — artık daha zor
+- Karşı şeritle ilgili ipuçları (alttaki parmak ve üstteki uyarı) yalnızca ilk yarışta gösterilir. Sonrasında, kendi şeridinizdeki karşıdan gelen araçlara karşı ekranın kızaran kenarları sizi uyarır
+- Serbest direksiyon: parmağınızı sürükleyin — araba üç şerit arasında zıplamak yerine parmağınızı takip eder. Parmağınızı sol veya sağ tarafta da basılı tutabilirsiniz. Bilgisayarda — ok tuşları veya A ve D
+- “Sıfıra sıfır” geçiş artık neredeyse her sollamada değil, yalnızca gerçekten çok yakın bir sollamada sayılır. Arka arkaya birkaç tanesi seri oluşturur: ×2, ×3 ve ×5 puana kadar
+- Trafik polisi artık komşu şeritten yapılan normal bir sollama için ceza kesmiyor — önceden orta şeritteki bir araca ceza yemeden geçmek imkânsızdı. Ceza yalnızca sıfıra sıfır geçerseniz veya nitroyla yanından uçarsanız uygulanır
+- Bir tırın veya otobüsün dibinden geçmek de artık “sıfıra sıfır” sayılıyor — daha önce uzun araçlar sollanamadan kayboluyordu
+- Uzaktaki tırların ve otobüslerin yan tarafları artık kaybolmuyor — şeritler, camlar ve tekerlekler hemen görünüyor
+
+
+DÜZELTMELER
+
+- Kaporadan sonraki buluşmada ne kadar yatırıldığı ve ne kadar kaldığı görünür: tam fiyat yerine “Kalanı öde” butonu
+- Akrabalar: “çevrimiçi” durumu artık oraya buraya atlamıyor — kişinin en son ne zaman çevrimiçi olduğu görünüyor
+- Akrabalar artık oyunun başında herkese hemen borç vermiyor: en fazla iki kişiden ve toplamda 40.000 ₽’den fazla borç alınamaz
+- GosBuy: sitenin alt bilgisi sayfanın altına sabitlendi
+- “Ulaşım” haritası uzaklaştırıldığında kenarlarda artık denizle kesilmiyor
+
+- Trafik polisi ruleti: plakanın ilk harfinde artık “gölge” yok. Plaka karakterleri yerinde duruyor ve komşuları yanıp sönerken titremiyor
+- Kazma: durduktan sonra son vuruştan kalan parçalar artık alanın üzerinde asılı kalmıyor
+- Kilometre düşürme: tarayıcılı bir alıcı artık birkaç kilometrelik düşürme için %30 istemiyor. Küçük bir düşürmeyi tarayıcı görmez ve indirim, düşürmenin fiyata ne kadar eklediğine göre istenir
+- Kaput başında pazarlık: satıcının yanıtından sonra fiyat artık sonsuza kadar kırmızı veya yeşil kalmıyor ve aynı arıza iki koz olarak görünmüyor
+- Pazarlık: satıcı artık taban fiyatının altındaki bir fiyatı kabul etmiyor. Önceden bir takasta “bir 500.000 daha ekleyin” dedikten sonra 4,8 milyonluk bir arabaya 500.000 teklif edebiliyordunuz — ve o da “Anlaştık!” diyordu
+- Düzenleyici’deki kendi fotoğraflarınız artık sitede kaydetmeyi bozmuyor: önceden tarayıcının belleği taştığında yazma işlemi kesiliyor ve ilerlemenin bir kısmı kayboluyordu
+- Açık artırmanın ortasında oyunu kapatırsanız, bir sonraki açılışta kapora iade edilir. Önceden kayboluyordu
+- İthalat’tan gelen bir araba yoldayken artık satışa çıkarılamaz: önceden teslimattaki hasarları atlayarak gelmeden önce satılıyordu
+- Satıcıya dava: mahkeme duruşma günü saat 12:00’de karar verir (tarih ve saat araba kartındadır). Önceden karar ancak ertesi gün geliyordu ve hiçbir şey olmuyor gibi görünüyordu
+- İlanlar, mod paketleri ve Düzenleyici’deki kendi fotoğraflarınız kayıt yuvası değiştirilirken artık kaybolmuyor — sizinle birlikte taşınıyor ve Düzenleyici yeni yuvada açık kalıyor
+- Reklamlar artık ekranı titretmiyor: reklam alanı her zaman aynı yüksekliktedir (önceden şerit yüklenirken zıplıyor ve hata durumunda çöküyordu) ve banner animasyonun ortasında değil, ekran açıldıktan sonra oluşturulur
+- Daha az donma ve takılma: Drive Ace gösterge panelinin altında artık her karede yeniden hesaplanan bir bulanıklık yok, pustan netleşen arabalar daha az kaynak tüketiyor, Dynamic Island’daki müzik ekolayzırı ekranı artık saniyede 60 kez yeniden çizmiyor; saat, ekran ve gezinme çubuğu birbirinden ayrı yeniden çiziliyor
+- Uzun süredir satışta olan bir arabadan alıcılar artık kaybolmuyor: önceden sohbetler silindikten sonra yeni alıcılar ona hiç yazmıyordu
+- Satıcı “sınırını” yuvarlak bir tutar olarak belirtir ve daha da azını teklif ederseniz önce uyarır, ancak ondan sonra sohbeti engeller
+- “Altın Boğa” yarı yarıya daha az heyecanlandırıp bırakıyor ve plakaların otomatik çevrilmesinde duraklama var — her plakayı incelemeye vaktiniz oluyor
+- Gece uykusundan önce reklam oynatılırken oyundaki zaman durur: önceden saat 9:00’da randevusu olan bir oyuncu 10:00’da uyanıyordu
+- PlameFinance desteği artık art arda “Video izle”ye basılarak birden fazla kez alınamaz
+- Sohbetteki satıcı artık araba için ilanda belirtilenden fazlasını istemiyor
+- Kasalar daha akıcı açılıyor: şeritler artık takılmıyor
+- Satıcının “biraz daha ekleyin…” talebi artık arabanın fiyatı sayılmıyor: önceden zaman atlandıktan sonra araba yalnızca bu ek ödeme tutarına satın alınabiliyordu
+- Alıcılar artık milyonlarca ek ödemeli takas teklif etmiyor: ek ödeme en fazla 500.000 ₽’dir
+- “Mayınlar”da alan artık aşağı kaymıyor ve alt sırayı kesmiyor
+- İlk pencere (yaş ve kurallar hakkında) küçük ekranlarda kaydırılabilir — buton artık kenarın dışına taşmıyor
+- Gizlilik politikası penceresi bir güncellemeden sonra onay kutusunun işaretini artık kendiliğinden kaldırmıyor: önceden bir saniye sonra kayboluyordu ve oyuna devam etmek neredeyse imkânsızdı
+- Ekranların üzerinde artık “RSYa…” gibi turuncu şeritler görünmüyor — bunlar reklam yüklemeyle ilgili teknik mesajlardı
+- Çekici hizmetindeki şehir araması artık bir saniye sonra kendi kendini sıfırlamıyor
+- Sohbet: karşı taraf yanıt yazarken sohbetten çıkarsanız yanıt artık kaybolmuyor. Önceden pazarlık butonları yeniden beliriyor ve bot tekrarlanan teklifi saygısızlık sayıp sohbeti engelliyordu
+- Plakalar: yalnızca güzel bir plaka sökülebilir. Önceden sıradan bir plakayı sökmek depoda sonsuz sayıda yeni plaka üretiyordu
+- Plakalardaki karakterlerin boyu ve kalınlığı artık orantısız değişmiyor: plakaların artık tüm telefonlarda aynı olan kendi yazı tipi var
+- PlameBlocks: “Harika!” ve diğer yazılar artık iki kez görünmüyor
+- avtobuy.space sitesi Rusya’da VPN olmadan yeniden açılıyor
+- PlameFinance desteği artık internetsizken “tıklanarak” sömürülemez: önceden bağlantı yokken video yerine yer tutucu çıkıyor ve her dokunuşta para veriliyordu. Artık reklamsız destek günde bir kezdir
+
+- Dynamic Island müziği duraklattığınızda artık kaybolmuyor: oynatıcı kalır ve müzik tekrar açılabilir
+- Yolculuk ekranı: simge artık geride kalmıyor — yolculuk şehre varmadan önce bitmiyor
+- “Müzik” ve arabanın “Belgeler”i: başlık artık diğer uygulamalardaki gibi
+- Drive Ace: karşı şeritte karşıdan gelen bir araba yakından geçerken artık mavi (geceleyin siyah) ekran ve donma olmuyor
+- Sohbette pazarlık: sohbetten çıkıp geri dönerseniz satıcı artık dürüstçe pazarlık ettiğinizi “unutmuyor” — yalnızca yüzsüzce teklifler sabrını tüketir. Önceden birkaç normal adımdan ve yeniden girişten sonra verilen ilk ölücü teklif sohbeti engelliyordu
+- Sohbette pazarlık: satıcının kabul ettiği eşya (takas) sohbete tekrar girildiğinde artık kaybolmuyor. Önceden indirim kalıyor ama anlaşmada eşya düşülmüyordu
+- Buluşmada alıcıyla anlaşılan indirim, sohbette artık onun araba için teklif ettiği fiyata dönüşmüyor
+- Kapora ödeyip buluşmaya gelmeyen bir alıcı — kapora sizde kalır. Önceden dolandırıcılık gibi değerlendirilip üç gün sonra kart bloke ediliyordu. Artık kaporası olan alıcılar neredeyse her zaman geliyor
+- Satıcı “biraz ekleyin” diyor ve siz “Satın al”a basıyorsunuz — satın alma daha ucuza değil, son fiyatından gerçekleşir
+- Araba kartından geri kaydırmak artık arama klavyesini açmıyor
+- İlerlemeyi sıfırladıktan sonra “İnşaat” artık ana ekrandan kaybolmuyor
+- Dynamic Island küçüldü ve artık Wi‑Fi ile saatin üstüne taşmıyor
+- AvtoBuy’daki “+” butonu artık panel butonlarının üzerine taşmıyor ve kaymıyor
+- Oyunun başında bir şehre hızlıca birkaç kez dokunursanız artık birkaç başlangıç arabası ve çifte sermaye verilmiyor
+- Hızlı “sınıfa kadar” modundaki trafik polisi ruleti artık körü körüne harcama yapmıyor: seriden önce deneme ücreti ve maksimum deneme (en fazla 50 deneme) görünür; önceden bir seri 300’e kadar deneme yapabiliyordu
+- Mini oyunlarda, yolculukta ve “İnşaat”ta zaman saniyede bir sıçramalarla değil, akıcı bir şekilde ilerliyor
+- Buluşmadaki alıcı artık “benzin için” on binlerce lira istemiyor: artık tıpkı bir depo gibi 2–5 bin ₽ istiyor
+- Pasaporttaki doğum tarihi seçildiğinde artık sıfırlanmıyor ve 18 yaşından küçük bir yaş seçilemiyor
+- Telefondaki büyük sistem yazı tipi artık oyun düzenini bozmuyor
+- Kendi mp3 parçalarınız “Müzik”e daha güvenilir bir şekilde ekleniyor: herhangi bir dosya seçilebilir ve uygun olmayanlar bir ipucuyla atlanır
+- Kendi müziğiniz yüzünden yeniden yükleme sonrasında ilerleme artık kaybolmuyor: parça dosyaları Google yedeklemesine artık girmiyor, çünkü yedeklemeyi taşırıyor ve yedeğin tamamı kaydedilemiyordu
+- Marka filtresinden sonra AvtoBuy akışı ilk arabadan sonra artık gri bir dikdörtgene dönüşmüyor
+- Araba kartındaki yıkama butonu artık bozulmuyor: metin dikey olarak sıralanmıyor, “Yıkama” ve “Kendin” butonları yerli yerinde duruyor
+- İlerlemeyi sıfırladıktan sonra “İnşaat” ve “Görevler” ana ekranda kendi yerlerindedir
+- Filtreler, Düzenleyici, taşınma, kayıt yuvaları ve uygulama ayarları diğer uygulamalar gibi ince bir başlığa sahiptir
+- Bir aramada hızlı ifade butonları açık temada da görünür
+- Satın alırken takas: satıcı para eklemenizi istediğinde, onun ek ödemesini içeren “Takası kabul et” butonu görünür. Önceden “Satın al” butonu takas yerine parayla satın alıyordu
+- Pazarlık: satıcı bir eşyayı kabul edip fiyatı düşürdüyse ancak yanıt henüz ulaşmadıysa, sohbete yeniden girdikten sonra pazarlık artık ilan fiyatından başlamaz
+- Giriş alanı etiketleri (pasaport, Düzenleyici, oyunun başındaki isim) artık alanın dışına taşmıyor — etiket içeri doğru kayıyor
+- Slotlardaki otomatik oyun penceresi: alan etiketleri artık çerçeveye kaymıyor; dönüş sayısı ve durdurma koşulları siteyle aynı tarzda
+- GosBuy’daki sürücü belgesi: “B, B1, M” kategorileri artık fotoğrafın altındaki kenara taşmıyor
+- “Pasaport yenileme”: başlık artık durum çubuğu yüksekliği kadar aşağı kaymıyor
+- Reklamlardan kaynaklanan daha az donma: başka bir ekran tarafından kapatılan bir ekran artık kendi banner’ını tutmuyor (önceden aynı anda üç tane olabiliyor ve hepsi her karede çiziliyordu), akıştaki banner artık yükleme sırasında yeniden oluşturulmuyor ve elde araba yıkamada artık üst banner yok
+- AvtoBuyCase’te “Hızlı” anahtarı şimşek emojisi yerine bir simgeye sahip
+- Bilgisayardan sitede akışlar fareyle kaydırılabilir: kumarhane sekmeleri, filtreler, açık artırmalardaki rakipler
+- Açık Artırma ve Konteyner teklifleri: daha az metin — akışta laf kalabalığı olmadan yalnızca teklifler ve “pas” yer alır; rakipler kompakt etiketler halinde gösterilir. Konteynerler’de manifestolu başlık küçüldü ve artık alt teklifleri kapatmıyor
+- Garaj: filo değerini içeren başlık artık tek bir satırdır; arama ve filtreler listeyle birlikte yukarı kayar — arabalara daha fazla yer kalır
+- “Mesajlar”: başlık diğer uygulamalardaki gibi incedir; akrabalarla olan sohbetlerde de öyle
+- Drive Ace: kesik yol çizgileri arabanın tam önünde belirmek yerine çok uzaktan görünür
+- iPhone’da site (Safari): koyu temada üstteki saat ve simgeler artık kaybolmuyor — önceden koyu arka plan üzerinde siyahtılar
+- Plakalar: tüm plaka ortak bir gölgeyle tek satırda çizilir — ilk harf artık diğerlerinden farklı görünmüyor
+- Plakalar: ilk harf artık farklı bir karaktere dönüşmüyor. Telefon ayarlarında büyük yazı tipi seçildiğinde karakterler sığmıyordu: ilk harf plakanın cıvatasına taşıyor ve cıvatanın artısı ikinci harfin üzerine biniyordu. Artık plaka yazı tipi boyutuna bağlı değildir ve bölgenin altındaki “RUS” yazısı kesilmez
+- Teklif verme penceresindeki konteyner numarası artık resmin kenarından dışarı taşmıyor
+- Pazarlık: satıcı artık takasta “eklenmesini” istediği tutara arabayı vermeyi kabul etmiyor (örneğin bir milyonluk bir araba için 10.000 ₽). Sohbet böyle bir fiyatta “anlaşmış” olsa bile satıcı buluşma ayarlamaz ve anlaşmayı tamamlamaz
+- PlameFinance desteği artık reklama birçok kez basılıp internet kapatılarak sömürülemez: bir video için 20 saniyede bir kereden fazla ödeme yapılmaz
+
+
+Сlose-Beta-Test 0.3.4
+
+
+TELEFON
+
+- Oyun tıpkı gerçek bir telefon gibi kilit ekranından açılır: tarih, saat ve bildirimler. Açmak için yukarı kaydırın
+- Ekran dört basamaklı bir kod, desen veya şifre ile korunabilir. Bu, imzanızı çizdikten hemen sonra teklif edilir ve Ayarlar’daki “Güvenlik” öğesinden değiştirilebilir. Şifreyi unuttuysanız — koruma kaldırılabilir ve ilerleme bundan etkilenmez
+- Kilit ekranında bir el feneri ve bir kamera vardır. Kilit açma ses ve hafif bir titreşimle gerçekleşir; yanlış bir kod girildiğinde telefon sarsılır
+- Kilit ekranı bildirimleri tıpkı iPhone’daki gibi çalışır: kişinin adı, mesajı ve zamanı. Bir uygulamadan gelen bildirimler üst üste yığılır; yığına dokunulduğunda genişler. Bir bildirime dokunulduğunda ilgili sohbet açılır
+- Uygulamalar kendi simgelerinden açılır ve “Ana Ekran” butonuyla tekrar simgelerine küçülür. Simge durumuna küçültülen bir uygulama onu bıraktığınız yerde bekler: açık bir sohbet, kaydırılmış bir akış, yazılmış metin
+- Alttaki üçüncü buton sekmelerdir: kartlar şeklinde açık uygulamalar. Bir karta dokunun — oraya dönersiniz; yukarı kaydırın — kapatırsınız; “Tümünü kapat” — her şeyi tek seferde kapatır. Arka planda sekiz adede kadar uygulama yaşar
+- Bir uygulamanın ilk ekranında “Geri”, onu ana ekrana küçültür. “Geri” butonu sola yerleştirilebilir — Ayarlar’da “Geri butonu”
+- Bildirimden gelen bir mesaj “Sohbetler”de açılır ve buluşmadaki bir anlaşmadan sonra doğrudan “Garaj” açılır
+- Simge durumuna küçültülen bir uygulama sizin yerinize oynamaz: arka plandaki bir sohbet mesajları okundu olarak işaretlemez ve mini oyunlar duraklatılır. Bir buluşma da arka planda “tutulamaz” — küçültürseniz, satıcı saatle beklemeye devam eder
+
+
+ZAMAN VE BİLDİRİMLER
+
+- Oyundaki zaman kapalıyken bile akar: oyunu altı saatliğine kapatın — oyunda da altı saat geçer. Bu süre zarfında olan her şey kilit ekranında bekler
+- Oyun kapalıyken kaçırdığınız buluşmalar her zamanki gibi suya düşer. Bu moddan hoşlanmıyorsanız Ayarlar’dan kapatılabilir: “Oyun kapalıyken zaman aksın”
+- Telefonunuzdaki saati ileri alarak zamanı saramazsınız: saat internet üzerinden doğrulanır. İnternet olmadan en fazla on iki saat hesaba katılır
+- Simge durumuna küçültülen bir oyun artık zamanı “hızlandırmaz”: önceden arka planda oyun hızıyla çalışıyordu, bu yüzden başka bir uygulamada geçen on dakika on oyun saatine dönüşüyordu. Artık arka plandaki zaman gerçek hayattaki gibi akar ve beş dakikadan fazla uzakta kaldıysanız telefon sizi kilit ekranıyla karşılar
+- Oyun kapalıyken gerçek telefon bildirimleri: satıcılardan ve alıcılardan yanıtlar, bir saat ve 15 dakika kala buluşma hatırlatıcıları, kredi ve mikro kredi ödemeleri, süresi dolan rezervasyon, taşınan ve çıkan kiracılar. Bildirim tam olarak oyunda gerçekleştiği anda gelir ve yalnızca gerçekten gerçekleşecek şeyleri gösterir. Tek bir sohbetten gelen bildirimler gruplandırılır
+- Bu tür bildirimler yalnızca “Oyun kapalıyken zaman aksın” açık olduğunda çalışır. Ayarlar’da ayrı bir anahtar bulunur: “Oyun kapalıyken bildirimler”. Oyun bildirim iznini ilk kilit açılışında bir kez ister
+- Oyun içi bildirimler gerçek bir telefondaki gibi görünür: uygulama simgesi ve adı, kişinin adı ve metin. Bir bildirim yukarı veya yana doğru kaydırılabilir
+
+
+P-BANK
+
+- P-Bank tamamen baştan tasarlandı: üstte bakiyeli bir kart (tutarlar göz simgesiyle gizlenebilir), hafta boyunca ne kadar girip çıktığı, paranın nereye gittiği ve gün gün işlem geçmişi
+- İşlemlerde arama: herhangi bir ödemeyi, satın almayı veya transferi bulun
+- PlameFinance kredileri doğrudan bankadan açılır ve “Kaporalar” bölümünde hangi arabalar için kapora ödendiği görülebilir
+- Bankaya giriş, ilk açışınızda belirlediğiniz dört haneli kendi kodunuzladır. Banka ana ekrandan açıldığında, telefon kilitlendikten sonra ve arka planda bir dakikadan fazla kaldıysa kodu sorar. Kodu unuttuysanız — yenisini belirleyebilirsiniz; paralar yerinde kalır
+- Kod sorma adımını atlayabilirsiniz: banka başlığındaki avatara dokunun — orada ayarlar ve “Girişte kod sor” anahtarı vardır
+- Kartın rengi değiştirilebilir: üzerine dokunun. Altı renk ücretsizdir, siyah ve altın kartlar ise 50.000 ve 250.000 ₽ karşılığında verilir ve yol, yakıt, otopark, servisler, oto yıkama, çekici ve oto eksper harcamalarında %1 ve %2 nakit iadesi sağlar. Nakit iadesi haftada bir kez tek bir tutar olarak gelir
+- Akrabalar ve arkadaşlar bazen yardım eder: birkaç haftada bir anne, büyükanne, baba veya bir arkadaş “yemek parası” veya “harçlık” niyetine bir iki bin gönderir. İki bildirim gelir — bankaya para girişi ve gönderenden bir mesaj
+
+
+İLANLAR VE ŞEHİRLER
+
+- İlan veritabanı güncellendi: önceki iki yüz küsur araba yerine 250 araba — yeni arabalar, yeni fotoğraflar ve açıklamalar, düzeltilmiş isimler, fiyatlar, üretim yılları, görüntülenmeler ve satıcı değerlendirmeleri
+- Bir araba doğrudan Garaj’daki kartından satışa çıkarılabilir — “Satışa çıkar” butonuyla
+- İlan fiyatı arabanın en fazla üç ekspertiz değeri kadardır: alıcılar bu tür fiyatlara zaten yazmıyor ve bir milyarlık “Jiguli” sadece kafa karıştırıyordu
+- Yeni ilanlar piyasada kademeli olarak, birkaç oyun ayı boyunca belirir
+- Yedi yeni şehir: Mojaysk, Votkinsk, Seversk, Severobaykalsk, Severouralsk, Severomorsk ve Severo-Kurilsk — artık toplamda 189 şehir var
+- Araba araması karışık Kiril ve Latin harflerinin yanı sıra marka isimlerindeki yaygın yazım hatalarını da anlar
+
+
+PAZARLIK
+
+- Satıcıların artık bir karakteri var. Bazıları inat eder ve azar azar indirim yapar, bazıları uyumludur, bazılarının acil paraya ihtiyacı vardır, bazıları ise piyasayı bilir ve ilandaki fiyata değil piyasa fiyatına tutunur
+- Bir satıcının ne kadar indirim yapmaya istekli olduğu artık her biri için özeldir — herkes için tek bir sınır yoktur. Karakter doğrudan yazılmaz ancak ilk mesajdan ve satıcının nasıl pazarlık ettiğinden tahmin edebilirsiniz
+- Alıcılar farklı şekillerde yazar: “Arabanızı … karşılığında almaya hazırım”, “Arabayı henüz satmadınız mı? … karşılığında alırım”, “Anahtara anahtar kafa kafaya takas edelim, ek ödeme yok” — herkes için aynı kalıp cümle yerine. Alıcı mesajındaki tutar binlik basamaklara sahiptir: 650000 ₽ yerine 650.000 ₽
+- Alıcıyla sohbette “Reddet”, “Pazarlık et” ve “Kabul et” butonları satın almada olduğu gibi bir ızgara şeklinde yer alır — artık onları yana kaydırmaya gerek yoktur
+- Alıcıyla olan sohbetin başlığında arabanın taban fiyatı değil sizin ilan fiyatınız görünür
+- Satıcıya takasta teklif ettiğiniz araba, tıpkı alıcıların yaptığı gibi arızaları göz önünde bulundurularak değerlendirilir. Satışa çıkarılmış bir araba takasta teklif edilemez: önce ilanı kaldırın
+- Aynı anda birkaç arabayı takas edebilirsiniz — her iki yönde de ek ödeme ile en fazla dört arabaya kadar. Ancak satıcı birden fazla arabayla uğraşmak istemez: ilkinin üzerindeki her araba ile, teklif tüm fiyatı karşılasa bile kabul etme şansı %30 düşer. Reddederse farklı bir araba seti veya daha fazla para teklif edin
+
+
+KAPORA
+
+- Fiyatta anlaştığınızda — satıcı bazen peşin kapora ister. Her zaman değil, yaklaşık her beş işlemden birinde
+- Önce kapora talebi gelir ve ancak ondan sonra bir buluşma ayarlama teklifi sunulur. Satıcı kapora istediyse zorunludur: yatırana kadar buluşma ayarlayamazsınız
+- Satıcı sohbete bir tutar ve bir buton gönderir, transferin kendisi ise P-Bank üzerinden gerçekleşir: alıcı ve tutarı içeren ayrı bir pencere, onay ise banka koduyla
+- Kapora ödendiği sürece araba sizin için bir iki günlüğüne rezerve edilir ve satıştan kaldırılır. Satın alma sırasında tutarın tamamı anlaşma bedeline sayılır
+- Rezervasyon süresi dolmadan satın alınmazsa kapora yanar ve planlanan buluşma iptal edilir: satıcı arabayı tekrar satışa çıkarır ve yeni bir buluşma için kaporanın tekrar yatırılması gerekir
+- Kapora, satıcının sizin şehrinize gelmeyi reddetme olasılığını yarıya indirir ve önceden alınmış bir ret cevabını iptal eder
+- Her satıcı dürüst değildir. Düşük puanlı bir kişinin parayı alıp ilanı silme ve sohbeti engelleme riski belirgin şekilde daha yüksektir. Puan hem ilanda hem de transfer penceresinde görünür — kime para gönderdiğinize dikkat edin
+
+
+BULUŞMALAR
+
+- Satıcı artık tüm ülkeyi baştan başa aşıp ayağınıza gelmek zorunda değil. Buluşmayı arabanın bulunduğu şehir dışında bir yere ayarlarsanız reddedebilir: “Gelmeyeceğim, siz kendiniz gelin”
+- Ne kadar uzağa gitmesi gerekiyorsa ret olasılığı o kadar artar. Kendi şehrinde satıcı asla reddetmez
+- Ret kesindir: satıcıyı tatlı dille ikna edemezsiniz — kendiniz gitmeniz ya da kapora yatırmanız gerekir; kaporadan sonra çok daha istekli kabul eder
+- Başka bir şehirden gelen bir satıcının oraya varmak için zamana ihtiyacı vardır. Buluşmayı onun varabileceğinden daha erkene ayarlarsanız “O zamana kadar yetişemem” yazar ve buluşmayı vardığı en yakın saate kendisi erteler
+
+
+DEĞERLENDİRMELER
+
+- Anlaşmalardan sonra size yorum bırakılır. Satıcı, alıcı veya takas ortağı birkaç satır yazar ve bir puan verir — tıpkı bir ilan panosundaki gibi
+- Değerlendirme hemen değil, anlaşmadan birkaç saat sonra gelir ve herkes yazmaz: memnun olanlar memnun olmayanlara göre daha sık üşenir
+- Kaçırılan bir buluşma ve yerinde anlaşmadan cayma da gözden kaçmaz. Ancak gelmediyseniz ve sonrasında yine de aynı kişiyle bir anlaşma yaptıysanız, buluşmaya gelmeme nedeniyle verilen kötü yorum gelmez
+- Profilde yıldızların yanında bir değerlendirme sayacı vardır; en sonuncuların listesini açmak için üzerine dokunun
+
+
+PLAMEFINANCE
+
+- PlameFinance yeni tasarımında: üstte toplam borç, en yakın ödeme ve güven düzeyini gösteren bir kart; tarifeler kutular halinde; kredi başvurusu ise ay bazında vadeli kullanışlı bir panel şeklinde
+- “Ödeme yap” butonu: kredinin tamamını kapatmadan bir sonraki haftalık ödemeyi vadesinden önce ödeyebilirsiniz. Erken ödeme, tıpkı düzenli bir tahsilat gibi gecikme durumunu kaldırır ve hesapta paranın kalmadığı günlere karşı sizi güvenceye alır
+- Son ödeme artık yukarı yuvarlanmıyor: kalan borç için banka tam olarak kalan tutarı alır
+- Mikro krediler: kredi geçmişi kontrolü olmadan 3, 7 veya 14 günlüğüne 5 ile 50 bin arası
+- Mikro kredide faiz her gün işler: erken öderseniz daha az ödersiniz. Vade geldiğinde hesapta yeterli para varsa banka borcu kendisi tahsil eder
+- Mikro kredide gecikme itibarınızı zedeler ve cezaları devreye sokar, bu yüzden bu bedava para değil son şansınızdır
+
+
+EMLAK VE KİRA
+
+- “Emlakçı” uygulaması “MestoBuy” oldu: garajların yanı sıra artık bulunduğunuz şehirdeki daireler ve evler de satılık
+- Bir daire avluda bir park yeri ekler; bir ev — iki ila dört araçlık kendi arsasını ekler. Arsada ve garajda arabalar güvendedir
+- Konut günlük, haftalık veya aylık olarak kiraya verilebilir. Para sözleşmenin sonunda gelir; kiracı hemen bulunmaz ve sözleşmenin kendisi uzatılabilir veya vaktinden önce feshedilebilir
+- Kiraya verilen mülk sizin için çalışmayı durdurur: kiracılar orada yaşadığı sürece park yeri sağlamaz ve avluyu korumaz
+- Bir sözleşmeden sonra konutta arızalar meydana gelebilir ve süre ne kadar uzunsa risk o kadar yüksektir. Büyük bir arızayı tamir etmek için üç gününüz vardır, aksi takdirde kiracılar daha az öder
+- Avludaki arabalar vandalların eline düşme riski taşır. Şehirde kendinize ait pahalı bir daire bu riski belirgin şekilde azaltır
+- Kendinize ait boş bir konutun olduğu şehirde uyumak ücretsizdir ve hırsızlık riski yoktur. Bununla birlikte ucuz bir daire sesi daha kötü yalıtır ve sizi çalar saatten önce uyandırabilir
+- Gayrimenkul teminat olarak gösterilir ve kullanılabilir kredi limitini yükseltir
+- Krediyi ödeyecek hiçbir şey yoksa icra memurları sırayla gelir: önce para, sonra araba ve ancak ondan sonra konut
+- Tüm oyuncular memleketlerinde bir başlangıç dairesi alır — kiraya verilemez ve borçlar için haczedilmez
+
+
+AVTOBUYCASE KAZİNOSU
+
+- Yerleşik tarayıcıda AvtoBuyCase web sitesi belirdi: kasalar, savaşlar, yükseltme, rulet, slotlar, blackjack ve mayınlar. Yer imi tarayıcının başlangıç sayfasındadır
+- 500 ₽’den 250.000 ₽’ye kadar kasalar: para, eşyalar ve gerçek arabalar. Şerit döner ve kazanç üzerinde durur; her ödülün ucuz mallardan altına kadar kendi nadirlik rengi vardır. Kazanma şansı her ödül için gösterilir
+- Kasalar birer, ikişer, üçer veya aynı anda beşer adet açılabilir — şeritler birlikte döner ve her ödülle birlikte tıklar, nadir bir ganimet havai fişeklerle karşılanır
+- Kazanılan bir araba hemen o anda bulunduğunuz şehrin garajına gelir; eşya ise envantere gider. Kazanç anında değerinin %75’ine siteye satılabilir; birkaç kasadan sonra ise tek bir butonla yapılabilir
+- Kasalardan çıkan arabaların kendi seti vardır: pazarda satılmazlar ve botlar bunları takasta teklif etmez — böyle bir araba yalnızca bir kasadan çıkarılabilir. Yazıştığınız, buluşma ayarladığınız veya rezerve ettiğiniz arabalar kasalardan düşmez
+- Bir kasayı incelerken ödülleri değişirse (örneğin sete yeni bir araba geldiyse), site sizi uyarır ve para kesmez — tam olarak ne gösteriliyorsa o çekilir
+- Savaşlar: bir veya iki rakiple aynı kasaları açın; kimin ganimeti daha pahalıysa hepsini o alır. “En Düşük Kazanır” modunda en ucuz tutar kazanır. Eşit tutarlar — beraberliktir ve kasa eşit olarak paylaştırılır
+- Yükseltme: bahsinizi ×1.5’ten ×20’ye kadar katlayın. Şans dürüsttür: ×2 — tam olarak %50, ×10 — %10. Site bahsin üzerine %12 komisyon alır; bu buton üzerinde gösterilir
+- Rulet: kırmızı ve siyah ×1.9, yeşil ×13. Slotlar: üç aynı — kazanç; bir çift ×1.3 öder
+- “21” — klasik kurallarla blackjack: kart çek, dur, ikiye katla, çifti böl. Blackjack 3:2 öder; krupiye 17’ye kadar çeker
+- Mayınlar: 5×5 alan; 1’den 24’e kadar mayın seçin ve kareleri açın. Her boş kare çarpanı yükseltir; kazancınızı istediğiniz an alabilirsiniz; mayına basarsanız bahis yanar. Ne kadar çok mayın olursa çarpan o kadar hızlı büyür
+- “Profil” sekmesi — tıpkı gerçek kasa sitelerindeki gibi: takma ad ve kimlik, en iyi kazanç, siteye ne kadar satıldığı, yükseltmeler, kasalar, savaşlar ve blackjack elleri. Üstte — en son çıkanların canlı akışı (sizinkiler vurgulanmış olarak)
+- Kumarhane uzun vadede her zaman öndedir: ortalama olarak yatırılanın %85–90’ı geri döner. Bununla zengin olunamaz — bu bir gelir değil eğlencedir
+- Kumarhane için beş başarım
+
+
+DRIVE ACE
+
+- Ana ekranın ilk sayfasında, PlameBlocks ile “Saat” arasında yeni bir mini oyun: Drive Ace. Müşterinin arabasını otoyolda sürün ve akan trafikte araçlardan kaçın — sola veya sağa basın, kaydırın veya klavyedeki ok tuşlarını kullanın
+- Direksiyon başındayken oyun süresi üç kat daha hızlı akar — buluşma veya yanıt beklemek için uygundur. Her kilometre 60 ₽ kazandırır. 110 km/s hızla başlayıp 260’a kadar hızlanırsınız ve trafik gittikçe yoğunlaşır
+- Nitro: ekranın altındaki buton (veya yukarı ok). Birkaç saniyelik daha yüksek hız, başlangıçta şarjlar ve doğrudan yolda tüpler
+- Yolda paralar asılı durur — üzerlerinden geçerek toplayın. Madeni paralar, kilometreler ve manevralar Drive Ace puanı kazandırır
+- Trafik çeşitlidir: diğer araçlar sinyal verip şerit değiştirir, oklu yol çalışması araçları bir şeridi kapatır ve trafik polisi yanından çok yakın geçilmesinden hoşlanmaz — sürüş kazancından 300 ₽ ceza kesilir
+- “Sıfıra sıfır!” — kendi şeridinizdeki bir arabadan son anda kaçtığınızda verilir
+- Garaj: Drive Ace puanlarıyla motoru, yol tutuşunu ve nitroyu geliştirebilir, yeni arabalar (kendine has bonuslarıyla Hatch GTI, Coupé RS ve Supercar) ve sekiz boya rengi satın alabilirsiniz
+- Görevler: tek seferde üç görev — şu kadar kilometre sür, solla, para topla, nitro kullan. Tamamlanan görevler için puan ve para alırsınız; başlangıçta “Ödülü Al” butonu
+- Yol dürüsttür: trafikte her zaman şerit değiştirmeye yetecek bir boşluk bulunur — yakında tırlar, otobüsler ve şerit değiştiren komşu araçlar olsa bile
+- Direksiyon arkasından görünüm: ufukta dağlar ve orman, virajlar, bariyerler, huş ve ladin ağaçları, yol üstü lambaları, kilometre taşları ve şehir tabelaları. Yolda: binek otomobiller, crossover’lar, minibüsler, tırlar ve otobüsler
+- Oyun saatine göre gece ve gündüz: geceleri farlar asfaltı aydınlatır, lambaların altında ışık havuzları oluşur, diğer araçların fren lambaları parlar ve polis arabaları tepe lambalarını yakar
+- Hız göstergesi, kalkış öncesi geri sayım, kazada kıvılcımlar ve sarsıntı, puanlar ve rekor içeren yarış sonu özeti
+- Kaza yaparsanız reklam izleyerek sürüşe devam edebilirsiniz — yarış başına bir kez. Yarışın ortasında yoldan çıksanız bile katettiğiniz mesafe ödenir
+
+
+PLAMEBLOCKS
+
+- Bir parçayı sürüklerken, tahta üzerinde nereye oturacağı ve bu esnada hangi çizgileri tamamlayacağı vurgulanır. Kırmızı vurgu parçanın buraya sığmayacağı anlamına gelir
+- Kaybederseniz reklam izleyerek oyuna devam edebilirsiniz — oyun başına bir kez: tahta temizlenir ve puanlar kalır
+- Liderlik tablosunda artık oyuncu başına bir yer vardır — en iyi sonucuyla. Önceden birkaç oyuncu denemeleriyle ilk 100’ün tamamını dolduruyordu; artık her oyuncu ilk 100’e girebilir
+
+
+OTO YIKAMA
+
+- Bir araba doğrudan garajdan yıkanabilir. Temiz bir araba birkaç gün boyunca biraz daha pahalıya satılır — ilana koymadan önce yıkamak kârlıdır
+
+
+BAŞARIMLAR
+
+- Altı yerine on sekiz başarım oldu. Önceden ödüller yalnızca para içindi; artık konut, ek ödemesiz takas, kredi skalasının en üst basamağı ve kumarhane için de ödüller var
+- “Şahin gözü”, oto eksper olmadan gizli kusuru kendisi bulanlara verilir
+- Övünemeyeceğiniz başarımlar da var: itibarın bir yıldıza düşmesi gibi
+- Yeni başarımlar daha önce yaptıklarınızı da sayar: satın aldığınız bir ev veya açtığınız bir tarife hemen hesaba katılır
+
+
+YENİ UYGULAMALAR
+
+- Ana ekranın ikinci sayfasında Hesap Makinesi belirdi — oyundan çıkmadan kâr marjını hesaplamak için
+- Ayrıca orada “Plakalar” uygulaması var (beta): yakında orada güzel plakalar satın alabilecek ve bunları yeniden satabileceksiniz. Bunu ve diğer güncellemeleri ilk öğrenen olmak için Telegram kanalımız AvtoBuy_game’i takip edin
+- Bir beta uygulaması daha — “Kişilik”: yakında bir araba al-satçısı olarak pasaportunuz, sürücü belgeniz ve diğer belgeleriniz burada görünecek
+- “Destekle” uygulaması: oyunun geliştirilmesine katkıda bulunmak isteyenler için bir QR kod ve bağlantı. Bunun için oyun içi hiçbir bonus yoktur ve asla olmayacaktır
+- İkinci sayfada yeni bir şey belirdiğinde masaüstü bir saniyeliğine oraya göz atar, bir bildirim gelir ve siz oraya bakana kadar sayfa noktasının üzerinde kırmızı bir işaret yanar
+- Ana ekranın altındaki sayfa noktalarına dokunulabilir ve tarayıcıda sayfalar fareyle kaydırılabilir
+
+
+AYARLAR VE GÖRÜNÜM
+
+- Koyu tema tamamlandı: önceden gece modu yalnızca bazı ekranları değiştiriyordu; artık tarayıcı ve AvtoHistory dahil tüm uygulamada çalışıyor
+- Yeni uygulama simgeleri
+- Altı yerleşik duvar kâğıdı. Galeriden kendi resminizi ayarlayabilirsiniz ve standart gradyan da korunmuştur
+- Duvar kâğıtları ayrı ayrı ayarlanabilir: bir resim seçtikten sonra oyun nereye koyulacağını sorar — kilit ekranına mı, ana ekrana mı yoksa her yere mi. Ayrı olanları seçene kadar kilit ekranı ana ekranı tekrarlar
+- Ayarlar’da arama: “şifre” yazınca “Güvenlik”, “wifi” yazınca Wi‑Fi bulunur
+- Ayarlar’da Wi‑Fi: kapatılabilir ve komşu ağlar görüntülenebilir. Şimdilik sadece görüntü içindir — oyunu etkilemez
+
+
+SES
+
+- Oyunda arka plan müziği belirdi. Parçalar aralarında duraklamalarla peş peşe çalar ve ses seviyesi kademeli olarak yükselir
+- Müzik Ayarlar’dan açılabilir, kapatılabilir ve kısılabilir. Varsayılan olarak kısık sesle çalar
+- Film müziği Cukat14’e, “nightmare chase” parçası ise vicedee’ye aittir. Her ikisi de “Yazarlar ve destek” bölümünde listelenmiştir
+- Sesler eklendi: bildirimler, sohbet mesajları, kumarhane makaraları, telefon kilit açma
+- Butonlar, simgeler ve sekmeler basıldığında hafifçe tıklar — can sıkmasın diye sessizce. Kaydırmalar ve etkin olmayan butonlar sessizdir; “Ses efektleri” anahtarıyla kapatılabilir
+- Ayarlar’daki “Ses efektleri” ve “Bildirim sesi” anahtarları artık çalışıyor. İkincisi yalnızca sesi kapatır — bildirimlerin kendisi kalır
+
+
+KAYITLAR
+
+- Sitedeki ilerleme artık kaybolmamalıdır. Oyun tarayıcıdan verilerini silmemesini ister, sekme kapandığı anda kaydeder ve ayrı bir tarayıcı deposunda yedek tutar. Ana kayıt kaybolur veya bozulursa, oyun açılışta yedeği kendisi geri yükler ve bunu size bildirir
+- Telefonda yedek ayrı bir dosya olarak tutulur ve o da otomatik olarak geri yüklenir
+- Kaydetme işlemi daha hafif hale geldi: arka arkaya birkaç değişiklik tek seferde yazılır, bu sayede aynı anda birçok şey olduğunda oyun daha az takılır
+
+
+GİZLİLİK
+
+- İlk açılışta 13 yaşında veya daha büyük olduğunuzu onaylamanız ve gizlilik politikasını kabul etmeniz gerekir — metnin bağlantısı doğrudan onay kutusunun yanındadır. Zaten oynayanlar bu pencereyi bir kez görecektir
+
+
+DÜZELTMELER
+
+- Bir alıcı artık “benim sınırım 0 ₽” demiyor ve arabayı birkaç rubleye istemeniz nedeniyle sohbeti engellemiyor: pazarlıktaki küçük tutarlar artık sıfıra yuvarlanmıyor
+- Bir ilan 1.000 ₽’den daha ucuza verilemez. Fiyat arabanın değerinden çok daha düşükse oyun tekrar sorar — bu, fazladan veya eksik bir sıfırı yakalar
+- Piyasanın oldukça altında listelenen bir araba, alıcılar tarafından tekrar yarıya indirilmeye çalışılmak yerine ilan fiyatından alınır
+- İlan kartında ilk fotoğraf tekrar görünüyor — akıştakiyle aynı. Önceden galeri ikincisinden başlıyordu
+- Ücretsiz başlangıç arabası hem ilan fiyatında hem de piyasada 120.000 ₽’den fazla tutmaz. Önceden hemen yüz binlerce liraya satılabilecek bir araba denk gelebiliyordu
+- Bir onarımın maliyeti, düşük gösterilen ilan fiyatından değil arabanın piyasa değerinden hesaplanır
+- Bir takas artık nakit satış olarak gösterilmiyor: ilan fiyatı toplam kârı ve başarımları şişirmiyor, geçmişte ise anlaşma türü ve gerçek ek ödeme gösteriliyor
+- Nihai pazarlık koşulları buluşmaya kadar korunur; takastan nakit ödemeye geçildikten sonra eski takas teklifi artık kullanılmaz
+- Bir anlaşmanın ikinci kez tamamlanması artık tekrar araba, para veya itibar almanıza izin vermez
+- Alıcıların teklifleri ve takas arabaları piyasa değerinden değerlendirilir; aynı araba için farklı alıcıların anlaşmaları artık birbirine karışmaz
+- Aynı araba artık aynı anda farklı alıcıların takas tekliflerinde görünemez
+- Sohbet artık harici bir alıcının anlaşmayı kendisinin tamamladığını göstermiyor: arabayı başka biri satın aldıysa doğru durum gösterilir
+- Buluşmadaki “İmzala” ve “Arabayı satın al” butonları artık telefonun sistem gezinme çubuğunun altına kaymıyor — ek ödemeli ve eşyalı bir takasta bile
+- Zaten buluşmadaysanız buluşma artık saat nedeniyle yarıda kesilmez: 17:00’deki bir buluşmaya 17:58’de geldiniz ve pazarlık yapıyorsunuz — saat 18:00’de anlaşma suya düşmez
+- Buluşmada anlaşmadan vazgeçtiyseniz buluşma kapatılır ve bir saat sonra kaçırılan buluşma cezası da gelmez
+- Takasla bir araba aldınız — buluşma kapatılır. Önceden takvimde kalıyor ve bir saat sonra kaçırılmış sayılıyordu: eksi itibar ve kötü yorum. Takasla satın alma kaporası da kaybolmak yerine anlaşmaya sayılır
+- Telefonda PlameBlocks: parmağınızın altındaki parça tam olarak tahtanın hücreleri boyutundadır ve getirdiğiniz yere tam oturur. Önceden tarayıcıda tahtadan daha büyüktü ve kayarak oturuyordu
+- PlameBlocks: dar ekranda haznedeki parçalar artık birbiri üzerine binmiyor, bir parçayı yerleştirme puanları doğrudan rekora gidiyor ve “Oyun bitti” ekranında zaman artık hızlanmıyor
+- Taşıma modundan çıktıktan sonra takvim simgesi artık gri kalmıyor
+- AvtoBuy simgesindeki kırmızı yeni mesaj rozeti artık üstten kesilmiyor
+- Galeri açıkken duvar kâğıdı seçiciyi kapatırsanız oyun artık çökmüyor
+- AvtoBuy’da yeni ilan için “+” butonu artık kaybolmuyor
+- “Ekspertiz randevusu al” ekranı tamamen kaydırılabilir: küçük telefonlarda saat tekrar seçilebilir
+
+
+Сlose-Beta-Test 0.3.3
+
+
+YENİ UYGULAMALAR
+
+- AvtoHistory web sitesiyle birlikte “Tarayıcı” — kimliğe göre bir ilanı kontrol etme. Ön kontrol (bir bulgu olup olmadığı) ücretsizdir, ancak ayrıntılar (tescil yasağı, oynanmış VIN) ücret karşılığında ve yalnızca bulgu doğrulanırsa açılır. Bulunanlar doğrudan pazarlıkta satıcıya sunulabilir
+- “Telefon” — satıcıları ve alıcıları arama: “Son Aramalar” ve “Tuş Takımı” sekmeleri; her ilanın kendi numarası vardır (+801...) ve gerçek gibi bir arama ekranı. Bir aramayı buluşmayı ertelemeyi istemek veya engellenen bir sohbetin kilidini açmayı denemek için kullanabilirsiniz — bir oyun gününde bir deneme
+- “Saat” — uykudan sonra uyanmayı etkileyen alarmlar
+- “Kamera” — artık oyunu paylaşmayı ve @avtobuy_game kanalını takip etmeyi öneriyor
+- “VPN” uygulaması kaldırıldı
+
+
+PAZAR VE İLANLAR
+
+- Tamamen yeni bir veritabanı: yeni fotoğraflar, açıklamalar ve fiyatlarla 200’den fazla ilan
+- Artık çok daha fazla şehir var — Soçi, Tolyatti, Magnitogorsk, Naberejnye Çelnı, Nijni Tagil ve Moskova bölgesi kasabaları Himki, Mıtişçi ve Balaşiha, ayrıca onlarca diğerleri eklendi
+- Talep görmeyen eski ilanlar bazen kendiliğinden kaybolur ancak zamanla geri gelebilir. Bir ilan üzerinde zaten devam eden bir sohbet varsa kaybolmaz
+- Kendi ilanınız artık düzenlenebilir — “Yeni ilan”dan ve Profil’den. İlan yayınlama penceresi baştan tasarlandı: araba fotoğrafı, piyasa fiyatı ve satış fiyatı, kaydırıcıyla ek ödeme
+- İlan oluştururken azami fiyat sınırı kaldırıldı
+- Fotoğraflar ilana girmeden kaydırılabilir
+- Filtreler ve sıralama elden geçirildi
+
+
+PAZARLIK, SOHBETLER VE BULUŞMALAR
+
+- Takas: başkasının arabasını satın alırken ek ödeme ile kendi arabanızı teklif edebilirsiniz
+- Tüm pazarlık pencereleri ekranın altına taşındı ve standart hale geldi: butonlarla ±5.000 ₽ adımı, binlik basamakların boşlukla ayrılması ve teklifin yetip yetmediğine dair ipucu
+- Kaput başında pazarlık eklendi
+- Botlar artık anında yanıt vermiyor: “yazıyor...” göstergesiyle bir duraklama var
+- Planlanan bir buluşmanın tarihini ve yerini değiştirebilirsiniz, ancak en fazla 2 kez: bundan sonra karşı taraf sabrını kaybeder ve anlaşma iptal edilir
+- Satın alma için buluşma ayarlama penceresinde artık şehir de seçilebilir
+- Fiyat giriş alanlarında artık binlik basamak ayrımı var: 600000 yerine 600 000
+- Alıcıyla buluşma penceresine araba fotoğrafı eklendi
+- Masaüstündeki “Sohbetler” uygulaması artık doğrudan “Mesajlar” sekmesini açıyor
+- Bir sohbetin engellemesini kaldırmak veya bir buluşmayı değiştirmek için telefon araması mekaniği eklendi
+
+PARA, KREDİLER VE LOJİSTİK
+
+- Aynı anda birden fazla kredi çekebilirsiniz — limit kredi notunuza bağlıdır
+- Artık bir kredi çekip hemen kapatıp anında yenisini alamazsınız: her kapanıştan sonraki bekleme süresi uzar — 1 gün, 2, 4, 8, en fazla 16 gün
+- Hesabınızda bir sonraki ödeme için yeterli para varsa icra memurları artık gelmez
+- Gündüz uykusu eklendi. Başka bir şehirde konaklama için para ödeyebilir veya hırsızlık riskiyle ücretsiz uyuma riskini alabilirsiniz
+- Arabalar park yerleri arasında taşınabilir — “Garaj”daki “Park yerleri” sekmesi
+- Çekici mekaniği elden geçirildi
+
+
+GÖRÜNÜM
+
+- Ana ekran yenilendi: artık kendi duvar kâğıtlarınızı ayarlayabilir, simgeleri yeniden düzenleyebilir ve ekranlar arasında geçiş yapabilirsiniz
+- Sohbet arayüzü değiştirildi
+- Not Defteri ve Ayarlar’a simgeler eklendi
+
+
+GİZLİLİK VE DİĞERLERİ
+
+- Anonim kullanım istatistikleri toplama eklendi: yalnızca kaç kişinin oynadığı ve ne kadar zaman harcadığı. Ayarlar’dan isteğe bağlı olarak kapatılabilir
+- Şehir seçiminden sonraki başlangıç ekranı değiştirildi
+
+
+DÜZELTMELER
+
+- Takas: buluşmada pazarlıkta anlaşılan ek ödeme yerine botun ilk teklifindeki tutar ekleniyordu; ek ödeme için yeterli para olmadığında bile anlaşma tamamlanıyordu; araba veritabanı yüklenmeyi bitirmediyse çökme olasılığı vardı
+- Buluşmalar: aynı araba için birden fazla alıcı yazdıysa yanlış alıcının fiyatı doldurulabiliyordu; bir buluşmanın iptali diğerini düşürüyordu; bir araba satıştan kaldırıldığında buluşmaları ve bekleyen yanıtları iptal edilmiyordu
+- Sohbetler: sohbeti temizlemek engellemeyi kaldırıyordu; karşı taraf son mesaj yerine arka arkaya gönderilen her mesaja yanıt veriyordu; pazarlık butonlarına yanıt beklemeden tekrar basılabiliyordu; “Sohbet engellendi” şeridi tam genişliğe yayılmıyordu
+- Fiyatlar: bir eşyadan gelen indirim güncel fiyat yerine başlangıç fiyatından hesaplanıyordu; ilk yayınlamada fiyat sıfır olarak doldurulabiliyordu; botun ek ödemesi bazen tuhaf görünüyordu (0 ₽ vb.)
+- Park yeri: kendi arabanızla yolculuk sırasında varış şehrinde park ücreti alınıyordu; çekiciyle zaman atlandığında ücret araba varmadan önce kesiliyordu
+- Ekranlar: buluşma pencerelerinin üst kısmında (hem alım hem satımda) ve “Tarayıcı”da gereksiz boşluk vardı; tarayıcı adres çubuğu çok dardı; “Saat”te sekme simgeleri görünmüyordu; “Kamera”da peş peşe iki durum çubuğu çiziliyordu; not defterindeki yama notları titriyor ve kaydırmayı sıfırlıyordu
+- Takvim: bir araba yeniden satıldıktan sonra yanlışlıkla önceki sahibine geri satılabiliyordu
+- Krediler: uzun süredir düzenli ödüyor olsanız bile tek bir eski gecikmiş ödeme yüzünden tahsilatçılar geliyordu
+- Araba satışı ve eşyalar, sohbet engellemeleri, kaput başında pazarlık — uzun süredir var olan hatalar düzeltildi
+- Not defterinde, “Yazarlar ve destek” bölümünde sponsorlukla ilgili ifadeler “bağışta bulundu” olarak değiştirildi
+
+ve çok daha fazlası...
+
+Сlose-Beta-Test 0.3.2.1 Bugfix
+
+- Memleketinize 50 ilan eklendi
+- İmza mekaniği baştan tasarlandı. Artık benzerlik eşiği %36, bir şablon gösteriliyor ve alanın dışına çizilemiyor
+- “Emlakçı” uygulamasındaki hatalar düzeltildi. Artık “yetersiz bakiye” yazısı imzadan önce çıkıyor. Garaj satın almayı imkânsız kılan bir hata düzeltildi
+- Devlet desteği artık 50 ile 322 ruble arasında veriliyor
+- “Ulaşım” uygulamasına arama çubuğu eklendi
+- Pazarlık hataları düzeltildi
+- Yeni uygulama eklendi: biraz zaman atlamak ve biraz para kazanmak için “PlameBlocks”
+
+
+
+
+Сlose-Beta-Test 0.3.2
+
+- AvtoBuy’da bir şehir seçildiğinde oyuncunun kendisinin taşınmasına neden olan hata düzeltildi
+- Başarımlar eklendi
+- Buluşma ayarlama penceresine hangi şehirde olduğunuzu gösteren bir yazı eklendi
+- Başlangıçtaki şehir seçimi ekranına arama çubuğu eklendi
+- Profil arayüzünde küçük değişiklikler
+- BETA|Hasarlı araba mekaniği baştan aşağı yenilendi. Artık arabanın kendi kusurları var (açıklamaya uygun). Belirli bir meblağ karşılığında garajda tamir edilebilirler. Açıklamada yazmayan gizli kusurlar da eklendi (satın alırken küçük bir şansla kendiniz tespit edebilirsiniz; oto eksperle şans daha yüksektir)
+- Araba satın alırken pazarlık mekaniği tamamen elden geçirildi
+- Artık bir anlaşmadan vazgeçerseniz profilinizden 1 yıldız silinir ve sohbet engellenir
+- İlanlar artık hepsi birden değil zamanla kademeli olarak beliriyor
+- “Yeni” etiketi artık 2 oyun günü boyunca kalıyor
+- “Uyku” uygulaması simgesi değiştirildi
+- “P-Bank” uygulamasına yeni özellikler eklendi
+- Para alabileceğiniz ve kredi çekebileceğiniz yeni “PlameFinance” uygulaması eklendi
+- “Not Defteri” uygulamasına yeni bölüm: Yazarlar ve destek
+- İmza mekaniği eklendi. Artık ilk açılışta (veya ilerleme sıfırlamasında) gelecekteki anlaşmalarda kullanılacak bir imza oluşturmanız gerekiyor
+- Her araca piyasa değeri eklendi. İlanlarda ve bir arabayı satışa çıkardığınızda gösterilir. BOTLARIN DA PİYASA DEĞERİNİ BİLME İHTİMALİ DAHA YÜKSEK
+- Eşyalar için resimler eklendi
+- YAPAY ZEKÂ İLE PAZARLIK YAPMA ÖZELLİĞİ GEÇİCİ OLARAK KALDIRILDI; artık satıcıyla iletişim butonlar üzerinden yapılıyor
+- Satıcıyla yazışırken eşya teklif etme özelliği eklendi
+- Boş sistem mesajıyla ilgili hata düzeltildi
+- Sohbetler artık gelen ve giden olarak ikiye ayrıldı
+- Sohbet içi arayüz değiştirildi
+- BETA|Koyu tema için temel eklendi (hiç çalışmıyor)
+
+Сlose-Beta-Test 0.3.1 
+
+- Yeni ilan eklendi
+- Sohbetler artık sabitlenebilir (sohbeti sağa kaydırarak)
+- Bot mantığı elden geçirildi. Artık yapay zekâya arabanın değerine eşit veya daha yüksek bir fiyat teklif edilirse bot anlaşmayı kabul ediyor
+- Oyun artık diğer cihazlarda bir web sitesi olarak mevcut: AvtoBuy.space
+- Botlardan satın alma mekaniği elden geçirildi. Artık makul bir fiyat teklif etmeniz gerekiyor
+
+
+Сlose-Beta-Test 0.3.0 
+
+- İlk açılışta “Kapalı Beta Testi” ekranı eklendi
+- Sürüm notlarını ve ipuçlarını görebileceğiniz “Not Defteri” uygulaması eklendi
+- Geliştirici butonları “P-Bank”tan “Ayarlar”a taşındı
+- İlk açılışta artık başlangıç parası olarak 40.000 ile 120.000 ruble arası ve bir başlangıç arabası veriliyor
+- Pazarlık mekaniği elden geçirildi
+- Ana ekrandaki uygulama simgesi stili değiştirildi
+- Uygulamanın adı değiştirildi
+- Uygulama için avatar eklendi
+
+
+Alpha 0.2.1
+
+- 150 ilan daha eklendi (toplam sayı şu anda 200)
+- Kadın ismi sayısı azaltıldı
+- Bir alıcının arka arkaya birkaç kez yazabilmesine neden olan hata düzeltildi
+- GEÇİCİ uygulama simgeleri eklendi
+- Fotoğraflar elden geçirildi, oyun artık daha az yer kaplıyor
+
+
+Alpha 0.2.0
+
+- Alıcılar için isimler eklendi
+- Bir botun arabasını aynı anda hem satıp hem de takas edebilmesine neden olan hata düzeltildi
+- “Takvim” uygulamasına “Ulaşım”a geçmek için kullanışlı bir buton eklendi
+- Botun kendi aleyhine pazarlık yapmasına neden olan mantık hatası düzeltildi
+- “AvtoBuy” simgesinde, “Mesajlar” simgesinde ve tüm mesajlar listesinde mesajın sağında okunmamış bildirimlerin gösterimi eklendi
+
+
+Pre-alpha 0.1.1
+
+- Oyunun ana rengi değiştirildi
+- Kayıt sırasında isim örnekleri eklendi
+- Çok sayıda şehir eklendi
+- “Garaj” uygulamasında yeni bölüm: sırt çantası. Artık takasta alınan tüm eşyalar burada saklanacak
+- Arabanızı satma mekaniği elden geçirildi. Satış buluşmasına sonuç aşaması eklendi
+- Artık arabanızı satarken alıcının araba, para ve benzersiz bir eşya içeren bir takas teklif etme şansı var
+- “AvtoRynok” uygulaması artık “AvtoBuy” olarak adlandırılıyor
+- “AvtoBuy” ana ekranındaki ilan görselleri yenilendi
+- “AvtoBuy” ana ekranındaki filtreleme sistemi yeniden tasarlandı, çeşitli parametrelere göre sıralama eklendi
+- “AvtoBuy”daki “Sohbetler” sekmesi “Mesajlar” olarak yeniden adlandırıldı
+- İlk açılışta isim girişi mekaniği iyileştirildi
+- Yeni “VPN” uygulaması eklendi
+- “AvtoBuy” uygulamasının “Mesajlar” bölümüne sağ üstte “Sohbetleri temizle” işlevi eklendi
+- Şehir seçicisi ekranın sağ kenarına göre sağa kaydırıldı
+- Ek ödeme fiyatının 0 ₽ olmasına neden olan hata düzeltildi
+- Botun kendi zararına pazarlık yapabilmesine neden olan hata düzeltildi
+- Bildirim tasarımı değiştirildi
+- Bildirimler artık sola veya sağa kaydırılarak kapatılabilir
+- Hatalara neden olan bildirim mantığı düzeltildi
+- Kolaylık sağlamak için buluşma ayarlama penceresine geçerli tarih ve saat eklendi
+- Buluşma ayarlama penceresine gezinme bileşenleri eklendi
+- Buluşma ayarlama penceresinin üst kısmına telefon durum çubuğu ve saat eklendi
+- Filtre, sıralama ve şehir seçimi pencerelerine telefon durum çubuğu ve saat eklendi
+- “AvtoBuy” ana ekranındaki ilan tasarımı değiştirildi
+- “Favoriler” simgesinin rengi değiştirildi
+- Yapay zekâ elden geçirildi
+- “AvtoBuy” ana ekranındaki şehir seçimi simgesinin konumu değiştirildi
+- İlanlara “Acil” ve “Yeni” mekaniği eklendi
+
+
+Pre-alpha 0.1.0
+
+- Çok sayıda hata ve aksaklık düzeltildi
+- Fiyat gösterimi değiştirildi; bu nedenle botlar yanlış çalışıyordu
+- Beta araba satış mekaniği eklendi
+- Sohbet arayüzü düzeltildi
+- Sohbet silme özelliği eklendi (sohbeti sola kaydırarak)
+- Mesaj gönderme mekaniği yeniden tasarlandı
+
+
+Prototype 0.0.5.1 (bugfix)
+
+- Üstteki şehir seçimi menüsünü ayarla (yarıçap) / ilan ekranı
+- Fiyat mekaniği / sohbet ekranı, buluşma ekranı
+- Kusur tespit düzeltmesi / buluşma ekranı
+- Turuncu banka / banka ekranı
+- Arama butonu / yeşil ilan ekranı
+- Ayarlarda ilerlemeyi sıfırla (P-Bank’tan) / ayarlar ekranı
+- Emlakçı - yeşil butonlar / emlakçı ekranı
+- Uygulama avatarları / ana ekran
+- Arabada rengi mavi/turuncuya değiştirme / ana ekran
+- Standart avatar stili / ana ekran
+
+
+Prototype 0.0.5
+
+🚀 Kapsamlı güncelleme: “Lojistik, Zaman ve Gerçekçilik” (Beta)
+- Coğrafya mekaniği eklendi. Artık nerede olduğunuzu takip etmeli ve bütçenizi daha iyi planlamalısınız. Arabanın artık kendi konumu var. Başka bir şehre kendiniz götürebilir veya çekici kullanabilirsiniz
+- Artık ilk açılışta (veya ilerleme sıfırlamasından sonra) bir İsim ve Başlangıç Şehri seçmeniz gerekir (ileride oyun akışını etkiler)
+- Yandex Go benzeri “Ulaşım” uygulaması eklendi. Bu uygulamada nerede olduğunuzu görebilir ve şehirler arasında seyahat edebilirsiniz
+- Artık arabanızı Garaj’da, ücretsiz bir avluda veya ücretli bir otoparkta tutmanız gerekiyor
+- Farklı şehirlerde Garaj satın alabileceğiniz “Emlakçı” uygulaması eklendi
+- “Oto ekspertiz” özelliği eklendi. Artık bir araba satın alırken arabayı kendiniz incelemeyi veya gizli kusurları bulacak bir eksper çağırmayı seçebilirsiniz
+
+
+Prototype 0.0.4
+
+- Araç ruhsatı (PTS) ve Banka arayüzü elden geçirildi
+- Araba fotoğraflarının görüntülenmesiyle ilgili hata düzeltildi
+
+
+Prototype 0.0.3
+
+- “İlan ekle” butonuyla ilgili hatalar düzeltildi
+- İlan ekleme işlevi elden geçirildi
+- Garaj uygulaması arayüzü elden geçirildi
+- Artık bir araba satın alındığında garaja yönlendiriliyorsunuz (önceden ana ekrana)
+- Bazı hatalar düzeltildi, bazı mekanikler elden geçirildi
+- Garajda bulunan veya satışta olan arabalar için açıklamalar eklendi
+- Çok sayıda kadın karakter kaldırıldı
+- AvtoBuy’daki bazı butonlar değiştirildi
+- İlanlar ekranına “Favoriler” butonu eklendi
+- Pazarlık mekaniği yeniden tasarlandı
+- Profilde arabalarla etkileşim mekaniği eklendi
+
+
+
+Prototype 0.0.2
+
+- AvtoBuy’daki gezinme butonları değiştirildi
+- Arama işlevi eklendi
+- Garaj geliştirilmeye devam ediyor
+- Bankanın beta sürümü yapıldı
+- Araba satın alma işlevi elden geçirildi
+
+
+Prototype 0.0.1
+
+- Artı butonu eklendi, Beta garaj
+- DeepSeek yapay zekâsı eklendi
+- Pazarlıkta ve buluşmada yüzdeler düzeltildi
+- Renk stili elden geçirildi
+- Simge değişiklikleri için küçük bir hazırlık
+
+
+Prototype 0.0.0
+
+- Başlangıç sürümü

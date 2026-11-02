@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Лучшие результаты игроков в мини-игре PlameBlocks из симулятора AvtoBuy.">
+  <link rel="icon" type="image/png" href="/favicon.png"/>
+  <title>Таблица рекордов — AvtoBuy</title>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: #121212;
+      color: #D1D1D6;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.65;
+      -webkit-font-smoothing: antialiased;
+    }
+    .wrap { max-width: 760px; margin: 0 auto; padding: 24px 16px 64px; }
+    .topbar {
+      display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+      border-bottom: 1px solid #242426; padding-bottom: 16px; margin-bottom: 26px;
+    }
+    .topbar img { width: 38px; height: 38px; border-radius: 10px; }
+    .topbar .name { font-size: 17px; font-weight: 800; color: #FFFFFF; }
+    .topbar nav { margin-left: auto; display: flex; gap: 14px; flex-wrap: wrap; }
+    .topbar nav a { color: #8E8E93; text-decoration: none; font-size: 14px; }
+    .topbar nav a:hover, .topbar nav a.active { color: #40A7FF; }
+    h1 { color: #FFFFFF; font-size: 27px; font-weight: 800; margin-bottom: 10px; letter-spacing: -0.4px; }
+    h2 { color: #FFFFFF; font-size: 19px; font-weight: 700; margin: 30px 0 10px; letter-spacing: -0.2px; }
+    h3 { color: #FFFFFF; font-size: 16px; font-weight: 700; margin: 20px 0 8px; }
+    p { margin-bottom: 13px; }
+    ul { margin: 0 0 14px 20px; }
+    li { margin-bottom: 6px; }
+    a { color: #40A7FF; }
+    code { background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 5px; padding: 1px 5px; font-size: 13px; }
+    table { width: 100%; border-collapse: collapse; margin: 12px 0 18px; font-size: 14px; }
+    th, td { border: 1px solid #2C2C2E; padding: 8px 10px; text-align: left; vertical-align: top; }
+    th { background: #1C1C1E; color: #FFFFFF; font-weight: 600; }
+    hr { border: none; border-top: 1px solid #242426; margin: 24px 0; }
+    .lead { color: #8E8E93; font-size: 16px; margin-bottom: 8px; }
+    .meta { color: #8E8E93; font-size: 14px; margin-bottom: 20px; }
+    .version { background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 12px; padding: 16px 18px; margin-bottom: 14px; }
+    .version h2 { margin-top: 0; }
+    .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 12px; margin: 18px 0 8px; }
+    .card {
+      background: #1C1C1E; border: 1px solid #2C2C2E; border-radius: 12px;
+      padding: 16px; text-decoration: none; display: block; transition: border-color .15s ease;
+    }
+    .card:hover { border-color: #40A7FF; }
+    .card .t { color: #FFFFFF; font-weight: 700; font-size: 15px; margin-bottom: 5px; }
+    .card .d { color: #8E8E93; font-size: 13.5px; line-height: 1.45; }
+    .rank { color: #8E8E93; width: 48px; }
+    .score { color: #FFFFFF; font-weight: 700; text-align: right; }
+    .back { display: inline-block; margin-top: 26px; color: #40A7FF; text-decoration: none; font-weight: 600; }
+    footer { border-top: 1px solid #242426; margin-top: 32px; padding-top: 18px; color: #636366; font-size: 13px; }
+    footer a { color: #8E8E93; }
+</style>
+
+  <!-- 🔥 Карточка ссылки для Telegram, ВК и поисковиков. Без неё
+       ссылка разворачивается в пустой прямоугольник с именем домена. -->
+  <link rel="canonical" href="https://avtobuy.space/leaderboard.html">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="AvtoBuy">
+  <meta property="og:locale" content="ru_RU">
+  <meta property="og:title" content="Таблица рекордов — AvtoBuy">
+  <meta property="og:description" content="Лучшие результаты игроков в мини-игре PlameBlocks из симулятора AvtoBuy.">
+  <meta property="og:url" content="https://avtobuy.space/leaderboard.html">
+  <meta property="og:image" content="https://avtobuy.space/og-preview.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="AvtoBuy — симулятор перекупа автомобилей">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Таблица рекордов — AvtoBuy">
+  <meta name="twitter:description" content="Лучшие результаты игроков в мини-игре PlameBlocks из симулятора AvtoBuy.">
+  <meta name="twitter:image" content="https://avtobuy.space/og-preview.jpg">
+  <meta name="theme-color" content="#121212">
+</head>
+<body>
+  <div class="wrap">
+    <div class="topbar">
+      <img src="/icons/Icon-192.png" alt="AvtoBuy">
+      <span class="name">AvtoBuy</span>
+      <nav>
+        <a href="/">Игра</a>
+        <a href="/guide">Как играть</a>
+        <a href="/leaderboard" class="active">Рекорды</a>
+        <a href="/changelog">Обновления</a>
+        <a href="/privacy">Конфиденциальность</a>
+      </nav>
+    </div>
+    <h1>Таблица рекордов PlameBlocks</h1>
+    <p class="lead">PlameBlocks — головоломка с блоками внутри игры. Лучшие результаты
+    игроков со всего мира собираются в общую таблицу.</p>
+    <p>Очки начисляются за собранные линии, а внутри игры за каждые десять тысяч очков
+    на счёт падает небольшая сумма игровых рублей. Результат отправляется в таблицу
+    автоматически, если он лучше вашего предыдущего.</p>
+    <table>
+      <tr><th class="rank">#</th><th>Игрок</th><th class="score">Очки</th></tr>
+      <tr><td class="rank">1</td><td>архыз</td><td class="score">122 160</td></tr>
+      <tr><td class="rank">2</td><td>архыз</td><td class="score">121 810</td></tr>
+      <tr><td class="rank">3</td><td>архыз</td><td class="score">121 370</td></tr>
+      <tr><td class="rank">4</td><td>архыз</td><td class="score">120 870</td></tr>
+      <tr><td class="rank">5</td><td>архыз</td><td class="score">120 200</td></tr>
+      <tr><td class="rank">6</td><td>архыз</td><td class="score">119 170</td></tr>
+      <tr><td class="rank">7</td><td>архыз</td><td class="score">118 360</td></tr>
+      <tr><td class="rank">8</td><td>архыз</td><td class="score">117 800</td></tr>
+      <tr><td class="rank">9</td><td>архыз</td><td class="score">117 010</td></tr>
+      <tr><td class="rank">10</td><td>архыз</td><td class="score">116 010</td></tr>
+      <tr><td class="rank">11</td><td>архыз</td><td class="score">114 400</td></tr>
+      <tr><td class="rank">12</td><td>архыз</td><td class="score">112 920</td></tr>
+      <tr><td class="rank">13</td><td>архыз</td><td class="score">112 590</td></tr>
+      <tr><td class="rank">14</td><td>архыз</td><td class="score">112 350</td></tr>
+      <tr><td class="rank">15</td><td>архыз</td><td class="score">112 150</td></tr>
+      <tr><td class="rank">16</td><td>архыз</td><td class="score">111 830</td></tr>
+      <tr><td class="rank">17</td><td>архыз</td><td class="score">111 480</td></tr>
+      <tr><td class="rank">18</td><td>архыз</td><td class="score">110 380</td></tr>
+      <tr><td class="rank">19</td><td>архыз</td><td class="score">109 800</td></tr>
+      <tr><td class="rank">20</td><td>архыз</td><td class="score">109 040</td></tr>
+      <tr><td class="rank">21</td><td>архыз</td><td class="score">108 450</td></tr>
+      <tr><td class="rank">22</td><td>архыз</td><td class="score">106 390</td></tr>
+      <tr><td class="rank">23</td><td>архыз</td><td class="score">106 020</td></tr>
+      <tr><td class="rank">24</td><td>архыз</td><td class="score">105 800</td></tr>
+      <tr><td class="rank">25</td><td>архыз</td><td class="score">105 350</td></tr>
+      <tr><td class="rank">26</td><td>архыз</td><td class="score">104 230</td></tr>
+      <tr><td class="rank">27</td><td>архыз</td><td class="score">103 790</td></tr>
+      <tr><td class="rank">28</td><td>архыз</td><td class="score">103 310</td></tr>
+      <tr><td class="rank">29</td><td>архыз</td><td class="score">102 810</td></tr>
+      <tr><td class="rank">30</td><td>архыз</td><td class="score">101 870</td></tr>
+    </table>
+    <p class="meta">Список обновляется при каждом обновлении сайта. Свой результат можно
+    отправить прямо из игры — приложение PlameBlocks на рабочем столе.</p>
+    <a class="back" href="/">← Играть</a>
+    <footer>
+      AvtoBuy — бесплатный симулятор перекупа автомобилей, стадия закрытого бета-теста.<br>
+      Новости и связь с разработчиком: <a href="https://t.me/avtobuy_game" target="_blank" rel="noopener noreferrer">Telegram-канал</a>.
+    </footer>
+  </div>
+</body>
+</html>

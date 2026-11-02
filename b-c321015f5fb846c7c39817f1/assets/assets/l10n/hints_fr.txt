@@ -1,0 +1,202 @@
+================================
+  BIENVENUE DANS AVTOBUY !
+================================
+
+Tu es un revendeur débutant. Déniche des voitures sous le prix du marché,
+négocie, vérifie, répare et revends plus cher. Tout ton business tient dans
+ton téléphone : chaque mécanique a sa propre appli.
+
+Voici le guide des applis et les astuces que connaissent les habitués.
+
+
+📱 APPLIS
+-------------------------------
+
+🛒 AvtoBuy — le marché auto
+- Le fil des annonces de tout le pays. Filtres : prix, année, ville, rayon de recherche.
+- Tri « Les plus récentes d'abord » : les meilleures affaires partent vite.
+- Le cœur — pour mettre en favoris et ne pas perdre la voiture.
+- Le bouton du milieu — mettre ta voiture en vente. Dans l'annonce, tu peux
+  indiquer si tu envisages un échange.
+- Prix de l'annonce : à partir de 1 000 ₽ et pas plus de trois fois l'estimation
+  de la voiture. Une annonce trop chère ne trouvera presque pas preneur,
+  et le jeu te redemandera confirmation pour un prix trop bas.
+
+💬 Chats et Appels
+- Toute la négociation se passe dans les chats. Les vendeurs ne répondent pas
+  tout de suite : certains sont en ligne, d'autres répondent dans une heure,
+  d'autres seulement le matin.
+- Tu peux appeler pour reporter un rendez-vous ou demander à débloquer un chat.
+
+🚘 Garage
+- Toutes tes voitures, leur stationnement, les réparations, le lavage et les plaques.
+- Stationnement : la cour de ta ville natale est gratuite (3 places, plus une
+  place par appartement à toi), le garage et le terrain devant ta maison sont
+  gratuits et sûrs, le reste, c'est du parking payant (de l'argent est débité
+  chaque heure, même quand tu dors !).
+- Dans la cour, des vandales peuvent rayer ta voiture. Pas dans le garage ni sur le terrain.
+- Lavage : une voiture propre se vend un peu plus cher pendant trois jours.
+- « Sac à dos » — les objets reçus lors des échanges.
+
+🔧 Réparation et garage auto (Garage → voiture → « Réparation »)
+- Plan de la voiture : les organes défaillants clignotent, les pièces de
+  carrosserie endommagées sont hachurées. Touche un organe pour voir ce qui est cassé.
+- Chaque panne demande sa pièce de DetalBuy (pas besoin de pièce pour le
+  nettoyage à sec ni le débosselage). Une pièce ne va qu'à sa marque et son modèle.
+- « Au garage auto » — tu paies le travail à l'heure de main-d'œuvre de la ville.
+  Le garage travaille de 9h00 à 20h00, la nuit la voiture attend. Tant qu'elle est
+  en réparation, tu ne peux ni la vendre, ni la mettre en annonce, ni l'échanger.
+- « Moi-même au garage » — travail gratuit, mais 1,6 fois plus long et seulement
+  le simple (icône 🔧) : batterie, bougies, amortisseurs, pare-chocs. La voiture
+  doit être dans ton garage ou sur ton terrain.
+- Carrosserie : le débosselage est moins cher et sans pièce, mais il reste du
+  mastic — l'acheteur le trouvera au testeur d'épaisseur et en donnera moins.
+  Le remplacement de la pièce coûte plus cher, mais pèse presque
+  pas sur le prix.
+
+📦 DetalBuy — la boutique de pièces
+- Choisis une voiture — tu verras quelles pièces lui sont nécessaires.
+- Chaque pièce a plusieurs vendeurs : note, avis, délai de livraison.
+  · Origine — cher et fiable.
+  · Équivalent — environ moitié moins cher.
+  · Occasion de casse — encore moins cher.
+  Un équivalent ou une occasion peut retomber en panne dans les deux premiers
+  mois — et il faut tout refaire. Tu revends vite — économise, tu gardes la
+  voiture — prends l'origine.
+- La commande met plusieurs jours (express en un jour, plus cher). Ce qui arrive
+  reste à l'« Entrepôt » jusqu'à ce que tu le montes au garage auto.
+- C'est aussi là que tu trouves les outils du revendeur : testeur d'épaisseur et scanner OBD.
+
+📍 Transport
+- Une carte avec les frontières des pays et les villes. Touche une ville — tu
+  verras l'itinéraire, le prix et la durée : train, avion, taxi ou ta voiture.
+- Le trajet se déroule pour de vrai : une heure de route, c'est une seconde à
+  l'écran. Tu n'arrives dans la ville de destination qu'à l'arrivée.
+- En route, tu peux jouer à Drive Ace ou PlameBlocks — le temps du trajet
+  file encore plus vite (80 minutes par seconde).
+- Avec ta voiture, il y a des accidents : panne, temps perdu à la police de la
+  route (GIBDD) et parfois une amende.
+
+📅 Calendrier, ⏰ Horloge, 🌙 Sommeil
+- Le calendrier — tous tes rendez-vous. Le bouton « Se mettre en route » ouvre
+  directement Transport avec la bonne ville.
+- Les réveils sont dans l'Horloge. Le sommeil fait avancer le temps : la nuit —
+  jusqu'à 9h00 (à partir de 21h00), la sieste — une fois par jour. Pendant
+  que tu dors, le parking se paie aussi !
+- Dans une ville étrangère sans logement à toi, tu dormiras à l'hôtel.
+
+🏦 P-Bank
+- Carte, solde, historique des dépenses. Ton propre code d'accès.
+- Les cartes noire et or (payantes) donnent du cashback sur les dépenses
+  courantes (parking, route, réparation), versé une fois par semaine.
+- Parfois, ta famille te vire un peu d'argent « pour manger ».
+
+💰 PlameFinance
+- Crédits : plus tu rembourses à temps, plus les sommes accessibles sont grosses.
+  Un retard — une amende, puis les huissiers prennent l'argent ou la voiture.
+- Les microcrédits — rapides, mais 1 % par jour.
+- Les subventions — un peu d'argent contre de la pub.
+- Lors d'un rendez-vous, tu peux acheter la voiture avec un crédit auto.
+
+🏢 MestoBuy — l'immobilier
+- Garages, appartements et maisons. Un logement à toi donne des places pour
+  les voitures, un sommeil gratuit et la protection de la cour. Un logement
+  libre peut être loué.
+
+🔢 Plaques
+- Une belle plaque fait monter le prix de la voiture. La vitrine se renouvelle
+  chaque jour, et à la « roulette de la GIBDD » tu peux tenter ta chance. Tu
+  peux retirer ta plaque, la changer de voiture ou la vendre.
+
+📄 Documents et contrats
+- Chaque transaction est un vrai contrat : lis-le et signe à la ligne
+  « signature » de ton côté. La signature est comparée à ton modèle.
+- La carte grise (PTS) et le contrat de vente de ta voiture sont dans sa fiche, au Garage.
+
+🌐 Navigateur
+- AvtoHistory — vérification d'une voiture par ID : gages, interdictions, VIN trafiqué.
+- GosBuy — impôts, amendes, immatriculation et tes documents (passeport,
+  permis, carte grise). Une voiture achetée doit être immatriculée sous
+  10 jours, sinon amende.
+- AvtoBuyCase — un casino avec caisses, machines à sous, poker. Souviens-toi :
+  le casino gagne toujours, et toi non.
+
+🎮 Mini-jeux et petits boulots
+- Drive Ace — fonce sur l'autoroute : dépassements, « frôlements », pièces,
+  nitro. À gauche — trois voies à contresens : les points y sont triplés, mais
+  des voitures arrivent en face. La police verbalise les excès et le
+  contresens. Les kilomètres rapportent un peu d'argent, le temps passe
+  trois fois plus vite.
+- PlameBlocks — un casse-tête, le temps passe deux fois plus vite, records en ligne.
+- Chantier — petit boulot : 10 ₽ par dalle, jusqu'à 8 heures par jour.
+
+⚙️ Réglages, 🎵 Musique, 📝 Bloc-notes, 🧮 Calculatrice — comme sur un téléphone ordinaire.
+Dans les Réglages : thème, sécurité, Dynamic Island, boutons de navigation,
+sensibilité des commandes dans les jeux et réinitialisation de la progression.
+
+
+💡 SECRETS DES PROS
+-----------------------------------------
+
+* LA RÉPUTATION DÉCIDE DE TOUT
+Départ : 5 étoiles. Les transactions la font monter, les rendez-vous manqués
+et les abandons de transaction la font chuter.
+Plus ta note est haute, plus les acheteurs t'écrivent souvent.
+
+* NÉGOCIATION DANS LE CHAT
+Chaque vendeur a son caractère — l'indice est dans sa première phrase : « prix
+ferme », « négociable », « besoin d'argent urgent », « prix du marché ».
+Ne commence pas à la moitié du prix — après deux ou trois offres culottées, le
+vendeur bloquera le chat. Échange — jusqu'à quatre voitures d'un coup, mais
+plus il y en a, moins les vendeurs acceptent.
+
+* RENDEZ-VOUS ET INSPECTION
+Plus d'une heure de retard — le vendeur s'en va. Deux rendez-vous manqués dans
+le même chat — blocage définitif.
+Inspecter toi-même — gratuit, mais tu trouveras rarement le piège caché.
+Le chasseur de voitures coûte 5 % du prix, trouve plus souvent et mesure
+aussitôt toute la carrosserie.
+
+* TESTEUR D'ÉPAISSEUR
+Achète-le chez DetalBuy — et lors du rendez-vous, touche les pièces de carrosserie sur le plan :
+  jusqu'à 175 µm — peinture d'usine,
+  175–380 — pièce repeinte,
+  plus — mastic, la voiture a eu un accident,
+  les pare-chocs sont en plastique — l'appareil ne les mesure pas.
+Le vendeur a dit « pas accidentée, pas repeinte », et l'appareil montre du
+mastic ? C'est le meilleur argument de négociation. Tu as acheté une voiture
+accidentée sans vérifier — les acheteurs la détecteront à la revente et en
+donneront moins.
+
+* SCANNER OBD
+Branche-le pendant le rendez-vous — il détecte le plus souvent un compteur trafiqué.
+
+* NÉGOCIATION SOUS LE CAPOT
+Avance des arguments : pannes, piège découvert, mesures, mensonge du vendeur,
+« l'argent tout de suite ». Demande dans des limites raisonnables — le
+vendeur a de la patience : quand elle s'épuise, le prix est ferme. Face à un
+refus, il propose souvent la moitié — à toi de décider d'accepter ou non.
+
+* ACOMPTE
+Parfois le vendeur demande un acompte — sans lui, impossible de fixer un
+rendez-vous. Chez les vendeurs notés en dessous de 3,7, il y a souvent des
+arnaques : ils prennent l'argent et disparaissent.
+Si c'est toi qui demandes un acompte à un acheteur — fixe le rendez-vous sous trois jours et ne
+vends pas la voiture à quelqu'un d'autre, sinon la banque bloquera ta carte.
+
+* TU NE PEUX PAS VENIR AU RENDEZ-VOUS ?
+Envoie un mandataire : il conclura la transaction contre une petite somme.
+
+* LE TEMPS NE S'ARRÊTE PAS
+Quand le jeu est fermé, le temps passe comme dans la vie : rendez-vous,
+paiements et parking suivent leur cours. Les notifications activées te
+rappelleront l'essentiel.
+
+Bonnes affaires et gros bénéfices !
+=====================================
+
+IMPORTANT !!!
+
+SI TU AS REMARQUÉ UN BUG OU SI TU VEUX PROPOSER TON IDÉE,
+TU PEUX NOUS ÉCRIRE :
+BOT TG - avtobuygame_bot

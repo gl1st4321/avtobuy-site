@@ -1,0 +1,41 @@
+👨‍💻 Desarrollador principal:
+gl1st — creador
+
+🛠 Segundo desarrollador:
+Вуыр — frontend, gran ayuda con el código, implementó mecánicas geniales, donó al proyecto
+
+👨‍🔧 Tercer desarrollador:
+MaGC0M — tester y corrector de errores, diseñó la arquitectura y estabilizó el código
+
+🎵 Música:
+Cukat14 — compuso la banda sonora de AvtoBuy
+vicedee — tema «nightmare chase»
+creeper_xx — tema «PowerCar»
+
+📷 Fotos:
+SpaceX — la foto «Starman en el Tesla Roadster» (2018, dominio público, CC0)
+
+🏆 Muchísimas gracias (Leyendas):
+• Winstoy — tester del juego (uno de los fundadores de la idea)
+• forever — encontró un millón de errores y bugs y aportó muchas ideas
+• ŁíŞ — añadió muchos anuncios y propuso un montón de ideas
+• PLAME — el mayor, ¡vaya!
+• данил махав - hizo el primer anuncio del proyecto AvtoBuy
+• L1ri - soporte técnico, ayuda, respeto
+• SAZIX - donó al proyecto
+• Merk62 — ayudó con el diseño
+• MLCL — ayuda al proyecto
+• TwisTw — ayuda al proyecto
+• w1nfyy — ayuda al proyecto
+• ArtKill — ayuda al proyecto
+• Skipi_57 — ayuda al proyecto
+• sashaz18 — ayuda al proyecto
+• 2+2=5+2 — ayuda al proyecto
+• редбулл — ayuda al proyecto
+• charon — ayuda al proyecto
+• tist — ayuda al proyecto
+
+🤝 También gracias (Los mejores revendedores y testers):
+A todos los que rompen el juego a conciencia en la beta, mandan bugs al bot, traen amigos por el panel de admin y ayudan a mejorar la economía:
+Suscriptores del canal de Telegram: 
+t.me/AvtoBuy_game
