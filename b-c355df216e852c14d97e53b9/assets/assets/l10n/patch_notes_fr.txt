@@ -76,6 +76,7 @@ NOUVEAUTÉS
 - Nouvelles images : le chat dans « Mon chat » (assis, mange, joue, dort, triste), stations-service — photos et logos des enseignes, chacune avec sa pompe, la file, « plus de carburant » et « mauvais carburant » ; icônes du Parc de taxis, des Conteneurs, du Chantier, des Vols, de l’Import et des Courses ; chawarma, pelmenis et café dans EdaBuy. Les crédits indiquent que la plupart des images sont générées par IA.
 - Chef personnel dans EdaBuy (10 000 ₽ par jour) : satiété et eau restent à 100. Score de crédit dans PlameFinance (300–850) : monte avec les paiements à l’heure, rembourser en avance ne rapporte rien, les demandes fréquentes le font baisser ; un bon score baisse le taux. Compétences refondues : « Bricoleur » — main-d’œuvre, nouveau « Fournisseur » — pièces, « Logisticien » — livraisons plus rapides ; les points dépensés ont été rendus. L’évanouissement se voit : tout s’assombrit, les gyrophares clignotent, réveil à l’hôpital.
 - 21 nouvelles annonces de joueurs : motos et pit bikes (Jawa, Ij-Jupiter, enduros), une trottinette électrique, BNW X7, Lexis RX, Niva, une VAZ 2112 moteur 124 et plus
+- Le tuning et le studio augmentent les gains du taxi : le plafond de votre service, le tarif et les recettes des chauffeurs tiennent compte du prix de la voiture avec ses améliorations. La licence reste basée sur le prix du marché sans tuning
 
 
 CORRIGÉ

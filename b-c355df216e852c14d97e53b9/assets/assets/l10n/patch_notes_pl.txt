@@ -76,6 +76,7 @@ NOWE
 - Nowe obrazki: kot w „Moim kocie” (siedzi, je, bawi się, śpi, smuci się), stacje paliw — zdjęcia i logo sieci, każda z własnym dystrybutorem, kolejka, „brak paliwa” i „złe paliwo”; ikony Korporacji taxi, Kontenerów, Budowy, Lotów, Importu i Wyścigów; szawarma, pierogi i kawa w EdaBuy. W napisach końcowych jest teraz informacja, że większość obrazków wygenerowała SI.
 - Osobisty kucharz w EdaBuy (10 000 ₽ za dobę) trzyma sytość i wodę na 100. Ocena kredytowa w PlameFinance (300–850): rośnie dzięki terminowym spłatom, wcześniejsza spłata nie daje punktów, częste wnioski ją obniżają; dobra ocena to niższe oprocentowanie. Umiejętności przerobione: „Złota rączka” — robocizna, nowy „Zaopatrzeniowiec” — części, „Logistyk” — szybsza dostawa; wydane punkty wróciły. Omdlenie jest teraz widać: ciemnieje w oczach, migają światła karetki, budzisz się w szpitalu.
 - 21 nowych ogłoszeń od graczy: motocykle i pitbike’i (Jawa, Iż-Jupiter, enduro), hulajnoga elektryczna, BNW X7, Lexis RX, Niva, VAZ 2112 na silniku 124 i inne
+- Tuning i studio podnoszą zarobki w taksówce: limit zmiany, taryfa i utarg kierowców liczą się od ceny auta razem z modyfikacjami. Licencja nadal od ceny rynkowej bez tuningu
 
 
 FIXED

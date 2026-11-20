@@ -76,6 +76,7 @@ YENİ
 - Yeni görseller: «Kedim»deki kedi (oturuyor, yiyor, oynuyor, uyuyor, üzgün), benzinlikler — zincirlerin fotoğrafları ve logoları, her birinin kendi pompası, sıra, «yakıt yok» ve «kötü yakıt»; Taksi Parkı, Konteynerler, İnşaat, Uçuşlar, İthalat ve Yarışlar simgeleri; EdaBuy’da şavurma, mantı ve kahve. Jenerikte artık görsellerin çoğunun yapay zekâ ile üretildiği yazıyor.
 - EdaBuy’da özel aşçı (günlük 10.000 ₽) tokluğu ve suyu 100’de tutar. PlameFinance’ta kredi notu (300–850): zamanında ödemelerle artar, erken kapatma puan vermez, sık başvurular düşürür; iyi not daha düşük faiz demek. Yetenekler yenilendi: «Becerikli eller» — işçilik, yeni «Tedarikçi» — parçalar, «Lojistikçi» — daha hızlı teslimat; harcanan puanlar iade edildi. Bayılma artık görünüyor: ekran kararır, ambulans ışıkları yanıp söner, hastanede uyanırsın.
 - Oyunculardan 21 yeni ilan: motosikletler ve pit bike’lar (Jawa, Ij-Jüpiter, enduro), elektrikli scooter, BNW X7, Lexis RX, Niva, 124 motorlu VAZ 2112 ve dahası
+- Tuning ve stüdyo taksi kazancını artırıyor: vardiya tavanı, tarife ve şoför hasılatı arabanın fiyatına modifikasyonlarla birlikte bakıyor. Lisans hâlâ tuningsiz piyasa fiyatından
 
 
 DÜZELTİLDİ

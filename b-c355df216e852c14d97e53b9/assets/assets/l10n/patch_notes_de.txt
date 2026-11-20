@@ -76,6 +76,7 @@ NEU
 - Neue Bilder: die Katze in „Meine Katze“ (sitzt, frisst, spielt, schläft, ist traurig), Tankstellen — Fotos und Logos der Ketten, jede mit eigener Zapfsäule, Warteschlange, „kein Kraftstoff“ und „schlechter Kraftstoff“; Icons für Taxipark, Container, Baustelle, Flüge, Import und Rennen; Schawarma, Pelmeni und Kaffee in EdaBuy. In den Credits steht jetzt, dass die meisten Bilder von einer KI erzeugt wurden.
 - Privatkoch in EdaBuy (10.000 ₽ pro Tag) hält Sättigung und Wasser bei 100. Kreditwürdigkeit in PlameFinance (300–850): steigt durch pünktliche Zahlungen, vorzeitige Tilgung bringt keine Punkte, häufige Anträge senken sie; gute Werte senken den Zins. Fähigkeiten überarbeitet: „Geschickte Hände“ — Werkstattarbeit, neu „Beschaffer“ — Teile, „Logistiker“ — schnellere Lieferung; vergebene Punkte wurden erstattet. Ohnmacht ist jetzt zu sehen: es wird dunkel, Blaulicht blinkt, du wachst im Krankenhaus auf.
 - 21 neue Anzeigen von Spielern: Motorräder und Pitbikes (Jawa, Ish-Jupiter, Enduros), ein E-Scooter, BNW X7, Lexis RX, Niva, ein VAZ 2112 mit 124er-Motor und mehr
+- Tuning und Studio erhöhen die Taxi-Einnahmen: Schichtobergrenze, Tarif und Fahrereinnahmen richten sich nach dem Autopreis samt Umbauten. Die Lizenz richtet sich weiter nach dem Marktpreis ohne Tuning
 
 
 BEHOBEN

@@ -76,6 +76,7 @@ NUOVO
 - Nuove immagini: il gatto in «Il mio gatto» (seduto, mangia, gioca, dorme, triste), distributori — foto e loghi delle catene, ognuna con la sua colonnina, la coda, «niente carburante» e «carburante scadente»; icone di Parco taxi, Container, Cantiere, Voli, Import e Gare; shawarma, pelmeni e caffè in EdaBuy. Nei titoli di coda ora c’è scritto che quasi tutte le immagini sono generate dall’IA.
 - Chef personale in EdaBuy (10 000 ₽ al giorno): sazietà e acqua sempre a 100. Punteggio di credito in PlameFinance (300–850): sale con i pagamenti puntuali, l’estinzione anticipata non dà punti, le richieste frequenti lo abbassano; un buon punteggio abbassa il tasso. Abilità rifatte: «Mani d’oro», manodopera; nuova «Fornitore», ricambi; «Logista», consegne più veloci. I punti spesi sono stati restituiti. Lo svenimento ora si vede: tutto diventa buio, lampeggiano le luci dell’ambulanza, ti svegli in ospedale.
 - 21 nuovi annunci dei giocatori: moto e pit bike (Jawa, Izh-Jupiter, enduro), un monopattino elettrico, BNW X7, Lexis RX, Niva, una VAZ 2112 con motore 124 e altro
+- Il tuning e lo studio aumentano i guadagni del taxi: il tetto del turno, la tariffa e gli incassi degli autisti contano il prezzo dell’auto con le modifiche. La licenza resta sul prezzo di mercato senza tuning
 
 
 CORRETTO

@@ -76,6 +76,7 @@ NOVO
 - Novas imagens: o gato em «Meu gato» (sentado, comendo, brincando, dormindo, triste), postos — fotos e logos das redes, cada um com sua bomba, a fila, «sem combustível» e «combustível ruim»; ícones de Frota de táxi, Contêineres, Obra, Voos, Importação e Corridas; shawarma, pelmeni e café no EdaBuy. Os créditos agora dizem que a maioria das imagens foi gerada por IA.
 - Chef particular no EdaBuy (10 000 ₽ por dia): saciedade e água sempre em 100. Score de crédito no PlameFinance (300–850): sobe com pagamentos em dia, quitar antes não dá pontos e pedidos frequentes o baixam; score bom significa taxa menor. Habilidades refeitas: «Mãos de ouro» — mão de obra, nova «Fornecedor» — peças, «Logístico» — entregas mais rápidas; os pontos gastos foram devolvidos. O desmaio agora aparece: a tela escurece, piscam as luzes da ambulância e você acorda no hospital.
 - 21 anúncios novos de jogadores: motos e pit bikes (Jawa, Izh-Jupiter, enduros), um patinete elétrico, BNW X7, Lexis RX, Niva, um VAZ 2112 com motor 124 e mais
+- Tuning e estúdio aumentam os ganhos no táxi: o teto do seu turno, a tarifa e a receita dos motoristas contam o preço do carro com as melhorias. A licença continua pelo preço de mercado sem tuning
 
 
 CORRIGIDO

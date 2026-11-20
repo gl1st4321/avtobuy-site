@@ -76,6 +76,7 @@ BARU
 - Gambar baru: kucing di «Kucingku» (duduk, makan, bermain, tidur, sedih), SPBU — foto dan logo jaringan, masing-masing dengan pompanya, antrean, «BBM habis» dan «BBM jelek»; ikon Pool Taksi, Kontainer, Konstruksi, Penerbangan, Impor, dan Balapan; shawarma, pangsit, dan kopi di EdaBuy. Di Kredit kini disebut bahwa sebagian besar gambar dibuat oleh AI.
 - Koki pribadi di EdaBuy (10.000 ₽ per hari) menjaga kenyang dan air di 100. Skor kredit di PlameFinance (300–850): naik dengan pembayaran tepat waktu, pelunasan awal tidak memberi poin, pengajuan sering menurunkannya; skor bagus berarti bunga lebih rendah. Keahlian dirombak: «Tangan terampil» — ongkos bengkel, baru «Pemasok» — suku cadang, «Ahli logistik» — pengiriman lebih cepat; poin yang dipakai dikembalikan. Pingsan kini terlihat: layar menggelap, lampu ambulans berkedip, kamu bangun di rumah sakit.
 - 21 iklan baru dari pemain: motor dan pit bike (Jawa, Izh-Jupiter, enduro), skuter listrik, BNW X7, Lexis RX, Niva, VAZ 2112 bermesin 124 dan lainnya
+- Tuning dan studio menaikkan penghasilan taksi: batas sif, tarif, dan pendapatan sopir dihitung dari harga mobil beserta modifikasinya. Lisensi tetap dari harga pasar tanpa tuning
 
 
 DIPERBAIKI
